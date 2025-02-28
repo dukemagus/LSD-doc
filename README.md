@@ -1,5 +1,7 @@
 # 灵数奇缘项目白皮书
 
+已发布网站地址：https://luv-sense-digital.readthedocs.io/
+
 ## 文档编写和测试
 
 ```sh
