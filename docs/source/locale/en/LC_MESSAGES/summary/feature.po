@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Luv Sense Digital, V 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: 2026-05-09 17:15-0300\n"
+"Last-Translator: Rafael Ourique\n"
+"Language-Team: en\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+"X-Generator: Poedit 3.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../../source/summary/feature.md:1
+msgid "特色"
+msgstr "Features"
+
+#: ../../source/summary/feature.md:4 ../../source/summary/feature.md:9
+msgid "《灵数奇缘》Community"
+msgstr "\"Luv Sense Digital\" Community"
+
+#: ../../source/summary/feature.md:14
+msgid "一个由社区驱动的文创与技术项目"
+msgstr "A Community-Driven Cultural, Creative, and Technology Project"
+
+#: ../../source/summary/feature.md:16
+msgid "&emsp;&emsp;《灵数奇缘》是一个集合社区伙伴共同的创造力并贡献力量创建的项目，初期以制作出一款电子游戏为目标进行设计和创作。从编剧、设计、美术创作、程序开发到配乐完全原创地进行内容创作。目前已经创作的社区资产包括且不限于：游戏设定、编剧文案、概念设计、人物立绘、Q版、Spine动画、编曲、漫画、开源游戏引擎、编程语言以及游戏工程代码等。"
+msgstr "&emsp;&emsp; “Luv Sense Digital” (simplified Chinese: 灵数奇缘; pinyin: líng shù qí yuán; lit. “Mystic Number Odyssey” is a project created by pooling the collective creativity and contributions of community members, initially designed and developed with the goal of producing a video game. All content—from scriptwriting, design, and art creation to programming and music composition—is entirely original. Community assets created to date include, but are not limited to: game settings, script copy, concept art, character illustrations, chibi versions of characters, Spine animations, music arrangements, comics, an open-source game engine, programming languages, and game engineering code."
+
+#: ../../source/summary/feature.md:18
+msgid "一个与成员共享资产的项目"
+msgstr "A Project That Shares Assets with Its Members"
+
+#: ../../source/summary/feature.md:20
+msgid "&emsp;&emsp;《灵数奇缘》不是一个私有的商业项目，项目资产不归任何“老板”垄断并私有。任何参与过社区贡献的人都平等的拥有社区资产的访问权和使用权。只要在作品中声明《灵数奇缘》IP的社区版权，社区的成员就可以自由地使用社区资产创作自己的私有商业项目，并且不强制二次创作物必须无偿捐赠给社区（但是十分鼓励这样的行为）。"
+msgstr "&emsp;&emsp; “Luv Sense Digital” is not a privately owned commercial project; project assets are not monopolized or privately owned by any “boss.” Anyone who has contributed to the community has equal access to and usage rights for community assets. As long as the community copyright for the “Luv Sense Digital” IP is acknowledged in their work, community members are free to use community assets to create their own private commercial projects, and there is no requirement to donate derivative works to the community free of charge (though such actions are highly encouraged)."
+
+#: ../../source/summary/feature.md:22
+msgid "一个平等自治的项目"
+msgstr "A Project Based on Equality and Self-Governance"
+
+#: ../../source/summary/feature.md:24
+msgid "&emsp;&emsp;《灵数奇缘》作品的创作由社区成员自发讨论和贡献完成。不用问谁这个项目要做什么和怎么做，加入进来，想要怎么做就怎么做，可以参与有组织的现有子项目进行沟通和协作，也可以自己提出新的Idea，邀约伙伴发起新项目进行创作。"
+msgstr "&emsp;&emsp; The creation of “Luv Sense Digital” is driven by spontaneous discussions and contributions from community members. There’s no need to ask what this project aims to achieve or how it will be carried out—just join in and do whatever you like. You can participate in existing organized sub-projects to communicate and collaborate, or you can propose new ideas, invite partners, and launch new creative projects with them."

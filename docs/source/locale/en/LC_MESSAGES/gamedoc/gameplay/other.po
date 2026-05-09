@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/gameplay/other.md:1
+msgid "其他游戏"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/other.md:3
+msgid "注意⚠️"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/other.md:4
+msgid "&emsp;&emsp;《灵数奇缘》社区伙伴可以复用已创作的游戏资产（文案、美术、配乐、代码、etc），修改设定文案设计新的故事和玩法，创作出不同的游戏作品。更多的项目等待发起中。"
+msgstr ""
+

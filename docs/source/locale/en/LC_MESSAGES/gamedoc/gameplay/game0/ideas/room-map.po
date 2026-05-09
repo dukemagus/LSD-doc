@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:1
+msgid "房间和地图"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:3
+msgid "作者"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:4
+msgid "&emsp;&emsp;建建"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:7
+msgid "概述"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:9
+msgid "发⽣战⽃的场景"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:11
+msgid "测试⽤例"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:13
+msgid "正确根据关卡ID，⽣成地图。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:14
+msgid "房间占领状态正确初始化，读配置⽂件。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:15
+msgid "房间占领状态正确变化，需要⻆⾊、敌⼈都做了才能测试。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:17
+msgid "属性"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:19
+msgid "房间ID，⽣成时读取表格数据"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:20
+msgid "⻓度"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:21
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:34
+msgid "房间类型"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:22
+msgid "枚举变量，有多个值：普通、玩家出⽣点、胜利⽬标（占领后获胜）等"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:23
+msgid "拥有者"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:24
+msgid "枚举变量，⼀共有3个值：玩家占领、敌军占领、中⽴"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:25
+msgid "初始状态读取配置⽂件，否则默认中⽴"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:27
+msgid "配置"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:29
+msgid "使⽤2个表来存储地图信息"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:31
+msgid "表格1：记录房间基础信息"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:32
+msgid "关卡ID，int变量，如1001"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:33
+msgid "房间ID，int变量，如001"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:35
+msgid "初始拥有者"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:36
+msgid "⻓度（需要确定距离的单位）   Length: 1000"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:38
+msgid "占领后获得的奖励，填写效果ID   Occupy: 001"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:40
+msgid "表格2：记录房间之间的连接关系"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:41
+msgid "关卡ID，如1001"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:42
+msgid "相互连接2个房间ID，如（001，002）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:44
+msgid "规则"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:46
+msgid "⽣成"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:47
+msgid "根据关卡ID读取表格数据，根据房间ID从⼩到⼤⽣成房间"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:48
+msgid "变化"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:49
+msgid "房间可以被某⼀⽅占领"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:50
+msgid "当某个房间只有⼀⽅单位时开始计时，计时到达10秒后被⼀⽅占领。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:51
+msgid "计时阶段如果这⼀⽅单位消失或者另⼀⽅单位进⼊，则计时器归零。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/room-map.md:52
+msgid "主动占领后，触发房间配置的占领效果"
+msgstr ""
+

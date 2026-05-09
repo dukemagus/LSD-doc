@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/characters/wangziqiao.md:1
+msgid "王子乔"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:2
+msgid "世界观崩塌的秩序维护者"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:5
+msgid "王子乔（人设）"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:9
+msgid "王子乔人设（画师：周大西）"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md
+msgid "设定项"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md
+msgid "内容"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md
+msgid "Q版"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md
+msgid ""
+"<img src=\"/img/Q/Q-wangziqiao.png\" alt=\"王子乔（Q版）\" "
+"height=\"184px\"><br>*画师：双程*"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "王子乔（Q版）"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "名字"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "王子乔（“仙人王子乔，难可与等期”，借喻一个压抑自我的人最终获得了解放和救赎）"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "年龄"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "21"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "种族"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "人类"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "身高"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "180"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "性别"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "男"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "外貌特点"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "棕发、俊朗"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "体重／体型"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "比一般人壮实"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "职业"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "狱警"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "技能"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "一般"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "早期经历"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "王子乔因为从小的家庭教育以及经历了家人的变故，成为了一个对自己十分苛刻的人。对社会生活的规则和人情事故非常地重视，严苛地遵守各式的社会规则，也成为了他怎样去做一个好人的信条。成年后从警校毕业，以优秀的成绩入职成为一名狱警，负责看守基地的特殊重刑犯，为罪犯做思想教育的工作并发现和中止他们的越狱企图。直到有一天，监狱里来了一名新的重刑犯，告诉他所信赖的一切都是虚假的，甚至这个世界的真相只是一个任意游玩的电子游戏。在亲眼见识犯人的所说的真相后，王子乔感到自己的世界开始崩塌。他开始不明白长久以来压抑着自己天性去遵循的秩序与规则到底是为什么？后来在一次抓捕逃犯的行动中王子乔失踪了，有人说他在任务中接触犯罪份子后反而加入了罪犯的组织。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "遭受的失败"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "被剥夺警徽，并受到了处分。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "为什么"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "在更加复杂的世界背景下，王子乔发现一味地遵循自己世界的秩序和规则并不能真正地行使正义。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "性格"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "沉默寡言，偶尔会因为看不惯不合规矩的事物而进行冷嘲热讽。不喜欢和太随性的人相处。见识到世界真相后，性格剧烈地改变，自己也变得越发开朗和随性起来，变得什么事都愿意去尝试，像是熬过了人生重大波折看开一切的状态。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "未实现目标"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "成为正直而严格律己的好狱警。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "家庭信息"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "有一个去世的哥哥（被监狱逃犯随机杀害），凶手至今没有找到，这也是他当狱警的原因。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "爱好"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "按部就班地工作，把一切事物处理得井井有条。喜欢吃各式甜点，但每次一吃完甜点就会立刻做大量运动消耗掉多余的卡路里。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "怪癖／缺点"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "过于单纯耿直、无法容忍不守秩序的事。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "天赋"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "能够通过第六感感知到陌生人是否有违法犯罪的可能。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "家族传统"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "坚信好人有好报"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "最害怕"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "开始：有一天他会脱离于社会规则，成为自己最痛恨的人。后来：什么都是虚假的世界已经没什么好怕的了。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "即使面对恶行的发生，他始终相信程序正义。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "最强长处"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "守时，严格遵循纪律。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "弱点"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "乌云"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "立绘"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "![王子乔（立绘）](/img/figure/wangziqiao.png)<br>*画师：周大西*"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:38
+msgid "王子乔（立绘）"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "![王子乔（更新立绘）](/img/figure/wangziqiao-update.png)<br>*画师：杏杏*"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:39
+msgid "王子乔（更新立绘）"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "文案"
+msgstr ""
+
+#: ../../source/gamedoc/characters/wangziqiao.md:14
+msgid "嗲、瑾"
+msgstr ""
+

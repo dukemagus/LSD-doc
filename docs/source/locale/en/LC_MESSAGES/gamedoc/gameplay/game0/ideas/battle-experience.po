@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:1
+msgid "战⽃体验"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:3
+msgid "作者"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:4
+msgid "&emsp;&emsp;建建"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:7
+msgid "⽅案1：主要关注技能选择和1V1对战体验"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:9
+msgid "技能有⽐较⻓的伤害时间和⽐较⼤的伤害范围，玩家主要关注选择合适的技能"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:10
+msgid "技能属性"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:11
+msgid "分类。⼀共有4类（暂时成为ABCD），每类有N种不同技能。同类技能对应的⻆⾊动画都相同（特效和颜⾊可能不同）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:12
+msgid "伤害值"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:13
+msgid "伤害时间（包括开始时间点和结束时间点）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:14
+msgid "伤害范围（⼀个可以运动的⻓⽅体）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:15
+msgid "冷却时间"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:16
+msgid "消耗能量或者增加能量"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:17
+msgid "效果1"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:18
+msgid "效果2"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:19
+msgid "2个技能碰撞时，其碰撞结果为"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:20
+msgid "A遇到B（或者B遇到C，C遇到D）：A克制B。触发A的效果1，⽐如把被克制的⼀⽅debuff或者打晕。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:21
+msgid "A遇到A（或者B遇到B）：平局。没有⻆⾊受到debuff。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:22
+msgid "A遇到C（或者B遇到D）：平局，没有⻆⾊受到debuff。触发A和C的效果2，⽐如A是恢复能量，C是回⾎。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:23
+msgid "⻆⾊状态"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:24
+msgid "每名⻆⾊每个时刻都处于⼀个状态"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:25
+msgid "每隔N秒，状态随机改变⼀次"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:26
+msgid "状态⼀共有4种（ABCD），和技能的4类对应。⻆⾊打出和状态同类的技能时，可以减少消耗或者加强技能。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:27
+msgid "技能选择："
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:28
+msgid "每名⻆⾊选择4个技能，每类都需要选择1种"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:30
+msgid "方案2：类似传统格⽃游戏"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:32
+msgid "&emsp;&emsp;存在招式：攻击、防御、投技"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:34
+msgid "方案3：关注⻆⾊的连招和配合"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:36
+msgid "&emsp;&emsp;待补充。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:38
+msgid "方案4：格⽃改版"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:40
+msgid "体验"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:42
+msgid "节奏更慢的格⽃"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:43
+msgid "仍然可以把别⼈打⻜、倒地，仍然有克制关系"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:44
+msgid "打⻜倒地等状态切换是⼀个更⾼层次的⽬标，有⼀定缓冲"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:45
+msgid "技能克制"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:46
+msgid "出招时间：每次出招有准备时间，在这个时间内受到伤害增加。这样根据伤害时间范围，就有⽐较简单的克制关系。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:47
+msgid "属性"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:49
+msgid "规则"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:51
+msgid "⻆⾊基于元素、技能克制关系放技能"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:52
+msgid "每个⻆⾊、敌⼈都有护盾条，攻击的时候先扣护盾条"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:53
+msgid "护盾条为0后，⻆⾊进⼊易伤状态，受到更多伤害，可以被击倒"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:54
+msgid "⼀段时间后护盾⾃动充满"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:56
+msgid "方案5：类Clash Royale"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:58
+msgid "玩点类似Clash Royale"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:59
+msgid "选择出战的⻆⾊和位置"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:60
+msgid "⽬标：⻆⾊AI和特性适合当前战场情况"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:61
+msgid "特性：AOE能⼒强，单体输出⾼，控制多"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:62
+msgid ""
+"AI：⽐较复杂，有些是打最近的怪，有些是打⾎最多的。⻆⾊还会主动跑开，躲避敌⼈的技能。某些⻆⾊技能需要蓄⼒，那就⾯临蓄⼒完成但是被打 "
+"还是中断蓄⼒跑开的选择。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:63
+msgid "例⼦"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:64
+msgid "看到⼀堆⼩怪上AOE⻆⾊，看到⾼甲怪上单体⻆⾊，看到灵活的怪上控制型⻆⾊"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:65
+msgid "训练"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:66
+msgid "多种情景"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:67
+msgid "1个⼤boss，如何连招，从哪开始攻击"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:68
+msgid "多个⼩怪，⾛位和技能释放"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:69
+msgid "两边都来怪，是打还是跑，打的话打哪⼀类⽬标？"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:70
+msgid "AI差异"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:71
+msgid "连招顺序"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:72
+msgid "⽬标优先级"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:73
+msgid "结合战⽃和训练"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:74
+msgid "避免训练量过⼤"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:75
+msgid "战⽃中可以点击⻆⾊下达指令"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-experience.md:76
+msgid "每场战⽃完毕后，为⻆⾊进⾏评价"
+msgstr ""
+

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/summary/demo.md:1
+msgid "展示"
+msgstr ""
+
+#: ../../source/summary/demo.md:4
+msgid "&emsp;&emsp;目前展示的主要是一些开发中的画面截图。"
+msgstr ""
+
+#: ../../source/summary/demo.md:8 ../../source/summary/demo.md:12
+msgid "开场动态漫画测试"
+msgstr ""
+
+#: ../../source/summary/demo.md:16 ../../source/summary/demo.md:20
+msgid "UI测试"
+msgstr ""
+
+#: ../../source/summary/demo.md:24 ../../source/summary/demo.md:28
+msgid "动态立绘测试"
+msgstr ""
+
+#: ../../source/summary/demo.md:32 ../../source/summary/demo.md:36
+msgid "场景和交互测试"
+msgstr ""
+
+#: ../../source/summary/demo.md:40 ../../source/summary/demo.md:44
+msgid "战斗测试"
+msgstr ""
+
+#: ../../source/summary/demo.md:48 ../../source/summary/demo.md:52
+msgid "对话UI测试"
+msgstr ""
+
