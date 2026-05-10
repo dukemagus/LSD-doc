@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:1
+msgid "战场玩法"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:3
+msgid "作者"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:4
+msgid "&emsp;&emsp;建建"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:7
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:58
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:81
+msgid "⽬标"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:9
+msgid "&emsp;&emsp;设计⼀个主要玩法，满⾜这些要求"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:10
+msgid "关键词：⾼重玩性、⾼随机性、多⻆⾊、策略搭配、探索"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:11
+msgid "紧张刺激，有明确的胜利失败⽬标"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:12
+msgid "可重玩性和随机性⾼ 持续时间约3分钟-10分钟"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:13
+msgid "相对独⽴（这⼀场战⽃和上⼀场战⽃的结果没多⼤关系）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:14
+msgid "玩点"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:15
+msgid "⽐较丰富的战前策略和配置（玩家携带1-N个⻆⾊参与）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:16
+msgid "战⽃中的策略和选择"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:17
+msgid "有部分玩点和时间相关"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:18
+msgid "与AI紧密结合"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:19
+msgid "玩家将根据⻆⾊AI来预测战⽃结果，⽽这个结果很重要"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:21
+msgid "⽅案1"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:23
+msgid "核⼼可分配资源：⻆⾊、路径"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:24
+msgid "⼀个简单的分配资源求最⼤值的玩法+路径规划玩法"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:26
+msgid "玩法⽰意图"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:28
+msgid "玩家消耗能量上场⻆⾊、升级⻆⾊、激活技能"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:29
+msgid "⻆⾊战⽃占领房间，获得buff（可以增加战⽃⼒，但是会消耗能量）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:30
+msgid "玩家要合理的花费能量，获得相对较多的buff，并且保留⾜够的能量给boss战。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:33
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:37
+msgid "能量管理的机制"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:40
+msgid "战⽃胜利后选择通往的房间"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:41
+msgid "需要考虑⽤尽可能少的战⽃次数，获得最多的buff，并且到达boss处"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:44
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:48
+msgid "关卡流程示意"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:51
+msgid "思路"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:53
+msgid "玩家选择"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:54
+msgid "选择上场⻆⾊，M选N"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:55
+msgid "放置⻆⾊到不同战场、位置，M选N"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:56
+msgid "设定进攻⽬标，M选1"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:57
+msgid "释放⻆⾊技能（如⼤招），切换状态（如全员加速）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:59
+msgid "终极⽬标：成功击败boss"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:60
+msgid "玩家资源⽬标：能量，战⽃⼒"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:61
+msgid "中间性⽬标：击败敌军先后顺序，占领特定房间"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:62
+msgid "⽬标连接"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:63
+msgid "击败Boss ← 战⽃⼒ ← 战⽃buff ← 占领特定房间 ← 通往特定房间 ← 战⽃ ← 能量"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:64
+msgid "击败Boss ← 能量（有能量才能上场⻆⾊和放技能）"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:65
+msgid "能量 ← 占领特定房间 ← 通往特定房间 ← 战⽃ ← 能量"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:67
+msgid "规则"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:69
+msgid "操作"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:70
+msgid "可以拖动⻆⾊上场战⽃，需要消耗能量。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:71
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:78
+msgid "当⼀个房间中的敌⼈全部被杀死后，玩家可以点击该房间连通的任意房间，⻆⾊即前往该房间。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:72
+msgid "元素"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:73
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:88
+msgid "⻆⾊"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:74
+msgid "战⽃开始后玩家可以拖动⻆⾊上场战⽃，需要消耗能量。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:75
+msgid "⻆⾊死亡进⼊受伤状态，⼀段时间后⾃动恢复到正常状态，可以花费能量再次上场。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:76
+msgid "房间"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:77
+msgid "每个房间是⼀个独⽴的战场"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:79
+msgid "buff"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:80
+msgid "杀死某些房间的敌⼈后可以获得特定buff，增强战⽃⼒。"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:82
+msgid "胜利⽬标：战胜boss"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:83
+msgid "失败条件：场上所有⻆⾊死亡，并且没有能量再次上场⻆⾊"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:85
+msgid "随机性"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:87
+msgid "房间、地图"
+msgstr ""
+
+#: ../../source/gamedoc/gameplay/game0/ideas/battle-field.md:89
+msgid "战⽃掉落"
+msgstr ""
+

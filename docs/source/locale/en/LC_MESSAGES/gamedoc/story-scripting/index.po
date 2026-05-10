@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/story-scripting/index.md:8
+msgid "剧本文案"
+msgstr ""
+
+#: ../../source/gamedoc/story-scripting/index.md:1
+msgid "剧本"
+msgstr ""
+
+#: ../../source/gamedoc/story-scripting/index.md:4
+msgid ""
+"&emsp;&emsp;目前《灵数奇缘》IP下结合初期策划的游戏玩法，首先在创作的是一个短篇的故事，这个作品在灵数奇缘项目下的代号被称为`Game"
+" 0`。故事的策划和详细剧本文案都将展示在这里。Game 0中的世界观和设定都有做了适合的调整和改编。"
+msgstr ""
+

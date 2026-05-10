@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:1
+msgid "编程语言"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:4
+msgid "&emsp;&emsp;使用Yuescript、Teal和Lua等编程语言开发《灵数奇缘》游戏的教程有待补充。"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:7
+msgid "Yuescript"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:10
+#: ../../source/gamedoc/technical-description/programing-languages.md:15
+#: ../../source/gamedoc/technical-description/programing-languages.md:41
+msgid "Yuescript编程语言"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:18
+msgid "&emsp;&emsp;[Yuescript](https://yuescript.org)是一门编译成Lua运行的动态脚本语言，核心特色是语言极为简洁且富有表达力，非常适合编写快速迭代的游戏业务逻辑。是在制作《灵数奇缘》过程中同时开发维护的一门编程语言。"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:20
+msgid "项目地址"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:22
+msgid "&emsp;&emsp;https://github.com/pigpigyyy/Yuescript.git"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:23
+msgid "备份"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:24
+msgid "&emsp;&emsp;https://gitee.com/pig/Yuescript.git"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:27
+msgid "Teal"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:29
+msgid ""
+"&emsp;&emsp;[Teal](https://github.com/pigpigyyy/tl)是一个给Lua加上了静态类型检查功能的脚本语言。定位相当于Typescript对Javascript语言做的功能扩展。Dora"
+" SSR引擎中内置了一个为适应C++ OOP接口导出而做了稍做修改（RP未被接受）的Teal编译器分支，修改的版本见地址：[Teal - "
+"Dora](https://github.com/pigpigyyy/tl/tree/dora)。"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:31
+msgid "Lua"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:33
+msgid "&emsp;&emsp;[Lua](http://www.lua.org)是Dora SSR引擎核心支持的编程语言。目前在使用Lua 5.4的版本。"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:36
+msgid "C++"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:38
+msgid "&emsp;&emsp;不用解释了。此处本应有C++娘和Rust娘争斗的同人图。"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/programing-languages.md:46
+msgid "C++娘"
+msgstr ""
+

@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/community/open-assets.md:1
+msgid "开放资产"
+msgstr ""
+
+#: ../../source/community/open-assets.md:4
+msgid "&emsp;&emsp;项目除了程序以外的资产使用授权参见[这里](/community/licencing)。欢迎自由下载和查看！"
+msgstr ""
+
+#: ../../source/community/open-assets.md:7
+msgid "一、《灵数奇缘》开源项目"
+msgstr ""
+
+#: ../../source/community/open-assets.md:9
+msgid "&emsp;&emsp;开源项目里的程序代码授权均为MIT。"
+msgstr ""
+
+#: ../../source/community/open-assets.md:11
+msgid "**1、游戏工程**   地址：https://github.com/IppClub/LSD.git <br> <br>"
+msgstr ""
+
+#: ../../source/community/open-assets.md:15
+msgid "**2、Dora SSR游戏引擎**   地址：https://github.com/IppClub/Dora-SSR.git"
+msgstr ""
+
+#: ../../source/community/open-assets.md:17
+#: ../../source/community/open-assets.md:23
+msgid "备份"
+msgstr ""
+
+#: ../../source/community/open-assets.md:18
+msgid "&emsp;&emsp;https://gitee.com/pig/Dora-SSR.git"
+msgstr ""
+
+#: ../../source/community/open-assets.md:21
+msgid "**3、Yuescript编程语言**   地址：https://github.com/pigpigyyy/Yuescript.git"
+msgstr ""
+
+#: ../../source/community/open-assets.md:24
+msgid "&emsp;&emsp;https://gitee.com/pig/Yuescript.git"
+msgstr ""
+
+#: ../../source/community/open-assets.md:27
+msgid "**4、《灵数奇缘》文档**   地址：https://github.com/IppClub/LSD-doc.git"
+msgstr ""
+
+#: ../../source/community/open-assets.md:30
+msgid "二、《灵数奇缘》NFT"
+msgstr ""
+
+#: ../../source/community/open-assets.md:32
+msgid ""
+"&emsp;&emsp;Logo：[Opensea - Luv Sense "
+"Digital](https://opensea.io/collection/luv-sense-digital)   "
+"&emsp;&emsp;头像：[Opensea - Luv Sense Digital "
+"Portrait](https://opensea.io/collection/luv-sense-digital-portrait)   "
+"&emsp;&emsp;场景：[Opensea - Luv Sense Digital "
+"Scene](https://opensea.io/collection/luv-sense-digital-scene)   "
+"&emsp;&emsp;Q版：[Opensea - Luv Sense Digital "
+"Chibi](https://opensea.io/collection/luv-sense-digital-chibi)   "
+"&emsp;&emsp;立绘：[Opensea - Luv Sense Digital "
+"Illustration](https://opensea.io/collection/luv-sense-digital-"
+"illustration)   &emsp;&emsp;怪物：[Opensea - Luv Sense Digital "
+"Monster](https://opensea.io/collection/luv-sense-digital-monster)   "
+"&emsp;&emsp;设计：[Opensea - Luv Sense Digital "
+"Design](https://opensea.io/collection/luv-sense-digital-design)   "
+"&emsp;&emsp;杂物：[Opensea - Luv Sense Digital "
+"Special](https://opensea.io/collection/luv-sense-digital-special)"
+msgstr ""
+

@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/technical-description/index.md:1
+msgid "技术开发"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:4
+msgid "&emsp;&emsp;为了更好地制作出更加开放的作品，《灵数奇缘》社区选择了自研游戏引擎进行游戏作品的开发。但是并不限制社区伙伴使用任何私有的商业技术来制作其它作品。就是说比如在Unity，UE等引擎上使用《灵数奇缘》社区资产制作和分发作品也是可以的。但是开源永远是《灵数奇缘》社区所追寻的精神。"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:8
+#: ../../source/gamedoc/technical-description/index.md:13
+msgid "Dora SSR游戏引擎"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:16
+msgid ""
+"&emsp;&emsp;[Dora SSR](https://github.com/IppClub/Dora-"
+"SSR)是在制作《灵数奇缘》过程中同时在开发的以MIT协议开源的游戏引擎。使用C++为主要开发语言，支持使用多种脚本语言进行业务逻辑的编写。支持在Windows、Linux、macOS、iOS、Android等平台运行。"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:18
+msgid "项目地址"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:20
+msgid "&emsp;&emsp;https://github.com/IppClub/Dora-SSR.git"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:21
+msgid "备份"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:22
+msgid "&emsp;&emsp;https://gitee.com/pig/Dora-SSR.git"
+msgstr ""
+
+#: ../../source/gamedoc/technical-description/index.md:25
+msgid "Dora SSR游戏引擎入门"
+msgstr ""
+

@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, 灵数奇缘社区
+# This file is distributed under the same license as the 灵数奇缘 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 灵数奇缘 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/gamedoc/characters/v-producer.md:1
+msgid "制作人于灵的介绍"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:4
+msgid "于灵"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:12
+msgid "&emsp;&emsp;28岁，云南临沧傣族，⼥性，居住在江西新余市，从事⾦融⾏业转游戏⾏业，喜欢做⼀个以电⼦游戏为载体的故事讲述者。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:14
+msgid "&emsp;&emsp;计算机专业毕业。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:16
+msgid "&emsp;&emsp;喜欢玩魔方，有点拖延症，喜欢玩动作和FPS类游戏（人菜瘾大）。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:18
+msgid "&emsp;&emsp;日常偶尔会中二病，虽然是一个成熟职场女性（曾经），但在闲暇时喜欢发散自己的想象力。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:20
+msgid "&emsp;&emsp;在生活中的一些节日和生日中很有仪式感，理性又浪漫主义。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:22
+msgid "&emsp;&emsp;养了一只暹罗猫叫大狮，对塔罗牌有灵性。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:24
+msgid "&emsp;&emsp;有神秘身份，对《灵数奇缘》有特别的情感。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:26
+msgid "&emsp;&emsp;通常形象是微卷中短发，穿有民族元素（刺绣）的简洁的日常服装。"
+msgstr ""
+
+#: ../../source/gamedoc/characters/v-producer.md:28
+msgid "&emsp;&emsp;眼神比较温柔坚定又有童真（仍然有光）。"
+msgstr ""
+
