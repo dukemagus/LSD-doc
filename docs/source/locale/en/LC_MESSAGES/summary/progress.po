@@ -6,304 +6,304 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 灵数奇缘 \n"
+"Project-Id-Version: 灵数奇缘\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: en\n"
+"PO-Revision-Date: 2026-05-09 22:25-0300\n"
+"Last-Translator: Rafael Ourique\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
+"X-Generator: Poedit 3.9\n"
 
 #: ../../source/summary/progress.md:1
 msgid "进程"
-msgstr ""
+msgstr "Development Progress"
 
 #: ../../source/summary/progress.md:3
 msgid "Game 0"
-msgstr ""
+msgstr "Game 0"
 
 #: ../../source/summary/progress.md:5
 msgid "项目进度总结 2022-5-17"
-msgstr ""
+msgstr "Development Progress Summary 2022-5-17"
 
 #: ../../source/summary/progress.md
 msgid "工作主题"
-msgstr ""
+msgstr "Task Category"
 
 #: ../../source/summary/progress.md
 msgid "工作描述"
-msgstr ""
+msgstr "Task Description"
 
 #: ../../source/summary/progress.md
 msgid "工作件已完成"
-msgstr ""
+msgstr "Task Completion"
 
 #: ../../source/summary/progress.md
 msgid "工作件总计"
-msgstr ""
+msgstr "Total Task Items"
 
 #: ../../source/summary/progress.md
 msgid "完成度"
-msgstr ""
+msgstr "Completion Rate"
 
 #: ../../source/summary/progress.md
 msgid "游戏玩法"
-msgstr ""
+msgstr "Game Design"
 
 #: ../../source/summary/progress.md
 msgid "详细设计"
-msgstr ""
+msgstr "Detailed design"
 
 #: ../../source/summary/progress.md
 msgid "未开始"
-msgstr ""
+msgstr "Not started"
 
 #: ../../source/summary/progress.md
 msgid "0%"
-msgstr ""
+msgstr "0%"
 
 #: ../../source/summary/progress.md
 msgid "程序实现"
-msgstr ""
+msgstr "Programming implementation"
 
 #: ../../source/summary/progress.md
 msgid "编剧"
-msgstr ""
+msgstr "Scriptwriting"
 
 #: ../../source/summary/progress.md
 msgid "编写故事脚本（按章节）"
-msgstr ""
+msgstr "Write story script (by chapter)"
 
 #: ../../source/summary/progress.md
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/summary/progress.md
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../source/summary/progress.md
 msgid "33%"
-msgstr ""
+msgstr "33%"
 
 #: ../../source/summary/progress.md
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../../source/summary/progress.md
 msgid "界面设计 v1.0"
-msgstr ""
+msgstr "User interface design v1.0"
 
 #: ../../source/summary/progress.md
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #: ../../source/summary/progress.md
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: ../../source/summary/progress.md
 msgid "引擎加载处理"
-msgstr ""
+msgstr "Engine loading handling"
 
 #: ../../source/summary/progress.md
 msgid "功能开发"
-msgstr ""
+msgstr "Function development"
 
 #: ../../source/summary/progress.md
 msgid "立绘"
-msgstr ""
+msgstr "Artwork"
 
 #: ../../source/summary/progress.md
 msgid "绘画和拆分"
-msgstr ""
+msgstr "Drawing and Segmentation"
 
 #: ../../source/summary/progress.md
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../source/summary/progress.md
 msgid "待机动画"
-msgstr ""
+msgstr "Idle Animations"
 
 #: ../../source/summary/progress.md
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #: ../../source/summary/progress.md
 msgid "87%"
-msgstr ""
+msgstr "87%"
 
 #: ../../source/summary/progress.md
 msgid "Q版"
-msgstr ""
+msgstr "Chibi versions"
 
 #: ../../source/summary/progress.md
 msgid "19"
-msgstr ""
+msgstr "19"
 
 #: ../../source/summary/progress.md
 msgid "Spine动画"
-msgstr ""
+msgstr "Spine Animation"
 
 #: ../../source/summary/progress.md
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #: ../../source/summary/progress.md
 msgid "58%"
-msgstr ""
+msgstr "58%"
 
 #: ../../source/summary/progress.md
 msgid "场景"
-msgstr ""
+msgstr "Backgrounds/Scenes"
 
 #: ../../source/summary/progress.md
 msgid "怪物"
-msgstr ""
+msgstr "Monsters"
 
 #: ../../source/summary/progress.md
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #: ../../source/summary/progress.md
 msgid "PV"
-msgstr ""
+msgstr "PV (Promotional Video)"
 
 #: ../../source/summary/progress.md
 msgid "开场漫画和拆分"
-msgstr ""
+msgstr "Opening comic and segmentation"
 
 #: ../../source/summary/progress.md
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #: ../../source/summary/progress.md
 msgid "开场漫画Spine动态"
-msgstr ""
+msgstr "Opening comic and Spine Animation"
 
 #: ../../source/summary/progress.md
 msgid "开场漫画程序加载"
-msgstr ""
+msgstr "Opening comic program loading"
 
 #: ../../source/summary/progress.md
 msgid "开场动态漫画配音配乐"
-msgstr ""
+msgstr "Opening animated comic voice acting and musical score"
 
 #: ../../source/summary/progress.md
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../../source/summary/progress.md:31
 msgid "项目历史"
-msgstr ""
+msgstr "Project History"
 
 #: ../../source/summary/progress.md:33
 msgid "2022年2月26日 - 天琴座恒星加入"
-msgstr ""
+msgstr "February 26, 2022 – 天琴座恒星 joined"
 
 #: ../../source/summary/progress.md:34
 msgid "2022年2月18日 - 徐夏雨加入"
-msgstr ""
+msgstr "February 18, 2022 - 徐夏雨 joined"
 
 #: ../../source/summary/progress.md:35
 msgid "2021年11月22日 - BackSlzeep加入"
-msgstr ""
+msgstr " November 22, 2021 - BackSlzeep joined"
 
 #: ../../source/summary/progress.md:36
 msgid "2021年8月21日 - 周大西加入"
-msgstr ""
+msgstr "August 21, 2021 - 周大西 joined"
 
 #: ../../source/summary/progress.md:37
 msgid "2021年7月12日 - 嗲加入"
-msgstr ""
+msgstr "July 12, 2021 - 嗲 joined"
 
 #: ../../source/summary/progress.md:38
 msgid "2021年7月10日 - 包包子、Jilliana加入"
-msgstr ""
+msgstr "July 10, 2021 - 包包子, Jilliana joined"
 
 #: ../../source/summary/progress.md:39
 msgid "2021年5月18日 - 双程加入"
-msgstr ""
+msgstr "May 18, 2021 - 双程 joined"
 
 #: ../../source/summary/progress.md:40
 msgid "2021年5月12日 - Arthas.W加入"
-msgstr ""
+msgstr " May 12, 2021 - Arthas.W joined"
 
 #: ../../source/summary/progress.md:41
 msgid "2021年5月7日 - 影瞳加入"
-msgstr ""
+msgstr "May 7, 2021 - 影瞳 joined"
 
 #: ../../source/summary/progress.md:42
 msgid "2021年5月5日 - AnSue加入"
-msgstr ""
+msgstr "May 5, 2021 - AnSue joined"
 
 #: ../../source/summary/progress.md:43
 msgid "2021年5月1日 - 宗辉加入"
-msgstr ""
+msgstr "May 1, 2021 - 宗辉 joined"
 
 #: ../../source/summary/progress.md:44
 msgid "2021年3月22日 - 玉不修加入"
-msgstr ""
+msgstr "March 22, 2021 - 玉不修 joined"
 
 #: ../../source/summary/progress.md:45
 msgid "2021年3月19日 - 杏杏加入"
-msgstr ""
+msgstr "March 19, 2021 - 杏杏 joined"
 
 #: ../../source/summary/progress.md:46
 msgid "2021年3月18日 - Ceezy加入"
-msgstr ""
+msgstr "March 18, 2021 - Ceezy joined"
 
 #: ../../source/summary/progress.md:47
 msgid "2021年3月17日 - Verjil加入"
-msgstr ""
+msgstr "March 17, 2021 - Verjil joined"
 
 #: ../../source/summary/progress.md:48
 msgid "2021年3月12日 - 小白加入"
-msgstr ""
+msgstr "March 12, 2021 - 小白 joined"
 
 #: ../../source/summary/progress.md:49
 msgid "2021年3月8日 - 蓂加入"
-msgstr ""
+msgstr "March 8, 2021 - 蓂 joined"
 
 #: ../../source/summary/progress.md:50
 msgid "2021年2月25日 - 丁丁加入"
-msgstr ""
+msgstr "February 25, 2021 - 丁丁 joined"
 
 #: ../../source/summary/progress.md:51
 msgid "2021年1月12日 - 桀加入"
-msgstr ""
+msgstr "January 12, 2021 - 桀 joined"
 
 #: ../../source/summary/progress.md:52
 msgid "2021年1月9日 - 凯杰、豆豆加入（软糖工作室）"
-msgstr ""
+msgstr "January 9, 2021 - 凯杰, 豆豆 joined (软糖 Studio)"
 
 #: ../../source/summary/progress.md:53
 msgid "2020年12月14日 - 早起侠加入"
-msgstr ""
+msgstr "December 14, 2020 - 早起侠 joined"
 
 #: ../../source/summary/progress.md:54
 msgid "2020年11月27日 - 酚酞遇茶变红色加入"
-msgstr ""
+msgstr "November 27, 2020 - 酚酞遇茶变红色 joined"
 
 #: ../../source/summary/progress.md:55
 msgid "2020年11月1日 - 建建加入"
-msgstr ""
+msgstr "November 1, 2020 - 建建 joined"
 
 #: ../../source/summary/progress.md:56
 msgid "2020年8月25日 - 玉徽加入"
-msgstr ""
+msgstr "August 25, 2020 - 玉徽 joined"
 
 #: ../../source/summary/progress.md:57
 msgid "2020年7月26日 - 项目起名《灵数奇缘》"
-msgstr ""
+msgstr "July 26, 2020 - Project named “灵数奇缘” (\"Luv Sense Digital\")"
 
 #: ../../source/summary/progress.md:58
 msgid "2020年7月1日 - 瑾发起项目"
-msgstr ""
-
+msgstr "July 1, 2020 - 瑾 initiated the project"
