@@ -59,7 +59,6 @@ msgid "&emsp;&emsp;参与社区贡献，共有社区资产！"
 msgstr "&emsp;&emsp;Contribute to the community and share community assets!"
 
 #: ../../source/community/activity.md:19
-#, fuzzy
 msgid ""
 "&emsp;&emsp;只要为《灵数奇缘》社区的项目创作任意数量的内容，包括程序、美术、配乐和文案等形式，并获得社区团队的接纳。就可以获得社区已有所有美术、配乐、文案等资产的[版权授权](/community/licencing)。"
 "   &emsp;&emsp;建议通过以下流程参加社区贡献：   "

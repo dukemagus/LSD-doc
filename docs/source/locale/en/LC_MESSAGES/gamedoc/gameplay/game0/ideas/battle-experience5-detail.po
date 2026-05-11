@@ -51,7 +51,6 @@ msgid "战场上的临时调度，类似于宏观运营之类。"
 msgstr "Real-time battlefield dispatch, similar to macro-management."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:13
-#, fuzzy
 msgid ""
 "&emsp;&emsp;之前的⽅案中，也有“AI + 战场上的临时调度”的意思。这次，在方案5中，提到“玩点类似Clash "
 "Royale”和“选择出战的⻆⾊和位置”，这两让“战场上临时调度”的概念对我来说更清晰、形象了。   "
@@ -100,7 +99,6 @@ msgid "概述"
 msgstr "Overview"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:26
-#, fuzzy
 msgid ""
 "&emsp;&emsp;横向的视⻆。双⽅对阵，有前排、后排感觉的那种战场。⽐如，⼸⽮只能打到最前⾯的⼈，所以后排的⼈就会受到保护；再⽐如，友⽅可以从友⽅⾝边⾃由的前后⾛动，⽽碰到敌⽅就⾛不过去了。（想法的来源：⼑塔传奇）"
 "   玩家在战场的临时调度有2个：1.上场，2.控制AI的⽬标 - "
@@ -221,7 +219,6 @@ msgid "敌⼈示意1"
 msgstr "Enemy Illustration 1"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:54
-#, fuzzy
 msgid ""
 "战场调度   &emsp;&emsp;战场调度，第⼀个是上场，选择位置。这个是方案5中已经设计的。   "
 "&emsp;&emsp;具体的，应该还有什么时候上场等问题。我也没想好。   "

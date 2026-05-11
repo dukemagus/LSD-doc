@@ -187,7 +187,6 @@ msgid "问题"
 msgstr "Issues"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:47
-#, fuzzy
 msgid ""
 "&emsp;&emsp;这个想法有些不落地。   "
 "&emsp;&emsp;在⼩红、⼩绿、⼩⻩举例时，我尝试尽量去落地，但其实例⼦不怎么好，⽐如“⼩红倾向于完全按照⽼师的时间顺序去完成动作”，不太机器学习，像是录像。"
@@ -209,7 +208,6 @@ msgid "3. ⼈物间的配合"
 msgstr "3. Character Cooperation"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:54
-#, fuzzy
 msgid ""
 "&emsp;&emsp;没有看到demo的时候，我觉得“配合”是编程游戏⾥⼀个很有搞头的事情。   "
 "&emsp;&emsp;看了demo后，我看他们是在模仿，同时还没有互相之间的交互，我觉得搞配合可能不靠谱，成本太⾼。   "

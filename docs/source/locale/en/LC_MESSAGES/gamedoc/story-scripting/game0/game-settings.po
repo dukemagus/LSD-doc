@@ -116,7 +116,6 @@ msgid "重要的组织："
 msgstr "Important Organizations:"
 
 #: ../../source/gamedoc/story-scripting/game0/game-settings.md:25
-#, fuzzy
 msgid ""
 "命运议会 脱胎于面临熵增增速难题手足无错的人类政府，并入了顶尖的科学院，联合成立“命运议会”，原各国政府改组为各参议区域。 "
 "命运议会的唯一宗旨就是“绘制人类自己的命运蓝图” “熵减”运动的发起者"
@@ -129,7 +128,6 @@ msgstr ""
 "initiator of the \"entropy reduction\" movement."
 
 #: ../../source/gamedoc/story-scripting/game0/game-settings.md:29
-#, fuzzy
 msgid ""
 "数据银行（Bank of Data） “熵降”替代黄金、法币成为保存财富的货币，即对于降低熵增、消除信息不确定性的贡献。 "
 "数据银行负责收集、管理和共享世界上一切信息和数据的中介机构。 实时评估当前地球的熵增的可控程度，发布预警"
@@ -143,7 +141,6 @@ msgstr ""
 "issues warnings."
 
 #: ../../source/gamedoc/story-scripting/game0/game-settings.md:33
-#, fuzzy
 msgid ""
 "解决方案公司（Solution Corp）（科技公司+实体产业公司） "
 "为企业和机构智能化、定制化的解决方案，用于将无意义的熵增稳定在可以控制的范围内 解决方案公司拥有世界上最高的算力。 "
@@ -167,7 +164,6 @@ msgstr ""
 " emotions until the capacity for interstellar travel is achieved."
 
 #: ../../source/gamedoc/story-scripting/game0/game-settings.md:39
-#, fuzzy
 msgid ""
 "游戏公司（Solution Corp） “灵数幻境”是由“游戏公司”在“低熵”浪潮之中创造的超世代游戏，玩家在维生舱中 "
 "脑机接入核心服务器，登陆游戏。游戏涵盖了所有现实中娱乐方式，几乎取代了现实生活中高熵增的文娱活动。 "

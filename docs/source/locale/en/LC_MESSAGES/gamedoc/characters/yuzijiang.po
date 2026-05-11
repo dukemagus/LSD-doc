@@ -247,7 +247,6 @@ msgid "瑾"
 msgstr "Jin"
 
 #: ../../source/gamedoc/characters/yuzijiang.md:27
-#, fuzzy
 msgid ""
 "&emsp;&emsp;应当知道，任何一位受过职业道德训练的软件工程师都不会同意写一个“摧毁巴格达  "
 "DestroyBaghdad”这样的函数。相反，基本的职业道德要求他写一个“摧毁城市 DestroyCity”的函数，“巴格达 "

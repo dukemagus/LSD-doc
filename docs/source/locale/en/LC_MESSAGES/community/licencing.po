@@ -105,7 +105,6 @@ msgid "**参与社区DAO建设是要做些什么？**"
 msgstr "**What does participating in community DAO building involve?**"
 
 #: ../../source/community/licencing.md:27
-#, fuzzy
 msgid ""
 "&emsp;&emsp;建立DAO运营模式的组织是一个需要长期实践探索的工作。DAO（Decentralized Autonomous "
 "Organization，去中心化自组织机构，中文环境有人叫作“岛”，个人认为不如叫作“道”）建立有三个基础条件：   "
@@ -148,7 +147,6 @@ msgstr ""
 "Bitcoin?**"
 
 #: ../../source/community/licencing.md:38
-#, fuzzy
 msgid ""
 "&emsp;&emsp;是的。NFT和加密货币是一种天生具有金融属性的工具。随着现有运行制度、规则和监管的不完善，目前是很容易被人用作设立骗局和进行诈骗的工具。为了防止陷入这样的骗局，需要多加警惕各种圈的“玩法”（大多都是伪装成游戏形式的赌局）。"
 "   &emsp;&emsp;现状既然是这样，《灵数奇缘》社区为什么还要涉足NFT呢？因为NFT（Non-Fungible "

@@ -82,7 +82,6 @@ msgid "人物系统"
 msgstr "Character System"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-sys-d.md:22
-#, fuzzy
 msgid ""
 "&emsp;&emsp;人数：进入游戏的角色可以达三个或四个（包括我在内），战斗时只能有两个角色。   "
 "&emsp;&emsp;数值：人物数值仅仅与“缺陷词条”有相关的成长。"

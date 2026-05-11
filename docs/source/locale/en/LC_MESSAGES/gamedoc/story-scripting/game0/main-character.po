@@ -39,7 +39,6 @@ msgid "人物介绍"
 msgstr "Character Introduction"
 
 #: ../../source/gamedoc/story-scripting/game0/main-character.md:10
-#, fuzzy
 msgid ""
 "&emsp;&emsp;我是一名玩家，正在游玩一款名为”灵数奇缘“的游戏。这个游戏讲述了两个世界之间各色角色之间的斗争。两个世界分别是主世界（后世界）以及被创造的游戏世界。"
 "   "
@@ -81,7 +80,6 @@ msgid "妮妮莉特（Q版）"
 msgstr "Ninillet (Chibi)"
 
 #: ../../source/gamedoc/story-scripting/game0/main-character.md:23
-#, fuzzy
 msgid ""
 "&emsp;&emsp;继承羽凌灵的性格，羽凌灵妹妹或者女儿的形象，受羽凌灵保护，柔弱、坚强   "
 "&emsp;&emsp;被雨凌灵用自己的部分人格数据制造，因爱和情感而诞生，保存着雨凌灵从小各种美好的记忆，有一些不食人间烟火，高贵优雅，像小鹿一样天真温柔。只完全信任羽凌灵，对陌生人抱着警惕。"
@@ -220,7 +218,6 @@ msgid "林睿哲（Q版）"
 msgstr "Lin Ruizhe (Chibi)"
 
 #: ../../source/gamedoc/story-scripting/game0/main-character.md:52
-#, fuzzy
 msgid ""
 "&emsp;&emsp;一位精明而高瞻远瞩的首领角色，在地下城居民之中极具声望。年轻但是行事老练甚至可以说是不择手段，对局势有很强的掌控力。拥有很高的智力也能很快地学会战斗技巧，林睿哲在面板上是几乎没有缺点的强大角色，但他在心理上无时不刻承受着巨大的压力，处在崩溃的边缘。"
 "   "
@@ -293,7 +290,6 @@ msgid "乌云（Q版）"
 msgstr "Wuyun (Chibi)"
 
 #: ../../source/gamedoc/story-scripting/game0/main-character.md:67
-#, fuzzy
 msgid ""
 "&emsp;&emsp;乌云本身是“断网组织”首领“乌鸦”植入进游戏的角色，其原始记忆来自于“乌鸦”早年的幸福记忆。乌云自始至终明确地知晓“上面的世界”，并想尽办法进入这个“上面的世界”。"
 "   "

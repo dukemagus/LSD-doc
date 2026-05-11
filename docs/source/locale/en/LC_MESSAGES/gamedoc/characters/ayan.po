@@ -162,7 +162,6 @@ msgid "口吻"
 msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/ayan.md:6
-#, fuzzy
 msgid ""
 "“听你说话的语气好像有些不开心？有什么事困扰了你吗？”，“我很确定这次的作战目标是错误的，方案是不可行的，如果你愿意听，我可以讲给你听。”，“Everything"
 " was architecture.”"

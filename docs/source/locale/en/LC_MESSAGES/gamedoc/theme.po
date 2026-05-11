@@ -31,7 +31,6 @@ msgid "一个幽灵车手的故事"
 msgstr "A Ghost Racer's Story"
 
 #: ../../source/gamedoc/theme.md:6
-#, fuzzy
 msgid ""
 "&emsp;&emsp;我的父亲在多年前去世了，他生前曾和我一起玩过一款叫《越野挑战赛》的，当时非常流行的赛车游戏。   "
 "&emsp;&emsp;多年后当我再次进入游戏时，我发现了一个“幽灵”。   "
@@ -52,7 +51,6 @@ msgstr ""
 "&emsp;&emsp;That way, Dad's ghost would never disappear."
 
 #: ../../source/gamedoc/theme.md:13
-#, fuzzy
 msgid ""
 "&emsp;&emsp;被这个故事打动的同时，项目的发起人于灵想到原来玩家的游戏AI数据也是一段可以与他人分享交流并得以永生的“灵魂”。在这个Idea的启示之下，结合自己的生活和工作经历，并产生了创作灵数奇缘这个作品最初的想法。"
 "   "

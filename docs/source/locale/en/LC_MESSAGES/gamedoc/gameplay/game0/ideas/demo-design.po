@@ -357,7 +357,6 @@ msgid "&emsp;&emsp;-"
 msgstr "&emsp;&emsp;-"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/demo-design.md:123
-#, fuzzy
 msgid ""
 "&emsp;&emsp;“1.1 武器与技能”和“1.2 "
 "关卡”主要是为了回答核⼼玩法的问题。我也想不清楚，但我们⼤概也只有通过制作才能逐渐清楚。所以在现有的条件下，尽可能给出⼀个答案即可。   "
@@ -380,7 +379,6 @@ msgstr ""
 "&emsp;&emsp;[\"Three Thoughts on AI Training\"](3-ml-thoughts.md)"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/demo-design.md:130
-#, fuzzy
 msgid ""
 "&emsp;&emsp;我选择了较稳妥的⽅案 —— “战⽃体验”中4个颜⾊的⽅案，我不容易想象；“有关 AI "
 "训练的三个想法”中的⽅案，有挺多不确定；“⻆⾊和招式”的⽅案，⽐较平实⼀些。所以，我在“⻆⾊和招式”的基础上，去掉⼀些我不清楚的、加⼊点我的想法，形成了现在的⽅案。"
@@ -396,7 +394,6 @@ msgstr ""
 "The core gameplay is all about solving this."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/demo-design.md:135
-#, fuzzy
 msgid ""
 "&emsp;&emsp;“1.3 决策树接⼝”。我觉得，需要去更多地了解机器学习的原理和效果，所以就加⼊了这个部分。其实它和“有关 AI "
 "训练的三个想法”中“2. 不同的性格”是⼀码事。不过，这回没有说去实现什么效果，只是让我们能够⽐较⽅便地试⼀试。"
