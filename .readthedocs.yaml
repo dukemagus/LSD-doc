@@ -10,14 +10,10 @@ build:
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
+  jobs:
+    post_install:
+      - pip install -r docs/requirements.txt
   commands:
-    # Chinese (default) — build to site root
     - sphinx-build -b html -D language=zh docs/source $READTHEDOCS_OUTPUT/html
-    # English translation — build to /en/ subdirectory
     - sphinx-build -b html -D language=en docs/source $READTHEDOCS_OUTPUT/html/en
-
-# Dependencies
-python:
-   install:
-   - requirements: docs/requirements.txt
 
