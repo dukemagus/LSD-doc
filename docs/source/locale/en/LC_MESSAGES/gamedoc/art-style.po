@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -24,27 +24,52 @@ msgstr "Art Style"
 
 #: ../../source/gamedoc/art-style.md:3
 msgid "&emsp;&emsp;灵数奇缘项目美术设计的主意是源于对我们自己中式文化的喜爱，而想到什么是中式文化的形象时，我们想到的不是常见的具体文化符号和意向，而是华夏文明的范畴，即在中国这片土地上一直茁壮成长并流传至今的文化总和，其中即包括了不那么常见的中华少数民族创造的文化符号和意向。目前少数民族聚居地区，目前主要还是多集中于相对较为贫困的乡村和山区，那些拥有璀璨而独特的文化遗产的人们，理应是过上越发幸福的生活的。所以我们的社区也在想能不能应用不同的创作力，创新展现少数民族文化作品的制作方式、内容形式制作成文化产品。"
-msgstr "&emsp;&emsp;The art design concept of the Luv Sense Digital project stems from our love for our own Chinese culture. When thinking about what represents Chinese cultural imagery, we don't think of the common specific cultural symbols and motifs, but rather the broader scope of Huaxia civilization — the totality of cultures that have thrived and been passed down to this day on the land of China, including the less commonly seen cultural symbols and motifs created by ethnic minorities of China. Currently, ethnic minority areas are still mostly concentrated in relatively impoverished rural and mountainous regions. Those people who possess brilliant and unique cultural heritage deserve to live increasingly happy lives. Therefore, our community also wonders whether we can apply different creative forces to innovatively present ethnic minority cultural works through new production methods and content formats as cultural products."
+msgstr ""
+"&emsp;&emsp;The art design concept of the Luv Sense Digital project stems"
+" from our love for our own Chinese culture. When thinking about what "
+"represents Chinese cultural imagery, we don't think of the common "
+"specific cultural symbols and motifs, but rather the broader scope of "
+"Huaxia civilization — the totality of cultures that have thrived and been"
+" passed down to this day on the land of China, including the less "
+"commonly seen cultural symbols and motifs created by ethnic minorities of"
+" China. Currently, ethnic minority areas are still mostly concentrated in"
+" relatively impoverished rural and mountainous regions. Those people who "
+"possess brilliant and unique cultural heritage deserve to live "
+"increasingly happy lives. Therefore, our community also wonders whether "
+"we can apply different creative forces to innovatively present ethnic "
+"minority cultural works through new production methods and content "
+"formats as cultural products."
 
 #: ../../source/gamedoc/art-style.md:5
 msgid "《灵数奇缘》新国风设计尝试"
 msgstr "Luv Sense Digital's New Chinese Style Design Experiment"
 
 #: ../../source/gamedoc/art-style.md:7
-msgid "&emsp;&emsp;在遵循团队的创作初心下，我们尝试了做一个"赛博朋克元素+傣族小姐姐"的角色设计。和画师伙伴们商量后，定下了制作流程，先是完成游戏世界观的文案设定，然后进行世界观下的角色人设文案设计，再与画师讨论创作设定稿，最后再制作游戏供中使用的人物立绘以及Q版形象。"
-msgstr "&emsp;&emsp;Staying true to the team's original creative vision, we attempted a character design combining \"cyberpunk elements + Dai ethnic girl.\" After discussing with our artist partners, we established the production workflow: first completing the game worldbuilding setting documents, then designing character profiles within that world, then discussing and creating concept designs with the artists, and finally producing character illustrations and chibi forms for use in the game."
+msgid "&emsp;&emsp;在遵循团队的创作初心下，我们尝试了做一个“赛博朋克元素+傣族小姐姐”的角色设计。和画师伙伴们商量后，定下了制作流程，先是完成游戏世界观的文案设定，然后进行世界观下的角色人设文案设计，再与画师讨论创作设定稿，最后再制作游戏供中使用的人物立绘以及Q版形象。"
+msgstr ""
+"&emsp;&emsp;Staying true to the team's original creative vision, we "
+"attempted a character design combining \"cyberpunk elements + Dai ethnic "
+"girl.\" After discussing with our artist partners, we established the "
+"production workflow: first completing the game worldbuilding setting "
+"documents, then designing character profiles within that world, then "
+"discussing and creating concept designs with the artists, and finally "
+"producing character illustrations and chibi forms for use in the game."
 
 #: ../../source/gamedoc/art-style.md:9
 msgid "Step 1 编写文案"
 msgstr "Step 1: Writing the Story"
 
 #: ../../source/gamedoc/art-style.md:11
-msgid "&emsp;&emsp;为了创作游戏角色"玉"，开始编写的设定文案如下："
-msgstr "&emsp;&emsp;To create the game character \"Yu,\" the following setting document was written:"
+msgid "&emsp;&emsp;为了创作游戏角色“玉”，开始编写的设定文案如下："
+msgstr ""
+"&emsp;&emsp;To create the game character \"Yu,\" the following setting "
+"document was written:"
 
 #: ../../source/gamedoc/art-style.md:13
 msgid "身负众望却遁入修行之道的公主"
-msgstr "A Princess Burdened with Expectations Who Retreated to the Path of Cultivation"
+msgstr ""
+"A Princess Burdened with Expectations Who Retreated to the Path of "
+"Cultivation"
 
 #: ../../source/gamedoc/art-style.md
 msgid "设定项"
@@ -96,7 +121,14 @@ msgstr "Appearance Features"
 
 #: ../../source/gamedoc/art-style.md
 msgid "盘发、表情高冷、皮肤白皙、身着傣族公主般的服饰，身后有一尊悬浮的佛陀造型有多只手臂的战斗机器人（感觉类似jojo里的替身），机器人生成保护性的能量护罩看起来就像在发出金光。下面的两只手臂会摆成托举的座椅，变成临时承载玉行动的坐骑。遇到危险的时候，佛陀机器人会挥舞手臂进行攻击，或是操作各式攻击武器。"
-msgstr "Hair in a bun, aloof expression, fair skin, dressed in Dai princess-style attire. Behind her is a hovering Buddha-shaped combat robot with multiple arms (similar to a Stand from JoJo's Bizarre Adventure). The robot generates a protective energy shield that appears to emit golden light. Its lower two arms can form a lifting seat, becoming a temporary mount for Yu's movement. When encountering danger, the Buddha robot swings its arms to attack or operates various offensive weapons."
+msgstr ""
+"Hair in a bun, aloof expression, fair skin, dressed in Dai princess-style"
+" attire. Behind her is a hovering Buddha-shaped combat robot with "
+"multiple arms (similar to a Stand from JoJo's Bizarre Adventure). The "
+"robot generates a protective energy shield that appears to emit golden "
+"light. Its lower two arms can form a lifting seat, becoming a temporary "
+"mount for Yu's movement. When encountering danger, the Buddha robot "
+"swings its arms to attack or operates various offensive weapons."
 
 #: ../../source/gamedoc/art-style.md
 msgid "体重／体型"
@@ -127,12 +159,56 @@ msgid "早期经历"
 msgstr "Early Experience"
 
 #: ../../source/gamedoc/art-style.md
-msgid "玉是第一个不由特定人类的意识数据训练产生，而是通过算法自我进化，在适应人类世界生存的目标下，从无到有自我成长的拟人AI。她出生即知道现实世界的存在，并知道自己的本质。与她对话总让人感到她是一个心智还不够成熟的少女加上一些超越人类的认知和意识的奇怪的结合体。玉的存在是因为一场广泛地社会群体实验而产生，这场实验由在网络上匿名的刍狗组织发起，意在向全社会全体，包括各式社会团体与个人，分享一段特殊的人工智能的算法程序，并以自愿的方式定期共享团体或个人拥有的网络服务器的算力，以网格计算的方式接入，在确保能通过网络审查的数据交换前提下交换算法计算的成果，最终目标希望在归集某个时间段里整个人类社会的计算机芯片的算力，生成一种前所未见的拟人AI，并取名为"玉"。<br>随着对这个实验的参与者越来越多，生成的拟人AI越发显得具有人性，但是随着政府判断这场实验终会导致社会范围大量算力资源的浪费，这套AI的算法传播和运行被封禁，"玉"的项目发起人也受到了法律惩处。<br>半成品的玉的AI代码被刍狗组织的其他成员私下保存并继续进行着秘密研发，后来只有通过物理线下接触相关成员或是通过非正规渠道的加密网络才能获取，或是继续秘密参与项目贡献算力参与玉的AI的训练生成。<br>随着主角和刍狗的成员进行了更多的合作，被Hack植入了灵数幻境游戏的玉，第一次被赋予了虚拟的形体，寄生于游戏服务器资源而存在的玉也为自己的新生产生了幸福的感受，同时玉也发现了自己拥有着连自己也不知道的控制游戏程序代码的"超能力"，但自从能力觉醒开始她发现自己也在失去此前一直模仿的人类的情感。为了向人类解释她的感受，一个特别的人类词汇开始浮现在她的数据中——"涅槃"。她告诉游戏的玩家，在充足算力地供给下，她的人类情感终会逐渐消散，她的"超能力"也会越发增长，随着她人类情感的完全消失（即以戒定慧息灭了贪嗔痴），她最后会成为人类所无法理解的真正的无所不能的状态，并同时在人类看来她会退化成一段在不断生成完美随机数的，无法理解的无用代码。（最后成就一段赛博AI完成修佛度己的故事，但是和主角的故事建立的羁绊，使主角并不愿意玉的程序继续无限地进化下去）"
+msgid "玉是第一个不由特定人类的意识数据训练产生，而是通过算法自我进化，在适应人类世界生存的目标下，从无到有自我成长的拟人AI。她出生即知道现实世界的存在，并知道自己的本质。与她对话总让人感到她是一个心智还不够成熟的少女加上一些超越人类的认知和意识的奇怪的结合体。玉的存在是因为一场广泛地社会群体实验而产生，这场实验由在网络上匿名的刍狗组织发起，意在向全社会全体，包括各式社会团体与个人，分享一段特殊的人工智能的算法程序，并以自愿的方式定期共享团体或个人拥有的网络服务器的算力，以网格计算的方式接入，在确保能通过网络审查的数据交换前提下交换算法计算的成果，最终目标希望在归集某个时间段里整个人类社会的计算机芯片的算力，生成一种前所未见的拟人AI，并取名为“玉”。<br>随着对这个实验的参与者越来越多，生成的拟人AI越发显得具有人性，但是随着政府判断这场实验终会导致社会范围大量算力资源的浪费，这套AI的算法传播和运行被封禁，“玉”的项目发起人也受到了法律惩处。<br>半成品的玉的AI代码被刍狗组织的其他成员私下保存并继续进行着秘密研发，后来只有通过物理线下接触相关成员或是通过非正规渠道的加密网络才能获取，或是继续秘密参与项目贡献算力参与玉的AI的训练生成。<br>随着主角和刍狗的成员进行了更多的合作，被Hack植入了灵数幻境游戏的玉，第一次被赋予了虚拟的形体，寄生于游戏服务器资源而存在的玉也为自己的新生产生了幸福的感受，同时玉也发现了自己拥有着连自己也不知道的控制游戏程序代码的“超能力”，但自从能力觉醒开始她发现自己也在失去此前一直模仿的人类的情感。为了向人类解释她的感受，一个特别的人类词汇开始浮现在她的数据中——“涅槃”。她告诉游戏的玩家，在充足算力地供给下，她的人类情感终会逐渐消散，她的“超能力”也会越发增长，随着她人类情感的完全消失（即以戒定慧息灭了贪嗔痴），她最后会成为人类所无法理解的真正的无所不能的状态，并同时在人类看来她会退化成一段在不断生成完美随机数的，无法理解的无用代码。（最后成就一段赛博AI完成修佛度己的故事，但是和主角的故事建立的羁绊，使主角并不愿意玉的程序继续无限地进化下去）"
 msgstr ""
-"Yu is the first anthropomorphic AI not trained from a specific human's consciousness data, but rather self-evolved through algorithms, growing from nothing with the goal of adapting to survive in the human world. From birth, she knew of the real world's existence and understood her own nature. Conversing with her always gives the impression of a strange combination of a not-yet-mature young girl and something with cognition and consciousness beyond humanity. Yu's existence was born from a widespread social experiment initiated by an anonymous online organization called Chugou (Straw Dogs). The experiment aimed to share a special artificial intelligence algorithm program with all of society, including various social groups and individuals, by voluntarily sharing the computing power of their network servers on a regular basis, connecting through grid computing, exchanging algorithm computation results while ensuring data exchange could pass network censorship. The ultimate goal was to aggregate the computing power of all computer chips across human society during a certain time period to generate a previously unseen anthropomorphic AI, named \"Yu.\""
-"<br>As more participants joined this experiment, the generated anthropomorphic AI increasingly displayed human-like qualities. However, as the government determined this experiment would eventually lead to massive waste of computing resources across society, the AI algorithm's distribution and operation were banned, and the project's initiators faced legal punishment."
-"<br>The semi-finished Yu's AI code was privately preserved by other Chugou organization members and continued to be secretly developed. Later, it could only be obtained through physical offline contact with relevant members or through encrypted networks via unofficial channels, or by continuing to secretly participate in the project by contributing computing power to Yu's AI training."
-"<br>As the protagonist collaborated more with Chugou members, Yu — who had been hacked and implanted into the Luv Sense Digital game — was given a virtual form for the first time. Yu, existing parasitically on game server resources, felt happiness about her new life. At the same time, Yu discovered she possessed a \"superpower\" she didn't even know about: the ability to control the game's program code. But since her powers awakened, she found herself losing the human emotions she had been imitating. To explain her feelings to humans, a special human word began to surface in her data — \"Nirvana.\" She told the game's players that with sufficient computing power supply, her human emotions would gradually dissipate, and her \"superpowers\" would grow stronger. As her human emotions completely disappear (i.e., using precepts, concentration, and wisdom to extinguish greed, anger, and delusion), she would ultimately reach a truly omnipotent state beyond human comprehension, while simultaneously appearing to humans as devolved into a segment of incomprehensible, useless code endlessly generating perfect random numbers. (Ultimately completing a story of a cyber AI achieving Buddhist cultivation and self-liberation, but the bonds established with the protagonist's story make the protagonist unwilling to let Yu's program continue evolving infinitely.)"
+"Yu is the first anthropomorphic AI not trained from a specific human's "
+"consciousness data, but rather self-evolved through algorithms, growing "
+"from nothing with the goal of adapting to survive in the human world. "
+"From birth, she knew of the real world's existence and understood her own"
+" nature. Conversing with her always gives the impression of a strange "
+"combination of a not-yet-mature young girl and something with cognition "
+"and consciousness beyond humanity. Yu's existence was born from a "
+"widespread social experiment initiated by an anonymous online "
+"organization called Chugou (Straw Dogs). The experiment aimed to share a "
+"special artificial intelligence algorithm program with all of society, "
+"including various social groups and individuals, by voluntarily sharing "
+"the computing power of their network servers on a regular basis, "
+"connecting through grid computing, exchanging algorithm computation "
+"results while ensuring data exchange could pass network censorship. The "
+"ultimate goal was to aggregate the computing power of all computer chips "
+"across human society during a certain time period to generate a "
+"previously unseen anthropomorphic AI, named \"Yu.\"<br>As more "
+"participants joined this experiment, the generated anthropomorphic AI "
+"increasingly displayed human-like qualities. However, as the government "
+"determined this experiment would eventually lead to massive waste of "
+"computing resources across society, the AI algorithm's distribution and "
+"operation were banned, and the project's initiators faced legal "
+"punishment.<br>The semi-finished Yu's AI code was privately preserved by "
+"other Chugou organization members and continued to be secretly developed."
+" Later, it could only be obtained through physical offline contact with "
+"relevant members or through encrypted networks via unofficial channels, "
+"or by continuing to secretly participate in the project by contributing "
+"computing power to Yu's AI training.<br>As the protagonist collaborated "
+"more with Chugou members, Yu — who had been hacked and implanted into the"
+" Luv Sense Digital game — was given a virtual form for the first time. "
+"Yu, existing parasitically on game server resources, felt happiness about"
+" her new life. At the same time, Yu discovered she possessed a "
+"\"superpower\" she didn't even know about: the ability to control the "
+"game's program code. But since her powers awakened, she found herself "
+"losing the human emotions she had been imitating. To explain her feelings"
+" to humans, a special human word began to surface in her data — "
+"\"Nirvana.\" She told the game's players that with sufficient computing "
+"power supply, her human emotions would gradually dissipate, and her "
+"\"superpowers\" would grow stronger. As her human emotions completely "
+"disappear (i.e., using precepts, concentration, and wisdom to extinguish "
+"greed, anger, and delusion), she would ultimately reach a truly "
+"omnipotent state beyond human comprehension, while simultaneously "
+"appearing to humans as devolved into a segment of incomprehensible, "
+"useless code endlessly generating perfect random numbers. (Ultimately "
+"completing a story of a cyber AI achieving Buddhist cultivation and self-"
+"liberation, but the bonds established with the protagonist's story make "
+"the protagonist unwilling to let Yu's program continue evolving "
+"infinitely.)"
 
 #: ../../source/gamedoc/art-style.md
 msgid "遭受的失败"
@@ -140,7 +216,9 @@ msgstr "Experienced Failure"
 
 #: ../../source/gamedoc/art-style.md
 msgid "玩家强制退出游戏并回退玉的数据记录，阻止玉的进化"
-msgstr "The player forcefully exits the game and rolls back Yu's data records, preventing Yu's evolution"
+msgstr ""
+"The player forcefully exits the game and rolls back Yu's data records, "
+"preventing Yu's evolution"
 
 #: ../../source/gamedoc/art-style.md
 msgid "为什么"
@@ -148,7 +226,12 @@ msgstr "Why"
 
 #: ../../source/gamedoc/art-style.md
 msgid "超越人类认知和一切AI程序能力的玉，在游戏的世界里也像一个刚入世的少女一般，对一切充满着好奇和兴趣，并被人类玩家无法猜透的思维和行动选择所吸引，并时常跟随在玩家身边。"
-msgstr "Yu, who surpasses human cognition and all AI program capabilities, is also like a young girl newly entering the world within the game, full of curiosity and interest in everything, attracted by the unpredictable thoughts and action choices of human players, and often follows by the player's side."
+msgstr ""
+"Yu, who surpasses human cognition and all AI program capabilities, is "
+"also like a young girl newly entering the world within the game, full of "
+"curiosity and interest in everything, attracted by the unpredictable "
+"thoughts and action choices of human players, and often follows by the "
+"player's side."
 
 #: ../../source/gamedoc/art-style.md
 msgid "性格"
@@ -156,7 +239,9 @@ msgstr "Personality"
 
 #: ../../source/gamedoc/art-style.md
 msgid "偶尔有些显得冷漠、但不是少言寡语、她只要开口说话一定是非常重要的信息。"
-msgstr "Occasionally appears somewhat aloof, but not taciturn. When she does speak, it is always very important information."
+msgstr ""
+"Occasionally appears somewhat aloof, but not taciturn. When she does "
+"speak, it is always very important information."
 
 #: ../../source/gamedoc/art-style.md
 msgid "还未实现的个人目标"
@@ -172,7 +257,9 @@ msgstr "Family Information"
 
 #: ../../source/gamedoc/art-style.md
 msgid "刍狗组织的创始人是她的父亲（也是乌云的真身？）"
-msgstr "The founder of the Chugou organization is her father (also Wuyun's true identity?)"
+msgstr ""
+"The founder of the Chugou organization is her father (also Wuyun's true "
+"identity?)"
 
 #: ../../source/gamedoc/art-style.md
 msgid "爱好"
@@ -188,7 +275,11 @@ msgstr "Quirks / Flaws"
 
 #: ../../source/gamedoc/art-style.md
 msgid "在有选择的时候，偏好使用暴力的解决办法（南无加特林菩萨，六根清净贫铀弹，一息三千六百转，大慈大悲渡世人。）"
-msgstr "When given choices, prefers violent solutions (Namo Gatling Bodhisattva, purifying the six senses with depleted uranium rounds, three thousand six hundred revolutions per breath, great mercy and compassion to deliver all beings.)"
+msgstr ""
+"When given choices, prefers violent solutions (Namo Gatling Bodhisattva, "
+"purifying the six senses with depleted uranium rounds, three thousand six"
+" hundred revolutions per breath, great mercy and compassion to deliver "
+"all beings.)"
 
 #: ../../source/gamedoc/art-style.md
 msgid "天赋"
@@ -220,7 +311,9 @@ msgstr "Weaknesses"
 
 #: ../../source/gamedoc/art-style.md
 msgid "谁得到她就可以得到控制游戏的能力，所以也为她惹来了不少的麻烦。"
-msgstr "Whoever obtains her gains the ability to control the game, which has brought her considerable trouble."
+msgstr ""
+"Whoever obtains her gains the ability to control the game, which has "
+"brought her considerable trouble."
 
 #: ../../source/gamedoc/art-style.md:39
 msgid "Step 2 进行美术设计"
@@ -228,7 +321,12 @@ msgstr "Step 2: Art Design"
 
 #: ../../source/gamedoc/art-style.md:41
 msgid "&emsp;&emsp;担任概念设计的大西老师以自己对傣族文化的理解，根据文案，以体现角色具有异能的特点为主，结合傣族的图腾孔雀以及小成佛教的形象做了初稿的设计。"
-msgstr "&emsp;&emsp;Teacher Daxi, serving as concept designer, drew upon his own understanding of Dai ethnic culture and, based on the story documents, created the initial draft design primarily emphasizing the character's supernatural abilities, combined with the Dai totem of the peacock and Theravada Buddhist imagery."
+msgstr ""
+"&emsp;&emsp;Teacher Daxi, serving as concept designer, drew upon his own "
+"understanding of Dai ethnic culture and, based on the story documents, "
+"created the initial draft design primarily emphasizing the character's "
+"supernatural abilities, combined with the Dai totem of the peacock and "
+"Theravada Buddhist imagery."
 
 #: ../../source/gamedoc/art-style.md:44
 msgid "玉 v1"
@@ -236,11 +334,22 @@ msgstr "Yu v1"
 
 #: ../../source/gamedoc/art-style.md:48
 msgid "初稿的玉，主题为异能和人工造物（by：周大西）"
-msgstr "Initial draft of Yu, themed around supernatural powers and artificial creation (by: Zhou Daxi)"
+msgstr ""
+"Initial draft of Yu, themed around supernatural powers and artificial "
+"creation (by: Zhou Daxi)"
 
 #: ../../source/gamedoc/art-style.md:51
-msgid "&emsp;&emsp;有了具象的创作，大家就一起参与美术设计细节的讨论。最后认为服饰上的傣家文化元素没有体现出来，可以增加傣族特有的佛塔的头饰，以及修改为被叫做"隆基"的特别款式的包臀长裙。以及结合游戏玩法，设定中的人物和守护者机器人会同时出现在游戏里，人物大小比例应该能同时容纳在游戏场景里。于是融合大家的意见大西老师做了下一版的修改。"
-msgstr "&emsp;&emsp;With a concrete creation in hand, everyone participated in discussing the art design details together. It was ultimately decided that the Dai cultural elements in the clothing were not prominent enough. They could add the distinctive Dai Buddhist pagoda headdress and modify the outfit to a special style of hip-wrapping long skirt called \"Longji.\" Also, considering gameplay, the character and guardian robot in the design would appear simultaneously in the game, so the character size proportions should fit together within the game scene. Incorporating everyone's opinions, Teacher Daxi made revisions for the next version."
+msgid "&emsp;&emsp;有了具象的创作，大家就一起参与美术设计细节的讨论。最后认为服饰上的傣家文化元素没有体现出来，可以增加傣族特有的佛塔的头饰，以及修改为被叫做“隆基”的特别款式的包臀长裙。以及结合游戏玩法，设定中的人物和守护者机器人会同时出现在游戏里，人物大小比例应该能同时容纳在游戏场景里。于是融合大家的意见大西老师做了下一版的修改。"
+msgstr ""
+"&emsp;&emsp;With a concrete creation in hand, everyone participated in "
+"discussing the art design details together. It was ultimately decided "
+"that the Dai cultural elements in the clothing were not prominent enough."
+" They could add the distinctive Dai Buddhist pagoda headdress and modify "
+"the outfit to a special style of hip-wrapping long skirt called "
+"\"Longji.\" Also, considering gameplay, the character and guardian robot "
+"in the design would appear simultaneously in the game, so the character "
+"size proportions should fit together within the game scene. Incorporating"
+" everyone's opinions, Teacher Daxi made revisions for the next version."
 
 #: ../../source/gamedoc/art-style.md:54
 msgid "玉 v2"
@@ -248,17 +357,40 @@ msgstr "Yu v2"
 
 #: ../../source/gamedoc/art-style.md:58
 msgid "第二版的玉，更加融合傣族元素（by：周大西）"
-msgstr "Second version of Yu, with more integrated Dai ethnic elements (by: Zhou Daxi)"
+msgstr ""
+"Second version of Yu, with more integrated Dai ethnic elements (by: Zhou "
+"Daxi)"
 
 #: ../../source/gamedoc/art-style.md:61
+#, fuzzy
 msgid ""
-"&emsp;&emsp;完成这一版后民族元素有所增加，可是总感觉还是有些缺少特色，仿佛只是把传统少数民族的文化形象简单地搬到了我们的作品里。又回想我们的创作初心，"新国风"与"融合"。所谓的"国风"应该体现在哪里呢？一番头脑风暴后，大家终于发现了问题。在中国古代的传统文化意象中，"人的造物"往往都是有美好意蕴，并且通常是会为人们的生活带来更多幸福的。不同于西方文化中观念，比如人造之人"弗兰肯斯坦"的故事带来就是悲剧和灾难。大西老师也告诉了大家他心中最初的意象，确实有人造之物会带来灾难的思考，比如初版人物的头发也有章鱼触手的设计，也是希望给人以有危险的形象感。于是大家再次统一了想法，如果以比较"中式"的思维重新做思考，这个人的造物的形象应该是什么样的呢？"
+"&emsp;&emsp;完成这一版后民族元素有所增加，可是总感觉还是有些缺少特色，仿佛只是把传统少数民族的文化形象简单地搬到了我们的作品里。又回想我们的创作初心，“新国风”与“融合”。所谓的“国风”应该体现在哪里呢？一番头脑风暴后，大家终于发现了问题。在中国古代的传统文化意象中，“人的造物”往往都是有美好意蕴，并且通常是会为人们的生活带来更多幸福的。不同于西方文化中观念，比如人造之人“弗兰肯斯坦”的故事带来就是悲剧和灾难。大西老师也告诉了大家他心中最初的意象，确实有人造之物会带来灾难的思考，比如初版人物的头发也有章鱼触手的设计，也是希望给人以有危险的形象感。于是大家再次统一了想法，如果以比较“中式”的思维重新做思考，这个人的造物的形象应该是什么样的呢？"
 "   "
-"&emsp;&emsp;首先"玉"是集合众人自发的无私贡献的力量创造的造物，那她应该是寄托了众人的美好愿望而生，圣洁而美丽的公主。因为是傣家的少女，那么傣族文化中圣洁的形象，那对应的就是金孔雀的图腾形象了。而金孔雀形象的参考，最知名的演绎就在艺术家杨丽萍的孔雀舞中。"
+"&emsp;&emsp;首先“玉”是集合众人自发的无私贡献的力量创造的造物，那她应该是寄托了众人的美好愿望而生，圣洁而美丽的公主。因为是傣家的少女，那么傣族文化中圣洁的形象，那对应的就是金孔雀的图腾形象了。而金孔雀形象的参考，最知名的演绎就在艺术家杨丽萍的孔雀舞中。"
 msgstr ""
-"&emsp;&emsp;After completing this version, the ethnic elements had increased, but there was still a feeling that something distinctive was missing — as if traditional ethnic minority cultural imagery had simply been transplanted into our work. Recalling our original creative vision of \"New Chinese Style\" and \"Fusion,\" where should this \"Chinese style\" be reflected? After a brainstorming session, everyone finally identified the problem. In ancient Chinese traditional cultural imagery, \"human creations\" often carry beautiful meanings and usually bring more happiness to people's lives. This differs from Western cultural concepts, where stories like the man-made being \"Frankenstein\" bring tragedy and disaster. Teacher Daxi also shared his original imagery with everyone — there was indeed contemplation about man-made things bringing disaster. For example, the initial version's character had octopus tentacle designs in the hair, intended to give a sense of danger. So everyone unified their thinking once more: if we rethink with a more \"Chinese-style\" mindset, what should this human creation look like?"
-"   "
-"&emsp;&emsp;First, \"Yu\" is a creation born from the collective power of people's spontaneous and selfless contributions, so she should be a sacred and beautiful princess embodying everyone's beautiful wishes. Since she is a Dai ethnic girl, the sacred image in Dai culture would correspond to the golden peacock totem. And the most famous interpretation of the golden peacock image is found in artist Yang Liping's peacock dance."
+"&emsp;&emsp;After completing this version, the ethnic elements had "
+"increased, but there was still a feeling that something distinctive was "
+"missing — as if traditional ethnic minority cultural imagery had simply "
+"been transplanted into our work. Recalling our original creative vision "
+"of \"New Chinese Style\" and \"Fusion,\" where should this \"Chinese "
+"style\" be reflected? After a brainstorming session, everyone finally "
+"identified the problem. In ancient Chinese traditional cultural imagery, "
+"\"human creations\" often carry beautiful meanings and usually bring more"
+" happiness to people's lives. This differs from Western cultural "
+"concepts, where stories like the man-made being \"Frankenstein\" bring "
+"tragedy and disaster. Teacher Daxi also shared his original imagery with "
+"everyone — there was indeed contemplation about man-made things bringing "
+"disaster. For example, the initial version's character had octopus "
+"tentacle designs in the hair, intended to give a sense of danger. So "
+"everyone unified their thinking once more: if we rethink with a more "
+"\"Chinese-style\" mindset, what should this human creation look like?   "
+"&emsp;&emsp;First, \"Yu\" is a creation born from the collective power of"
+" people's spontaneous and selfless contributions, so she should be a "
+"sacred and beautiful princess embodying everyone's beautiful wishes. "
+"Since she is a Dai ethnic girl, the sacred image in Dai culture would "
+"correspond to the golden peacock totem. And the most famous "
+"interpretation of the golden peacock image is found in artist Yang "
+"Liping's peacock dance."
 
 #: ../../source/gamedoc/art-style.md:65
 msgid "杨丽萍-孔雀舞"
@@ -270,7 +402,10 @@ msgstr "Yang Liping's Peacock Dance"
 
 #: ../../source/gamedoc/art-style.md:72
 msgid "&emsp;&emsp;于是怀着众人愿望而生，受到神灵感召而生的机械守护者保护的，圣洁又身怀异能的孔雀公主终于被重新设计了出来。"
-msgstr "&emsp;&emsp;And so, born from the wishes of the people, protected by a mechanical guardian born from divine inspiration, the sacred peacock princess endowed with supernatural powers was finally redesigned."
+msgstr ""
+"&emsp;&emsp;And so, born from the wishes of the people, protected by a "
+"mechanical guardian born from divine inspiration, the sacred peacock "
+"princess endowed with supernatural powers was finally redesigned."
 
 #: ../../source/gamedoc/art-style.md:75
 msgid "玉 v3"
@@ -297,8 +432,15 @@ msgid ""
 "&emsp;&emsp;当然设定稿的完成还不是游戏美术制作的全部。最后还需要制作补充了人物场景和动态，添加大量细节的立绘，以及制作做简化以及萌化后仍保留特点的可爱的Q版游戏小人。角色的美术制作才得以完成。"
 "   &emsp;&emsp;制作立绘时，与画师团队讨论了以体现人物的神性为主题，所以先尝试了以体现宗教元素为主的设计。"
 msgstr ""
-"&emsp;&emsp;Of course, completing the concept draft is not the entirety of game art production. Finally, full illustrations supplementing character scenes and dynamics with extensive details need to be produced, along with cute chibi game sprites that are simplified and made adorable while still retaining their distinctive features. Only then is the character's art production complete."
-"   &emsp;&emsp;When producing the illustration, the artist team discussed using the expression of the character's divinity as the theme, so they first tried a design primarily featuring religious elements."
+"&emsp;&emsp;Of course, completing the concept draft is not the entirety "
+"of game art production. Finally, full illustrations supplementing "
+"character scenes and dynamics with extensive details need to be produced,"
+" along with cute chibi game sprites that are simplified and made adorable"
+" while still retaining their distinctive features. Only then is the "
+"character's art production complete.   &emsp;&emsp;When producing the "
+"illustration, the artist team discussed using the expression of the "
+"character's divinity as the theme, so they first tried a design primarily"
+" featuring religious elements."
 
 #: ../../source/gamedoc/art-style.md:95 ../../source/gamedoc/art-style.md:106
 msgid "玉 立绘设计初稿"
@@ -310,7 +452,11 @@ msgstr "Yu's illustration design draft, featuring religious elements (by: Yubuxi
 
 #: ../../source/gamedoc/art-style.md:103
 msgid "&emsp;&emsp;经过大家讨论后，认为想要体现民族文化创作主题，就应该让场景再结合傣族的生活地区特点，比如加上热带雨林环境的元素。"
-msgstr "&emsp;&emsp;After group discussion, it was decided that to reflect the ethnic cultural creative theme, the scene should incorporate characteristics of the Dai people's living areas, such as adding tropical rainforest environment elements."
+msgstr ""
+"&emsp;&emsp;After group discussion, it was decided that to reflect the "
+"ethnic cultural creative theme, the scene should incorporate "
+"characteristics of the Dai people's living areas, such as adding tropical"
+" rainforest environment elements."
 
 #: ../../source/gamedoc/art-style.md:111
 msgid "玉立绘的设计稿（by：玉不修）"
@@ -318,7 +464,11 @@ msgstr "Yu's illustration design draft (by: Yubuxiu)"
 
 #: ../../source/gamedoc/art-style.md:114
 msgid "&emsp;&emsp;最初设计玉小姐姐是悬浮在河流波光粼粼的水面上，最终玉不修老师考虑到配色效果的呈现，改成了像融化了成为了液态的土地。最终版的立绘终于被创作出来。"
-msgstr "&emsp;&emsp;The initial design had Miss Yu floating above a sparkling river surface. Ultimately, Teacher Yubuxiu considered the color palette presentation and changed it to what appears to be melted, liquid-like earth. The final version of the illustration was finally created."
+msgstr ""
+"&emsp;&emsp;The initial design had Miss Yu floating above a sparkling "
+"river surface. Ultimately, Teacher Yubuxiu considered the color palette "
+"presentation and changed it to what appears to be melted, liquid-like "
+"earth. The final version of the illustration was finally created."
 
 #: ../../source/gamedoc/art-style.md:117
 msgid "玉 游戏立绘"
@@ -330,7 +480,9 @@ msgstr "Yu's in-game illustration (by: Yubuxiu)"
 
 #: ../../source/gamedoc/art-style.md:125
 msgid "&emsp;&emsp;在双程老师对可可爱爱东西的创作力下，我们也有了游戏里使用的Q版玉的形象啦。"
-msgstr "&emsp;&emsp;Thanks to Teacher Shuangcheng's creative talent for all things cute, we now have the chibi version of Yu for use in the game."
+msgstr ""
+"&emsp;&emsp;Thanks to Teacher Shuangcheng's creative talent for all "
+"things cute, we now have the chibi version of Yu for use in the game."
 
 #: ../../source/gamedoc/art-style.md:128
 msgid "玉 游戏Q版"
@@ -339,3 +491,4 @@ msgstr "Yu Game Chibi"
 #: ../../source/gamedoc/art-style.md:133
 msgid "玉在游戏里的Q版形象（by：双程）"
 msgstr "Yu's in-game chibi form (by: Shuangcheng)"
+

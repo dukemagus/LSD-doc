@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -88,7 +88,9 @@ msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "初中生，灾害发生后回到秘境小镇务农"
-msgstr "Junior high school student, returned to farming in a secret realm small town after the disaster"
+msgstr ""
+"Junior high school student, returned to farming in a secret realm small "
+"town after the disaster"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "外貌"
@@ -96,7 +98,9 @@ msgstr "Appearance"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "皮肤白皙，小巧玲珑，脸颊泛红，鼻子上有看起来很可爱的小雀斑"
-msgstr "Fair skin, petite and delicate, rosy cheeks, with cute little freckles on her nose"
+msgstr ""
+"Fair skin, petite and delicate, rosy cheeks, with cute little freckles on"
+" her nose"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "头发"
@@ -119,8 +123,19 @@ msgid "服装"
 msgstr "Clothing"
 
 #: ../../source/gamedoc/characters/villywan.md:6
-msgid "头上斜带着一个银制的饰物（可参考简版的苗族银制头饰），饰物下面通过细小的链子垂坠着几种形状的银色亮片，形状分别是冲锋枪AK47，军用匕首，"小男孩"原子弹，以及其它兵器；身穿以克莱因蓝为主色的无袖斜襟小裙子，上面有白色的蜡染花纹（参见苗族蜡染工艺的图案）；上身穿着一件短款长袖的高透明色雨衣（塑料质感，带蛋白石的彩色光泽），同时也是挡紫外线的防晒衣，因为薇莉是晒不黑的敏感肤质，皮肤容易被太阳灼伤，所以需要防晒衣遮挡露出的皮肤；光脚穿着一双有装饰鞋带的透明雨鞋（做农活需要）"
-msgstr "A silver ornament worn diagonally on the head (can reference a simplified Miao silver headpiece), with tiny chains dangling silver sequins of various shapes beneath it, including an AK47 assault rifle, military dagger, \"Little Boy\" atomic bomb, and other weapons; wearing a sleeveless diagonal-closure dress primarily in Klein blue, with white batik patterns (see Miao batik craft patterns); a short long-sleeved highly transparent raincoat (plastic texture, with opalescent iridescent sheen) on the upper body, also serving as a UV-blocking sun protection jacket, because Weili has sensitive skin that cannot tan and is easily sunburned, so she needs the sun jacket to cover exposed skin; barefoot in transparent rain boots with decorative laces (needed for farm work)"
+msgid "头上斜带着一个银制的饰物（可参考简版的苗族银制头饰），饰物下面通过细小的链子垂坠着几种形状的银色亮片，形状分别是冲锋枪AK47，军用匕首，“小男孩”原子弹，以及其它兵器；身穿以克莱因蓝为主色的无袖斜襟小裙子，上面有白色的蜡染花纹（参见苗族蜡染工艺的图案）；上身穿着一件短款长袖的高透明色雨衣（塑料质感，带蛋白石的彩色光泽），同时也是挡紫外线的防晒衣，因为薇莉是晒不黑的敏感肤质，皮肤容易被太阳灼伤，所以需要防晒衣遮挡露出的皮肤；光脚穿着一双有装饰鞋带的透明雨鞋（做农活需要）"
+msgstr ""
+"A silver ornament worn diagonally on the head (can reference a simplified"
+" Miao silver headpiece), with tiny chains dangling silver sequins of "
+"various shapes beneath it, including an AK47 assault rifle, military "
+"dagger, \"Little Boy\" atomic bomb, and other weapons; wearing a "
+"sleeveless diagonal-closure dress primarily in Klein blue, with white "
+"batik patterns (see Miao batik craft patterns); a short long-sleeved "
+"highly transparent raincoat (plastic texture, with opalescent iridescent "
+"sheen) on the upper body, also serving as a UV-blocking sun protection "
+"jacket, because Weili has sensitive skin that cannot tan and is easily "
+"sunburned, so she needs the sun jacket to cover exposed skin; barefoot in"
+" transparent rain boots with decorative laces (needed for farm work)"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "性格"
@@ -128,7 +143,10 @@ msgstr "Personality"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "开朗活泼，喜欢与陌生人交谈，喜欢倾听别人表达不同的观点。不时会有一些小执念，比如执意要学自己怎么也弄不明白的编程"
-msgstr "Cheerful and lively, likes talking with strangers, enjoys listening to others express different viewpoints. Occasionally has small obsessions, like insisting on learning programming that she can never figure out"
+msgstr ""
+"Cheerful and lively, likes talking with strangers, enjoys listening to "
+"others express different viewpoints. Occasionally has small obsessions, "
+"like insisting on learning programming that she can never figure out"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "特技"
@@ -136,7 +154,10 @@ msgstr "Special Skill"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "有操纵大型机械的天赋和擅长玩动作游戏的才能；擅长给人普及畜牧养殖生产的知识"
-msgstr "Has a natural talent for operating large machinery and a gift for action games; skilled at teaching people about livestock and aquaculture production"
+msgstr ""
+"Has a natural talent for operating large machinery and a gift for action "
+"games; skilled at teaching people about livestock and aquaculture "
+"production"
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "弱点"
@@ -151,8 +172,10 @@ msgid "口吻"
 msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/villywan.md:6
-msgid "口头禅是："只要是我决定的事，谁也别想阻挡我的'威力——万'啦。""
-msgstr "Catchphrase: \"Once I make up my mind, no one can stop my 'Weili—Wan' power.\""
+msgid "口头禅是：“只要是我决定的事，谁也别想阻挡我的‘威力——万’啦。”"
+msgstr ""
+"Catchphrase: \"Once I make up my mind, no one can stop my 'Weili—Wan' "
+"power.\""
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "故事设定"
@@ -166,7 +189,31 @@ msgid ""
 " NPC 的 Villy 对电子游戏的执念其实只是来源于一个设计失误，而设计师并没有给她配备相应的行为能力，在游戏中的 Villy "
 "永远无法实现自己的执念。"
 msgstr ""
-"Weili is a petite, Lolita-style precocious girl, full of desires yet not knowing what she truly wants. Sometimes unconsciously appears overly intimate with the opposite sex. Easily fascinated by peculiar things, but lacks the sustained patience to dive deep into them. Though she doesn't really understand it herself, she especially loves collecting and making video game-related things, such as programming books, embedded game chips, console peripherals, and handheld console shells. She grew up in a secret realm small town surrounded by mountains, focused on agricultural production like a utopian paradise, yet eagerly learned about everything in the outside world through the internet. Though she still has no idea how, her greatest wish is to create a video game world where everyone can happily play. Unknowingly possesses a natural talent for operating large machinery and a gift for action games.<br>[Hidden Setting]: Wan Weili is merely a computer-simulated NPC character with AI intelligence. The virtual game designer's original concept was a character who would philosophically ponder who she is, where she came from, and where she's going. But after inputting design parameters through AI creation tools, what was generated instead was a character solely obsessed with figuring out how to make video games. The designer found this character amusing and kept it. The character's gender and other settings were supplemented and randomly generated based on player-set parameters. So Villy's obsession with video games as a game NPC actually stems from a design error, and the designer didn't equip her with the corresponding behavioral capabilities. Villy in the game can never fulfill her obsession."
+"Weili is a petite, Lolita-style precocious girl, full of desires yet not "
+"knowing what she truly wants. Sometimes unconsciously appears overly "
+"intimate with the opposite sex. Easily fascinated by peculiar things, but"
+" lacks the sustained patience to dive deep into them. Though she doesn't "
+"really understand it herself, she especially loves collecting and making "
+"video game-related things, such as programming books, embedded game "
+"chips, console peripherals, and handheld console shells. She grew up in a"
+" secret realm small town surrounded by mountains, focused on agricultural"
+" production like a utopian paradise, yet eagerly learned about everything"
+" in the outside world through the internet. Though she still has no idea "
+"how, her greatest wish is to create a video game world where everyone can"
+" happily play. Unknowingly possesses a natural talent for operating large"
+" machinery and a gift for action games.<br>[Hidden Setting]: Wan Weili is"
+" merely a computer-simulated NPC character with AI intelligence. The "
+"virtual game designer's original concept was a character who would "
+"philosophically ponder who she is, where she came from, and where she's "
+"going. But after inputting design parameters through AI creation tools, "
+"what was generated instead was a character solely obsessed with figuring "
+"out how to make video games. The designer found this character amusing "
+"and kept it. The character's gender and other settings were supplemented "
+"and randomly generated based on player-set parameters. So Villy's "
+"obsession with video games as a game NPC actually stems from a design "
+"error, and the designer didn't equip her with the corresponding "
+"behavioral capabilities. Villy in the game can never fulfill her "
+"obsession."
 
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "学员专业"
@@ -195,3 +242,4 @@ msgstr "Writer"
 #: ../../source/gamedoc/characters/villywan.md:6
 msgid "瑾"
 msgstr "Jin"
+

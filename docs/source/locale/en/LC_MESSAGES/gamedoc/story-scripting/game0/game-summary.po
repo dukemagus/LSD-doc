@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -27,7 +27,7 @@ msgid "接触事件（发生在游戏世界）"
 msgstr "The Contact Event (occurs in the game world)"
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:4
-msgid "一众艺术家与哲学家不约而同地开始对一个叫做"现实验证"的命题疯狂讨论。"
+msgid "一众艺术家与哲学家不约而同地开始对一个叫做“现实验证”的命题疯狂讨论。"
 msgstr ""
 "A group of artists and philosophers simultaneously begin feverishly "
 "discussing a proposition called \"Reality Verification\"."
@@ -39,7 +39,7 @@ msgstr ""
 "with an abstract image (through photonic cognitive alteration)."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:6
-msgid ""当我看到这张画的时候，明白了一件事，我只是一个游戏的角色，好像是来自神的命令""
+msgid "“当我看到这张画的时候，明白了一件事，我只是一个游戏的角色，好像是来自神的命令”"
 msgstr ""
 "\"When I saw this image, I understood one thing: I am merely a game "
 "character, as if it were a command from a god.\""
@@ -47,10 +47,10 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:7
 msgid "接触事件之后，民间自发出现了以那个抽象图像作为象征的组织，自称断网组织，掩人耳目地在危险的地面开始建设基地。"
 msgstr ""
-"After the Contact Event, a grassroots organization emerged spontaneously, "
-"using that abstract image as their symbol. They called themselves the "
-"Disconnect Organization and began secretly building bases on the dangerous "
-"surface."
+"After the Contact Event, a grassroots organization emerged spontaneously,"
+" using that abstract image as their symbol. They called themselves the "
+"Disconnect Organization and began secretly building bases on the "
+"dangerous surface."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:8
 msgid "初入世界"
@@ -94,43 +94,44 @@ msgstr "Ninillet, the one I need to protect"
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:16
 msgid "妮妮利特外貌与羽凌灵很像，猜想妮妮莉特就是对应后世界的羽凌灵的人格。妮妮莉特认说自己和羽凌灵完全不一样，很胆小还一直依赖羽凌灵的保护。"
 msgstr ""
-"Ninillet looks very similar to Yu Lingling. I suspect Ninillet corresponds "
-"to Yu Lingling's personality from the post-world. Ninillet says she is "
-"completely different from Yu Lingling — very timid and always dependent on "
-"Yu Lingling's protection."
+"Ninillet looks very similar to Yu Lingling. I suspect Ninillet "
+"corresponds to Yu Lingling's personality from the post-world. Ninillet "
+"says she is completely different from Yu Lingling — very timid and always"
+" dependent on Yu Lingling's protection."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:17
 msgid "妮妮莉特告诉我她的记忆里，在一次离家出走后，独自开始生活，进入地下城 A 后就一直跟随在（羽凌灵）身边，羽凌灵很照顾她。"
 msgstr ""
-"Ninillet tells me that in her memories, after running away from home once, "
-"she started living on her own. After entering Underground City A, she "
-"always stayed by Yu Lingling's side, and Yu Lingling took great care of "
-"her."
+"Ninillet tells me that in her memories, after running away from home "
+"once, she started living on her own. After entering Underground City A, "
+"she always stayed by Yu Lingling's side, and Yu Lingling took great care "
+"of her."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:18
 msgid "羽凌灵被 AI 群攻下线后，军事学院失去领导力，大家都离开了基地，只剩下了妮妮莉特"
 msgstr ""
-"After Yu Lingling was taken offline by a swarm of AI attacks, the Military "
-"Academy lost its leadership. Everyone left the base, and only Ninillet "
-"remained."
+"After Yu Lingling was taken offline by a swarm of AI attacks, the "
+"Military Academy lost its leadership. Everyone left the base, and only "
+"Ninillet remained."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:19
 msgid "看起来可靠的乌云"
 msgstr "The Seemingly Reliable Wuyun"
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:20
-msgid "乌云很早之前就在调查羽凌灵了，并断定我也来自后世界，对我说："我知道你不属于这里"，并声称自己是来帮助我的，于是加入小队。"
+msgid "乌云很早之前就在调查羽凌灵了，并断定我也来自后世界，对我说：“我知道你不属于这里”，并声称自己是来帮助我的，于是加入小队。"
 msgstr ""
-"Wuyun had been investigating Yu Lingling for a long time and concluded that "
-"I also come from the post-world. He said to me: \"I know you don't belong "
-"here,\" and claimed he was here to help me, thus joining the squad."
+"Wuyun had been investigating Yu Lingling for a long time and concluded "
+"that I also come from the post-world. He said to me: \"I know you don't "
+"belong here,\" and claimed he was here to help me, thus joining the "
+"squad."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:21
 msgid "以为自己掌握很多信息为筹码，但是我并不相信他，虽然目前看起来没有恶意，我仍然处处提防着。"
 msgstr ""
-"He thinks he holds a lot of information as leverage, but I don't trust him. "
-"Although he seems to have no ill intentions for now, I remain on guard at "
-"all times."
+"He thinks he holds a lot of information as leverage, but I don't trust "
+"him. Although he seems to have no ill intentions for now, I remain on "
+"guard at all times."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:22
 msgid "防备两面的压力（站稳脚跟，调查游戏世界内情况）"
@@ -142,9 +143,9 @@ msgstr ""
 msgid "地下城的人以为我来自后世界，因此对我产生敌意，似乎没法在地下城展开调查，妮妮莉特告诉我之前羽凌灵就是在地下城遭遇围攻而受伤下线的。"
 msgstr ""
 "People in the underground city think I come from the post-world, so they "
-"are hostile toward me. It seems impossible to conduct investigations in the "
-"underground city. Ninillet told me that Yu Lingling was previously attacked "
-"and injured offline in the underground city."
+"are hostile toward me. It seems impossible to conduct investigations in "
+"the underground city. Ninillet told me that Yu Lingling was previously "
+"attacked and injured offline in the underground city."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:24
 msgid "电梯的巨大震动往往伴随着怪物入侵，我需要维护游戏世界的稳定"
@@ -164,13 +165,13 @@ msgstr ""
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:27
 msgid "在迷茫的人群中，反常地有组织的目的"
-msgstr ""
-"Among the confused populace, there is an unusually organized purpose."
+msgstr "Among the confused populace, there is an unusually organized purpose."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:28
 msgid "断网组织绑架了多名信息技术员，物理学家"
 msgstr ""
-"The Disconnect Organization kidnapped multiple IT technicians and physicists."
+"The Disconnect Organization kidnapped multiple IT technicians and "
+"physicists."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:29
 msgid "行动时间点恰巧与接触时间的吻合"
@@ -179,8 +180,8 @@ msgstr "The timing of their actions coincides exactly with the Contact Event."
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:30
 msgid "羽凌灵来自后世界的信息源正是断网组织"
 msgstr ""
-"The source of information about Yu Lingling coming from the post-world is "
-"precisely the Disconnect Organization."
+"The source of information about Yu Lingling coming from the post-world is"
+" precisely the Disconnect Organization."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:31
 msgid "断网组织目前正藏匿在地面"
@@ -190,7 +191,8 @@ msgstr "The Disconnect Organization is currently hiding on the surface."
 msgid "这些人是在接触事件后的激进派，自以为是地认为光能带领他们离开这里，因此听命于乌鸦"
 msgstr ""
 "These people are radicals after the Contact Event, arrogantly believing "
-"that light can lead them away from here, thus following the orders of Crow."
+"that light can lead them away from here, thus following the orders of "
+"Crow."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:33
 msgid "使用建造巨型射灯通"
@@ -199,8 +201,8 @@ msgstr "Use and construct giant spotlights"
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:34
 msgid "是后世界断网组织在游戏世界中实现断网目的的傀儡"
 msgstr ""
-"They are puppets of the post-world Disconnect Organization, used to achieve "
-"disconnection goals within the game world."
+"They are puppets of the post-world Disconnect Organization, used to "
+"achieve disconnection goals within the game world."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:35
 msgid "邀请我加入地面调查队，帮助他维护游戏世界的稳定"
@@ -211,16 +213,16 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:36
 msgid "向阳生与我的目标基本一致，人多力量大，加入调查队也解决了来自地下城的压力。p"
 msgstr ""
-"Xiangyangsheng's goals are basically aligned with mine. There's strength in "
-"numbers, and joining the investigation team also relieves the pressure from "
-"the underground city."
+"Xiangyangsheng's goals are basically aligned with mine. There's strength "
+"in numbers, and joining the investigation team also relieves the pressure"
+" from the underground city."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:37
 msgid "同时我也同意了向阳生来到军事学院休整队伍，去地面调查也更加方便"
 msgstr ""
 "At the same time, I agreed to let Xiangyangsheng come to the Military "
-"Academy to rest and regroup. Investigating the surface would also be more "
-"convenient."
+"Academy to rest and regroup. Investigating the surface would also be more"
+" convenient."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:38
 msgid "地面探查"
@@ -239,9 +241,9 @@ msgstr "IT technician Yu Zijiang stationed at the academy."
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:41
 msgid "遭遇过断网组织的威胁，逃脱成功后来到学院寻求庇护（威胁她的人已经死了，应该是她自己动的手）"
 msgstr ""
-"Previously threatened by the Disconnect Organization, escaped successfully "
-"and came to the academy seeking refuge (the person who threatened her is "
-"already dead, likely killed by her own hand)."
+"Previously threatened by the Disconnect Organization, escaped "
+"successfully and came to the academy seeking refuge (the person who "
+"threatened her is already dead, likely killed by her own hand)."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:42
 msgid "经由向阳生引荐帮助军事学院开发 VR 战斗训练系统和武器研发，常驻于研发室"
@@ -266,57 +268,61 @@ msgstr "Gradually grew and became the squad leader."
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:46
 msgid "阿岩帮助改造基地，后来在地面发现其尸体，因为他想找寻记忆中和女友去过的地方，验证自己女友只存在记忆中还是真实存在的。"
 msgstr ""
-"A Yan helped renovate the base. Later, his body was found on the surface — "
-"he went to find a place he and his girlfriend had visited in his memories, "
-"to verify whether his girlfriend only existed in memory or was real."
+"A Yan helped renovate the base. Later, his body was found on the surface "
+"— he went to find a place he and his girlfriend had visited in his "
+"memories, to verify whether his girlfriend only existed in memory or was "
+"real."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:47
 msgid "在一次落荒而逃中误入世外桃源，认识万薇莉，这里的人懂得如何和怪物和谐相处，领养了一只大狐狸加入我们一起战斗（大狐狸也可以被训练）"
 msgstr ""
-"While fleeing in panic, accidentally stumbled into a hidden paradise and met "
-"Wan Weili. The people here know how to coexist peacefully with monsters. "
-"Adopted a large fox that joined us in battle (the fox can also be trained)."
+"While fleeing in panic, accidentally stumbled into a hidden paradise and "
+"met Wan Weili. The people here know how to coexist peacefully with "
+"monsters. Adopted a large fox that joined us in battle (the fox can also "
+"be trained)."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:48
 msgid "乌云在地面与我们打入断网组织基地"
-msgstr "Wuyun fought alongside us to infiltrate the Disconnect Organization's base on the surface."
+msgstr ""
+"Wuyun fought alongside us to infiltrate the Disconnect Organization's "
+"base on the surface."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:49
 msgid "在断网组织基地内寻找到断网组织建设的巨型射灯"
 msgstr ""
-"Found the giant spotlight built by the Disconnect Organization inside their "
-"base."
+"Found the giant spotlight built by the Disconnect Organization inside "
+"their base."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:50
-msgid "将纹身置入射灯作为信标，打开了一条与后世界沟通的光柱（其实游戏世界中只有乌云一人能够"飞升"）"
+msgid "将纹身置入射灯作为信标，打开了一条与后世界沟通的光柱（其实游戏世界中只有乌云一人能够“飞升”）"
 msgstr ""
 "Placed the tattoo into the spotlight as a beacon, opening a light pillar "
-"for communication with the post-world (in reality, only Wuyun in the game "
-"world can \"ascend\")."
+"for communication with the post-world (in reality, only Wuyun in the game"
+" world can \"ascend\")."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:51
 msgid "在后世界中的断网组织通过光柱，能够对游戏世界的形态和参数造成极大的影响"
 msgstr ""
-"Through the light pillar, the Disconnect Organization in the post-world can "
-"exert enormous influence on the game world's form and parameters."
+"Through the light pillar, the Disconnect Organization in the post-world "
+"can exert enormous influence on the game world's form and parameters."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:52
 msgid "看见乌云的手臂被光柱的数据流冲毁，但是他毅然决然跃进数据流之中。"
 msgstr ""
-"Saw Wuyun's arm being destroyed by the data stream of the light pillar, but "
-"he resolutely leapt into the data stream."
+"Saw Wuyun's arm being destroyed by the data stream of the light pillar, "
+"but he resolutely leapt into the data stream."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:53
 msgid "羽凌灵上线"
 msgstr "Yu Lingling Comes Online"
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:54
-msgid "乌云成功实现"飞升"的理想，（寄生于后世界的一只机械狗，却发现这里的人都想进入游戏世界，但自己已经失去了回到游戏世界的能力）"
+msgid "乌云成功实现“飞升”的理想，（寄生于后世界的一只机械狗，却发现这里的人都想进入游戏世界，但自己已经失去了回到游戏世界的能力）"
 msgstr ""
 "Wuyun successfully realized his dream of \"ascension\" (parasitically "
 "inhabiting a mechanical dog in the post-world, only to discover that "
-"everyone there wants to enter the game world, but he has already lost the "
-"ability to return)."
+"everyone there wants to enter the game world, but he has already lost the"
+" ability to return)."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:55
 msgid "羽凌灵基本康复上线，在未实现联网功能的游戏世界，我和羽凌灵同时在线，我的身份似乎也很神秘。"
@@ -359,8 +365,7 @@ msgstr "Turning Point"
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:62
 msgid "在刍狗的帮助下玉植入进入游戏之中，"
-msgstr ""
-"With the help of the Chugou Organization, Yu was implanted into the game."
+msgstr "With the help of the Chugou Organization, Yu was implanted into the game."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:63
 msgid "双子被玉所解救，在与玉会合时了解双子"
@@ -381,16 +386,16 @@ msgstr "Another Turning Point"
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:66
 msgid "玉逐渐发现了自己可以改变游戏世界事物的超能力，这种超感也使得其原本带有的人性的情感逐渐消失，失去了目标与立场。"
 msgstr ""
-"Yu gradually discovered the superpower to alter things in the game world. "
-"This hypersense also caused the originally human emotions to gradually "
+"Yu gradually discovered the superpower to alter things in the game world."
+" This hypersense also caused the originally human emotions to gradually "
 "disappear, losing purpose and stance."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:67
 msgid "由于基地被严重破坏，小队元气大伤失去战斗能力，短期内没有办法抵抗断网组织"
 msgstr ""
-"Due to severe damage to the base, the squad was devastated and lost combat "
-"capability. In the short term, there was no way to resist the Disconnect "
-"Organization."
+"Due to severe damage to the base, the squad was devastated and lost "
+"combat capability. In the short term, there was no way to resist the "
+"Disconnect Organization."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:68
 msgid "结局"
@@ -399,8 +404,8 @@ msgstr "Ending"
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:69
 msgid "最后玩家和妮妮莉特孤立无援，后世界时间被暂停"
 msgstr ""
-"In the end, the player and Ninillet are isolated without help, and time in "
-"the post-world is suspended."
+"In the end, the player and Ninillet are isolated without help, and time "
+"in the post-world is suspended."
 
 #: ../../source/gamedoc/story-scripting/game0/game-summary.md:70
 msgid "向阳生背叛我，倒插我一刀，具体原因可以让玩家自己猜测（向阳生发现我是这个世界的主导者）"
@@ -408,3 +413,4 @@ msgstr ""
 "Xiangyangsheng betrayed me, stabbing me in the back. The specific reason "
 "can be left for the player to guess (Xiangyangsheng discovered that I am "
 "the dominant entity of this world)."
+

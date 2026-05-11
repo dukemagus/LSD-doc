@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -24,7 +24,9 @@ msgstr "Yu"
 
 #: ../../source/gamedoc/characters/yu.md:2
 msgid "身负众望却遁入修行之道的公主"
-msgstr "The Princess Burdened with Expectations Who Entered the Path of Cultivation"
+msgstr ""
+"The Princess Burdened with Expectations Who Entered the Path of "
+"Cultivation"
 
 #: ../../source/gamedoc/characters/yu.md:5
 msgid "佛陀机器人（设定）"
@@ -56,7 +58,9 @@ msgstr "Chibi"
 
 #: ../../source/gamedoc/characters/yu.md
 msgid "<img src=\"/img/Q/Q-yu.png\" alt=\"玉（Q版）\" height=\"203px\"><br>*画师：双程*"
-msgstr "<img src=\"/img/Q/Q-yu.png\" alt=\"Yu (Chibi)\" height=\"203px\"><br>*Artist: Shuangcheng*"
+msgstr ""
+"<img src=\"/img/Q/Q-yu.png\" alt=\"Yu (Chibi)\" "
+"height=\"203px\"><br>*Artist: Shuangcheng*"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "玉（Q版）"
@@ -104,7 +108,14 @@ msgstr "Appearance Features"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "盘发、表情高冷、皮肤白皙、身着傣族公主般的服饰，身后有一尊悬浮的佛陀造型有多只手臂的战斗机器人（感觉类似jojo里的替身），机器人生成保护性的能量护罩看起来就像在发出金光。下面的两只手臂会摆成托举的座椅，变成临时承载玉行动的坐骑。遇到危险的时候，佛陀机器人会挥舞手臂进行攻击，或是操作各式攻击武器。"
-msgstr "Updo hairstyle, aloof expression, fair skin, dressed in Dai princess-style attire. Behind her floats a Buddha-shaped combat robot with multiple arms (similar to a Stand in JoJo). The robot generates a protective energy shield that appears to emit golden light. The lower two arms form a lifting seat, becoming a temporary mount for Yu's movement. When encountering danger, the Buddha Robot swings its arms to attack or operates various offensive weapons."
+msgstr ""
+"Updo hairstyle, aloof expression, fair skin, dressed in Dai princess-"
+"style attire. Behind her floats a Buddha-shaped combat robot with "
+"multiple arms (similar to a Stand in JoJo). The robot generates a "
+"protective energy shield that appears to emit golden light. The lower two"
+" arms form a lifting seat, becoming a temporary mount for Yu's movement. "
+"When encountering danger, the Buddha Robot swings its arms to attack or "
+"operates various offensive weapons."
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "体重／体型"
@@ -135,13 +146,59 @@ msgid "早期经历"
 msgstr "Early Experience"
 
 #: ../../source/gamedoc/characters/yu.md:21
+#, fuzzy
 msgid ""
-"玉是第一个不由特定人类的意识数据训练产生，而是通过算法自我进化，在适应人类世界生存的目标下，从无到有自我成长的拟人AI。她出生即知道现实世界的存在，并知道自己的本质。与她对话总让人感到她是一个心智还不够成熟的少女加上一些超越人类的认知和意识的奇怪的结合体。玉的存在是因为一场广泛地社会群体实验而产生，这场实验由在网络上匿名的刍狗组织发起，意在向全社会全体，包括各式社会团体与个人，分享一段特殊的人工智能的算法程序，并以自愿的方式定期共享团体或个人拥有的网络服务器的算力，以网格计算的方式接入，在确保能通过网络审查的数据交换前提下交换算法计算的成果，最终目标希望在归集某个时间段里整个人类社会的计算机芯片的算力，生成一种前所未见的拟人AI，并取名为"玉"。<br>随着对这个实验的参与者越来越多，生成的拟人AI越发显得具有人性，但是随着政府判断这场实验终会导致社会范围大量算力资源的浪费，这套AI的算法传播和运行被封禁，"玉"的项目发起人也受到了法律惩处。<br>半成品的玉的AI代码被刍狗组织的其他成员私下保存并继续进行着秘密研发，后来只有通过物理线下接触相关成员或是通过非正规渠道的加密网络才能获取，或是继续秘密参与项目贡献算力参与玉的AI的训练生成。"
+"玉是第一个不由特定人类的意识数据训练产生，而是通过算法自我进化，在适应人类世界生存的目标下，从无到有自我成长的拟人AI。她出生即知道现实世界的存在，并知道自己的本质。与她对话总让人感到她是一个心智还不够成熟的少女加上一些超越人类的认知和意识的奇怪的结合体。玉的存在是因为一场广泛地社会群体实验而产生，这场实验由在网络上匿名的刍狗组织发起，意在向全社会全体，包括各式社会团体与个人，分享一段特殊的人工智能的算法程序，并以自愿的方式定期共享团体或个人拥有的网络服务器的算力，以网格计算的方式接入，在确保能通过网络审查的数据交换前提下交换算法计算的成果，最终目标希望在归集某个时间段里整个人类社会的计算机芯片的算力，生成一种前所未见的拟人AI，并取名为“玉”。<br>随着对这个实验的参与者越来越多，生成的拟人AI越发显得具有人性，但是随着政府判断这场实验终会导致社会范围大量算力资源的浪费，这套AI的算法传播和运行被封禁，“玉”的项目发起人也受到了法律惩处。<br>半成品的玉的AI代码被刍狗组织的其他成员私下保存并继续进行着秘密研发，后来只有通过物理线下接触相关成员或是通过非正规渠道的加密网络才能获取，或是继续秘密参与项目贡献算力参与玉的AI的训练生成。"
 " "
-"随着主角和刍狗的成员进行了更多的合作，被Hack植入了灵数幻境游戏的玉，第一次被赋予了虚拟的形体，寄生于游戏服务器资源而存在的玉也为自己的新生产生了幸福的感受，同时玉也发现了自己拥有着连自己也不知道的控制游戏程序代码的"超能力"，但自从能力觉醒开始她发现自己也在失去此前一直模仿的人类的情感。为了向人类解释她的感受，一个特别的人类词汇开始浮现在她的数据中——"涅槃"。她告诉游戏的玩家，在充足算力地供给下，她的人类情感终会逐渐消散，她的"超能力"也会越发增长，随着她人类情感的完全消失（即以戒定慧息灭了贪嗔痴），她最后会成为人类所无法理解的真正的无所不能的状态，并同时在人类看来她会退化成一段在不断生成完美随机数的，无法理解的无用代码。（最后成就一段赛博AI完成修佛度己的故事，但是和主角的故事建立的羁绊，使主角并不愿意玉的程序继续无限地进化下去）"
+"随着主角和刍狗的成员进行了更多的合作，被Hack植入了灵数幻境游戏的玉，第一次被赋予了虚拟的形体，寄生于游戏服务器资源而存在的玉也为自己的新生产生了幸福的感受，同时玉也发现了自己拥有着连自己也不知道的控制游戏程序代码的“超能力”，但自从能力觉醒开始她发现自己也在失去此前一直模仿的人类的情感。为了向人类解释她的感受，一个特别的人类词汇开始浮现在她的数据中——“涅槃”。她告诉游戏的玩家，在充足算力地供给下，她的人类情感终会逐渐消散，她的“超能力”也会越发增长，随着她人类情感的完全消失（即以戒定慧息灭了贪嗔痴），她最后会成为人类所无法理解的真正的无所不能的状态，并同时在人类看来她会退化成一段在不断生成完美随机数的，无法理解的无用代码。（最后成就一段赛博AI完成修佛度己的故事，但是和主角的故事建立的羁绊，使主角并不愿意玉的程序继续无限地进化下去）"
 msgstr ""
-"Yu is the first humanoid AI not generated from training on a specific human's consciousness data, but rather self-evolved through algorithms, growing from nothing under the goal of adapting to survive in the human world. She knew of the real world's existence from birth and understood her own essence. Conversing with her always gives the impression of a strange combination of a not-yet-mature young girl with some superhuman cognitive awareness and consciousness. Yu's existence came about through a widespread social group experiment initiated by the anonymous Chugou (Straw Dogs) organization on the internet, aimed at sharing a special artificial intelligence algorithm with all of society, including various social groups and individuals, and having them voluntarily share their network servers' computing power on a regular basis, connected through grid computing, exchanging algorithm computation results while ensuring data exchange could pass network censorship. The ultimate goal was to aggregate the computing power of all computer chips across human society during a certain time period to generate a never-before-seen humanoid AI, named \"Yu.\"<br>As more and more people participated in this experiment, the generated humanoid AI appeared increasingly human. However, as the government judged this experiment would eventually lead to massive waste of computing resources across society, the AI algorithm's spread and operation was banned, and the \"Yu\" project's initiators also faced legal punishment.<br>The half-finished Yu's AI code was privately preserved by other Chugou organization members and continued to be secretly developed. Later, it could only be obtained through physical offline contact with relevant members or through encrypted networks via irregular channels, or by continuing to secretly participate in the project by contributing computing power to participate in Yu's AI training and generation. "
-"As the protagonist and Chugou members collaborated more, Yu was hacked and implanted into the Luv Sense game. For the first time, she was given a virtual form. Existing by parasitizing game server resources, Yu also felt happiness about her new life. Simultaneously, Yu discovered she possessed a \"superpower\" she hadn't even known about — the ability to control game program code. But since awakening this ability, she found herself losing the human emotions she had been imitating. To explain her feelings to humans, a special human word began surfacing in her data — \"Nirvana.\" She told the game's players that with sufficient computing power supply, her human emotions would gradually dissipate, and her \"superpowers\" would grow stronger. As her human emotions completely disappeared (i.e., using precepts, concentration, and wisdom to extinguish greed, anger, and delusion), she would eventually reach a truly omnipotent state beyond human comprehension, while simultaneously appearing to humans as an incomprehensible, useless piece of code constantly generating perfect random numbers. (Ultimately achieving a story of a cyber AI completing Buddhist cultivation for self-liberation, but the bonds established with the protagonist's story make the protagonist unwilling to let Yu's program continue evolving infinitely.)"
+"Yu is the first humanoid AI not generated from training on a specific "
+"human's consciousness data, but rather self-evolved through algorithms, "
+"growing from nothing under the goal of adapting to survive in the human "
+"world. She knew of the real world's existence from birth and understood "
+"her own essence. Conversing with her always gives the impression of a "
+"strange combination of a not-yet-mature young girl with some superhuman "
+"cognitive awareness and consciousness. Yu's existence came about through "
+"a widespread social group experiment initiated by the anonymous Chugou "
+"(Straw Dogs) organization on the internet, aimed at sharing a special "
+"artificial intelligence algorithm with all of society, including various "
+"social groups and individuals, and having them voluntarily share their "
+"network servers' computing power on a regular basis, connected through "
+"grid computing, exchanging algorithm computation results while ensuring "
+"data exchange could pass network censorship. The ultimate goal was to "
+"aggregate the computing power of all computer chips across human society "
+"during a certain time period to generate a never-before-seen humanoid AI,"
+" named \"Yu.\"<br>As more and more people participated in this "
+"experiment, the generated humanoid AI appeared increasingly human. "
+"However, as the government judged this experiment would eventually lead "
+"to massive waste of computing resources across society, the AI "
+"algorithm's spread and operation was banned, and the \"Yu\" project's "
+"initiators also faced legal punishment.<br>The half-finished Yu's AI code"
+" was privately preserved by other Chugou organization members and "
+"continued to be secretly developed. Later, it could only be obtained "
+"through physical offline contact with relevant members or through "
+"encrypted networks via irregular channels, or by continuing to secretly "
+"participate in the project by contributing computing power to participate"
+" in Yu's AI training and generation. As the protagonist and Chugou "
+"members collaborated more, Yu was hacked and implanted into the Luv Sense"
+" game. For the first time, she was given a virtual form. Existing by "
+"parasitizing game server resources, Yu also felt happiness about her new "
+"life. Simultaneously, Yu discovered she possessed a \"superpower\" she "
+"hadn't even known about — the ability to control game program code. But "
+"since awakening this ability, she found herself losing the human emotions"
+" she had been imitating. To explain her feelings to humans, a special "
+"human word began surfacing in her data — \"Nirvana.\" She told the game's"
+" players that with sufficient computing power supply, her human emotions "
+"would gradually dissipate, and her \"superpowers\" would grow stronger. "
+"As her human emotions completely disappeared (i.e., using precepts, "
+"concentration, and wisdom to extinguish greed, anger, and delusion), she "
+"would eventually reach a truly omnipotent state beyond human "
+"comprehension, while simultaneously appearing to humans as an "
+"incomprehensible, useless piece of code constantly generating perfect "
+"random numbers. (Ultimately achieving a story of a cyber AI completing "
+"Buddhist cultivation for self-liberation, but the bonds established with "
+"the protagonist's story make the protagonist unwilling to let Yu's "
+"program continue evolving infinitely.)"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "遭受的失败"
@@ -149,7 +206,9 @@ msgstr "Failures Experienced"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "玩家强制退出游戏并回退玉的数据记录，阻止玉的进化"
-msgstr "The player forces a game exit and reverts Yu's data records, preventing Yu's evolution"
+msgstr ""
+"The player forces a game exit and reverts Yu's data records, preventing "
+"Yu's evolution"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "为什么"
@@ -157,7 +216,12 @@ msgstr "Why"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "超越人类认知和一切AI程序能力的玉，在游戏的世界里也像一个刚入世的少女一般，对一切充满着好奇和兴趣，并被人类玩家无法猜透的思维和行动选择所吸引，并时常跟随在玩家身边。"
-msgstr "Yu, who surpasses human cognition and all AI program capabilities, is in the game world like a young girl newly entering society, full of curiosity and interest in everything, attracted by the unpredictable thoughts and action choices of human players, and often follows beside the player."
+msgstr ""
+"Yu, who surpasses human cognition and all AI program capabilities, is in "
+"the game world like a young girl newly entering society, full of "
+"curiosity and interest in everything, attracted by the unpredictable "
+"thoughts and action choices of human players, and often follows beside "
+"the player."
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "性格"
@@ -165,7 +229,9 @@ msgstr "Personality"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "偶尔有些显得冷漠、但不是少言寡语、她只要开口说话一定是非常重要的信息。"
-msgstr "Occasionally appears somewhat cold, but not reticent. Whenever she speaks, it is always very important information."
+msgstr ""
+"Occasionally appears somewhat cold, but not reticent. Whenever she "
+"speaks, it is always very important information."
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "未实现目标"
@@ -181,7 +247,9 @@ msgstr "Family Information"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "刍狗组织的创始人是她的父亲（也是乌云的真身？）"
-msgstr "The founder of the Chugou organization is her father (also Wuyun's true self?)"
+msgstr ""
+"The founder of the Chugou organization is her father (also Wuyun's true "
+"self?)"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "爱好"
@@ -197,7 +265,11 @@ msgstr "Quirks / Flaws"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "在有选择的时候，偏好使用暴力的解决办法（南无加特林菩萨，六根清净贫铀弹，一息三千六百转，大慈大悲渡世人。）"
-msgstr "When given choices, prefers violent solutions (Praise the Gatling Bodhisattva, with depleted uranium rounds purifying the six senses, three thousand six hundred revolutions per breath, great mercy and compassion delivering all sentient beings.)"
+msgstr ""
+"When given choices, prefers violent solutions (Praise the Gatling "
+"Bodhisattva, with depleted uranium rounds purifying the six senses, three"
+" thousand six hundred revolutions per breath, great mercy and compassion "
+"delivering all sentient beings.)"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "天赋"
@@ -229,7 +301,9 @@ msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "谁得到她就可以得到控制游戏的能力，所以也为她惹来了不少的麻烦。"
-msgstr "Whoever obtains her gains the ability to control the game, which brings her quite a lot of trouble."
+msgstr ""
+"Whoever obtains her gains the ability to control the game, which brings "
+"her quite a lot of trouble."
 
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "立绘"
@@ -250,3 +324,4 @@ msgstr "Writer"
 #: ../../source/gamedoc/characters/yu.md:21
 msgid "嗲、瑾"
 msgstr "Dia, Jin"
+

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -80,7 +80,9 @@ msgstr "Name"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "李叶那（也叫英荣叶那，佤语中意为英荣家的大女儿）"
-msgstr "Li Yena (also known as Yingrong Yena, meaning the eldest daughter of the Yingrong family in Wa language)"
+msgstr ""
+"Li Yena (also known as Yingrong Yena, meaning the eldest daughter of the "
+"Yingrong family in Wa language)"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "年龄"
@@ -120,7 +122,9 @@ msgstr "Appearance"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "明亮的眼眸，会发光的天生小麦色皮肤，身材体态非常完美（黄金分割比、马甲线、etc）"
-msgstr "Bright eyes, naturally glowing wheat-toned skin, perfect body proportions (golden ratio, v-line abs, etc.)"
+msgstr ""
+"Bright eyes, naturally glowing wheat-toned skin, perfect body proportions"
+" (golden ratio, v-line abs, etc.)"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "头发"
@@ -147,7 +151,11 @@ msgid ""
 "银色闪光的宽边头箍（参考日韩潮流款） + 网纱罩衫（半透明色） + 露腰T恤 + 高腰短裤 + 运动鞋 + 牛头形状的金属吊坠 + "
 "一些佤族少数民族服饰上的元素（可选，如参考配色以红黑为主）"
 msgstr ""
-"Silver shimmering wide headband (referencing Japanese-Korean trendy styles) + mesh overlay shirt (semi-transparent) + crop top T-shirt + high-waisted shorts + sneakers + bull-head-shaped metal pendant + some Wa ethnic minority clothing elements (optional, such as red and black as the primary color scheme)"
+"Silver shimmering wide headband (referencing Japanese-Korean trendy "
+"styles) + mesh overlay shirt (semi-transparent) + crop top T-shirt + "
+"high-waisted shorts + sneakers + bull-head-shaped metal pendant + some Wa"
+" ethnic minority clothing elements (optional, such as red and black as "
+"the primary color scheme)"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "性格"
@@ -155,7 +163,13 @@ msgstr "Personality"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "表面上是有话就说的直爽性格，对人十分真诚（很real），被人说出戳中内心的话时却又会有些害羞。富有正义感，绝对无法容忍会伤害别人的事在自己面前发生。有很强的同理心，看到生活过得比自己不如意的人会觉得十分心疼。内心中也不时会有一些会让自己变得怯懦的阴影徘徊"
-msgstr "Outwardly straightforward and speaks her mind, very genuine (very real) with people, yet becomes a bit shy when someone says something that touches her heart. Has a strong sense of justice and absolutely cannot tolerate seeing harm done to others in her presence. Highly empathetic, feels deep sorrow seeing people worse off than herself. Inwardly, shadows that make her timid still linger from time to time"
+msgstr ""
+"Outwardly straightforward and speaks her mind, very genuine (very real) "
+"with people, yet becomes a bit shy when someone says something that "
+"touches her heart. Has a strong sense of justice and absolutely cannot "
+"tolerate seeing harm done to others in her presence. Highly empathetic, "
+"feels deep sorrow seeing people worse off than herself. Inwardly, shadows"
+" that make her timid still linger from time to time"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "特技"
@@ -163,7 +177,9 @@ msgstr "Special Skill"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "有舞蹈天赋，因为长年练舞，身体协调性和控制力非常强"
-msgstr "Has a talent for dance, with excellent body coordination and control from years of dance training"
+msgstr ""
+"Has a talent for dance, with excellent body coordination and control from"
+" years of dance training"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "弱点"
@@ -171,15 +187,24 @@ msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "曾有吸烟的恶习（正在戒断中，嘴里偶尔会叼着根 pocky 或棒棒糖解压），偶尔会提及过去养成的坏习惯是源于家庭压力的原因。"
-msgstr "Had a smoking habit (currently quitting, occasionally holds a Pocky stick or lollipop in her mouth for stress relief), sometimes mentions that past bad habits stemmed from family pressure."
+msgstr ""
+"Had a smoking habit (currently quitting, occasionally holds a Pocky stick"
+" or lollipop in her mouth for stress relief), sometimes mentions that "
+"past bad habits stemmed from family pressure."
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "口吻"
 msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/liyena.md:15
-msgid ""会受伤又怎么样，害怕就躲开，我来对付这些家伙。"对教员："哥/姐，我觉得你可以更勇敢一点，不要怕要求我们做得更多，不然这样子大家真的很难进步。"一阵交战后偶遇误入战场的粉丝："嘿，没有啦，我的战斗没有你们说的那么厉害，还要导师再教教我们。""
-msgstr "\"So what if I get hurt? If you're scared, step back, I'll handle these guys.\" To the instructor: \"Bro/Sis, I think you can be a bit braver, don't be afraid to push us harder, otherwise it's really hard for everyone to improve this way.\" After a battle, running into fans who wandered onto the battlefield: \"Hey, no, my fighting isn't as impressive as you all say, I still need the instructor to teach us more.\""
+msgid "“会受伤又怎么样，害怕就躲开，我来对付这些家伙。”对教员：“哥/姐，我觉得你可以更勇敢一点，不要怕要求我们做得更多，不然这样子大家真的很难进步。”一阵交战后偶遇误入战场的粉丝：“嘿，没有啦，我的战斗没有你们说的那么厉害，还要导师再教教我们。”"
+msgstr ""
+"\"So what if I get hurt? If you're scared, step back, I'll handle these "
+"guys.\" To the instructor: \"Bro/Sis, I think you can be a bit braver, "
+"don't be afraid to push us harder, otherwise it's really hard for "
+"everyone to improve this way.\" After a battle, running into fans who "
+"wandered onto the battlefield: \"Hey, no, my fighting isn't as impressive"
+" as you all say, I still need the instructor to teach us more.\""
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "故事设定"
@@ -190,7 +215,32 @@ msgid ""
 "一个很容易从外表和言谈中就让人感受到魅力的女孩，记忆中的童年生活里经历过很多波折。后来遇到了 Mountain KIDS "
 "街舞社，通过舞蹈重新找到了自己，也通过参加很多表演和比赛活动，给生活在不安中的人们带来了很多鼓舞和希望。但是内心里她却认为明明生活在一个动荡不安，大家生命安全都无法保障的世界，自己不应该装作没事似的地去享受一种安宁的生活。所以她离开了街舞社来到了反抗军学园，决心在夺回世界和平以前，也不再跳自己最喜欢的舞蹈。离开舞社后的叶那在外出任务时还总会遇到那些烦人不已又让人尴尬的喜欢她的男粉丝们，甚至有的疯狂的粉丝们甚至愿意冒着生命危险前往战斗前线只为了一睹她的战斗英姿。<br>【隐藏设定】：因为非法养育人口的成本远低于使用游戏计算服务器的成本，李叶那实际是游戏公司在非法的培养容器中成长的克隆人类，并被培养容器限制了自己对世界的认知，被用于在游戏中扮演具有高度AI能力的NPC角色与玩家互动，但是却无法自知。在养育李叶那时，游戏公司为了缩短非法养育人口的精神成长周期，故意使用被设定为充满挫折的生长环境的认知虚拟机容器来培养人的认知。因为相关研究表明充满挫折的成长环境能让人的精神和思想更快的成熟（挫折使人成长）。所以李叶那在现实中实际的生理年龄小于游戏中所表现出的年龄。"
 msgstr ""
-"A girl whose charm is immediately apparent from her appearance and conversation, whose childhood memories are filled with many upheavals. Later she encountered the Mountain KIDS street dance crew, rediscovered herself through dance, and brought much encouragement and hope to people living in anxiety through participating in many performances and competitions. But deep down, she felt that living in an unstable world where everyone's safety was at risk, she shouldn't pretend everything was fine and enjoy a peaceful life. So she left the dance crew and joined the resistance academy, resolving not to dance her favorite dances again until world peace was restored. After leaving the crew, Yena would always encounter those annoying and embarrassing male fans during missions, some of whom were even willing to risk their lives traveling to the frontlines just to witness her fighting prowess.<br>[Hidden Setting]: Because the cost of illegally raising humans is far lower than using game computing servers, Li Yena is actually a cloned human grown in illegal cultivation containers by the game company, with her perception of the world limited by the cultivation container, used to play a highly capable AI-driven NPC character interacting with players, yet unable to realize this herself. When raising Li Yena, the game company intentionally used a cognitive virtual machine container set to a frustration-filled growth environment to cultivate human cognition, in order to shorten the mental growth cycle of illegally raised humans. This is because related research shows that frustration-filled growth environments accelerate mental and intellectual maturation (hardship makes one grow). Therefore, Li Yena's actual biological age in reality is younger than the age she displays in the game."
+"A girl whose charm is immediately apparent from her appearance and "
+"conversation, whose childhood memories are filled with many upheavals. "
+"Later she encountered the Mountain KIDS street dance crew, rediscovered "
+"herself through dance, and brought much encouragement and hope to people "
+"living in anxiety through participating in many performances and "
+"competitions. But deep down, she felt that living in an unstable world "
+"where everyone's safety was at risk, she shouldn't pretend everything was"
+" fine and enjoy a peaceful life. So she left the dance crew and joined "
+"the resistance academy, resolving not to dance her favorite dances again "
+"until world peace was restored. After leaving the crew, Yena would always"
+" encounter those annoying and embarrassing male fans during missions, "
+"some of whom were even willing to risk their lives traveling to the "
+"frontlines just to witness her fighting prowess.<br>[Hidden Setting]: "
+"Because the cost of illegally raising humans is far lower than using game"
+" computing servers, Li Yena is actually a cloned human grown in illegal "
+"cultivation containers by the game company, with her perception of the "
+"world limited by the cultivation container, used to play a highly capable"
+" AI-driven NPC character interacting with players, yet unable to realize "
+"this herself. When raising Li Yena, the game company intentionally used a"
+" cognitive virtual machine container set to a frustration-filled growth "
+"environment to cultivate human cognition, in order to shorten the mental "
+"growth cycle of illegally raised humans. This is because related research"
+" shows that frustration-filled growth environments accelerate mental and "
+"intellectual maturation (hardship makes one grow). Therefore, Li Yena's "
+"actual biological age in reality is younger than the age she displays in "
+"the game."
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "学员专业"
@@ -214,7 +264,9 @@ msgstr "Li Yena (Portrait)"
 
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "![李叶那（更新立绘）](/img/figure/liyena-update.png)<br>*画师：蓂*"
-msgstr "![Li Yena (Updated Portrait)](/img/figure/liyena-update.png)<br>*Artist: Ming*"
+msgstr ""
+"![Li Yena (Updated Portrait)](/img/figure/liyena-update.png)<br>*Artist: "
+"Ming*"
 
 #: ../../source/gamedoc/characters/liyena.md:32
 msgid "李叶那（更新立绘）"
@@ -227,3 +279,4 @@ msgstr "Writer"
 #: ../../source/gamedoc/characters/liyena.md:15
 msgid "瑾"
 msgstr "Jin"
+

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -93,7 +93,13 @@ msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/char.md:7
 msgid "灵活就业人员（以智力和文化工作为主，没有稳定的服务方，在背景设定的这个时代里，进行文化品创作和消费使用文化品本省都是一种职业，所产生的价值是可以创造数据供应给智能AI的研发），C+智力劳动职级（初入职场的年轻人通常会被评定的能力等级）"
-msgstr "Freelance worker (primarily engaged in intellectual and cultural work, without a stable employer. In the era of this setting, creating and consuming cultural products is itself a profession, and the value generated can create data to supply AI research and development), C+ intellectual labor grade (the competency level typically assigned to young people entering the workforce)"
+msgstr ""
+"Freelance worker (primarily engaged in intellectual and cultural work, "
+"without a stable employer. In the era of this setting, creating and "
+"consuming cultural products is itself a profession, and the value "
+"generated can create data to supply AI research and development), C+ "
+"intellectual labor grade (the competency level typically assigned to "
+"young people entering the workforce)"
 
 #: ../../source/gamedoc/characters/char.md:7
 #: ../../source/gamedoc/characters/char.md:29
@@ -102,7 +108,12 @@ msgstr "Appearance"
 
 #: ../../source/gamedoc/characters/char.md:7
 msgid "没有突出的特点，但在普通人中颜值也比较优秀。看起来十分年轻却又比同龄人要沉稳。通过成人仪式时接受了电子义眼的改造，可以自由改变眼瞳的颜色、大小以及瞳孔形状（电子义眼是接入VR游戏必须的人体植入设备）"
-msgstr "No standout features, but above-average looks among ordinary people. Appears very young yet more composed than peers. Received electronic prosthetic eye modification during the coming-of-age ceremony, allowing free changes to iris color, size, and pupil shape (electronic prosthetic eyes are a required human implant for accessing VR games)"
+msgstr ""
+"No standout features, but above-average looks among ordinary people. "
+"Appears very young yet more composed than peers. Received electronic "
+"prosthetic eye modification during the coming-of-age ceremony, allowing "
+"free changes to iris color, size, and pupil shape (electronic prosthetic "
+"eyes are a required human implant for accessing VR games)"
 
 #: ../../source/gamedoc/characters/char.md:7
 #: ../../source/gamedoc/characters/char.md:29
@@ -138,7 +149,10 @@ msgstr "Personality"
 
 #: ../../source/gamedoc/characters/char.md:7
 msgid "温良俭让，不卑不亢。乐于与不同主张和想法的人交流，愿意努力理解和接纳不同的想法"
-msgstr "Gentle, kind, frugal, and yielding, neither humble nor arrogant. Enjoys communicating with people of different views and ideas, willing to strive to understand and accept different perspectives"
+msgstr ""
+"Gentle, kind, frugal, and yielding, neither humble nor arrogant. Enjoys "
+"communicating with people of different views and ideas, willing to strive"
+" to understand and accept different perspectives"
 
 #: ../../source/gamedoc/characters/char.md:7
 #: ../../source/gamedoc/characters/char.md:29
@@ -147,7 +161,10 @@ msgstr "Special Skill"
 
 #: ../../source/gamedoc/characters/char.md:7
 msgid "擅长与他人分享自己的知识和技能。知道怎么接纳别人的缺点，一起共事的时候很擅长安抚或是鼓舞他人"
-msgstr "Skilled at sharing knowledge and abilities with others. Knows how to accept others' shortcomings, and excels at comforting or inspiring others when working together"
+msgstr ""
+"Skilled at sharing knowledge and abilities with others. Knows how to "
+"accept others' shortcomings, and excels at comforting or inspiring others"
+" when working together"
 
 #: ../../source/gamedoc/characters/char.md:7
 #: ../../source/gamedoc/characters/char.md:29
@@ -156,7 +173,9 @@ msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/char.md:7
 msgid "在社会化扶养机制下，自出生就背负着的巨大贷款压力，谈钱色变"
-msgstr "Under the socialized child-rearing system, has borne enormous loan pressure since birth, turns pale at the mention of money"
+msgstr ""
+"Under the socialized child-rearing system, has borne enormous loan "
+"pressure since birth, turns pale at the mention of money"
 
 #: ../../source/gamedoc/characters/char.md:7
 #: ../../source/gamedoc/characters/char.md:29
@@ -164,8 +183,11 @@ msgid "口吻"
 msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/char.md:7
-msgid "比较理性和冷静。与竞争者谈判时："虽然想法与做法不同，但我们利益是一致的，更应该互相理解与合作不是吗？""
-msgstr "Relatively rational and calm. When negotiating with competitors: \"Although our ideas and methods differ, our interests are aligned. Shouldn't we understand and cooperate with each other?\""
+msgid "比较理性和冷静。与竞争者谈判时：“虽然想法与做法不同，但我们利益是一致的，更应该互相理解与合作不是吗？”"
+msgstr ""
+"Relatively rational and calm. When negotiating with competitors: "
+"\"Although our ideas and methods differ, our interests are aligned. "
+"Shouldn't we understand and cooperate with each other?\""
 
 #: ../../source/gamedoc/characters/char.md:7
 #: ../../source/gamedoc/characters/char.md:29
@@ -173,11 +195,25 @@ msgid "故事设定"
 msgstr "Story Setting"
 
 #: ../../source/gamedoc/characters/char.md:7
+#, fuzzy
 msgid ""
-"主角是通过社会性扶养系统养育的人类，记忆中一直有父母的陪伴，成年后通过参加世界认知的课程了解到陪伴自己的虚拟父母与真实父母的差别，以及被告知人生存在就是向社会贡献自己的智力资源的主流价值。最开始对自己的人生目标并没有太多思考，在媒体的宣传下购买了时下流行的游戏产品，通过暂时封闭现实记忆后进行虚拟世界游戏的游玩。直到在游戏中发现世界运行机制对人类存有的恶意后，决心加入集合众智的沧陵（沧桑陵谷）基金会支持的项目"World"
-" Update Project"，并和组织成员一起自称"刍狗"，开始寻找对抗世界不公的方法"
+"主角是通过社会性扶养系统养育的人类，记忆中一直有父母的陪伴，成年后通过参加世界认知的课程了解到陪伴自己的虚拟父母与真实父母的差别，以及被告知人生存在就是向社会贡献自己的智力资源的主流价值。最开始对自己的人生目标并没有太多思考，在媒体的宣传下购买了时下流行的游戏产品，通过暂时封闭现实记忆后进行虚拟世界游戏的游玩。直到在游戏中发现世界运行机制对人类存有的恶意后，决心加入集合众智的沧陵（沧桑陵谷）基金会支持的项目“World"
+" Update Project”，并和组织成员一起自称“刍狗”，开始寻找对抗世界不公的方法"
 msgstr ""
-"The protagonist is a human raised through the socialized child-rearing system, with memories of always having their parents' company. After coming of age, through world-awareness courses, they learned the difference between the virtual parents who accompanied them and real parents, and were told the mainstream value that one's existence is about contributing intellectual resources to society. Initially without much thought about life goals, they purchased a popular game product under media promotion, playing the virtual world game after temporarily sealing real-world memories. Upon discovering in the game the world's operating mechanism harboring malice toward humanity, they resolved to join the \"World Update Project\" supported by the Cangling Foundation (an organization gathering collective wisdom), and together with other members calling themselves \"Chugou\" (Straw Dogs), began seeking ways to fight against the world's injustices"
+"The protagonist is a human raised through the socialized child-rearing "
+"system, with memories of always having their parents' company. After "
+"coming of age, through world-awareness courses, they learned the "
+"difference between the virtual parents who accompanied them and real "
+"parents, and were told the mainstream value that one's existence is about"
+" contributing intellectual resources to society. Initially without much "
+"thought about life goals, they purchased a popular game product under "
+"media promotion, playing the virtual world game after temporarily sealing"
+" real-world memories. Upon discovering in the game the world's operating "
+"mechanism harboring malice toward humanity, they resolved to join the "
+"\"World Update Project\" supported by the Cangling Foundation (an "
+"organization gathering collective wisdom), and together with other "
+"members calling themselves \"Chugou\" (Straw Dogs), began seeking ways to"
+" fight against the world's injustices"
 
 #: ../../source/gamedoc/characters/char.md:7
 #: ../../source/gamedoc/characters/char.md:29
@@ -239,8 +275,10 @@ msgid "导师（男Q版）"
 msgstr "Instructor (Male Chibi)"
 
 #: ../../source/gamedoc/characters/char.md:29
-msgid "玩家设置，随着剧情发展也以"辅导员"、"教员"和"导师"进行称呼"
-msgstr "Player setting, also referred to as \"Counselor\", \"Instructor\", and \"Mentor\" as the story progresses"
+msgid "玩家设置，随着剧情发展也以“辅导员”、“教员”和“导师”进行称呼"
+msgstr ""
+"Player setting, also referred to as \"Counselor\", \"Instructor\", and "
+"\"Mentor\" as the story progresses"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "玩家选择，男/女"
@@ -252,43 +290,75 @@ msgstr "Teacher at the human resistance organization's military academy"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "基本同现实人设，没有突出的特点，但在普通人中颜值也比较优秀，看起来十分年轻却又比同龄人要沉稳。眼瞳为黑色及正常形状"
-msgstr "Basically same as real world setting, no standout features but above-average looks among ordinary people, appears very young yet more composed than peers. Eyes are black with normal shape"
+msgstr ""
+"Basically same as real world setting, no standout features but above-"
+"average looks among ordinary people, appears very young yet more composed"
+" than peers. Eyes are black with normal shape"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "同现实人设，黑色长发（男式/女式），偏职业风比较干练的发型(束发造型)"
-msgstr "Same as real world setting, long black hair (male/female style), professional and neat hairstyle (tied-up style)"
+msgstr ""
+"Same as real world setting, long black hair (male/female style), "
+"professional and neat hairstyle (tied-up style)"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "同现实人设，女身高165cm，体重46kg；男身高175cm，体重61kg"
-msgstr "Same as real world setting, Female: height 165cm, weight 46kg; Male: height 175cm, weight 61kg"
+msgstr ""
+"Same as real world setting, Female: height 165cm, weight 46kg; Male: "
+"height 175cm, weight 61kg"
 
 #: ../../source/gamedoc/characters/char.md:29
-msgid "马丁靴（女长筒/男短靴） + 迷彩特种兵裤（口袋+金属饰物） + 无修T恤 + 夹克外套 + 黄色袖章（写有汉字"师"） + 中国风图案"
-msgstr "Martin boots (female knee-high / male short boots) + Camo special forces pants (pockets + metal accessories) + Plain T-shirt + Jacket + Yellow armband (with Chinese character \"师\" meaning \"Teacher\") + Chinese-style patterns"
+msgid "马丁靴（女长筒/男短靴） + 迷彩特种兵裤（口袋+金属饰物） + 无修T恤 + 夹克外套 + 黄色袖章（写有汉字“师”） + 中国风图案"
+msgstr ""
+"Martin boots (female knee-high / male short boots) + Camo special forces "
+"pants (pockets + metal accessories) + Plain T-shirt + Jacket + Yellow "
+"armband (with Chinese character \"师\" meaning \"Teacher\") + Chinese-"
+"style patterns"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "同现实人设，温良俭让，不卑不亢。乐于与不同主张和想法的人交流，愿意努力理解和接纳不同的想法"
-msgstr "Same as real world setting, gentle, kind, frugal, and yielding, neither humble nor arrogant. Enjoys communicating with people of different views and ideas, willing to strive to understand and accept different perspectives"
+msgstr ""
+"Same as real world setting, gentle, kind, frugal, and yielding, neither "
+"humble nor arrogant. Enjoys communicating with people of different views "
+"and ideas, willing to strive to understand and accept different "
+"perspectives"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "擅长对自己的战斗经验、知识和技能进行传授与分享。知道怎么接纳别人的缺点，在团队中善于安抚他人或是鼓舞士气"
-msgstr "Skilled at teaching and sharing combat experience, knowledge, and abilities. Knows how to accept others' shortcomings, excels at comforting others or boosting morale in the team"
+msgstr ""
+"Skilled at teaching and sharing combat experience, knowledge, and "
+"abilities. Knows how to accept others' shortcomings, excels at comforting"
+" others or boosting morale in the team"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "积极努力的外表下其实由缺乏自信的内心在支撑，常在内心中反思自己的言行，并因为太过在意学员们的成长而感到不安"
-msgstr "Beneath the diligent exterior lies a heart lacking self-confidence, often reflecting inwardly on words and actions, feeling anxious from caring too much about students' growth"
+msgstr ""
+"Beneath the diligent exterior lies a heart lacking self-confidence, often"
+" reflecting inwardly on words and actions, feeling anxious from caring "
+"too much about students' growth"
 
 #: ../../source/gamedoc/characters/char.md:29
-msgid "面对表现不好的学员："没有关系，无论谁都是从最开始什么都做不好再努力进步的，我们一起加油吧。"内心："有我的责任，要更多的做好授课帮助他们进步。""
-msgstr "To underperforming students: \"It's okay, everyone starts out not doing well and then works hard to improve. Let's do our best together.\" Inner thoughts: \"This is my responsibility, I need to teach better to help them improve.\""
+msgid "面对表现不好的学员：“没有关系，无论谁都是从最开始什么都做不好再努力进步的，我们一起加油吧。”内心：“有我的责任，要更多的做好授课帮助他们进步。”"
+msgstr ""
+"To underperforming students: \"It's okay, everyone starts out not doing "
+"well and then works hard to improve. Let's do our best together.\" Inner "
+"thoughts: \"This is my responsibility, I need to teach better to help "
+"them improve.\""
 
 #: ../../source/gamedoc/characters/char.md:29
-msgid "在完成了战场教师的培训后，被安排到最危险的"人类之笼"据点的战斗学院担任教师。实际上主角担任着两个职责，一个是教育和培养战场新人，同时带领由学员组成的军事小队，策划和实施军事行动"
-msgstr "After completing battlefield instructor training, was assigned as a teacher at the combat academy of the most dangerous stronghold, \"Cage of Humanity.\" In reality, the protagonist bears two responsibilities: educating and training battlefield newcomers, while leading a military squad composed of students, planning and executing military operations"
+msgid "在完成了战场教师的培训后，被安排到最危险的“人类之笼”据点的战斗学院担任教师。实际上主角担任着两个职责，一个是教育和培养战场新人，同时带领由学员组成的军事小队，策划和实施军事行动"
+msgstr ""
+"After completing battlefield instructor training, was assigned as a "
+"teacher at the combat academy of the most dangerous stronghold, \"Cage of"
+" Humanity.\" In reality, the protagonist bears two responsibilities: "
+"educating and training battlefield newcomers, while leading a military "
+"squad composed of students, planning and executing military operations"
 
 #: ../../source/gamedoc/characters/char.md:29
 msgid "![女导师（立绘）](/img/figure/charF.png)<br>*画师：丁丁*"
-msgstr "![Female Instructor (Portrait)](/img/figure/charF.png)<br>*Artist: Dingding*"
+msgstr ""
+"![Female Instructor (Portrait)](/img/figure/charF.png)<br>*Artist: "
+"Dingding*"
 
 #: ../../source/gamedoc/characters/char.md:44
 msgid "女导师（立绘）"
@@ -301,3 +371,4 @@ msgstr "![Male Instructor (Portrait)](/img/figure/charM.png)<br>*Artist: Dingdin
 #: ../../source/gamedoc/characters/char.md:45
 msgid "男导师（立绘）"
 msgstr "Male Instructor (Portrait)"
+

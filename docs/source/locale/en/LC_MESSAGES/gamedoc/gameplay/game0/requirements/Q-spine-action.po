@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -32,27 +32,41 @@ msgstr "1. Use the latest version of Spine whenever possible."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:6
 msgid "2.人物模型的默认姿态需要调整为普通待机动作的第一帧。"
-msgstr "2. The character model's default pose should be set to the first frame of the normal idle animation."
+msgstr ""
+"2. The character model's default pose should be set to the first frame of"
+" the normal idle animation."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:7
-msgid "3."向前移动"和"向后移动"动画在脚步落地时增加事件帧，名为"step"，用于绑定音效。"
-msgstr "3. Add an event frame named \"step\" to the \"Forward Move\" and \"Backward Move\" animations when the foot hits the ground, for binding sound effects."
+msgid "3.“向前移动”和“向后移动”动画在脚步落地时增加事件帧，名为“step”，用于绑定音效。"
+msgstr ""
+"3. Add an event frame named \"step\" to the \"Forward Move\" and "
+"\"Backward Move\" animations when the foot hits the ground, for binding "
+"sound effects."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:8
-msgid "4.所有攻击动画需要添加攻击伤害实际发生的事件帧，名为"attack"，用于触发创建弹药或进行攻击命中检测等用途。"
-msgstr "4. All attack animations need an event frame named \"attack\" added at the moment attack damage actually occurs, used for triggering projectile creation or attack hit detection."
+msgid "4.所有攻击动画需要添加攻击伤害实际发生的事件帧，名为“attack”，用于触发创建弹药或进行攻击命中检测等用途。"
+msgstr ""
+"4. All attack animations need an event frame named \"attack\" added at "
+"the moment attack damage actually occurs, used for triggering projectile "
+"creation or attack hit detection."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:9
 msgid "5.攻击动作动画时间最长控制在2s内，特殊待机动画时长不限。"
-msgstr "5. Attack animation duration should be kept within 2 seconds maximum. Special idle animation duration is unlimited."
+msgstr ""
+"5. Attack animation duration should be kept within 2 seconds maximum. "
+"Special idle animation duration is unlimited."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:10
-msgid "6.人物工程的命名参见"动作表"里人物名称下的英文名称。"
-msgstr "6. Character project naming should follow the English names listed under character names in the \"Action Table.\""
+msgid "6.人物工程的命名参见“动作表”里人物名称下的英文名称。"
+msgstr ""
+"6. Character project naming should follow the English names listed under "
+"character names in the \"Action Table.\""
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:11
 msgid "7.成品仅需提供完整工程文件，不用做导出。"
-msgstr "7. Only the complete project file is needed for the final deliverable; no export is required."
+msgstr ""
+"7. Only the complete project file is needed for the final deliverable; no"
+" export is required."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:13
 msgid "需求清单"
@@ -276,7 +290,9 @@ msgstr "prepare"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "战斗状态的普通待机，手持武器、双脚分开、身体重心靠下"
-msgstr "Normal idle in combat state, holding weapon, feet apart, center of gravity lowered"
+msgstr ""
+"Normal idle in combat state, holding weapon, feet apart, center of "
+"gravity lowered"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "近战攻击"
@@ -357,3 +373,4 @@ msgstr "comm"
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "单膝跪姿"
 msgstr "Single-knee kneeling"
+

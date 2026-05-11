@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
 "PO-Revision-Date: 2026-05-11 00:00+0000\n"
 "Last-Translator: Community Translator\n"
 "Language: en\n"
@@ -63,8 +63,11 @@ msgid "名字"
 msgstr "Name"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
-msgid "王子乔（"仙人王子乔，难可与等期"，借喻一个压抑自我的人最终获得了解放和救赎）"
-msgstr "Wang Ziqiao (\"The immortal Wang Ziqiao, difficult to match his pace,\" a metaphor for someone who suppressed themselves ultimately finding liberation and redemption)"
+msgid "王子乔（“仙人王子乔，难可与等期”，借喻一个压抑自我的人最终获得了解放和救赎）"
+msgstr ""
+"Wang Ziqiao (\"The immortal Wang Ziqiao, difficult to match his pace,\" a"
+" metaphor for someone who suppressed themselves ultimately finding "
+"liberation and redemption)"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "年龄"
@@ -136,7 +139,25 @@ msgstr "Early Experience"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "王子乔因为从小的家庭教育以及经历了家人的变故，成为了一个对自己十分苛刻的人。对社会生活的规则和人情事故非常地重视，严苛地遵守各式的社会规则，也成为了他怎样去做一个好人的信条。成年后从警校毕业，以优秀的成绩入职成为一名狱警，负责看守基地的特殊重刑犯，为罪犯做思想教育的工作并发现和中止他们的越狱企图。直到有一天，监狱里来了一名新的重刑犯，告诉他所信赖的一切都是虚假的，甚至这个世界的真相只是一个任意游玩的电子游戏。在亲眼见识犯人的所说的真相后，王子乔感到自己的世界开始崩塌。他开始不明白长久以来压抑着自己天性去遵循的秩序与规则到底是为什么？后来在一次抓捕逃犯的行动中王子乔失踪了，有人说他在任务中接触犯罪份子后反而加入了罪犯的组织。"
-msgstr "Due to his childhood family education and the upheavals his family experienced, Wang Ziqiao became a person who was extremely demanding of himself. He placed great importance on social rules and human relations, strictly observing all kinds of social rules, which became his creed for how to be a good person. After coming of age, he graduated from the police academy and became a prison guard with excellent grades, responsible for guarding special heavy-sentence criminals at the base, conducting ideological education for inmates and detecting and thwarting their escape attempts. Until one day, a new heavy-sentence criminal arrived at the prison, telling him that everything he trusted was false, and that the truth of this world was nothing more than a video game played for amusement. After witnessing the truth the inmate spoke of firsthand, Wang Ziqiao felt his world beginning to collapse. He began to not understand why he had suppressed his nature for so long to follow order and rules. Later, during an operation to capture an escaped prisoner, Wang Ziqiao disappeared. Some said that after contacting criminals during the mission, he actually joined the criminal organization."
+msgstr ""
+"Due to his childhood family education and the upheavals his family "
+"experienced, Wang Ziqiao became a person who was extremely demanding of "
+"himself. He placed great importance on social rules and human relations, "
+"strictly observing all kinds of social rules, which became his creed for "
+"how to be a good person. After coming of age, he graduated from the "
+"police academy and became a prison guard with excellent grades, "
+"responsible for guarding special heavy-sentence criminals at the base, "
+"conducting ideological education for inmates and detecting and thwarting "
+"their escape attempts. Until one day, a new heavy-sentence criminal "
+"arrived at the prison, telling him that everything he trusted was false, "
+"and that the truth of this world was nothing more than a video game "
+"played for amusement. After witnessing the truth the inmate spoke of "
+"firsthand, Wang Ziqiao felt his world beginning to collapse. He began to "
+"not understand why he had suppressed his nature for so long to follow "
+"order and rules. Later, during an operation to capture an escaped "
+"prisoner, Wang Ziqiao disappeared. Some said that after contacting "
+"criminals during the mission, he actually joined the criminal "
+"organization."
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "遭受的失败"
@@ -152,7 +173,9 @@ msgstr "Why"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "在更加复杂的世界背景下，王子乔发现一味地遵循自己世界的秩序和规则并不能真正地行使正义。"
-msgstr "In a more complex world context, Wang Ziqiao discovered that blindly following his world's order and rules could not truly deliver justice."
+msgstr ""
+"In a more complex world context, Wang Ziqiao discovered that blindly "
+"following his world's order and rules could not truly deliver justice."
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "性格"
@@ -160,7 +183,12 @@ msgstr "Personality"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "沉默寡言，偶尔会因为看不惯不合规矩的事物而进行冷嘲热讽。不喜欢和太随性的人相处。见识到世界真相后，性格剧烈地改变，自己也变得越发开朗和随性起来，变得什么事都愿意去尝试，像是熬过了人生重大波折看开一切的状态。"
-msgstr "Reticent, occasionally sarcastic about things that don't follow rules. Dislikes spending time with overly casual people. After witnessing the world's truth, his personality changed dramatically, becoming increasingly cheerful and casual, willing to try anything, like someone who has weathered a major life upheaval and sees through everything."
+msgstr ""
+"Reticent, occasionally sarcastic about things that don't follow rules. "
+"Dislikes spending time with overly casual people. After witnessing the "
+"world's truth, his personality changed dramatically, becoming "
+"increasingly cheerful and casual, willing to try anything, like someone "
+"who has weathered a major life upheaval and sees through everything."
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "未实现目标"
@@ -176,7 +204,10 @@ msgstr "Family Information"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "有一个去世的哥哥（被监狱逃犯随机杀害），凶手至今没有找到，这也是他当狱警的原因。"
-msgstr "Has a deceased older brother (randomly killed by an escaped prisoner), the murderer has never been found, which is also why he became a prison guard."
+msgstr ""
+"Has a deceased older brother (randomly killed by an escaped prisoner), "
+"the murderer has never been found, which is also why he became a prison "
+"guard."
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "爱好"
@@ -184,7 +215,10 @@ msgstr "Hobbies"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "按部就班地工作，把一切事物处理得井井有条。喜欢吃各式甜点，但每次一吃完甜点就会立刻做大量运动消耗掉多余的卡路里。"
-msgstr "Working methodically, keeping everything well-organized. Likes eating various desserts, but immediately does extensive exercise after each dessert to burn off the extra calories."
+msgstr ""
+"Working methodically, keeping everything well-organized. Likes eating "
+"various desserts, but immediately does extensive exercise after each "
+"dessert to burn off the extra calories."
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "怪癖／缺点"
@@ -200,7 +234,9 @@ msgstr "Talent"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "能够通过第六感感知到陌生人是否有违法犯罪的可能。"
-msgstr "Able to sense through a sixth sense whether strangers have the potential to commit crimes."
+msgstr ""
+"Able to sense through a sixth sense whether strangers have the potential "
+"to commit crimes."
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "家族传统"
@@ -216,7 +252,10 @@ msgstr "Greatest Fear"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "开始：有一天他会脱离于社会规则，成为自己最痛恨的人。后来：什么都是虚假的世界已经没什么好怕的了。"
-msgstr "Beginning: That one day he would deviate from social rules and become the person he hates most. Later: In a world where everything is fake, there's nothing left to fear."
+msgstr ""
+"Beginning: That one day he would deviate from social rules and become the"
+" person he hates most. Later: In a world where everything is fake, "
+"there's nothing left to fear."
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "即使面对恶行的发生，他始终相信程序正义。"
@@ -244,7 +283,9 @@ msgstr "Portrait"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "![王子乔（立绘）](/img/figure/wangziqiao.png)<br>*画师：周大西*"
-msgstr "![Wang Ziqiao (Portrait)](/img/figure/wangziqiao.png)<br>*Artist: Zhou Daxi*"
+msgstr ""
+"![Wang Ziqiao (Portrait)](/img/figure/wangziqiao.png)<br>*Artist: Zhou "
+"Daxi*"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:38
 msgid "王子乔（立绘）"
@@ -252,7 +293,9 @@ msgstr "Wang Ziqiao (Portrait)"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "![王子乔（更新立绘）](/img/figure/wangziqiao-update.png)<br>*画师：杏杏*"
-msgstr "![Wang Ziqiao (Updated Portrait)](/img/figure/wangziqiao-update.png)<br>*Artist: Xingxing*"
+msgstr ""
+"![Wang Ziqiao (Updated Portrait)](/img/figure/wangziqiao-"
+"update.png)<br>*Artist: Xingxing*"
 
 #: ../../source/gamedoc/characters/wangziqiao.md:39
 msgid "王子乔（更新立绘）"
@@ -265,3 +308,4 @@ msgstr "Writer"
 #: ../../source/gamedoc/characters/wangziqiao.md:14
 msgid "嗲、瑾"
 msgstr "Dia, Jin"
+
