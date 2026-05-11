@@ -10,8 +10,14 @@ build:
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
-  commands:
-    - pip install -r docs/requirements.txt
-    - sphinx-build -b html -D language=zh docs/source $READTHEDOCS_OUTPUT/html
-    - sphinx-build -b html -D language=en docs/source $READTHEDOCS_OUTPUT/html/en
+  jobs:
+    post_build:
+      - sphinx-build -b html -D language=en docs/source $READTHEDOCS_OUTPUT/html/en
+
+sphinx:
+  configuration: docs/source/conf.py
+
+python:
+   install:
+   - requirements: docs/requirements.txt
 
