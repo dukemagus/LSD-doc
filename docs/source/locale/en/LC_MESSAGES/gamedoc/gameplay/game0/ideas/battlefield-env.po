@@ -50,7 +50,7 @@ msgstr ""
 "&emsp;&emsp;2. Different environment variables are rendered through different scene art solutions in real time, such as snowfall, rain, lightning and thunder, and other environmental effects.   "
 "&emsp;&emsp;3. Monster attributes change in correlation with different environment variables according to different monster settings.   "
 "&emsp;&emsp;4. Game time progression has two modes: transitioning from evening to night (day to night) or from early morning to dawn (night to day). Daytime is a high-temperature state, nighttime is a low-temperature state, and temperature changes gradually as time passes. A time progression UI can be added to the screen HUD after the player unlocks the weather monitoring item."
-"   &emsp;&emsp;5. During trainee AI training, environment variables will use a fixed set of default values偏向偏向 toward average battlefield environmental conditions."
+"   &emsp;&emsp;5. During trainee AI training, environment variables will use a fixed set of default values, leaning toward average battlefield environmental conditions."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:17
 msgid "战场环境变量的可选参数表"
