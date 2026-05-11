@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,9 +20,8 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/design/game-mechanics.md:1
 msgid "游戏机制"
-msgstr ""
+msgstr "Game Mechanics"
 
 #: ../../source/gamedoc/gameplay/game0/design/game-mechanics.md:4
 msgid "&emsp;&emsp;待补充"
-msgstr ""
-
+msgstr "&emsp;&emsp;To be completed"

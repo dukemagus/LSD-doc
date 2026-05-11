@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,13 +20,12 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/design/index.md:8
 msgid "策划文档目录"
-msgstr ""
+msgstr "Design Document Index"
 
 #: ../../source/gamedoc/gameplay/game0/design/index.md:1
 msgid "策划文档"
-msgstr ""
+msgstr "Design Documents"
 
 #: ../../source/gamedoc/gameplay/game0/design/index.md:4
 msgid "&emsp;&emsp;游戏玩法的策划文档暂未完成编写，可以先参看已经整理的[设计想法](../ideas/index.md)的内容。"
-msgstr ""
-
+msgstr "&emsp;&emsp;The gameplay design documents have not yet been completed. For now, please refer to the organized [Design Ideas](../ideas/index.md) content."

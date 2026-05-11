@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,73 +20,72 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:1
 msgid "训练数据采集"
-msgstr ""
+msgstr "Training Data Collection"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:3
 msgid "作者"
-msgstr ""
+msgstr "Author"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:4
 msgid "&emsp;&emsp;瑾"
-msgstr ""
+msgstr "&emsp;&emsp;Jin"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:7
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:10
 msgid "训练数据采集机制"
-msgstr ""
+msgstr "Training Data Collection Mechanism"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:14
 msgid "训练数据采集机制说明"
-msgstr ""
+msgstr "Training Data Collection Mechanism Description"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:17
 msgid "AI 训练环境变量设计"
-msgstr ""
+msgstr "AI Training Environment Variable Design"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:19
 msgid "敌⼈⽬标的相关变量"
-msgstr ""
+msgstr "Enemy Target Related Variables"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:20
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:31
 msgid "当前的⽣命值"
-msgstr ""
+msgstr "Current Health Points"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:21
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:32
 msgid "当前的体⼒值（⽤于执⾏特定动作消耗）"
-msgstr ""
+msgstr "Current Stamina (consumed when performing specific actions)"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:22
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:33
 msgid "当前⽣命百分⽐"
-msgstr ""
+msgstr "Current Health Percentage"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:23
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:34
 msgid "当前体⼒百分⽐"
-msgstr ""
+msgstr "Current Stamina Percentage"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:24
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:35
 msgid "当前正在执⾏的动作类型"
-msgstr ""
+msgstr "Current Action Type Being Performed"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:25
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:36
 msgid "正在执⾏的动作经过的时间"
-msgstr ""
+msgstr "Elapsed Time of Current Action"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:26
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:37
 msgid "上⼀个执⾏的动作类型"
-msgstr ""
+msgstr "Previous Action Type Performed"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:27
 msgid "与训练单位的⽔平距离 <br> <br>"
-msgstr ""
+msgstr "Horizontal Distance from Training Unit <br> <br>"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/data-collection.md:30
 msgid "游戏⻆⾊⾃⾝的属性"
-msgstr ""
-
+msgstr "Game Character's Own Attributes"

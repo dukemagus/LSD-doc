@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,173 +20,243 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/sunborn.md:1
 msgid "向阳珄"
-msgstr ""
+msgstr "Xiang Yangsheng"
 
 #: ../../source/gamedoc/characters/sunborn.md:2
 msgid "热情风趣的学园长小伙"
-msgstr ""
+msgstr "The Enthusiastic and Witty Young Academy Director"
 
 #: ../../source/gamedoc/characters/sunborn.md
 msgid "设定项"
-msgstr ""
+msgstr "Setting"
 
 #: ../../source/gamedoc/characters/sunborn.md
 msgid "内容"
-msgstr ""
+msgstr "Content"
 
 #: ../../source/gamedoc/characters/sunborn.md
 msgid "Q版"
-msgstr ""
+msgstr "Chibi"
 
 #: ../../source/gamedoc/characters/sunborn.md
 msgid ""
 "<img src=\"/img/Q/Q-sunborn.png\" alt=\"向阳珄（Q版）\" "
 "height=\"179px\"><br>*画师：双程*"
 msgstr ""
+"<img src=\"/img/Q/Q-sunborn.png\" alt=\"Xiang Yangsheng (Chibi)\" "
+"height=\"179px\"><br>*Artist: Shuangcheng*"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "向阳珄（Q版）"
-msgstr ""
+msgstr "Xiang Yangsheng (Chibi)"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "名字"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "向阳珄（英文名：Sunborn、三蹦）"
-msgstr ""
+msgstr "Xiang Yangsheng (English name: Sunborn, Sanbeng)"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "年龄"
-msgstr ""
+msgstr "Age"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "18岁（处事过于成熟总被人误以为是30岁）"
 msgstr ""
+"18 years old (often mistaken for 30 due to being overly mature in "
+"handling matters)"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "性别"
-msgstr ""
+msgstr "Gender"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "男"
-msgstr ""
+msgstr "Male"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "生日"
-msgstr ""
+msgstr "Birthday"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "4月8日"
-msgstr ""
+msgstr "April 8th"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "职业"
-msgstr ""
+msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "幽兰草军事学园的实际经营者。虽然只是高中生的年纪，却是个具有强大行动力的创业型的天才少年。在响应联合政府的号召下，积极行动寻找各路资源与人脉，成功创办了这所新建能够独立运营的“军事学园”。目前在三蹦哥的经营下，幽兰草军事学园仍在积极招募新的学员和导师当中，努力接单承接处理社会事件的特殊任务与行动，并寻求与大型机构的合作以及获取更多赞助者的支持。"
 msgstr ""
+"The actual operator of the Youlancao Military Academy. Though only high "
+"school age, he is a genius entrepreneurial youth with powerful execution "
+"capability. In response to the united government's call, he actively "
+"sought various resources and connections, successfully founding this "
+"newly built independently-operating \"military academy.\" Currently under"
+" Brother Sanbeng's management, the Youlancao Military Academy is still "
+"actively recruiting new cadets and instructors, working to take on "
+"special missions and operations handling social events, and seeking "
+"cooperation with major institutions as well as gaining support from more "
+"sponsors."
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "外貌"
-msgstr ""
+msgstr "Appearance"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "脸型与五官帅气有形，有神气的大眼睛却遮掩在全框带有颜色的眼镜下让人不能看清。个头不高但总是很有精神地挺直着腰板。经常运动的身板也很结实。"
 msgstr ""
+"Handome face with well-defined features, spirited big eyes hidden behind "
+"full-rim tinted glasses so people can't see them clearly. Not tall but "
+"always standing spiritedly straight. Athletic build from regular "
+"exercise."
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "头发"
-msgstr ""
+msgstr "Hair"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "比较随性的背头（不剃掉两侧头发都往后梳，脑门可保留一两缕刘海，参见re从零开始异世界生活486和贝蒂抽烟图）"
 msgstr ""
+"Casual slicked-back style (not shaving the sides, combing all hair back, "
+"forehead can retain one or two strands of bangs, see Re:Zero's Subaru and"
+" Betty smoking illustration for reference)"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "体格"
-msgstr ""
+msgstr "Build"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "身高 168cm，体重 61.5kg"
-msgstr ""
+msgstr "Height 168cm, Weight 61.5kg"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "服装"
-msgstr ""
+msgstr "Clothing"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "机能风服饰（随性）+衬衫和领带（商务）+外套上有白虎的纹样（土家族的图腾）"
 msgstr ""
+"Techwear style (casual) + shirt and tie (business) + white tiger pattern "
+"on jacket (Tujia ethnic totem)"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "性格"
-msgstr ""
+msgstr "Personality"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "年纪不大但是待人处事总有超越年龄的成熟，不管什么年龄段的朋友都喜欢称呼他为“三蹦哥”。对陌生人热情又自来熟，言谈时常很有风趣，不时与人开个玩笑也并不招人讨厌。自认有性格缺点就是受到幸福快乐的气氛感染时总会不自觉地流泪。所以本是一个没有近视的人，却总戴着有色的全框眼镜来遮掩自己会令人诧异的情绪表达。过度操心事业对适龄异性毫无恋爱想法而时常受误解。"
 msgstr ""
+"Young in age but always showing maturity beyond his years in dealing with"
+" people and matters. Friends of all ages like to call him \"Brother "
+"Sanbeng.\" Warm and instantly familiar with strangers, often witty in "
+"conversation, occasionally joking without being annoying. Self-admitted "
+"personality flaw: he always tears up unconsciously when infected by happy"
+" and joyful atmospheres. So despite having no myopia, he always wears "
+"tinted full-rim glasses to cover up his surprising emotional expressions."
+" Over-invested in his career with zero romantic interest in age-"
+"appropriate members of the opposite sex, frequently leading to "
+"misunderstandings."
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "特技"
-msgstr ""
+msgstr "Special Skill"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "擅长与各式各样的人沟通、交涉并达成合作（无论敌友）。擅长财务管理。"
 msgstr ""
+"Skilled at communicating, negotiating, and reaching cooperation with all "
+"kinds of people (whether friend or foe). Skilled in financial management."
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "弱点"
-msgstr ""
+msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "不习惯受人过多的夸奖，同时受到太多夸赞时会陷入持续尬笑与呆滞的状态。不善于和外形过于性感的成熟女性打交道。"
 msgstr ""
+"Not accustomed to receiving excessive praise; when receiving too many "
+"compliments simultaneously, he falls into a state of continuous awkward "
+"smiling and blankness. Not good at dealing with overly sexy mature women."
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "口吻"
-msgstr ""
+msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "“你好呀，我是幽兰草学园的经营者，英文名叫作Sunborn，大家也可以简单点叫我三蹦。”，“我们来谈点生意吧！（面对任意对象）”，“承蒙各位哥哥姐姐们照顾啦~”，“投入产出、成本利润、纳税保险、工资绩效、奖惩分配，哪怕是做公益事业也不能让大家只靠吊着一口仙气瞎付出呢。”，“呜唔~各位的付出真是感激不尽呢！大家一起共同奋战的画面真是感人到不行啦！（开始流泪）”"
 msgstr ""
+"\"Hello there, I'm the operator of Youlancao Academy, my English name is "
+"Sunborn, everyone can simply call me Sanbeng.\", \"Let's talk business! "
+"(to anyone)\", \"Thanks to all the big brothers and sisters for taking "
+"care of me~\", \"Input-output, cost-profit, taxes-insurance, salary-"
+"performance, rewards-punishments — even when doing public welfare, we "
+"can't let everyone just rely on sheer willpower to work for free.\", "
+"\"Wu~ I'm so grateful for everyone's dedication! The sight of everyone "
+"fighting together is so incredibly moving! (starts tearing up)\""
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "故事设定"
-msgstr ""
+msgstr "Story Setting"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid ""
 "三蹦哥是个很特别的人，从很小的年纪开始就下定决心要做出一番对世人有影响的事业。在异于同龄人的思考下，他认为要做成大事必定是联结与集合众人力量共同努力的结果，而不是依赖个人的英雄主义。在资讯快速流动连通人与人却越发疏远的社会里，怎么触达与沟通跨领域跨地域跨年龄对世界又有着不同认知的不同人类个体，已经成为了一桩极为复杂但又必须由自己胜任的重要工作。在积极的探索下，三蹦哥得到一些投资人（默羽）与合伙人（余子绛）的支持，创办了联合政府许可经营的“幽兰草军事学园”，招收教官与学生并开展特别的社会活动，并开始建立自己的社会影响力。在工作中表面上整天把钱提在嘴上的他，所有的决策却鲜有考虑个人的经济利益。可是理想化的经营理念也时常导致军事学园的财务入不敷出，每个发薪日总要成为全校师生口中的“黑心老板”。<br>【隐藏设定】：是一个理想化的能够在玩家消极推进游戏进程时，也会积极推动游戏世界变化发展的重要的工具人"
 " AI 角色，心目中异于同龄人的想法原来也只是为了游戏功能必然植入的游戏设定。"
 msgstr ""
+"Brother Sanbeng is a very special person, determined from a very young "
+"age to build a career that would have an impact on the world. With "
+"thinking beyond his peers, he believes that great achievements must be "
+"the result of connecting and gathering collective strength, rather than "
+"relying on individual heroism. In a society where rapid information flow "
+"connects people yet makes them increasingly distant, how to reach and "
+"communicate with different individuals across fields, regions, and ages "
+"who have different understandings of the world has become an extremely "
+"complex yet essential task he must master. Through active exploration, "
+"Brother Sanbeng gained support from investors (Mo Yu) and partners (Yu "
+"Zijiang), founding the \"Youlancao Military Academy\" licensed by the "
+"united government, recruiting instructors and students, conducting "
+"special social activities, and beginning to build his social influence. "
+"At work, though he seemingly talks about money all day, his decisions "
+"rarely consider personal economic gain. However, idealistic management "
+"philosophy also frequently leads to the military academy's finances "
+"falling short, making him the \"heartless boss\" in the eyes of all "
+"teachers and students every payday.<br>[Hidden Setting]: He is an "
+"idealized important tool-character AI who actively drives the game "
+"world's development even when players are消极 in progressing the game. His "
+"thoughts beyond his peers are actually just game settings inevitably "
+"implanted for game functionality."
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "学员专业"
-msgstr ""
+msgstr "Cadet Specialty"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "后勤（Logistic）"
-msgstr ""
+msgstr "Logistics (Logistic)"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "立绘"
-msgstr ""
+msgstr "Portrait"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "![向阳珄（立绘）](/img/figure/sunborn.png)<br>*画师：玉不修*"
 msgstr ""
+"![Xiang Yangsheng (Portrait)](/img/figure/sunborn.png)<br>*Artist: "
+"Yubuxiu*"
 
 #: ../../source/gamedoc/characters/sunborn.md:22
 msgid "向阳珄（立绘）"
-msgstr ""
+msgstr "Xiang Yangsheng (Portrait)"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "文案"
-msgstr ""
+msgstr "Writer"
 
 #: ../../source/gamedoc/characters/sunborn.md:6
 msgid "瑾"
-msgstr ""
+msgstr "Jin"
 

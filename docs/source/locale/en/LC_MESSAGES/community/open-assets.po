@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,52 +20,52 @@ msgstr ""
 
 #: ../../source/community/open-assets.md:1
 msgid "开放资产"
-msgstr ""
+msgstr "Open Assets"
 
 #: ../../source/community/open-assets.md:4
 msgid "&emsp;&emsp;项目除了程序以外的资产使用授权参见[这里](/community/licencing)。欢迎自由下载和查看！"
-msgstr ""
+msgstr "&emsp;&emsp;For licensing of project assets other than code, see [here](/community/licencing). Feel free to download and browse!"
 
 #: ../../source/community/open-assets.md:7
 msgid "一、《灵数奇缘》开源项目"
-msgstr ""
+msgstr "1. Luv Sense Digital Open-Source Projects"
 
 #: ../../source/community/open-assets.md:9
 msgid "&emsp;&emsp;开源项目里的程序代码授权均为MIT。"
-msgstr ""
+msgstr "&emsp;&emsp;The program code in the open-source projects is all licensed under MIT."
 
 #: ../../source/community/open-assets.md:11
 msgid "**1、游戏工程**   地址：https://github.com/IppClub/LSD.git <br> <br>"
-msgstr ""
+msgstr "**1. Game Project**   Repository: https://github.com/IppClub/LSD.git <br> <br>"
 
 #: ../../source/community/open-assets.md:15
 msgid "**2、Dora SSR游戏引擎**   地址：https://github.com/IppClub/Dora-SSR.git"
-msgstr ""
+msgstr "**2. Dora SSR Game Engine**   Repository: https://github.com/IppClub/Dora-SSR.git"
 
 #: ../../source/community/open-assets.md:17
 #: ../../source/community/open-assets.md:23
 msgid "备份"
-msgstr ""
+msgstr "Mirror"
 
 #: ../../source/community/open-assets.md:18
 msgid "&emsp;&emsp;https://gitee.com/pig/Dora-SSR.git"
-msgstr ""
+msgstr "&emsp;&emsp;https://gitee.com/pig/Dora-SSR.git"
 
 #: ../../source/community/open-assets.md:21
 msgid "**3、Yuescript编程语言**   地址：https://github.com/pigpigyyy/Yuescript.git"
-msgstr ""
+msgstr "**3. Yuescript Programming Language**   Repository: https://github.com/pigpigyyy/Yuescript.git"
 
 #: ../../source/community/open-assets.md:24
 msgid "&emsp;&emsp;https://gitee.com/pig/Yuescript.git"
-msgstr ""
+msgstr "&emsp;&emsp;https://gitee.com/pig/Yuescript.git"
 
 #: ../../source/community/open-assets.md:27
 msgid "**4、《灵数奇缘》文档**   地址：https://github.com/IppClub/LSD-doc.git"
-msgstr ""
+msgstr "**4. Luv Sense Digital Documentation**   Repository: https://github.com/IppClub/LSD-doc.git"
 
 #: ../../source/community/open-assets.md:30
 msgid "二、《灵数奇缘》NFT"
-msgstr ""
+msgstr "2. Luv Sense Digital NFT"
 
 #: ../../source/community/open-assets.md:32
 msgid ""
@@ -87,4 +86,19 @@ msgid ""
 "&emsp;&emsp;杂物：[Opensea - Luv Sense Digital "
 "Special](https://opensea.io/collection/luv-sense-digital-special)"
 msgstr ""
-
+"&emsp;&emsp;Logo: [Opensea - Luv Sense "
+"Digital](https://opensea.io/collection/luv-sense-digital)   "
+"&emsp;&emsp;Portrait: [Opensea - Luv Sense Digital "
+"Portrait](https://opensea.io/collection/luv-sense-digital-portrait)   "
+"&emsp;&emsp;Scene: [Opensea - Luv Sense Digital "
+"Scene](https://opensea.io/collection/luv-sense-digital-scene)   "
+"&emsp;&emsp;Chibi: [Opensea - Luv Sense Digital "
+"Chibi](https://opensea.io/collection/luv-sense-digital-chibi)   "
+"&emsp;&emsp;Illustration: [Opensea - Luv Sense Digital "
+"Illustration](https://opensea.io/collection/luv-sense-digital-"
+"illustration)   &emsp;&emsp;Monster: [Opensea - Luv Sense Digital "
+"Monster](https://opensea.io/collection/luv-sense-digital-monster)   "
+"&emsp;&emsp;Design: [Opensea - Luv Sense Digital "
+"Design](https://opensea.io/collection/luv-sense-digital-design)   "
+"&emsp;&emsp;Special: [Opensea - Luv Sense Digital "
+"Special](https://opensea.io/collection/luv-sense-digital-special)"

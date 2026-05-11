@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,13 +20,12 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/index.md:8
 msgid "正在开发的游戏"
-msgstr ""
+msgstr "Games in Development"
 
 #: ../../source/gamedoc/gameplay/index.md:1
 msgid "游戏玩法"
-msgstr ""
+msgstr "Gameplay"
 
 #: ../../source/gamedoc/gameplay/index.md:4
 msgid "&emsp;&emsp;目前《灵数奇缘》初期策划的游戏玩法被称为`Game 0`。未来还会尝试设计和制作《灵数奇缘》IP下其它玩法的游戏。"
-msgstr ""
-
+msgstr "&emsp;&emsp;Currently, the gameplay designed in the early stage of \"Luv Sense Digital\" is called `Game 0`. In the future, we will also try to design and produce games with other gameplay styles under the \"Luv Sense Digital\" IP."

@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,234 +20,233 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:1
 msgid "视⻆选择"
-msgstr ""
+msgstr "Perspective Selection"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "作者"
-msgstr ""
+msgstr "Author"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:4
 msgid "&emsp;&emsp;建建"
-msgstr ""
+msgstr "&emsp;&emsp;Jianjian"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:7
 msgid "主要考虑因素"
-msgstr ""
+msgstr "Key Considerations"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:9
 msgid "成本（难度）"
-msgstr ""
+msgstr "Cost (Difficulty)"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:10
 msgid "美术制作"
-msgstr ""
+msgstr "Art Production"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:11
 msgid "开发"
-msgstr ""
+msgstr "Development"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:12
 msgid "设计"
-msgstr ""
+msgstr "Design"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:13
 msgid "表现"
-msgstr ""
+msgstr "Presentation"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:14
 msgid "能不能清晰传达世界观"
-msgstr ""
+msgstr "Whether the worldview can be clearly conveyed"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:15
 msgid "游戏性⾼不⾼"
-msgstr ""
+msgstr "Whether the gameplay is engaging"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:16
 msgid "能不能凸显AI的优势"
-msgstr ""
+msgstr "Whether AI advantages can be highlighted"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:18
 msgid "视⻆⽅案对⽐"
-msgstr ""
+msgstr "Perspective Comparison"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "项⽬"
-msgstr ""
+msgstr "Item"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "⽰例游戏"
-msgstr ""
+msgstr "Example Game"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "总分"
-msgstr ""
+msgstr "Total Score"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "成本"
-msgstr ""
+msgstr "Cost"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "美术⼯作量"
-msgstr ""
+msgstr "Art Workload"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "美术质量"
-msgstr ""
+msgstr "Art Quality"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "AI开发难度"
-msgstr ""
+msgstr "AI Development Difficulty"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "游戏设计难度和⼯作量"
-msgstr ""
+msgstr "Game Design Difficulty and Workload"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "展现世界观"
-msgstr ""
+msgstr "Worldview Presentation"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "是否适合多⻆⾊"
-msgstr ""
+msgstr "Suitability for Multiple Characters"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "AI⻆⾊带 给玩家惊喜感"
-msgstr ""
+msgstr "AI Characters Bringing Surprise to Players"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "操作性"
-msgstr ""
+msgstr "Controllability"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "游戏机制设计空间"
-msgstr ""
+msgstr "Game Mechanics Design Space"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "备注"
-msgstr ""
+msgstr "Notes"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "得分低代表量少"
-msgstr ""
+msgstr "Lower score means less quantity"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "得分低代表要求⾼"
-msgstr ""
+msgstr "Lower score means higher requirements"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "能不能做出来也很重要"
-msgstr ""
+msgstr "Feasibility is also very important"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "世界观很有意思"
-msgstr ""
+msgstr "The worldview is very interesting"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "横板2D放多个⻆⾊会显得⽐较拥挤"
-msgstr ""
+msgstr "Side-scrolling 2D with multiple characters appears crowded"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "如果每⼀关战⽃之前，玩家都难以预料到AI的⾏为模式，那惊喜感就很⾼。"
-msgstr ""
+msgstr "If before each stage battle, the player finds it difficult to predict the AI's behavior pattern, the sense of surprise is high."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "操作不 是那么重要，反正很多时候是AI在打。"
-msgstr ""
+msgstr "Controls are not that important since the AI is fighting most of the time anyway."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "权重"
-msgstr ""
+msgstr "Weight"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "横板2D"
-msgstr ""
+msgstr "Side-scrolling 2D"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "街霸"
-msgstr ""
+msgstr "Street Fighter"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "35"
-msgstr ""
+msgstr "35"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "19"
-msgstr ""
+msgstr "19"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "有⾼度的横板2D"
-msgstr ""
+msgstr "Side-scrolling 2D with Height"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "死亡细胞"
-msgstr ""
+msgstr "Dead Cells"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "38"
-msgstr ""
+msgstr "38"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "有纵深的横板2D"
-msgstr ""
+msgstr "Side-scrolling 2D with Depth"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "DNF"
-msgstr ""
+msgstr "DNF"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "俯视⻆2D"
-msgstr ""
+msgstr "Top-down 2D"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "LOL"
-msgstr ""
+msgstr "LOL"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:3
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/2D-view.md:29
 msgid "&emsp;&emsp;最终视⻆选择 → 多个平⾏的横板2D战场"
-msgstr ""
-
+msgstr "&emsp;&emsp;Final perspective choice → Multiple parallel side-scrolling 2D battlefields"

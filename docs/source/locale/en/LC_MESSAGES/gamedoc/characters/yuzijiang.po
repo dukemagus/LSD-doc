@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2026-05-11 15:23+0800\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -19,308 +18,445 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:1
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:1
 msgid "余梓绛"
-msgstr ""
+msgstr "Yu Zijiang"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:2
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:2
 msgid "奇怪的伪三无属性程序员小姐姐"
-msgstr ""
+msgstr "The Peculiar Pseudo-Kuudere Programmer Girl"
 
-#: ../../source/gamedoc/characters/yuzijiang.md
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md
 msgid "设定项"
-msgstr ""
+msgstr "Setting"
 
-#: ../../source/gamedoc/characters/yuzijiang.md
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md
 msgid "内容"
-msgstr ""
+msgstr "Content"
 
-#: ../../source/gamedoc/characters/yuzijiang.md
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md
 msgid "Q版"
-msgstr ""
+msgstr "Chibi"
 
-#: ../../source/gamedoc/characters/yuzijiang.md
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md
 msgid ""
 "<img src=\"/img/Q/Q-yuzijiang.png\" alt=\"余梓绛（Q版）\" "
 "height=\"193px\"><br>*画师：双程*"
 msgstr ""
+"<img src=\"/img/Q/Q-yuzijiang.png\" alt=\"Yu Zijiang (Chibi)\" "
+"height=\"193px\"><br>*Artist: Shuangcheng*"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "余梓绛（Q版）"
-msgstr ""
+msgstr "Yu Zijiang (Chibi)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "名字"
-msgstr ""
+msgstr "Name"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "余梓绛（鱼子酱）"
-msgstr ""
+msgstr "Yu Zijiang (Caviar)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "年龄"
-msgstr ""
+msgstr "Age"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "19岁"
-msgstr ""
+msgstr "19 years old"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "性别"
-msgstr ""
+msgstr "Gender"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "女"
-msgstr ""
+msgstr "Female"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "生日"
-msgstr ""
+msgstr "Birthday"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "6月11日"
-msgstr ""
+msgstr "June 11th"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "职业"
-msgstr ""
+msgstr "Occupation"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "作为跳级完成学业的天才少女，是一家知名的科技公司从事基础技术研发（包括操作系统、编译器、分布式数据库等）工作的工程师，因为三蹦哥提出创办军事学园只差一个程序员的奇怪理由，就立刻离职成为了三蹦哥的合伙人，并担任幽兰草学园的军事信息化顾问。表面上在三蹦哥的放任下并无心过问学园的经营，总是在做着一些非常Geek的技术研究，但在关键时候总能拿出帮助学园度过难关的靠谱方案。"
 msgstr ""
+"As a genius girl who completed her studies through grade-skipping, she "
+"was an engineer at a well-known tech company working on fundamental "
+"technology research and development (including operating systems, "
+"compilers, distributed databases, etc.). Because Brother Sanbeng gave the"
+" strange reason that founding a military academy only lacked a "
+"programmer, she immediately resigned and became his partner, serving as "
+"the military informatization consultant for the Youlancao Academy. On the"
+" surface, under Brother Sanbeng's laissez-faire management, she seems "
+"uninterested in the academy's operations, always working on very geeky "
+"technical research, but at critical moments she always comes up with "
+"reliable solutions to help the academy through difficulties."
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "外貌"
-msgstr ""
+msgstr "Appearance"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "总是一脸冷漠的神情，从表情里读不出情绪变化。看起来是很瘦小的身材，却有着很惊人的运动能力。"
 msgstr ""
+"Always has an expressionless face, with no readable emotional changes. "
+"Appears to have a very slender build, yet possesses astonishing athletic "
+"ability."
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "头发"
-msgstr ""
+msgstr "Hair"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "带马尾的编发+马卡龙粉的染发"
-msgstr ""
+msgstr "Braided hair with ponytail + macaron pink dyed hair"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "体格"
-msgstr ""
+msgstr "Build"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "身高 161cm，体重 46kg"
-msgstr ""
+msgstr "Height 161cm, Weight 46kg"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "服装"
-msgstr ""
+msgstr "Clothing"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "萝裙汉服（洛丽塔的款式+汉服的花纹元素+汉服配饰），或是民国学生装+JK格子裙（JK格子裙可接程序员格子衬衫的梗）"
 msgstr ""
+"Loli-skirt Hanfu (Lolita style + Hanfu pattern elements + Hanfu "
+"accessories), or Republican-era student uniform + JK plaid skirt (JK "
+"plaid skirt can connect to the programmer plaid shirt joke)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "性格"
-msgstr ""
+msgstr "Personality"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "表面看起来似乎并不喜欢与人沟通。和她认识不深的伙伴总有一种不知道她在想什么的感受。与她聊天总是只得到嗯嗯，好，这样的回应，老让人误解怀疑自己的言辞是产生了冒犯还是真的得到了肯定。平时沉默寡言，努力表达自己的时候总是会不自觉说一些常人听不懂的IT工程师笑话和梗，让人听不懂不算还时常语出惊人，加在一起总让人尴尬得没法接话。但实际上，鱼子酱只是一个不善于表达自己，但其实非常渴望与人交流建立友谊的女孩子，和她走得很近的同性伙伴们大都非常非常地喜欢她，总说她是特别好的女孩。和她初识的男性则往往反映说做过有她出现的噩梦。在私底下鱼子酱喜欢玩哥特风的游戏，音乐喜欢听死亡金属。"
 msgstr ""
+"On the surface, she seems not to like communicating with others. Partners"
+" who don't know her well always feel they don't know what she's thinking."
+" Chatting with her only yields responses like \"mm-hmm\" and \"okay,\" "
+"always making people misunderstand whether their words caused offense or "
+"truly received affirmation. Usually taciturn, when she tries hard to "
+"express herself she unconsciously tells IT engineer jokes and memes that "
+"ordinary people can't understand, not only being incomprehensible but "
+"also frequently saying shocking things, which combined always makes "
+"people too awkward to continue the conversation. But in reality, Caviar "
+"is just a girl who is not good at expressing herself but actually craves "
+"communication and friendship with others. Her close female companions "
+"mostly like her very much, always saying she's a particularly wonderful "
+"girl. Men who first meet her, however, often report having nightmares "
+"featuring her. Privately, Caviar likes playing Gothic-style games and "
+"listening to death metal music."
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "特技"
-msgstr ""
+msgstr "Special Skill"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "通过逆向工程分析破译变异机械体的计算指令集。做军事学园IT系统的架构设计和系统运维。擅长手绘。"
 msgstr ""
+"Analyzing and decoding the computational instruction sets of mutated "
+"mechanical entities through reverse engineering. Designing the IT system "
+"architecture and system operations for the military academy. Skilled at "
+"hand-drawing."
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "弱点"
-msgstr ""
+msgstr "Weakness"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "心比较大，又不经常与人语言表达自己所想，会不自觉地在他人不知晓下以身涉险。"
 msgstr ""
+"Carefree-minded, and not often verbally expressing her thoughts to "
+"others, she unknowingly puts herself in danger without others' awareness."
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "口吻"
-msgstr ""
+msgstr "Speech Style"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "“嗯。”，“嗯嗯。”，“好。”，“计算机软件就像sex，免费，自由，更好。”，鱼子酱:“你知道吗，以程序员的职业道德来说，是不会编写一个叫做摧毁巴格达的函数的。”薇莉万:”诶诶诶~是为什么呢，因为这样子太不人道了吗？“鱼子酱:“是因为程序员的正确做法应该是写一个叫做摧毁城市的函数，然后把巴格达填写作一个参数。”薇莉万:“……哦。（似懂非懂）”"
 msgstr ""
+"\"Mm.\"; \"Mm-hmm.\"; \"Okay.\"; \"Computer software is like sex: it's "
+"better when it's free.\"; Caviar: \"You know, as a matter of professional"
+" ethics, a programmer would never write a function called "
+"DestroyBaghdad.\" Villywan: \"Ehhh~ why's that? Because it would be too "
+"inhumane?\" Caviar: \"Because the correct approach for a programmer is to"
+" write a function called DestroyCity, and then pass Baghdad as a "
+"parameter.\" Villywan: \"...Oh. (half-understanding)\""
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "故事设定"
-msgstr ""
+msgstr "Story Setting"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "余子绛小姐姐的天才之处并非智慧过人，其实她和普通人的差别在于做事能达到心无旁骛的持续专注度。因同事介绍的机缘巧合下与三蹦哥一拍即合，认同了他的理想。决心通过参与军事学园的工作来接触更大的世界，不只是拓宽社会上的视野，更是参与对地表世界更大的探索，这些远比一份工作更有意义。怀着可靠的知识与技能，余子绛小姐姐深信自己能做出一番不同的事业。隐藏设定：像是某灵数环境游戏的软件开发工程师夹杂私货设计的角色。"
 msgstr ""
+"Sister Yu Zijiang's genius lies not in extraordinary intelligence, but "
+"rather the difference between her and ordinary people is her ability to "
+"achieve undistracted sustained focus. Through a colleague's introduction,"
+" she hit it off with Brother Sanbeng by coincidence, identifying with his"
+" ideals. She resolved to participate in the military academy's work to "
+"reach a bigger world, not just broadening her social horizons but also "
+"participating in greater exploration of the surface world, which is far "
+"more meaningful than just a job. Armed with reliable knowledge and "
+"skills, Sister Yu Zijiang firmly believes she can make a difference in "
+"her career. Hidden Setting: Seems like a character designed by a certain "
+"Luv Sense game's software engineer sneaking in personal elements."
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "学员专业"
-msgstr ""
+msgstr "Cadet Specialty"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "情报（Intel）"
-msgstr ""
+msgstr "Intelligence (Intel)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "立绘"
-msgstr ""
+msgstr "Portrait"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "![余梓绛（立绘）](/img/figure/yuzijiang.png)<br>*画师：蓂*"
-msgstr ""
+msgstr "![Yu Zijiang (Portrait)](/img/figure/yuzijiang.png)<br>*Artist: Ming*"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:22
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:22
 msgid "余梓绛（立绘）"
-msgstr ""
+msgstr "Yu Zijiang (Portrait)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "文案"
-msgstr ""
+msgstr "Writer"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:6
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:6
 msgid "瑾"
-msgstr ""
+msgstr "Jin"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:27
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:25
+msgid "附录 - 余梓绛喜欢引用的IT语录"
+msgstr "Appendix - IT Quotes Yu Zijiang Likes to Reference"
+
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:27
 msgid ""
 "&emsp;&emsp;应当知道，任何一位受过职业道德训练的软件工程师都不会同意写一个“摧毁巴格达  "
 "DestroyBaghdad”这样的函数。相反，基本的职业道德要求他写一个“摧毁城市 DestroyCity”的函数，“巴格达 "
 "Baghdad”是一个参数。(Nathaniel S Borenstein)"
 msgstr ""
+"&emsp;&emsp;It should be noted that no software engineer with "
+"professional ethics training would agree to write a function called "
+"\"DestroyBaghdad\". Instead, basic professional ethics requires writing a"
+" function called \"DestroyCity\", with \"Baghdad\" as a parameter. "
+"(Nathaniel S. Borenstein)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:29
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:29
 msgid "&emsp;&emsp;只有两种计算机语言：一些语言天天挨骂，另外一些没有人用。(Bjarne Stroustrup)"
 msgstr ""
+"&emsp;&emsp;There are only two kinds of languages: the ones people "
+"complain about, and the ones nobody uses. (Bjarne Stroustrup)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:31
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:31
 msgid ""
 "&emsp;&emsp;数组下标应该从0开始还是从1开始？我的提议是做个折中，用0.5。我想，把它否决之前他们都没有仔细考虑考虑。(Stan "
 "Kelly-Bootle)"
 msgstr ""
+"&emsp;&emsp;Should array indices start at 0 or 1? My compromise "
+"suggestion is 0.5. I think they didn't consider it carefully before "
+"rejecting it. (Stan Kelly-Bootle)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:33
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:33
 msgid ""
 "&emsp;&emsp;黑魔法编程：程序员们知道有些事情没有用，但是无论如何他们还是会去试一试，有时候这些事情还真管用了，比如说把所有东西重新编译一遍。(Karl"
 " Lehenbauer)"
 msgstr ""
+"&emsp;&emsp;Black magic programming: Programmers know that some things "
+"are useless, but they try them anyway, and sometimes they actually work, "
+"like recompiling everything. (Karl Lehenbauer)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:35
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:35
 msgid "&emsp;&emsp;计算机语言就好像在公园里漫步一样，我指的是侏罗纪公园。(Larry Wall)"
 msgstr ""
+"&emsp;&emsp;A computer language is like a walk in the park — Jurassic "
+"Park, that is. (Larry Wall)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:37
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:37
 msgid "&emsp;&emsp;即使在餐巾上涂画也算是计算机语言，XML都不能算是其中之一。(Charles Simonyi)"
 msgstr ""
+"&emsp;&emsp;Even doodling on a napkin counts as a computer language; XML "
+"doesn't even qualify as one of them. (Charles Simonyi)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:39
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:39
 msgid "&emsp;&emsp;使用TSO就想把死鲸鱼在沙滩上踢来踢去一样。(Stephen C Johnson)"
 msgstr ""
+"&emsp;&emsp;Using TSO is like kicking a dead whale down a beach. (Stephen"
+" C. Johnson)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:41
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:41
 msgid "&emsp;&emsp;面向对象的模型使得我们可以用聚少成多的方法来写程序。这通常是说，它提供了一种用结构化的方法写出烂面条般程序的方法。"
 msgstr ""
+"&emsp;&emsp;The object-oriented model allows us to write programs by "
+"accumulating small parts into larger ones. This usually means it provides"
+" a structured way to write spaghetti code."
 
-#: ../../source/gamedoc/characters/yuzijiang.md:43
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:43
 msgid "&emsp;&emsp;重用别人写的程序就像从别人的故事里面挑出句子然后凑成一篇杂志上的文章。 (Bob Frankston)"
 msgstr ""
+"&emsp;&emsp;Reusing someone else's programs is like picking sentences "
+"from other people's stories and stringing them together into a magazine "
+"article. (Bob Frankston)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:45
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:45
 msgid ""
 "&emsp;&emsp;（HTML里面的BLINK 标签）是一个玩笑，好不好？要是我们知道还有人使用它，我们就不会写它了。(Mark "
 "Andreessen)"
 msgstr ""
+"&emsp;&emsp;(The BLINK tag in HTML) was a joke, okay? If we had known "
+"anyone would still use it, we wouldn't have written it. (Marc Andreessen)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:47
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:47
 msgid "&emsp;&emsp;软件就像性一样。不要钱的时候更好。(Linus Torvalds)"
 msgstr ""
+"&emsp;&emsp;Software is like sex: it's better when it's free. (Linus "
+"Torvalds)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:49
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:49
 msgid "&emsp;&emsp;我有一个可以运行的编译器，没人愿意碰它。他们告诉我电脑只能做算术。--Rear Admiral Grace Hopper"
 msgstr ""
+"&emsp;&emsp;I had a working compiler and nobody would touch it. They told"
+" me computers could only do arithmetic. --Rear Admiral Grace Hopper"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:51
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:51
 msgid "&emsp;&emsp;如果你思虑不周，你可能会认为编程仅仅是敲入一行行的程序语句而已 -- Ward Cunningham"
 msgstr ""
+"&emsp;&emsp;If you don't think carefully, you might believe programming "
+"is just typing lines of code -- Ward Cunningham"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:53
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:53
 msgid "&emsp;&emsp;一种未包含所有东西的语言实际上比那些包含了的更容易使用。 -- Dennis M Ritchie"
 msgstr ""
+"&emsp;&emsp;A language that doesn't have everything is actually easier to"
+" use than one that does. -- Dennis M. Ritchie"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:55
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:55
 msgid "&emsp;&emsp;提倡自然语言编程的那些工作必然彻底失败。 -- Edsger Dijkstra"
 msgstr ""
+"&emsp;&emsp;The effort of advocating natural language programming is "
+"bound to fail completely. -- Edsger Dijkstra"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:57
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:57
 msgid ""
 "&emsp;&emsp;指针就像跳转一样，疯狂的从数据结构之间到处指来指去。在高级语言里面引入指针是个退步。我们可能永远无法从这一失败之中恢复过来。--"
 " Charles Hoare"
 msgstr ""
+"&emsp;&emsp;Pointers are like jumps, wildly pointing around between data "
+"structures. Introducing pointers into high-level languages was a step "
+"backward. We may never recover from this failure. --Charles Hoare"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:59
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:59
 msgid ""
 "&emsp;&emsp;首先学习计算机科学和那些理论，然后摸索出你自己的编程风格，然后把那些都忘掉，乱来就行了。 -- George "
 "Carrette"
 msgstr ""
+"&emsp;&emsp;First learn computer science and all the theory, then figure "
+"out your own programming style, then forget all that and just hack away. "
+"-- George Carrette"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:61
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:61
 msgid ""
 "&emsp;&emsp;我担心新的面向对象系统会遭到LISP相似的命运。他们可以做很多事情，但是过于复杂的类的阶层的重量会把他们压塌。 -- "
 "Bill Joy"
 msgstr ""
+"&emsp;&emsp;I worry that the new object-oriented systems will suffer the "
+"same fate as LISP. They can do many things, but the weight of overly "
+"complex class hierarchies will crush them. --Bill Joy"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:63
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:63
 msgid "&emsp;&emsp;如果我们要数代码的行数，我们不该把他们当成生产出来的行数，而是花费掉的行数。--Edsger Dijkstra"
 msgstr ""
+"&emsp;&emsp;If we count lines of code, we should not regard them as lines"
+" produced, but rather as lines spent. --Edsger Dijkstra"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:65
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:65
 msgid "&emsp;&emsp;你可以拥有高质量的软件，也可以拥有指针运算，但两者不可兼得。-- Bertrand Meyer"
 msgstr ""
+"&emsp;&emsp;You can have quality software or pointer arithmetic, but you "
+"cannot have both. -- Bertrand Meyer"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:67
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:67
 msgid "&emsp;&emsp;语法，小伙子。它已经被重新授予共和国里最高的地位。 -- John Steinbeck"
 msgstr ""
+"&emsp;&emsp;Syntax, young man. It has been restored to the highest "
+"position in the republic. -- John Steinbeck"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:69
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:69
 msgid ""
 "&emsp;&emsp;你真的确定无误的认为，那些铃铛和汽笛，所谓的编程语言里那些美妙的特性，是解决方案的一部分而不是问题的一部分? -- "
 "Edsger Dijkstra"
 msgstr ""
+"&emsp;&emsp;Are you quite sure that all those bells and whistles, all "
+"those wonderful features of your chosen programming language, are part of"
+" the solution and not part of the problem? -- Edsger Dijkstra"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:71
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:71
 msgid "&emsp;&emsp;汝切不可跟随NULL指针前行，因混沌狂乱待汝于彼端。（注：此处模仿圣经十诫语气）--Henry Spencer"
 msgstr ""
+"&emsp;&emsp;Thou shalt not follow the NULL pointer, for chaos and madness"
+" await thee at its end. --Henry Spencer"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:73
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:73
 msgid ""
 "&emsp;&emsp;我觉得传统语言是给鸟类使用的。他们仅仅是冯诺依曼计算机的延伸，他们把鼻子埋藏在字和地址的泥土之中，还做了很多同样傻的事。我们从编程之中学到了这些傻事，又把他们放进了计算机语言，放进了Fortran，放进了PL/1，放进了几乎所有语言之中。--John"
 " Backus"
 msgstr ""
+"&emsp;&emsp;I think traditional languages are for the birds. They are "
+"merely extensions of the von Neumann computer, burying their noses in the"
+" dirt of words and addresses, and doing many equally silly things. We "
+"learned these silly things from programming, then put them into computer "
+"languages, into Fortran, into PL/1, into virtually every language. --John"
+" Backus"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:75
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:75
 msgid "&emsp;&emsp;在人类的阶层之中，写代码处在高于盗墓，但是低于管理的某处。(Gerald Weinberg)"
 msgstr ""
+"&emsp;&emsp;In the hierarchy of human activities, writing code sits "
+"somewhere above grave robbing but below management. (Gerald Weinberg)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:77
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:77
 msgid "&emsp;&emsp;如果程序员模拟一个结构比编译器实现这个结构还快，那这个编译器写的可够烂的。 (Guy Steele)"
 msgstr ""
+"&emsp;&emsp;If a programmer can simulate a structure faster than the "
+"compiler can implement it, that compiler is pretty badly written. (Guy "
+"Steele)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:79
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:79
 msgid "&emsp;&emsp;阶级（class)斗争，一些阶级胜利了，一些阶级消灭了。(Mao Zedong)"
 msgstr ""
+"&emsp;&emsp;Class struggle — some classes triumph, others are eliminated."
+" (Mao Zedong)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:81
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:81
 msgid "&emsp;&emsp;类,可以分为三种：一种不工作的，一种出错的，还有一种找不到了的。(Russell Baker)"
 msgstr ""
+"&emsp;&emsp;Classes can be divided into three types: those that don't "
+"work, those that are broken, and those that can't be found. (Russell "
+"Baker)"
 
-#: ../../source/gamedoc/characters/yuzijiang.md:83
+#: ../../../../../../../../../Users/Jin/Workspace/github/LSD-doc/docs/source/gamedoc/characters/yuzijiang.md:83
 msgid "&emsp;&emsp;内存就像高潮，真的比虚拟的好得多。(Seymour Cray)"
 msgstr ""
+"&emsp;&emsp;Memory is like an orgasm. It's really much better when it's "
+"real. (Seymour Cray)"
 

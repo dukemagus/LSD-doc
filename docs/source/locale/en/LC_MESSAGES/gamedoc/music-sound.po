@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,13 +20,12 @@ msgstr ""
 
 #: ../../source/gamedoc/music-sound.md:1
 msgid "配乐和音效"
-msgstr ""
+msgstr "Music and Sound Effects"
 
 #: ../../source/gamedoc/music-sound.md:3
 msgid "&emsp;&emsp;《灵数奇缘》游戏的配乐目前以EDM为主，希望能让创作出的游戏更加活泼。电子乐曲中不时会混入一点点国风。"
-msgstr ""
+msgstr "&emsp;&emsp;The soundtrack of Luv Sense Digital currently features mainly EDM, aiming to make the game more vibrant. The electronic tracks occasionally incorporate subtle elements of traditional Chinese music."
 
 #: ../../source/gamedoc/music-sound.md:5
 msgid "OST试听"
-msgstr ""
-
+msgstr "OST Preview"

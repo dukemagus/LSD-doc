@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,141 +20,162 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/ducktyping.md:1
 msgid "达可·太平"
-msgstr ""
+msgstr "Duck Taiping"
 
 #: ../../source/gamedoc/characters/ducktyping.md:2
 msgid "游戏吉祥物"
-msgstr ""
+msgstr "Game Mascot"
 
 #: ../../source/gamedoc/characters/ducktyping.md
 msgid "设定项"
-msgstr ""
+msgstr "Setting"
 
 #: ../../source/gamedoc/characters/ducktyping.md
 msgid "内容"
-msgstr ""
+msgstr "Content"
 
 #: ../../source/gamedoc/characters/ducktyping.md
 msgid "Q版"
-msgstr ""
+msgstr "Chibi"
 
 #: ../../source/gamedoc/characters/ducktyping.md
 msgid ""
 "<img src=\"/img/Q/duck-typing.png\" alt=\"达可·太平（Q版）\" "
 "height=\"150px\"><br>*画师：战国Donuts*"
 msgstr ""
+"<img src=\"/img/Q/duck-typing.png\" alt=\"Duck Taiping (Chibi)\" "
+"height=\"150px\"><br>*Artist: Zhanguo Donuts*"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "达可·太平（Q版）"
-msgstr ""
+msgstr "Duck Taiping (Chibi)"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "名字"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "达可·太平（Duck Typing）"
-msgstr ""
+msgstr "Duck Taiping (Duck Typing)"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "年龄"
-msgstr ""
+msgstr "Age"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "3岁（机器人产品面世时间）"
-msgstr ""
+msgstr "3 years old (time since the robot product was released)"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "性别"
-msgstr ""
+msgstr "Gender"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "无性别"
-msgstr ""
+msgstr "Genderless"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "生日"
-msgstr ""
+msgstr "Birthday"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "6月1日"
-msgstr ""
+msgstr "June 1st"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "职业"
-msgstr ""
+msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "曾一度过量生产的消费级智能家居机器人，被改造用于在生产和军事场景中介绍和监督人员的工作规则进行使用"
 msgstr ""
+"A formerly overproduced consumer-grade smart home robot, repurposed for "
+"introducing and supervising personnel work rules in production and "
+"military scenarios"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "外貌"
-msgstr ""
+msgstr "Appearance"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "十分可爱的卡通造型的玩具鸭子形象"
-msgstr ""
+msgstr "A very cute cartoon-style toy duck appearance"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "头发"
-msgstr ""
+msgstr "Hair"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "无（或呆毛）"
-msgstr ""
+msgstr "None (or an ahoge)"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "体格"
-msgstr ""
+msgstr "Build"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "50cm高的小型机器人"
-msgstr ""
+msgstr "A small robot 50cm tall"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "服装"
-msgstr ""
+msgstr "Clothing"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "迷彩军装 + 鸭舌帽 + 黄色袖章（写着汉字“督”） + 半透明泳圈"
 msgstr ""
+"Camo military uniform + cap + yellow armband (with Chinese character "
+"\"督\" meaning \"Supervisor\") + translucent swim ring"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "性格"
-msgstr ""
+msgstr "Personality"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "话多且吵闹的机器人，不知是由于参数调整有误还是什么程序bug的原因，因为附加了监察秩序，并对违规行为进行语音提示的功能。附带了喜欢命令他人的人格，有些招人讨厌"
 msgstr ""
+"A talkative and noisy robot, whether due to incorrect parameter tuning or"
+" some program bug, because it was given the function of monitoring order "
+"and providing voice alerts for violations. It developed a personality "
+"that likes bossing others around, somewhat annoying"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "特技"
-msgstr ""
+msgstr "Special Skill"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "飞行、游泳、吸引敌人火力、能解释军事基地里的一切管理规则、有“无尽”的备用机体、在有通讯干扰的环境中担任传令员的作用"
 msgstr ""
+"Flying, swimming, drawing enemy fire, explaining all management rules in "
+"military bases, having \"endless\" spare bodies, serving as a messenger "
+"in environments with communication interference"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "弱点"
-msgstr ""
+msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "毫无战斗机能的辅助型机器人，常出现在战场上被敌人（或自己人）打飞"
 msgstr ""
+"A support robot with zero combat capability, often seen getting knocked "
+"away on the battlefield by enemies (or allies)"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "口吻"
-msgstr ""
+msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "有点呆板又像小孩的口吻：“给我听好了，本达可提示不准任何人员越过禁区！”，“本达可温馨提示：贸然追击敌人的部队都将被严加处刑！”，“不听话的孩子全部都报给军事局，处罚你们！”"
 msgstr ""
+"Somewhat stiff yet childlike tone: \"Listen up, this Duck hereby "
+"announces that no personnel are allowed to cross the restricted zone!\", "
+"\"This Duck kindly reminds you: any unit that recklessly pursues the "
+"enemy will be severely punished!\", \"All disobedient children will be "
+"reported to the military bureau and punished!\""
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "故事设定"
-msgstr ""
+msgstr "Story Setting"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid ""
@@ -165,12 +185,26 @@ msgid ""
 " Turing "
 "test）由艾伦·麦席森·图灵发明，指测试者与被测试者（一个人和一台机器）隔开的情况下，通过一些装置（如键盘）向被测试者随意提问。进行多次测试后，如果机器让平均每个参与者做出超过30%的误判，那么这台机器就通过了测试，并被认为具有人类智能。"
 msgstr ""
+"An overproduced smart home product by a certain company before the solar "
+"disaster that failed to gain market favor. Before launch, large "
+"quantities were stockpiled across various locations. After the disaster, "
+"it反而 became a type of smart mechanical product that was relatively easy "
+"to obtain and repurpose.<br/>Meaning in character design:<br/>Duck "
+"Typing: When you see an animal that walks like a duck, swims like a duck,"
+" and quacks like a duck, then that animal can be called a duck. The "
+"extended meaning: anything that passes the Turing test is human.<br/>The "
+"Turing test was invented by Alan Mathison Turing. It involves a tester "
+"and a test subject (a person and a machine) separated from each other, "
+"with the tester freely asking questions through devices (such as a "
+"keyboard). After multiple tests, if the machine causes each participant "
+"to make misjudgments exceeding 30% of the time, the machine passes the "
+"test and is considered to possess human intelligence."
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "文案"
-msgstr ""
+msgstr "Writer"
 
 #: ../../source/gamedoc/characters/ducktyping.md:6
 msgid "瑾"
-msgstr ""
+msgstr "Jin"
 

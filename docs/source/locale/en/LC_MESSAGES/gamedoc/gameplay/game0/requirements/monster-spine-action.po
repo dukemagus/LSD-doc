@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,35 +20,45 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:1
 msgid "怪物Spine动作制作需求"
-msgstr ""
+msgstr "Monster Spine Animation Production Requirements"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:3
 msgid "制作要求"
-msgstr ""
+msgstr "Production Requirements"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:5
 msgid "1.备注的动作过程仅用作参考，如果有更好的设计想法可以不同于备注描述来制作。"
 msgstr ""
+"1. The action process in the notes is for reference only. If you have "
+"better design ideas, you may deviate from the note descriptions."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:6
 msgid "2.除了普通攻击类型的攻击技能都需要做出明确的前摇部分。前摇动作时长先自行设计，后期再根据游戏机制再做调整。"
 msgstr ""
+"2. All attack skills except normal attack types need a clear wind-up "
+"animation. Design the wind-up duration yourself initially; it will be "
+"adjusted later based on game mechanics."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:7
 msgid "3.“移动”动画在脚步落地时增加事件帧，名为“step”，用于绑定音效。"
 msgstr ""
+"3. Add an event frame named \"step\" to the \"Move\" animation when the "
+"foot hits the ground, for binding sound effects."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:8
 msgid "4.除大招以及原地小跳类的动作需要去除动作描述中的较长距离的位移，用于后续在程序中进行控制实现。"
 msgstr ""
+"4. Except for ultimate skills and small in-place jump actions, longer-"
+"distance displacement in the action descriptions should be removed, to be"
+" implemented programmatically later."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:10
 msgid "需求清单"
-msgstr ""
+msgstr "Requirements Checklist"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:12
 msgid "1.小饕餮"
-msgstr ""
+msgstr "1. Little Taotie"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:14
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:32
@@ -63,795 +72,1054 @@ msgstr ""
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:169
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:186
 msgid "**制作进度**：已完成"
-msgstr ""
+msgstr "**Production Progress**: Completed"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "编号"
-msgstr ""
+msgstr "No."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "动作"
-msgstr ""
+msgstr "Action"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "命名"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "备注"
-msgstr ""
+msgstr "Notes"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "普通待机"
-msgstr ""
+msgstr "Normal Idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "idle"
-msgstr ""
+msgstr "idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "特殊待机"
-msgstr ""
+msgstr "Special Idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "idle1"
-msgstr ""
+msgstr "idle1"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "小心把玩宝石并提防别人发现、调整背包"
 msgstr ""
+"Carefully playing with a gem while watching out for others, adjusting "
+"backpack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "晕眩"
-msgstr ""
+msgstr "Dizzy"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "dizzy"
-msgstr ""
+msgstr "dizzy"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "失去活力，原地坐下，进入晕眩待机状态。<br>需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Loses vitality, sits down in place, enters dizzy idle state.<br>Needs to "
+"be split into two parts: entering dizzy state and dizzy state loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "移动"
-msgstr ""
+msgstr "Move"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "move"
-msgstr ""
+msgstr "move"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "受击"
-msgstr ""
+msgstr "Hit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "hit"
-msgstr ""
+msgstr "hit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "击败"
-msgstr ""
+msgstr "Defeated"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "lose"
-msgstr ""
+msgstr "lose"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "向前滚动"
-msgstr ""
+msgstr "Forward Roll"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "roll"
-msgstr ""
+msgstr "roll"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.卷曲身体变成球状<br>2.原地旋转加速，开始滚动<br>3.旋转减速，后跳一小步回复姿态<br>>技能效果介绍<br>持续向前滚动，并将前方群体对象撞退一定距离"
 msgstr ""
+">Skill Animation Requirements<br>1. Curl body into a ball shape<br>2. "
+"Spin in place to accelerate, begin rolling<br>3. Slow down spinning, take"
+" a small backward hop to recover pose<br>>Skill Effect "
+"Description<br>Continuously roll forward, knocking back a group of "
+"targets ahead a certain distance"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "甩尾挥击"
-msgstr ""
+msgstr "Tail Swipe"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "blow"
-msgstr ""
+msgstr "blow"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.做出蓄力的前摇姿态<br>2.侧身向前甩动尾巴发动攻击<br>3.回复到待机姿态<br>>技能效果介绍<br>单体横向击飞对手"
 msgstr ""
+">Skill Animation Requirements<br>1. Assume a charging wind-up pose<br>2. "
+"Turn sideways and swing tail forward to attack<br>3. Return to idle "
+"pose<br>>Skill Effect Description<br>Knocks a single target horizontally"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "跳跃甩尾"
-msgstr ""
+msgstr "Jump Tail Swing"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "swing"
-msgstr ""
+msgstr "swing"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>原地小跳并在空中从后方向前摆动尾巴进行普通攻击<br>>技能效果介绍<br>单体伤害对手，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>Small in-place jump, swinging tail from "
+"back to front in the air for a normal attack<br>>Skill Effect "
+"Description<br>Deals damage to a single target, no knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "用角顶撞"
-msgstr ""
+msgstr "Horn Thrust"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "butt"
-msgstr ""
+msgstr "butt"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.俯身低头，让头上的角面朝下前方<br>2.向前迈步，同时把角用力向上挥击<br>3.回复到待机姿态<br>>技能效果介绍<br>单体伤害对手，造成纵向击飞效果"
 msgstr ""
+">Skill Animation Requirements<br>1. Lean forward and lower head, pointing"
+" horns downward-forward<br>2. Step forward while forcefully swinging "
+"horns upward<br>3. Return to idle pose<br>>Skill Effect "
+"Description<br>Deals damage to a single target, causes vertical knockup "
+"effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "滚动炸弹"
-msgstr ""
+msgstr "Rolling Bomb"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "bomb"
-msgstr ""
+msgstr "bomb"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>身体向下倾，摆动手臂向地面抛出一个会向前滚动的炸弹（打保龄球）<br>>技能效果介绍<br>炸弹碰到对手后造成范围伤害，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>Lean body downward, swing arm to throw a"
+" forward-rolling bomb at the ground (bowling motion)<br>>Skill Effect "
+"Description<br>Bomb deals area damage upon contacting opponents, no "
+"knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:30
 msgid "2.大饕餮"
-msgstr ""
+msgstr "2. Great Taotie"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "做咆哮状"
-msgstr ""
+msgstr "Roaring pose"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "向前拍击"
-msgstr ""
+msgstr "Forward Slam"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "trample"
-msgstr ""
+msgstr "trample"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>单个前肢向前抬起后向下拍击，发动普通攻击<br>>技能效果介绍<br>单体造成伤害，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>Single front limb raised forward then "
+"slammed down for a normal attack<br>>Skill Effect Description<br>Deals "
+"damage to a single target, no knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "尾巴挥击"
-msgstr ""
+msgstr "Tail Swing"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>尾巴抬起向身后挥击<br>>技能效果介绍<br>攻击群体对象，造成击退效果"
 msgstr ""
+">Skill Animation Requirements<br>Tail raised and swung behind<br>>Skill "
+"Effect Description<br>Attacks a group of targets, causes knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "前扑攻击"
-msgstr ""
+msgstr "Pounce Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "pounce"
-msgstr ""
+msgstr "pounce"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.身体向下做伏地状，做前扑准备<br>2.突然发力，后肢支撑抬起前肢并向下前方扑击<br>3.回复姿态<br>>技能效果介绍<br>攻击群体对象，造成横向击飞效果"
 msgstr ""
+">Skill Animation Requirements<br>1. Lower body to the ground in a prone "
+"position, preparing to pounce<br>2. Suddenly push off, hind legs support "
+"while front limbs lift and pounce forward-downward<br>3. Return to "
+"pose<br>>Skill Effect Description<br>Attacks a group of targets, causes "
+"horizontal knockup effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "机枪攻击"
-msgstr ""
+msgstr "Machine Gun Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "shot"
-msgstr ""
+msgstr "shot"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>身体后倾，使用机枪由近向远连续扫射，扫射过程中后肢支撑身体逐渐前倾<br>>技能效果介绍<br>攻击群体对象，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>Lean body backward, use machine gun to "
+"continuously sweep fire from near to far, body gradually leans forward "
+"during firing as hind legs support<br>>Skill Effect "
+"Description<br>Attacks a group of targets, no knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "野蛮冲撞（大招）"
-msgstr ""
+msgstr "Savage Charge (Ultimate)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "rush"
-msgstr ""
+msgstr "rush"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.仰头进行咆哮<br>2.身体后倾做起跑准备<br>3.突然四肢发力开始奔跑<br>4.做出奔跑减速的动作，回复待机姿态<br>>技能效果介绍<br>怪物进入霸体状态并产生横向位移，撞飞所有接触到的单位"
 msgstr ""
+">Skill Animation Requirements<br>1. Raise head and roar<br>2. Lean body "
+"backward in starting position<br>3. Suddenly push off with all four limbs"
+" and begin running<br>4. Decelerate running motion, return to idle "
+"pose<br>>Skill Effect Description<br>Monster enters super armor state "
+"with horizontal displacement, knocking away all units it contacts"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:48
 msgid "3.小山魈"
-msgstr ""
+msgstr "3. Little Mandrill"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "左右脚交替跺地共五次，节奏为“哒哒哒哒哒”（逐渐暴躁），跺完后扶一下耳机"
 msgstr ""
+"Alternate left and right foot stomping five times in rhythm \"da-da-da-"
+"da-da\" (progressively agitated), then adjust earpiece after stomping"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "手臂后的火焰熄灭，原地坐下，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Flames behind arms extinguish, sits down in place, enters dizzy idle "
+"state. Needs to be split into entering dizzy state and dizzy state loop "
+"idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "直立行走的猩猩姿态"
-msgstr ""
+msgstr "Upright walking gorilla posture"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "投石攻击"
-msgstr ""
+msgstr "Rock Throw Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "throw"
-msgstr ""
+msgstr "throw"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.身体后倾，手向后摆，做出棒球投掷的起势动作<br>2.手向前挥，进行抛物<br>3.回复到待机姿态<br>>技能效果介绍<br>以投掷物攻击单体对象，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>1. Lean body backward, arm swings back "
+"in a baseball pitching wind-up<br>2. Arm swings forward to throw<br>3. "
+"Return to idle pose<br>>Skill Effect Description<br>Attacks a single "
+"target with a thrown object, no knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "后跳躲避"
-msgstr ""
+msgstr "Back Jump Evade"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "evade"
-msgstr ""
+msgstr "evade"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.身体下倾，手臂往后挥，做立定跳远的起跳准备<br>2.开始跳跃下落<br>3.回复待机姿态<br>>技能效果介绍<br>当周围没有BOSS级怪物，并且不存在大于等于3只其它小型怪物时，会使用该技能做后跳位移远离玩家"
 msgstr ""
+">Skill Animation Requirements<br>1. Lean body down, arms swing back, "
+"preparing for a standing long jump<br>2. Begin jumping and landing<br>3. "
+"Return to idle pose<br>>Skill Effect Description<br>When there are no "
+"BOSS-level monsters nearby and fewer than 3 other small monsters present,"
+" uses this skill to back-jump away from the player"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "疯狂投掷"
-msgstr ""
+msgstr "Frenzy Throw"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "litter"
-msgstr ""
+msgstr "litter"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.原地起跳<br>2.在空中先后挥舞双臂进行两次投掷攻击<br>3.落地并回复待机姿态<br>>技能效果介绍<br>当周围有BOSS级怪物，或是存在大于等于2只其它小型怪物时，会使用该技能发动更强力的攻击"
 msgstr ""
+">Skill Animation Requirements<br>1. Jump in place<br>2. In the air, swing"
+" both arms alternately for two throwing attacks<br>3. Land and return to "
+"idle pose<br>>Skill Effect Description<br>When there are BOSS-level "
+"monsters nearby or 2 or more other small monsters present, uses this "
+"skill for a more powerful attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "向前冲击"
-msgstr ""
+msgstr "Forward Charge"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.向前抬起双手，肩后的火焰变大，双脚浮空<br>2.向前悬浮冲刺一段距离<br>3.在空中后空翻转一圈后落地，回复待机姿态<br>>技能效果介绍<br>当周围有BOSS级怪物，或是存在大于等于2只其它小型怪物时，会使用该技能。和路径上的第一个敌人碰撞后结束技能，并造成中等伤害"
 msgstr ""
+">Skill Animation Requirements<br>1. Raise both hands forward, flames "
+"behind shoulders grow larger, feet leave ground<br>2. Hover-dash forward "
+"a distance<br>3. Do a backflip in the air and land, return to idle "
+"pose<br>>Skill Effect Description<br>When there are BOSS-level monsters "
+"nearby or 2 or more other small monsters present, uses this skill. Ends "
+"upon colliding with the first enemy in path, dealing moderate damage"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "爪击"
-msgstr ""
+msgstr "Claw Strike"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "scratch"
-msgstr ""
+msgstr "scratch"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>双爪交叉挥舞两次进行普通攻击<br>>技能效果介绍<br>造成单体伤害，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>Cross-swing both claws twice for a "
+"normal attack<br>>Skill Effect Description<br>Deals single-target damage,"
+" no knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:66
 msgid "4.大山魈"
-msgstr ""
+msgstr "4. Great Mandrill"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "腰挺直，抖一抖披风，摆动头上的角"
-msgstr ""
+msgstr "Straighten waist, shake cape, swing horns on head"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "背弯下，手撑着脚部附近地面，触角和斗篷无力垂下，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Back bends down, hands support ground near feet, antennae and cape droop "
+"limply, enters dizzy idle state. Needs to be split into entering dizzy "
+"state and dizzy state loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "投掷物体"
-msgstr ""
+msgstr "Throw Object"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.拾取地面上的道具，举起道具开始蓄力<br>2.用力向前方投掷出<br>3.回复待机姿态<br>>技能效果介绍<br>在身边有可互动的道具时发动，投掷出的道具有物理碰撞的效果，并撞飞接触的多个单位"
 msgstr ""
+">Skill Animation Requirements<br>1. Pick up item from ground, raise it "
+"and begin charging<br>2. Forcefully throw it forward<br>3. Return to idle"
+" pose<br>>Skill Effect Description<br>Activated when there are "
+"interactive items nearby. Thrown item has physical collision effect, "
+"knocking away multiple units it contacts"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "双手砸地"
-msgstr ""
+msgstr "Double Hand Ground Slam"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "slum"
-msgstr ""
+msgstr "slum"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>抬起双手，用力三次砸向地面<br>>技能效果介绍<br>范围群体攻击，造成生命值和体力消耗，体力耗尽的单位会被击倒"
 msgstr ""
+">Skill Animation Requirements<br>Raise both hands, forcefully slam ground"
+" three times<br>>Skill Effect Description<br>Area group attack, causes HP"
+" and stamina depletion. Units with exhausted stamina are knocked down"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "挥拳攻击"
-msgstr ""
+msgstr "Punch Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "punch"
-msgstr ""
+msgstr "punch"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.双手拍下拳头，做出出拳准备<br>2.向前出拳打出三连击<br>3.回复待机姿态<br>>技能效果介绍<br>单体连续受到攻击，消耗生命值和体力，攻击过程中体力耗尽的单位会被击倒"
 msgstr ""
+">Skill Animation Requirements<br>1. Slam both fists down in punching "
+"preparation<br>2. Punch forward with a three-hit combo<br>3. Return to "
+"idle pose<br>>Skill Effect Description<br>Single target takes consecutive"
+" hits, depleting HP and stamina. Units with exhausted stamina during the "
+"attack are knocked down"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "暗影偷袭（大招）"
-msgstr ""
+msgstr "Shadow Ambush (Ultimate)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "ambush"
-msgstr ""
+msgstr "ambush"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.身后出现一个竖直的传送门<br>2.后跳一步进入传送门，同时传送门变消失<br>3.空中出现横向的传送门<br>4.从传送门中落下，向地面发动下落攻击，同时横向传送门消失<br>5.回复待机姿态<br>>技能效果介绍<br>原地消失，并瞬移到目标单位的上方发动下落范围群体攻击"
 msgstr ""
+">Skill Animation Requirements<br>1. A vertical portal appears "
+"behind<br>2. Back-step into the portal, portal disappears "
+"simultaneously<br>3. A horizontal portal appears in the air<br>4. Fall "
+"from the portal, launching a downward attack toward the ground, "
+"horizontal portal disappears simultaneously<br>5. Return to idle "
+"pose<br>>Skill Effect Description<br>Disappears in place, teleports above"
+" the target unit and launches a falling area group attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:83
 msgid "5.小狐狸"
-msgstr ""
+msgstr "5. Little Fox"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "尾巴下垂，后腿蹲到地面，前腿支持起上身，摆动耳朵"
 msgstr ""
+"Tail droops, hind legs crouch to ground, front legs support upper body, "
+"ears wiggle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "趴到在地面，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Lies flat on the ground, enters dizzy idle state. Needs to be split into "
+"entering dizzy state and dizzy state loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "魅惑之舞"
-msgstr ""
+msgstr "Charming Dance"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "charm"
-msgstr ""
+msgstr "charm"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>晃动脑袋，摆动尾巴<br>>技能效果介绍<br>发动时间结束后，让单个单位陷入迷惑状态，停止行动，迷惑状态期间受到攻击会中断效果"
 msgstr ""
+">Skill Animation Requirements<br>Shake head, wag tail<br>>Skill Effect "
+"Description<br>After the activation time ends, puts a single unit into a "
+"confused state, stopping their actions. Being attacked during confusion "
+"interrupts the effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "脑袋撞击"
-msgstr ""
+msgstr "Headbutt"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "charge"
-msgstr ""
+msgstr "charge"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>向前小跳一步，并同时耳朵向后摆，低下头做脑袋向前顶的动作<br>>技能效果介绍<br>对前方单个单位造成少量伤害，无击退效果，当击中单位处于迷惑状态时造成3倍伤害"
 msgstr ""
+">Skill Animation Requirements<br>Take a small forward hop while ears "
+"swing back, lower head to thrust forward<br>>Skill Effect "
+"Description<br>Deals minor damage to a single unit ahead, no knockback "
+"effect. Deals 3x damage when hitting a confused unit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "伪装攻击/装死"
-msgstr ""
+msgstr "Disguise Attack / Play Dead"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "pretend"
-msgstr ""
+msgstr "pretend"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.从被击败的动作结束姿态开始行动<br>2.跃起用脑袋发动全力一击<br>3.回复待机状态<br>>技能效果介绍<br>在承受随机的少量伤害后，会假装做出被击败的动作，蜷缩在地面，处于无法被攻击的状态，如果有单位在6秒内靠近会受到攻击并被击飞，如果伪装时间超过6秒没有单位靠近，则回复待机姿态"
 msgstr ""
+">Skill Animation Requirements<br>1. Start from the defeated animation's "
+"ending pose<br>2. Leap up and deliver a full-power head strike<br>3. "
+"Return to idle pose<br>>Skill Effect Description<br>After taking random "
+"minor damage, pretends to be defeated, curling up on the ground in an "
+"untargetable state. If any unit approaches within 6 seconds, it attacks "
+"and knocks them away. If no unit approaches within 6 seconds, returns to "
+"idle pose"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "攻击迟疑"
-msgstr ""
+msgstr "Attack Hesitation"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "cute"
-msgstr ""
+msgstr "cute"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>前腿向前伸，上身下倾，摇动尾巴做示好状<br>>技能效果介绍<br>开始发动技能后，受到影响的单个单位攻击速度和命中率会下降"
 msgstr ""
+">Skill Animation Requirements<br>Front legs stretch forward, upper body "
+"tilts down, wag tail in a friendly gesture<br>>Skill Effect "
+"Description<br>After skill activation begins, the affected single unit's "
+"attack speed and accuracy decrease"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:100
 msgid "6.大狐狸"
-msgstr ""
+msgstr "6. Great Fox"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "待机状态下手上的光刃是隐藏的"
-msgstr ""
+msgstr "Light blades on hands are hidden during idle state"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "做一个搔首弄姿的动作"
-msgstr ""
+msgstr "Do a flirtatious pose"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "垂下头，用手护着脑袋，双膝跪地，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Head droops, hands protect head, kneels on both knees, enters dizzy idle "
+"state. Needs to be split into entering dizzy state and dizzy state loop "
+"idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "光刃三连击"
-msgstr ""
+msgstr "Light Blade Triple Strike"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "slice"
-msgstr ""
+msgstr "slice"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.手臂伸出光刃<br>2.身体重心下移，做出攻击准备姿态<br>3.发动快速地三连击，然后回复待机姿态<br>>技能效果介绍<br>对单个单位发动连续攻击，无击退效果，对迷惑状态的单位造成3倍伤害"
 msgstr ""
+">Skill Animation Requirements<br>1. Light blades extend from arms<br>2. "
+"Lower center of gravity, assume attack preparation pose<br>3. Execute "
+"rapid triple strike, then return to idle pose<br>>Skill Effect "
+"Description<br>Launches consecutive attacks on a single unit, no "
+"knockback effect. Deals 3x damage to confused units"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "反弹子弹"
-msgstr ""
+msgstr "Bullet Deflect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "parry"
-msgstr ""
+msgstr "parry"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.单脚后退一步呈弓步站立姿态，手臂在胸前交叉，做出格挡动作（类似神奇女侠挡子弹）<br>2.手臂保持格挡姿势一段时间后，双手向下挥动，做反弹攻击的动作<br>3.回复待机姿态<br>>技能效果介绍<br>进入一段时间的格挡状态，期间受到的枪械攻击失效，格挡结束后会将格挡下的子弹、榴弹、能量射线等向攻击者的方向反弹。如果格挡期间未受到攻击，则反弹动作时发出攻击波，群体造成伤害和击退效果"
 msgstr ""
+">Skill Animation Requirements<br>1. Step back with one foot into a lunge "
+"stance, arms crossed in front of chest in a blocking pose (similar to "
+"Wonder Woman deflecting bullets)<br>2. Maintain blocking pose for a "
+"period, then swing both hands downward in a deflection attack "
+"motion<br>3. Return to idle pose<br>>Skill Effect Description<br>Enters a"
+" blocking state for a period, during which firearm attacks are negated. "
+"After blocking ends, deflects blocked bullets, grenades, energy beams, "
+"etc. back toward the attacker. If not attacked during blocking, the "
+"deflection action emits an attack wave, dealing damage and knockback to a"
+" group"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "荷尔蒙控制"
-msgstr ""
+msgstr "Hormone Control"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "hormone"
-msgstr ""
+msgstr "hormone"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.开始做出挑逗的动作，同时摆动尾巴<br>2.保持挑逗姿态，继续摆动尾巴一段时间<br>3.回复待机姿态<br>>技能效果介绍<br>如果技能成功释放结束（在空气中散布特殊荷尔蒙物质），会让男性单位陷入迷惑状态，停止行动，并持续消耗体力。让女性单位进入躁郁状态，攻击命中率下降。技能释放过程中受到男性单位攻击会受到暴击伤害"
 msgstr ""
+">Skill Animation Requirements<br>1. Begin a provocative gesture while "
+"wagging tail<br>2. Maintain provocative pose, continue wagging tail for a"
+" period<br>3. Return to idle pose<br>>Skill Effect Description<br>If the "
+"skill is successfully completed (releasing special hormone substances "
+"into the air), male units enter a confused state, stop acting, and "
+"continuously lose stamina. Female units enter an agitated state with "
+"reduced attack accuracy. During skill activation, attacks from male units"
+" deal critical damage"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "激光飞刃"
-msgstr ""
+msgstr "Laser Flying Blade"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "blade"
-msgstr ""
+msgstr "blade"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.单脚后退一步，抬起右臂作蓄力状<br>2.交替向前挥舞两只手臂，向前方发射两次手臂光刃<br>3.回复待机姿态<br>>技能效果介绍<br>以不同的角度发射两个光刃，每个光刃可以对一个单位造成中等伤害"
 msgstr ""
+">Skill Animation Requirements<br>1. Step back with one foot, raise right "
+"arm in a charging pose<br>2. Alternately swing both arms forward, "
+"launching two arm light blades forward<br>3. Return to idle "
+"pose<br>>Skill Effect Description<br>Launches two light blades at "
+"different angles, each dealing moderate damage to one unit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "超级忍杀（大招）"
-msgstr ""
+msgstr "Super Ninja Kill (Ultimate)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "ninja"
-msgstr ""
+msgstr "ninja"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.手上伸出光刃做攻击准备<br>2.在地面以攻击单位为中心进行左右闪现切割攻击三次<br>3.后跳回到初始位置空中，向攻击单位扔出旋转的光刃<br>4.下落到地面，回复待机姿态<br>>技能效果介绍<br>对攻击范围内的单位连续造成多段伤害，对迷惑状态的单位造成3倍伤害，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>1. Extend light blades from hands in "
+"attack preparation<br>2. Flash left and right around the target unit on "
+"the ground for three slash attacks<br>3. Back-jump to initial position in"
+" the air, throw a spinning light blade at the target<br>4. Descend to the"
+" ground, return to idle pose<br>>Skill Effect Description<br>Deals "
+"multiple consecutive hits to units within attack range. Deals 3x damage "
+"to confused units, no knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:118
 msgid "7.小花妖"
-msgstr ""
+msgstr "7. Little Flower Spirit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "普通待机-花蕾"
-msgstr ""
+msgstr "Normal Idle - Bud"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "bud"
-msgstr ""
+msgstr "bud"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "小花妖的初始姿态是花蕾形态，花蕾状态只会站在原地播放待机"
 msgstr ""
+"The Little Flower Spirit's initial form is the bud state. In bud state, "
+"it only stands in place playing idle animation"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "普通待机-小花妖"
-msgstr ""
+msgstr "Normal Idle - Little Flower Spirit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "摇摆裙子"
-msgstr ""
+msgstr "Swaying dress"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "丝带和双手下垂，垂下脑袋，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Ribbons and hands droop, head lowers, enters dizzy idle state. Needs to "
+"be split into entering dizzy state and dizzy state loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "开花"
-msgstr ""
+msgstr "Bloom"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "blossom"
-msgstr ""
+msgstr "blossom"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>从花蕾状态开花变为小花妖状态<br>>技能效果介绍<br>花蕾状态的小花妖在开始受到攻击后，累计在5秒内收到的伤害量，作为系数决定5秒后开花的生命值及其它能力值的决定因数"
 msgstr ""
+">Skill Animation Requirements<br>Bloom from bud state into Little Flower "
+"Spirit state<br>>Skill Effect Description<br>After the bud-state Little "
+"Flower Spirit starts taking damage, it accumulates damage received over 5"
+" seconds as a coefficient that determines its HP and other stats when it "
+"blooms 5 seconds later"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "吸血攻击"
-msgstr ""
+msgstr "Life Drain Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "leech"
-msgstr ""
+msgstr "leech"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.身体后仰，两个手臂向后摆，准备发动攻击<br>2.身体前倾，向前水平伸出手臂藤蔓（电缆），达到一倍体长的长度<br>3.收回藤蔓，回复待机姿态<br>>技能效果介绍<br>对藤蔓碰到的复数单位进行吸血攻击，将造成的攻击伤害转换成自身生命，无击退效果"
 msgstr ""
+">Skill Animation Requirements<br>1. Lean body backward, both arms swing "
+"back, preparing to attack<br>2. Lean body forward, extend arm vines "
+"(cables) horizontally to one body length<br>3. Retract vines, return to "
+"idle pose<br>>Skill Effect Description<br>Drains life from multiple units"
+" touched by the vines, converting attack damage into self-healing, no "
+"knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "藤蔓缠绕"
-msgstr ""
+msgstr "Vine Entangle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "pull"
-msgstr ""
+msgstr "pull"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.抬起一只手臂<br>2.向前伸长手上的藤蔓到2.5倍体长<br>3.快速拉回藤蔓，并回复待机姿态<br>>技能效果介绍<br>将前方碰到藤蔓的复数单位快速拉到面前，造成体力值消耗"
 msgstr ""
+">Skill Animation Requirements<br>1. Raise one arm<br>2. Extend the vine "
+"on the hand forward to 2.5x body length<br>3. Quickly retract vine and "
+"return to idle pose<br>>Skill Effect Description<br>Quickly pulls "
+"multiple units touched by the vine forward to itself, causing stamina "
+"depletion"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:135
 msgid "8.大花妖"
-msgstr ""
+msgstr "8. Great Flower Spirit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "举起右手，向右偏头，眼睛向右下方看，右手的树杈缠绕着扶了扶花枝"
 msgstr ""
+"Raise right hand, tilt head right, eyes look down-right, branch-wrapped "
+"right hand adjusts a flower branch"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "闭上双眼，头微微垂下，双手下垂搭在地上，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两部分"
 msgstr ""
+"Close eyes, head slightly lowered, hands droop resting on the ground, "
+"enters dizzy idle state. Needs to be split into entering dizzy state and "
+"dizzy state loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "藤蔓击打"
-msgstr ""
+msgstr "Vine Strike"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "attack"
-msgstr ""
+msgstr "attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.举起一只手臂，同时手臂上的藤蔓伸长<br>2.快速向前击打<br>3.缩回藤蔓，回复待机姿态<br>>技能效果介绍<br>对面前一定距离内的敌人造成中等伤害"
 msgstr ""
+">Skill Animation Requirements<br>1. Raise one arm, vines on the arm "
+"extend simultaneously<br>2. Strike forward quickly<br>3. Retract vine, "
+"return to idle pose<br>>Skill Effect Description<br>Deals moderate damage"
+" to enemies within a certain distance ahead"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "twine"
-msgstr ""
+msgstr "twine"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.举起双手的藤蔓并快速插入地下<br>2.保持让藤蔓向地下延申的待机状态，同时多根藤蔓由近到远连续冲出地表<br>3.藤蔓回缩地下，手上的树枝从地面拔出<br>>技能效果介绍<br>在将树枝插入地下后，本体处于霸体状态，即技能不会被打断，但是可以收到伤害。碰到地面伸出藤蔓的单位处于中毒状态，持续收到伤害，并心智混乱变成友方(6秒)"
 msgstr ""
+">Skill Animation Requirements<br>1. Raise vines on both hands and quickly"
+" thrust them underground<br>2. Maintain pose with vines extending "
+"underground, while multiple vines burst from the ground sequentially from"
+" near to far<br>3. Vines retract underground, branch on hands pulls out "
+"from ground<br>>Skill Effect Description<br>After inserting branches "
+"underground, the main body enters super armor state — skills cannot be "
+"interrupted, but damage can still be received. Units touched by vines "
+"bursting from the ground enter poisoned state, taking continuous damage, "
+"and become confused turning friendly (6 seconds)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "病毒传输"
-msgstr ""
+msgstr "Virus Transmission"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "transv"
-msgstr ""
+msgstr "transv"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.双手的藤蔓伸长<br>2.从下往上交替且平缓地挥舞两条手臂<br>3.回复待机姿态<br>>技能效果介绍<br>使前方一段空间内单位的电子道具感染电脑病毒，受到控制或是失效一段时间。包括智能枪械、机械外骨骼、通讯器和电脑设备等。病毒会导致智能枪械命中友方单位，弹道偏转；机械外骨骼会停止运转，让装备者失去移动或跳跃能力；通讯器会失效导致玩家无法下达团队指令；电脑设备失效导致无法使用"
 msgstr ""
+">Skill Animation Requirements<br>1. Vines on both hands extend<br>2. "
+"Alternately and smoothly wave both arms from bottom to top<br>3. Return "
+"to idle pose<br>>Skill Effect Description<br>Infects electronic equipment"
+" of units in the space ahead with a computer virus, causing them to be "
+"controlled or disabled for a period. Includes smart firearms, mechanical "
+"exoskeletons, communicators, and computer devices. The virus causes smart"
+" firearms to hit friendly units with deflected trajectories; mechanical "
+"exoskeletons stop functioning, causing the wearer to lose movement or "
+"jumping ability; communicators fail, preventing players from issuing team"
+" commands; computer devices fail and become unusable"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "播种之舞（大招）"
-msgstr ""
+msgstr "Seeding Dance (Ultimate)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "seed"
-msgstr ""
+msgstr "seed"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>挥舞双臂，摆动头发，做出像是舞蹈的动作<br>>技能效果介绍<br>地面生长出3-5个小花妖的花蕾，受到攻击后变化为小花妖"
 msgstr ""
+">Skill Animation Requirements<br>Wave both arms, sway hair, perform "
+"dance-like movements<br>>Skill Effect Description<br>3-5 Little Flower "
+"Spirit buds grow from the ground, transforming into Little Flower Spirits"
+" after being attacked"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:152
 msgid "9.小英招"
-msgstr ""
+msgstr "9. Little Yingzhao"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "低下头，，摇动尾巴，用前脚蹬自己的下巴"
-msgstr ""
+msgstr "Lower head, wag tail, scratch chin with front paw"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "后半身坐在地上，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Hindquarters sit on the ground, enters dizzy idle state. Needs to be "
+"split into entering dizzy state and dizzy state loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "飞扑攻击"
-msgstr ""
+msgstr "Leap Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "jump"
-msgstr ""
+msgstr "jump"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.身体后倾，重心向下<br>2.突然向前小跳，爪子前伸进行扑击<br>3.回复待机姿态<br>>技能效果介绍<br>使用抢夺的武器对前方单位进行射击"
 msgstr ""
+">Skill Animation Requirements<br>1. Lean body backward, lower center of "
+"gravity<br>2. Suddenly leap forward, claws extended for a pounce "
+"attack<br>3. Return to idle pose<br>>Skill Effect Description<br>Shoots "
+"at units ahead using a stolen weapon"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "铁蹄跟头"
-msgstr ""
+msgstr "Iron Hoof Flip"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "kick"
-msgstr ""
+msgstr "kick"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>做后空翻，同时后面两个铁蹄向前猛踢>技能效果介绍铁蹄可对前方造成单体伤害，造成击退效果"
 msgstr ""
+">Skill Animation Requirements<br>Do a backflip while forcefully kicking "
+"forward with the two rear iron hooves<br>>Skill Effect "
+"Description<br>Iron hooves deal single-target damage ahead, causing "
+"knockback effect"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:167
 msgid "10.中英招"
-msgstr ""
+msgstr "10. Mid Yingzhao"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "空手状态的待机"
-msgstr ""
+msgstr "Bare-handed idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "持枪待机"
-msgstr ""
+msgstr "Armed Idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "gunidle"
-msgstr ""
+msgstr "gunidle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "手持枪械武器的待机姿态，兼容手枪和长柄枪械"
 msgstr ""
+"Idle pose holding a firearm, compatible with pistols and long-barreled "
+"weapons"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "空手状态的待机，暴躁地跺脚"
-msgstr ""
+msgstr "Bare-handed idle, stamping feet aggressively"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "前后腿膝盖跪地，进入晕眩待机状态。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Front and rear legs kneel, enters dizzy idle state. Needs to be split "
+"into entering dizzy state and dizzy state loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "缴械冲锋"
-msgstr ""
+msgstr "Disarming Charge"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "rob"
-msgstr ""
+msgstr "rob"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.抬起马前蹄做发起冲锋的示意<br>2.马前蹄落地后开始进行持续地奔跑<br>3.做抢夺武器道具的动作<br>4.回复到手持枪械的待机姿态（制作时使用占位道具）<br>>技能效果介绍<br>快速冲到目标单位面前抢夺目标单位携带的武器"
 msgstr ""
+">Skill Animation Requirements<br>1. Raise front hooves in a charge "
+"signal<br>2. After front hooves land, begin continuous running<br>3. "
+"Perform weapon/item snatching motion<br>4. Return to firearm-holding idle"
+" pose (use placeholder prop during production)<br>>Skill Effect "
+"Description<br>Rushes quickly to the target unit and snatches their "
+"carried weapon"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "持械反击"
-msgstr ""
+msgstr "Armed Counter"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "shoot"
-msgstr ""
+msgstr "shoot"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>抬起抢夺的枪械进行单次射击<br>>技能效果介绍<br>使用抢夺的武器对前方单位进行射击"
 msgstr ""
+">Skill Animation Requirements<br>Raise stolen firearm and fire a single "
+"shot<br>>Skill Effect Description<br>Shoots at units ahead using the "
+"stolen weapon"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>进行一次挥拳攻击<br>>技能效果介绍<br>对前方单个单位发动近战攻击，造成少量伤害"
 msgstr ""
+">Skill Animation Requirements<br>Perform one punch attack<br>>Skill "
+"Effect Description<br>Launches a melee attack on a single unit ahead, "
+"dealing minor damage"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:184
 msgid "11.大英招"
-msgstr ""
+msgstr "11. Great Yingzhao"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "抬手看一下自己的斧头武器，然后在空中随手挥一下武器"
-msgstr ""
+msgstr "Raise hand to look at own axe weapon, then casually swing it in the air"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "保持站立姿态，闭眼低下头，两把武器向下垂到地上。需要拆成进入晕眩状态和晕眩状态循环待机两个部分"
 msgstr ""
+"Maintain standing pose, close eyes and lower head, both weapons droop to "
+"the ground. Needs to be split into entering dizzy state and dizzy state "
+"loop idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "斧头挥砍"
-msgstr ""
+msgstr "Axe Slash"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.双手抬起斧头，做发动攻击的准备<br>2.接连向下挥出双持的斧头<br>3.回复待机姿态<br>>技能效果介绍<br>对前方复数单位发动近战攻击，造成伤害"
 msgstr ""
+">Skill Animation Requirements<br>1. Raise axes with both hands, preparing"
+" to attack<br>2. Consecutively swing dual-wielded axes downward<br>3. "
+"Return to idle pose<br>>Skill Effect Description<br>Launches melee attack"
+" on multiple units ahead, dealing damage"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "狩猎指挥"
-msgstr ""
+msgstr "Hunting Command"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "hunt"
-msgstr ""
+msgstr "hunt"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>抬起前马蹄，上身向前挺直，同时抬起一只手臂，并用武器向前指，然后回复待机姿态<br>>技能效果介绍<br>做出攻击指示的动作，并立刻召唤两只小英招出现发动飞扑攻击"
 msgstr ""
+">Skill Animation Requirements<br>Raise front hooves, upper body "
+"straightens forward while raising one arm and pointing weapon forward, "
+"then return to idle pose<br>>Skill Effect Description<br>Performs an "
+"attack command gesture and immediately summons two Little Yingzhao to "
+"launch leap attacks"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "无双挥舞"
-msgstr ""
+msgstr "Unrivaled Swing"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "massive"
-msgstr ""
+msgstr "massive"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>一边向前奔跑一边双持武器发动三连击<br>>技能效果介绍<br>向前移动的同时对自己前方发动三次连击，造成范围的群体攻击效果，击飞受攻击单位"
 msgstr ""
+">Skill Animation Requirements<br>Run forward while dual-wielding weapons "
+"for a three-hit combo<br>>Skill Effect Description<br>Moves forward while"
+" executing three consecutive hits ahead, causing area group attack "
+"effect, knocking hit units away"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "地面冲击波"
-msgstr ""
+msgstr "Ground Shockwave"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "wave"
-msgstr ""
+msgstr "wave"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>1.翻转斧头使刀刃部分面朝前方持握，向后挥动手臂，将斧头向地面伸<br>2.突然双手将斧头贴着地面向前挥动直到空中<br>3.回复待机姿态<br>>技能效果介绍<br>掀起一股贴在地面的冲击波，将前方一段距离内碰到的单位击飞"
 msgstr ""
+">Skill Animation Requirements<br>1. Flip axes so blade edges face "
+"forward, swing arms backward and extend axes toward the ground<br>2. "
+"Suddenly sweep both axes along the ground forward into the air with both "
+"hands<br>3. Return to idle pose<br>>Skill Effect Description<br>Generates"
+" a ground-hugging shockwave, knocking away units within a certain "
+"distance ahead"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "英雄袭击（大招）"
-msgstr ""
+msgstr "Heroic Raid (Ultimate)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid "hero"
-msgstr ""
+msgstr "hero"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md
 msgid ">技能动画要求<br>转身向后方奔跑并渐隐消失，然后在前方的敌人背后奔跑显现并发动连续的冲刺攻击<br>>技能效果介绍<br>对前方大范围的区域造成多段伤害"
 msgstr ""
+">Skill Animation Requirements<br>Turn and run backward, gradually fading "
+"and disappearing, then appear running from behind enemies ahead, "
+"launching consecutive dash attacks<br>>Skill Effect Description<br>Deals "
+"multiple hits of damage across a wide area ahead"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:202
 msgid "12.小穷奇"
-msgstr ""
+msgstr "12. Little Qiongqi"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:204
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:217
@@ -860,25 +1128,25 @@ msgstr ""
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:257
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:270
 msgid "**制作进度**：待提出需求"
-msgstr ""
+msgstr "**Production Progress**: Requirements pending"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:215
 msgid "13.大穷奇"
-msgstr ""
+msgstr "13. Great Qiongqi"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:228
 msgid "14.小貔貅"
-msgstr ""
+msgstr "14. Little Pixiu"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:242
 msgid "15.大貔貅"
-msgstr ""
+msgstr "15. Great Pixiu"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:255
 msgid "16.小赛博幽魂"
-msgstr ""
+msgstr "16. Little Cyber Ghost"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/monster-spine-action.md:268
 msgid "17.大赛博幽魂"
-msgstr ""
+msgstr "17. Great Cyber Ghost"
 

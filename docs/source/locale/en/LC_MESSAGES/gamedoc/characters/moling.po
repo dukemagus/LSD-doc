@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,141 +20,188 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/moling.md:1
 msgid "默翎"
-msgstr ""
+msgstr "Mo Ling"
 
 #: ../../source/gamedoc/characters/moling.md:2
 msgid "高冷聪慧的双生子姐姐"
-msgstr ""
+msgstr "The Aloof and Brilliant Twin Sister"
 
 #: ../../source/gamedoc/characters/moling.md
 msgid "设定项"
-msgstr ""
+msgstr "Setting"
 
 #: ../../source/gamedoc/characters/moling.md
 msgid "内容"
-msgstr ""
+msgstr "Content"
 
 #: ../../source/gamedoc/characters/moling.md
 msgid "Q版"
-msgstr ""
+msgstr "Chibi"
 
 #: ../../source/gamedoc/characters/moling.md
 msgid ""
 "<img src=\"/img/Q/Q-moling.png\" alt=\"默翎（Q版）\" "
 "height=\"196px\"><br>*画师：双程*"
 msgstr ""
+"<img src=\"/img/Q/Q-moling.png\" alt=\"Mo Ling (Chibi)\" "
+"height=\"196px\"><br>*Artist: Shuangcheng*"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "默翎（Q版）"
-msgstr ""
+msgstr "Mo Ling (Chibi)"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "名字"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "默翎（英文名：Lian 丽安）"
-msgstr ""
+msgstr "Mo Ling (English name: Lian)"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "年龄"
-msgstr ""
+msgstr "Age"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "24岁"
-msgstr ""
+msgstr "24 years old"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "性别"
-msgstr ""
+msgstr "Gender"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "女"
-msgstr ""
+msgstr "Female"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "生日"
-msgstr ""
+msgstr "Birthday"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "12月24日 11:59（比弟弟早1分钟）"
-msgstr ""
+msgstr "December 24th 11:59 (1 minute earlier than her brother)"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "职业"
-msgstr ""
+msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "緣和中医馆馆长的姐姐（中医馆是家族传承的产业。现在由姐弟共同接手经营后，白天是救死扶伤的医院由弟弟打理，午夜过后是由姐姐负责的，制作售卖特殊药品和生化武器的供应商）"
 msgstr ""
+"Elder sister of the director of Yuanhe Traditional Chinese Medicine "
+"Clinic (the clinic is a family-run business. Now jointly managed by the "
+"siblings, during the day it is a life-saving hospital run by the younger "
+"brother, and after midnight the sister takes charge as a supplier "
+"manufacturing and selling special medicines and biochemical weapons)"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "外貌"
-msgstr ""
+msgstr "Appearance"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "因常年在实验室做药物科学的研究，很少进行户外活动，皮肤白皙，蓝灰色瞳孔。为掩盖时常熬夜所导致的黑眼圈，眼下常画轻微的深色眼影，鼻梁高挺，总被说像自己的父亲，喜欢搭配妩媚的妆容，用酒红色色号的口红掩饰自己时而较差的气色，身材纤细姣好"
 msgstr ""
+"Due to years of pharmaceutical research in the lab with little outdoor "
+"activity, she has fair skin and blue-gray irises. To conceal dark circles"
+" from frequent late nights, she often applies light dark eye shadow under"
+" her eyes. High nose bridge, often said to resemble her father. Likes "
+"wearing alluring makeup, using wine-red lipstick to mask her occasionally"
+" poor complexion, with a slender and graceful figure"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "头发"
-msgstr ""
+msgstr "Hair"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "深灰色的复古盘发"
-msgstr ""
+msgstr "Dark gray vintage updo"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "体格"
-msgstr ""
+msgstr "Build"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "身高173cm，体重50kg"
-msgstr ""
+msgstr "Height 173cm, Weight 50kg"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "服装"
-msgstr ""
+msgstr "Clothing"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "分离式旗袍制服，下身裙摆高开叉，主色调蓝紫色，裙摆及上衣有中国风暗纹和刺绣，上衣露着锁骨。领口是特殊图案的宝石盘扣（反抗军学园徽章）。上身搭配黑色皮草披肩，大腿上有蕾丝绑带，黑色高跟鞋，配饰：盘发上有一枚纯银长簪（母亲遗物），红宝石耳坠，因为经常做危险药物的加工制作，所以常戴着护目镜和手套进行化学操作"
 msgstr ""
+"Split-style qipao uniform, high-slit skirt, primarily blue-purple tones, "
+"with Chinese-style dark patterns and embroidery on the skirt and top, "
+"exposing the collarbone. Collar features special gemstone frog buttons "
+"(resistance academy badge). Upper body paired with a black fur shawl, "
+"lace garters on thighs, black high heels. Accessories: a pure silver long"
+" hair pin in the updo (mother's keepsake), ruby earrings. Because she "
+"frequently processes dangerous drugs, she often wears goggles and gloves "
+"during chemical operations"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "性格"
-msgstr ""
+msgstr "Personality"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "在生活中是满脸写着生人勿近的高冷性格，并且说话时惜字如金，在工作中却是一个非常职业化认真负责，乐于沟通的工作人格。虽然表面上总会对弟弟各种嫌弃，但内心里却是个护弟狂魔，甚至为了保护弟弟愿意豁出性命。是一个表面特别高冷理性，内心却有外人难以觉察的热情的姐姐。与弟弟的性格反差极大。"
 msgstr ""
+"In daily life, she has an aloof personality that says \"strangers keep "
+"away\" written all over her face, and speaks sparingly. At work however, "
+"she is highly professional, responsible, and communicative. Though she "
+"outwardly shows all kinds of disdain for her brother, deep down she is "
+"fiercely protective of him, even willing to risk her life to protect him."
+" A sister who appears extremely cold and rational on the surface but "
+"harbors a passion that outsiders can hardly detect. Her personality "
+"contrasts sharply with her brother's."
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "特技"
-msgstr ""
+msgstr "Special Skill"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "有极高的做科学研究的天赋，从小学习成绩优异，特别擅长学习理工学科的知识，一直对中医医学有很多质疑，所以也想通过修学药物化学专业帮助中医医学的发展。末世灾难来临时离开了从事科研工作的实验室，回到家中试图用自己所学制作药品和武器守护家人，从而在末世里通过擅长养护和使用生化武器谋生，在参与对抗变异生物的战斗时总会小心操作避免伤害到队友"
 msgstr ""
+"Possesses extremely high talent for scientific research, excelled "
+"academically from childhood, particularly skilled in STEM subjects. "
+"Always had many questions about traditional Chinese medicine, so she "
+"wanted to help its development by studying pharmaceutical chemistry. When"
+" the apocalyptic disaster struck, she left her research lab and returned "
+"home to use her knowledge to make medicines and weapons to protect her "
+"family, thus making a living in the post-apocalyptic world through her "
+"expertise in maintaining and using biochemical weapons. Always operates "
+"carefully during battles against mutated creatures to avoid harming "
+"teammates"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "弱点"
-msgstr ""
+msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "因为时常缺觉，导致有时情绪比较焦躁。受父母去世的梦魇侵扰，以及多年忘我地从事科研工作打乱了生活作息，难以在正常作息下入睡。所以负责在午夜经营家传的中医馆，白天补觉"
 msgstr ""
+"Due to frequent sleep deprivation, she sometimes becomes emotionally "
+"irritable. Haunted by nightmares of her parents' death, and years of "
+"obsessive research work disrupted her biological clock, making it "
+"difficult to fall asleep at normal hours. Therefore she takes charge of "
+"running the family's traditional Chinese medicine clinic at midnight and "
+"sleeps during the day"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "口吻"
-msgstr ""
+msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "“问我弟”；“说”；“知道了”；“深夜，是真正属于我的时刻！”"
 msgstr ""
+"\"Ask my brother.\"; \"Speak.\"; \"Got it.\"; \"The late night, this is "
+"the moment that truly belongs to me!\""
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "故事设定"
-msgstr ""
+msgstr "Story Setting"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid ""
@@ -163,32 +209,56 @@ msgid ""
 " AI "
 "模拟的游戏角色，灵数幻境游戏设计师原本只想设计一个“伏弟魔”的姐姐角色，只是为弟弟的角色进行服务工具人，可设计过程中，不经意中也在意起姐姐的故事起来，发现姐姐角色也可以具有独立的个性，以及就算脱离弟弟角色的存在也能发掘出更多的可能性。"
 msgstr ""
+"On a night after the apocalyptic disaster, the Yuanhe Traditional Chinese"
+" Medicine Clinic was attacked by mutated creatures. The couple running "
+"the clinic sacrificed themselves to protect the patients sheltered "
+"inside. Upon learning of her parents' murder, the elder sister Mo Ling "
+"immediately left the military-protected lab and rushed home to find her "
+"brother, silently vowing to become strong enough to protect her family "
+"and avenge her parents' death against the mutated creatures. Though "
+"deeply reluctant to return to the place where her parents perished, she "
+"supported her brother's wish to inherit the family business and heal "
+"others, co-managing the clinic their parents left behind. She set up her "
+"own lab within the clinic, devoting herself to researching drugs and "
+"chemical weapons to eliminate mutated species. Unfortunately, her brother"
+" never charged patients after treatment, causing the sister endless worry"
+" about maintaining the clinic's operations, forcing her to manufacture "
+"and sell banned drugs and weapons after midnight. Until an even more "
+"terrifying mutated creature attack left her severely wounded, and her "
+"brother had to bring his injured sister to the resistance academy for "
+"help. Hidden Setting: The sister is an AI-simulated game character. The "
+"Luv Sense game designer originally only wanted to design a \"brother-"
+"devoted\" sister character as a supporting tool for the brother's "
+"character, but during the design process, inadvertently grew invested in "
+"the sister's story, discovering that the sister character could also have"
+" an independent personality and that more possibilities could be explored"
+" even outside the brother character's existence."
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "学员专业"
-msgstr ""
+msgstr "Cadet Specialty"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "战斗（Battle）"
-msgstr ""
+msgstr "Combat (Battle)"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "立绘"
-msgstr ""
+msgstr "Portrait"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "![默翎（立绘）](/img/figure/moling.png)<br>*画师：杏杏*"
-msgstr ""
+msgstr "![Mo Ling (Portrait)](/img/figure/moling.png)<br>*Artist: Xingxing*"
 
 #: ../../source/gamedoc/characters/moling.md:22
 msgid "默翎（立绘）"
-msgstr ""
+msgstr "Mo Ling (Portrait)"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "文案"
-msgstr ""
+msgstr "Writer"
 
 #: ../../source/gamedoc/characters/moling.md:6
 msgid "玉徽"
-msgstr ""
+msgstr "Yuhui"
 

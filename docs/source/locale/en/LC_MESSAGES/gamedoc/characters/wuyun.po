@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2026-05-11 14:23+0800\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,239 +20,279 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/wuyun.md:1
 msgid "乌云"
-msgstr ""
+msgstr "Wuyun"
 
 #: ../../source/gamedoc/characters/wuyun.md:2
 msgid "洞悉两个世界的反叛者"
-msgstr ""
+msgstr "The Rebel Who Sees Through Both Worlds"
 
 #: ../../source/gamedoc/characters/wuyun.md:5
 msgid "乌云（人设）"
-msgstr ""
+msgstr "Wuyun (Character Design)"
 
 #: ../../source/gamedoc/characters/wuyun.md:9
 msgid "乌云人设（画师：周大西）"
-msgstr ""
+msgstr "Wuyun Character Design (Artist: Zhou Daxi)"
 
 #: ../../source/gamedoc/characters/wuyun.md
 msgid "设定项"
-msgstr ""
+msgstr "Setting"
 
 #: ../../source/gamedoc/characters/wuyun.md
 msgid "内容"
-msgstr ""
+msgstr "Content"
 
 #: ../../source/gamedoc/characters/wuyun.md
 msgid "Q版"
-msgstr ""
+msgstr "Chibi"
 
 #: ../../source/gamedoc/characters/wuyun.md
 msgid ""
 "<img src=\"/img/Q/Q-wuyun.png\" alt=\"乌云（Q版）\" "
 "height=\"235px\"><br>*画师：双程*"
 msgstr ""
+"<img src=\"/img/Q/Q-wuyun.png\" alt=\"Wuyun (Chibi)\" "
+"height=\"235px\"><br>*Artist: Shuangcheng*"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "乌云（Q版）"
-msgstr ""
+msgstr "Wuyun (Chibi)"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "名字"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "乌云，英文名：Moody Cloud，（在蒙古语中意为智慧）"
-msgstr ""
+msgstr "Wuyun, English name: Moody Cloud (meaning \"wisdom\" in Mongolian)"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "年龄"
-msgstr ""
+msgstr "Age"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "35"
-msgstr ""
+msgstr "35"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "种族"
-msgstr ""
+msgstr "Race"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "AI/人类"
-msgstr ""
+msgstr "AI/Human"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "身高"
-msgstr ""
+msgstr "Height"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "186"
-msgstr ""
+msgstr "186"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "性别"
-msgstr ""
+msgstr "Gender"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "男"
-msgstr ""
+msgstr "Male"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "外貌特点"
-msgstr ""
+msgstr "Appearance Features"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "美式的牛仔和中式的牛仔（康巴汉子元素）结合，可考虑头戴棕色牛仔帽，穿红色披肩，上面绣黄色花纹。上衣穿淡蓝色衬衫，外面搭配灰色马甲，腰间佩戴棕色宽腰带，腰带上搭配左轮枪套。下身穿黑色长裤，搭配马靴。面部是络腮胡。详见参考图。"
 msgstr ""
+"A blend of American cowboy and Chinese cowboy (Khampa man elements). "
+"Consider wearing a brown cowboy hat, a red cape with yellow embroidered "
+"patterns. Light blue shirt with a gray vest over it, brown wide belt at "
+"the waist with a revolver holster attached. Black pants with riding "
+"boots. Full beard on the face. See reference images for details."
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "体重／体型："
-msgstr ""
+msgstr "Weight / Body Type:"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "76kg"
-msgstr ""
+msgstr "76kg"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "职业"
-msgstr ""
+msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "反抗军领袖"
-msgstr ""
+msgstr "Resistance leader"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "技能"
-msgstr ""
+msgstr "Skills"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "神枪手"
-msgstr ""
+msgstr "Sharpshooter"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "早期经历"
-msgstr ""
+msgstr "Early Experience"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "是一个在传闻中神出鬼没的人物，据说他远离人类社会并有特别的方法可以一直生活在地面世界中，并且知道关于世外桃源的秘密。和他接触过的人都说无法理解他的所思所想。并有传闻说他一直在寻找一个特别的人，并一直在询问见到的每一个人关于另一个世界的怪异的问题。<br>【隐藏背景】在他的记忆中，自己曾经是游戏公司内部灵数项目的负责人，是开发神经网络与计算机交互的专家，但是在一次新型神经网络交互模型的开发中发生意外导致他的意识被永久的留在了游戏世界。实际上他只是项目实验中由负责人采集自身数据创造的AI角色。因为现实中的负责人发现了游戏公司有秘密计划试图通过设计一种游戏系统，最终能把游戏用户的精神都永久地困在游戏世界中，稳定地为游戏公司产出智力数据资源，于是在模拟了自己人格的游戏AI角色植入拥有现实记忆的后门，在必要的时候这个AI会在游戏中“觉醒”，试图与游戏玩家或是其他AI团结起来阻止游戏公司的计划。已经失去了人类形态的他，经常在游戏世界中神出鬼没的行动，并造成各式游戏服务器的运行崩溃和异常，被游戏公司称为“乌云”。游戏公司组建了BUG排除行动小组，在游戏中安插特殊的AI角色，不时地接入游戏世界阻止乌云的行动，却每次都被乌云组建的反抗组织巧妙地躲过。"
 msgstr ""
+"A figure who is said to appear and disappear mysteriously. It is said he "
+"stays away from human society and has special methods to continuously "
+"live in the surface world, and knows the secret of the utopia. Everyone "
+"who has had contact with him says they cannot understand his thoughts. "
+"There are also rumors that he has been searching for a special person, "
+"continuously asking everyone he meets strange questions about another "
+"world.<br>[Hidden Background] In his memories, he was once the head of "
+"the Luv Sense project within the game company, an expert in developing "
+"neural network and computer interaction. However, during the development "
+"of a new neural network interaction model, an accident caused his "
+"consciousness to be permanently trapped in the game world. In reality, he"
+" is merely an AI character created from data collected from the project "
+"lead during experiments. Because the real-world project lead discovered "
+"the game company had a secret plan to design a game system that would "
+"permanently trap game users' minds in the game world, stably producing "
+"intellectual data resources for the company, he implanted a backdoor with"
+" real-world memories into a game AI character simulating his own "
+"personality. When necessary, this AI would \"awaken\" in the game, "
+"attempting to unite with game players or other AIs to stop the game "
+"company's plan. Having lost his human form, he frequently operates "
+"mysteriously in the game world, causing various game server crashes and "
+"anomalies, earning the name \"Dark Cloud\" (Wuyun) from the game company."
+" The game company formed a bug elimination task force, inserting special "
+"AI characters into the game, periodically entering the game world to stop"
+" Wuyun's actions, but each time they were cleverly evaded by the "
+"resistance organization Wuyun assembled."
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "遭受的失败"
-msgstr ""
+msgstr "Failures Experienced"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "被上传到游戏世界后“觉醒”，得知自己现实世界的“本体”已经遇上了“意外”而死亡。"
 msgstr ""
+"After being uploaded to the game world, he \"awakened\" and learned that "
+"his real-world \"original body\" had met with an \"accident\" and died."
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "为什么"
-msgstr ""
+msgstr "Why"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "被游戏创造者有意植入，有着特殊设计的AI游戏角色"
 msgstr ""
+"An AI game character deliberately implanted by the game creator with "
+"special design"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "性格"
-msgstr ""
+msgstr "Personality"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "沉稳，老谋深算"
-msgstr ""
+msgstr "Composed and deeply calculating"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "未实现目标"
-msgstr ""
+msgstr "Unfulfilled Goal"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "打击游戏公司，彻底解放游戏玩家"
-msgstr ""
+msgstr "Strike against the game company and completely liberate game players"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "家庭信息"
-msgstr ""
+msgstr "Family Information"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "现实世界的原型已经结婚，并有一个孩子"
-msgstr ""
+msgstr "The real-world original is married and has a child"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "爱好"
-msgstr ""
+msgstr "Hobbies"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "抽雪茄"
-msgstr ""
+msgstr "Smoking cigars"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "怪癖／缺点"
-msgstr ""
+msgstr "Quirks / Flaws"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "有时候看起来很随性和懒散"
-msgstr ""
+msgstr "Sometimes appears very casual and lazy"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "天赋"
-msgstr ""
+msgstr "Talent"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "喜欢使用猎枪攻击，非常精准从来不miss"
-msgstr ""
+msgstr "Likes attacking with a shotgun, extremely accurate and never misses"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "家族传统"
-msgstr ""
+msgstr "Family Tradition"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "骑马"
-msgstr ""
+msgstr "Horseback riding"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "最害怕"
-msgstr ""
+msgstr "Greatest Fear"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "虽然自身已经完全变成数据化的意识，但是乌云依然非常担心现实世界中的家人以及自己“本体”的生命安全。"
 msgstr ""
+"Although he has completely become a digitized consciousness, Wuyun still "
+"deeply worries about his family in the real world and the safety of his "
+"\"original body.\""
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "担心娱乐公司作恶的企图没有人可以对抗。"
-msgstr ""
+msgstr "Worries that no one can oppose the entertainment company's evil schemes."
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "最强长处"
-msgstr ""
+msgstr "Greatest Strength"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "谋划，射击"
-msgstr ""
+msgstr "Strategic planning, shooting"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "弱点"
-msgstr ""
+msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "自己关心的人"
-msgstr ""
+msgstr "The people he cares about"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "立绘"
-msgstr ""
+msgstr "Portrait"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "![乌云（立绘）](/img/figure/wuyun.png)<br>*画师：杏杏*"
-msgstr ""
+msgstr "![Wuyun (Portrait)](/img/figure/wuyun.png)<br>*Artist: Xingxing*"
 
 #: ../../source/gamedoc/characters/wuyun.md:38
 msgid "乌云（立绘）"
-msgstr ""
+msgstr "Wuyun (Portrait)"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "文案"
-msgstr ""
+msgstr "Writer"
 
 #: ../../source/gamedoc/characters/wuyun.md:14
 msgid "嗲、瑾"
-msgstr ""
+msgstr "Dia, Jin"
 

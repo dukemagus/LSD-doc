@@ -22,7 +22,7 @@
 |立绘|![余梓绛（立绘）](/img/figure/yuzijiang.png)<br>*画师：蓂*|
 |文案|瑾|
 
-<h2>附录 - 余梓绛喜欢引用的IT语录</h2>
+## 附录 - 余梓绛喜欢引用的IT语录
 
 &emsp;&emsp;应当知道，任何一位受过职业道德训练的软件工程师都不会同意写一个“摧毁巴格达  DestroyBaghdad”这样的函数。相反，基本的职业道德要求他写一个“摧毁城市 DestroyCity”的函数，“巴格达 Baghdad”是一个参数。(Nathaniel S Borenstein)
 

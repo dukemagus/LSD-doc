@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,23 +20,23 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:1
 msgid "战场环境变量"
-msgstr ""
+msgstr "Battlefield Environment Variables"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "作者"
-msgstr ""
+msgstr "Author"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:4
 msgid "&emsp;&emsp;瑾"
-msgstr ""
+msgstr "&emsp;&emsp;Jin"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:7
 msgid "&emsp;&emsp;战场环境变量是一套会实时改变怪物的战斗能力的数值系统。环境变量的选择来源于自然环境中的气象和气候参数。"
-msgstr ""
+msgstr "&emsp;&emsp;Battlefield environment variables are a numerical system that dynamically alters monsters' combat capabilities in real time. The selection of environment variables is derived from meteorological and climatic parameters in the natural environment."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:9
 msgid "战场环境变量的应用方案"
-msgstr ""
+msgstr "Application Plan for Battlefield Environment Variables"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:11
 msgid ""
@@ -47,330 +46,364 @@ msgid ""
 "&emsp;&emsp;4、游戏时间流逝有两种模式，从傍晚进入夜晚（从白天到黑夜）切换，或是从凌晨进入清晨（从黑夜到白天）的两种时间段切换模式，白天是高温状态，黑夜是低温状态，随时间流逝，气温会有变化的过程。可以在玩家解锁气象监测道具后，在屏幕HUD上增加时间流逝的展示UI。"
 "   &emsp;&emsp;5、在学员AI训练时环境变量将使用一组固定的偏向战场平均环境情况的默认数值。"
 msgstr ""
+"&emsp;&emsp;1. A set of environment variables is randomly generated for each battle instance, remaining relatively stable within the instance or configured with time-varying functions.   "
+"&emsp;&emsp;2. Different environment variables are rendered through different scene art solutions in real time, such as snowfall, rain, lightning and thunder, and other environmental effects.   "
+"&emsp;&emsp;3. Monster attributes change in correlation with different environment variables according to different monster settings.   "
+"&emsp;&emsp;4. Game time progression has two modes: transitioning from evening to night (day to night) or from early morning to dawn (night to day). Daytime is a high-temperature state, nighttime is a low-temperature state, and temperature changes gradually as time passes. A time progression UI can be added to the screen HUD after the player unlocks the weather monitoring item."
+"   &emsp;&emsp;5. During trainee AI training, environment variables will use a fixed set of default values, leaning toward average battlefield environmental conditions."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:17
 msgid "战场环境变量的可选参数表"
-msgstr ""
+msgstr "Optional Parameter Table for Battlefield Environment Variables"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "名称"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "缩写"
-msgstr ""
+msgstr "Abbreviation"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "示例"
-msgstr ""
+msgstr "Example"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "说明"
-msgstr ""
+msgstr "Description"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "时间"
-msgstr ""
+msgstr "Time"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "TM"
-msgstr ""
+msgstr "TM"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "18:00"
-msgstr ""
+msgstr "18:00"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "光通量"
-msgstr ""
+msgstr "Luminous Flux"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "Φ"
-msgstr ""
+msgstr "Φ"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "40lm"
-msgstr ""
+msgstr "40lm"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid ""
 "1lm等于由一个具有1cd "
 "(坎德拉)均匀的发光强度的点光源在1sr(球面度)单位立体角内发射的光通量。一只40W的普通白炽灯的标称光通量为360lm，40W日光色荧光灯的标称光通量为2100lm，而400W标准型高压钠灯的光通量可达48000lm。"
 msgstr ""
+"1lm equals the luminous flux emitted by a point light source with a uniform luminous intensity of 1cd "
+"(candela) within a unit solid angle of 1sr (steradian). The nominal luminous flux of a 40W ordinary incandescent lamp is 360lm, a 40W daylight fluorescent lamp is 2100lm, and a 400W standard high-pressure sodium lamp can reach 48000lm."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "能见度"
-msgstr ""
+msgstr "Visibility"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "12km"
-msgstr ""
+msgstr "12km"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "1.能见度20-30公里，能见度极好，视野清晰。2.能见度15-25公里，能见度好，视野较清晰。3.能见度10-20公里，能见度一般。4.能见度5-15公里，能见度较差，视野不清晰。5.能见度1-10公里，轻雾，能见度差，视野不清晰。6.能见度0.3-1公里，大雾，能见度很差。7.能见度小于0.3公里，重雾，能见度极差。8.能见度小于0.1公里，浓雾，能见度极差。9.能见度不足100米通常被认为为零。"
 msgstr ""
+"1. Visibility 20-30 km: Excellent visibility, clear field of view. "
+"2. Visibility 15-25 km: Good visibility, relatively clear field of view. "
+"3. Visibility 10-20 km: Fair visibility. "
+"4. Visibility 5-15 km: Poor visibility, unclear field of view. "
+"5. Visibility 1-10 km: Light fog, poor visibility, unclear field of view. "
+"6. Visibility 0.3-1 km: Heavy fog, very poor visibility. "
+"7. Visibility less than 0.3 km: Dense fog, extremely poor visibility. "
+"8. Visibility less than 0.1 km: Thick fog, extremely poor visibility. "
+"9. Visibility less than 100 meters is generally considered zero."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "温度"
-msgstr ""
+msgstr "Temperature"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "℃"
-msgstr ""
+msgstr "℃"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "中国极端最高气温49.6℃，出现在新疆的吐鲁番盆地。中国极端最低气温-52.3℃，出现在黑龙江省漠河。"
-msgstr ""
+msgstr "China's extreme maximum temperature is 49.6℃, recorded in the Turpan Basin, Xinjiang. China's extreme minimum temperature is -52.3℃, recorded in Mohe, Heilongjiang Province."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "气压"
-msgstr ""
+msgstr "Atmospheric Pressure"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "海平面气压SLP"
-msgstr ""
+msgstr "Sea Level Pressure SLP"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "kpa"
-msgstr ""
+msgstr "kpa"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "由于大气的密度是不均匀的，随海拔的改变而有很大变化，但在近地面的空间可以认为近似不变的，几千米的海拔，范围内满足12mmHg/Km，即海拔每升高一千米，气压下降12毫米汞柱，以海拔0时的大气压为760mmHg，则某一海拔高度h的大气压强为P=760-h*12mmHg/Km。"
 msgstr ""
+"Since atmospheric density is non-uniform and varies greatly with altitude, but can be considered approximately constant in near-surface space. "
+"Within an altitude range of several kilometers, it follows 12mmHg/Km, meaning atmospheric pressure drops by 12 mmHg for every 1,000 meters of altitude increase. "
+"With sea level atmospheric pressure at 760mmHg, the atmospheric pressure at altitude h is P=760-h*12mmHg/Km."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "降雨量"
-msgstr ""
+msgstr "Rainfall"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "RF"
-msgstr ""
+msgstr "RF"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "200mm"
-msgstr ""
+msgstr "200mm"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "通常说的小雨、中雨、大雨、暴雨等，一般以日降雨量衡量。其中小雨指日降雨量在10毫米以下；中雨日降雨量为10~24.9毫米；大雨降雨量为25~49.9毫米；暴雨降雨量为50~99.9毫米；大暴雨降雨量为100~250毫米；特大暴雨降雨量在250毫米以上。"
 msgstr ""
+"The commonly mentioned light rain, moderate rain, heavy rain, torrential rain, etc. are generally measured by daily rainfall. "
+"Light rain refers to daily rainfall below 10mm; moderate rain is 10-24.9mm; heavy rain is 25-49.9mm; torrential rain is 50-99.9mm; "
+"severe torrential rain is 100-250mm; extraordinary torrential rain exceeds 250mm."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "细颗粒物"
-msgstr ""
+msgstr "Fine Particulate Matter"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "PM25"
-msgstr ""
+msgstr "PM25"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "59μg/m³"
-msgstr ""
+msgstr "59μg/m³"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "24小时PM2.5平均值标准值，优0~35μg/m³，良35~75μg/m³，轻度污染75~115μg/m³，中度污染115~150μg/m³，重度污染150~250μg/m³，严重污染大于250μg/m³及以上。"
 msgstr ""
+"24-hour PM2.5 average standard values: Excellent 0-35μg/m³, Good 35-75μg/m³, Light Pollution 75-115μg/m³, "
+"Moderate Pollution 115-150μg/m³, Heavy Pollution 150-250μg/m³, Severe Pollution above 250μg/m³."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "湿度"
-msgstr ""
+msgstr "Humidity"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "RH"
-msgstr ""
+msgstr "RH"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "80%"
-msgstr ""
+msgstr "80%"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "相对湿度表示空气中的水蒸气饱和值，取值范围为[0%,100%]。相对湿度通常与气温、气压共同作用于人体。现代医疗气象研究表明，对人体比较适宜的相对湿度为：夏季室温25℃时，相对湿度控制在40%－50%比较舒适；冬季室温20℃时，相对湿度控制在60%－70%。夏季三伏时节，由于高温、低压、高湿的作用，人体汗液不易排出，出汗后不易被蒸发掉，因而会使人烦躁、疲倦、食欲不振；冬季湿度有时太小，空气过于干燥，易引起上呼吸道粘膜感染，患上感冒。据科学试验，在气温日际变化大于3℃、气压日际变化大于10百帕，相对湿度日际变化大于10%时，关节炎的发病率会显著增加。"
 msgstr ""
+"Relative humidity represents the water vapor saturation value in the air, with a range of [0%, 100%]. Relative humidity typically affects the human body in conjunction with air temperature and atmospheric pressure. "
+"Modern medical meteorology research indicates that relatively comfortable humidity levels for the human body are: 40%-50% at a summer room temperature of 25℃; 60%-70% at a winter room temperature of 20℃. "
+"During the summer dog days, due to high temperature, low pressure, and high humidity, sweat is not easily expelled and hard to evaporate, causing irritability, fatigue, and loss of appetite. "
+"In winter, humidity may be too low and the air too dry, easily causing upper respiratory mucosal infections and colds. "
+"According to scientific experiments, when daily temperature variation exceeds 3℃, daily atmospheric pressure variation exceeds 10 hPa, and daily relative humidity variation exceeds 10%, the incidence of arthritis increases significantly."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "风向"
-msgstr ""
+msgstr "Wind Direction"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "WD"
-msgstr ""
+msgstr "WD"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "东南风"
-msgstr ""
+msgstr "Southeast Wind"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "NEWS"
-msgstr ""
+msgstr "NEWS"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "风级"
-msgstr ""
+msgstr "Wind Scale"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "WS"
-msgstr ""
+msgstr "WS"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "3级"
-msgstr ""
+msgstr "Level 3"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "0-17级，12级为飓风"
-msgstr ""
+msgstr "Scale 0-17, Scale 12 is hurricane force"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "风速"
-msgstr ""
+msgstr "Wind Speed"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "WSE"
-msgstr ""
+msgstr "WSE"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "12km/h"
-msgstr ""
+msgstr "12km/h"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "热带低气压风速6-7级，11.4米/秒至17.2米/秒，41—62公里/每小时；热带风暴风速8-9级，17.5米/秒至24.2米/秒，63—87公里/每小时；强热带风暴风速10-11级，24.5米/秒至32.5米/秒，88—117公里/每小时；台风风速12-13级，32.8米/秒至41.4米/秒，118—149公里/每小时；强台风风速14-15级，41.7米/秒至51.1米/秒，150—184公里/每小时；超强台风风速16级以上，51.4米/秒以上，185公里/每小时以上。"
 msgstr ""
+"Tropical depression: Wind force 6-7, 11.4 m/s to 17.2 m/s, 41-62 km/h. "
+"Tropical storm: Wind force 8-9, 17.5 m/s to 24.2 m/s, 63-87 km/h. "
+"Severe tropical storm: Wind force 10-11, 24.5 m/s to 32.5 m/s, 88-117 km/h. "
+"Typhoon: Wind force 12-13, 32.8 m/s to 41.4 m/s, 118-149 km/h. "
+"Severe typhoon: Wind force 14-15, 41.7 m/s to 51.1 m/s, 150-184 km/h. "
+"Super typhoon: Wind force 16+, above 51.4 m/s, above 185 km/h."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:34
 msgid "单局战场游戏的环境变量设置表"
-msgstr ""
+msgstr "Environment Variable Settings Table for Single Battle Instance"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "变量名"
-msgstr ""
+msgstr "Variable Name"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "值"
-msgstr ""
+msgstr "Value"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "时间模式"
-msgstr ""
+msgstr "Time Mode"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "昼到夜 or 夜到昼"
-msgstr ""
+msgstr "Day to Night or Night to Day"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "？km"
-msgstr ""
+msgstr "? km"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "PM2.5"
-msgstr ""
+msgstr "PM2.5"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "760"
-msgstr ""
+msgstr "760"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "最高气温"
-msgstr ""
+msgstr "Maximum Temperature"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "？℃"
-msgstr ""
+msgstr "? ℃"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "最低气温"
-msgstr ""
+msgstr "Minimum Temperature"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "气温变化函数"
-msgstr ""
+msgstr "Temperature Change Function"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "预制函数 Linear, Quad, Sine and etc"
-msgstr ""
+msgstr "Preset Functions: Linear, Quad, Sine and etc"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "降雨地形"
-msgstr ""
+msgstr "Rainfall Areas"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "数组"
-msgstr ""
+msgstr "Array"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 降雨区域"
-msgstr ""
+msgstr "&emsp;&emsp;- Rainfall Area"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "x, y, width, height"
-msgstr ""
+msgstr "x, y, width, height"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 降雨量"
-msgstr ""
+msgstr "&emsp;&emsp;- Rainfall Amount"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "？mm"
-msgstr ""
+msgstr "? mm"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 降雨开始时间"
-msgstr ""
+msgstr "&emsp;&emsp;- Rainfall Start Time"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "游戏开始后 ？s"
-msgstr ""
+msgstr "? s after game start"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 降雨变化函数"
-msgstr ""
+msgstr "&emsp;&emsp;- Rainfall Change Function"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "预制函数 None, Linear, Quad, Sine and etc"
-msgstr ""
+msgstr "Preset Functions: None, Linear, Quad, Sine and etc"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 降雨持续时间"
-msgstr ""
+msgstr "&emsp;&emsp;- Rainfall Duration"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "？s"
-msgstr ""
+msgstr "? s"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "异常光照地形"
-msgstr ""
+msgstr "Abnormal Lighting Areas"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 光照区域"
-msgstr ""
+msgstr "&emsp;&emsp;- Lighting Area"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 光通量"
-msgstr ""
+msgstr "&emsp;&emsp;- Luminous Flux"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "？lm"
-msgstr ""
+msgstr "? lm"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 光照开始时间"
-msgstr ""
+msgstr "&emsp;&emsp;- Lighting Start Time"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 光照变化函数"
-msgstr ""
+msgstr "&emsp;&emsp;- Lighting Change Function"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battlefield-env.md:3
 msgid "&emsp;&emsp;- 光照持续时间"
-msgstr ""
-
+msgstr "&emsp;&emsp;- Lighting Duration"
