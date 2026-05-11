@@ -2,16 +2,22 @@
 # Read the Docs configuration file
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
+# Required
 version: 2
 
+# Set the version of Python and other tools you might need
 build:
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
+  jobs:
+    post_build:
+      - sphinx-build -b html -D language=en docs/source $READTHEDOCS_OUTPUT/html/en
 
 sphinx:
   configuration: docs/source/conf.py
 
 python:
-  install:
-    - requirements: docs/requirements.txt
+   install:
+   - requirements: docs/requirements.txt
+
