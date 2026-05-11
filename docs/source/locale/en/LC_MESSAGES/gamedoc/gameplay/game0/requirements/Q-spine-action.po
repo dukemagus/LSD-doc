@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,341 +20,340 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:1
 msgid "Q版人物Spine动作制作需求"
-msgstr ""
+msgstr "Chibi Character Spine Animation Production Requirements"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:3
 msgid "制作要求"
-msgstr ""
+msgstr "Production Requirements"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:5
 msgid "1.Spine尽可能使用最新版本即可。"
-msgstr ""
+msgstr "1. Use the latest version of Spine whenever possible."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:6
 msgid "2.人物模型的默认姿态需要调整为普通待机动作的第一帧。"
-msgstr ""
+msgstr "2. The character model's default pose should be set to the first frame of the normal idle animation."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:7
-msgid "3.“向前移动”和“向后移动”动画在脚步落地时增加事件帧，名为“step”，用于绑定音效。"
-msgstr ""
+msgid "3."向前移动"和"向后移动"动画在脚步落地时增加事件帧，名为"step"，用于绑定音效。"
+msgstr "3. Add an event frame named \"step\" to the \"Forward Move\" and \"Backward Move\" animations when the foot hits the ground, for binding sound effects."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:8
-msgid "4.所有攻击动画需要添加攻击伤害实际发生的事件帧，名为“attack”，用于触发创建弹药或进行攻击命中检测等用途。"
-msgstr ""
+msgid "4.所有攻击动画需要添加攻击伤害实际发生的事件帧，名为"attack"，用于触发创建弹药或进行攻击命中检测等用途。"
+msgstr "4. All attack animations need an event frame named \"attack\" added at the moment attack damage actually occurs, used for triggering projectile creation or attack hit detection."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:9
 msgid "5.攻击动作动画时间最长控制在2s内，特殊待机动画时长不限。"
-msgstr ""
+msgstr "5. Attack animation duration should be kept within 2 seconds maximum. Special idle animation duration is unlimited."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:10
-msgid "6.人物工程的命名参见“动作表”里人物名称下的英文名称。"
-msgstr ""
+msgid "6.人物工程的命名参见"动作表"里人物名称下的英文名称。"
+msgstr "6. Character project naming should follow the English names listed under character names in the \"Action Table.\""
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:11
 msgid "7.成品仅需提供完整工程文件，不用做导出。"
-msgstr ""
+msgstr "7. Only the complete project file is needed for the final deliverable; no export is required."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md:13
 msgid "需求清单"
-msgstr ""
+msgstr "Requirements Checklist"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "动作"
-msgstr ""
+msgstr "Action"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "命名"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "备注"
-msgstr ""
+msgstr "Notes"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "起始姿态"
-msgstr ""
+msgstr "Starting Pose"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "主角（里）<br>char"
-msgstr ""
+msgstr "Protagonist (Inner)<br>char"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "男主（表）<br>charM"
-msgstr ""
+msgstr "Male Protagonist (Outer)<br>charM"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "女主（表）<br>charF"
-msgstr ""
+msgstr "Female Protagonist (Outer)<br>charF"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "李叶那<br>liyena"
-msgstr ""
+msgstr "Li Yena<br>liyena"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "万薇莉<br>villywan"
-msgstr ""
+msgstr "Villy Wan<br>villywan"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "阿岩<br>ayan"
-msgstr ""
+msgstr "Ayan<br>ayan"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "默翎<br>moling"
-msgstr ""
+msgstr "Moling<br>moling"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "默羽<br>moyu"
-msgstr ""
+msgstr "Moyu<br>moyu"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "向阳珄<br>sunborn"
-msgstr ""
+msgstr "Sunborn<br>sunborn"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "余子绛<br>yuzijiang"
-msgstr ""
+msgstr "Yu Zijiang<br>yuzijiang"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "向前移动"
-msgstr ""
+msgstr "Forward Move"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "fmove"
-msgstr ""
+msgstr "fmove"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "普通走动"
-msgstr ""
+msgstr "Normal walking"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "普通待机"
-msgstr ""
+msgstr "Normal Idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "✓"
-msgstr ""
+msgstr "✓"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "倒退移动"
-msgstr ""
+msgstr "Backward Move"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "bmove"
-msgstr ""
+msgstr "bmove"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "倒着走动"
-msgstr ""
+msgstr "Walking backward"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "向前垫步"
-msgstr ""
+msgstr "Forward Step"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "fstep"
-msgstr ""
+msgstr "fstep"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "向前突进"
-msgstr ""
+msgstr "Forward dash"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "任意姿态"
-msgstr ""
+msgstr "Any Pose"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "向后垫步"
-msgstr ""
+msgstr "Backward Step"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "bstep"
-msgstr ""
+msgstr "bstep"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "后撤步、闪避"
-msgstr ""
+msgstr "Retreat step, dodge"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "起跳"
-msgstr ""
+msgstr "Jump Start"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "jump"
-msgstr ""
+msgstr "jump"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "下蹲后起跳"
-msgstr ""
+msgstr "Crouch then jump"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "空中下落"
-msgstr ""
+msgstr "Air Fall"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "jumping"
-msgstr ""
+msgstr "jumping"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "下落过程"
-msgstr ""
+msgstr "Falling process"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "落地起身"
-msgstr ""
+msgstr "Landing Recovery"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "landing"
-msgstr ""
+msgstr "landing"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "从半蹲到起身"
-msgstr ""
+msgstr "From half-crouch to standing"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "idle"
-msgstr ""
+msgstr "idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "非战斗状态的普通待机"
-msgstr ""
+msgstr "Normal idle in non-combat state"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "特殊待机"
-msgstr ""
+msgstr "Special Idle"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "idle1"
-msgstr ""
+msgstr "idle1"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "体现人物个性的特殊待机"
-msgstr ""
+msgstr "Special idle reflecting character personality"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "普通受击"
-msgstr ""
+msgstr "Normal Hit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "hit"
-msgstr ""
+msgstr "hit"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "战斗架势"
-msgstr ""
+msgstr "Battle stance"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "击倒"
-msgstr ""
+msgstr "Knockdown"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "fall"
-msgstr ""
+msgstr "fall"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "后摔倒地"
-msgstr ""
+msgstr "Falling backward to the ground"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "倒地起身"
-msgstr ""
+msgstr "Ground Recovery"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "standUp"
-msgstr ""
+msgstr "standUp"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "战败"
-msgstr ""
+msgstr "Defeat"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "lose"
-msgstr ""
+msgstr "lose"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "prepare"
-msgstr ""
+msgstr "prepare"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "战斗状态的普通待机，手持武器、双脚分开、身体重心靠下"
-msgstr ""
+msgstr "Normal idle in combat state, holding weapon, feet apart, center of gravity lowered"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "近战攻击"
-msgstr ""
+msgstr "Melee Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "melee"
-msgstr ""
+msgstr "melee"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "手枪攻击"
-msgstr ""
+msgstr "Pistol Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "pistrol"
-msgstr ""
+msgstr "pistrol"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "弓箭攻击"
-msgstr ""
+msgstr "Bow Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "bow"
-msgstr ""
+msgstr "bow"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "步枪攻击"
-msgstr ""
+msgstr "Rifle Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "gun"
-msgstr ""
+msgstr "gun"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "投掷攻击"
-msgstr ""
+msgstr "Throw Attack"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "throw"
-msgstr ""
+msgstr "throw"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "持武器格挡"
-msgstr ""
+msgstr "Weapon Parry"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "parry"
-msgstr ""
+msgstr "parry"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "持盾牌防御"
-msgstr ""
+msgstr "Shield Defense"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "defense"
-msgstr ""
+msgstr "defense"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "使用电脑"
-msgstr ""
+msgstr "Using Computer"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "comp"
-msgstr ""
+msgstr "comp"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "单膝跪姿，电脑放在膝上"
-msgstr ""
+msgstr "Single-knee kneeling, computer on lap"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "使用通讯器"
-msgstr ""
+msgstr "Using Communicator"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "comm"
-msgstr ""
+msgstr "comm"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/Q-spine-action.md
 msgid "单膝跪姿"
-msgstr ""
-
+msgstr "Single-knee kneeling"

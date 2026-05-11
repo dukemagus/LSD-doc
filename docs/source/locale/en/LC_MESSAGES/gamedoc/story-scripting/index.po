@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,15 +20,19 @@ msgstr ""
 
 #: ../../source/gamedoc/story-scripting/index.md:8
 msgid "剧本文案"
-msgstr ""
+msgstr "Story Scripts"
 
 #: ../../source/gamedoc/story-scripting/index.md:1
 msgid "剧本"
-msgstr ""
+msgstr "Story Scripts"
 
 #: ../../source/gamedoc/story-scripting/index.md:4
 msgid ""
 "&emsp;&emsp;目前《灵数奇缘》IP下结合初期策划的游戏玩法，首先在创作的是一个短篇的故事，这个作品在灵数奇缘项目下的代号被称为`Game"
 " 0`。故事的策划和详细剧本文案都将展示在这里。Game 0中的世界观和设定都有做了适合的调整和改编。"
 msgstr ""
-
+"&emsp;&emsp;Currently, under the Luv Sense Digital IP, combined with the "
+"initially planned gameplay, a short story is being created first. This work "
+"is codenamed `Game 0` within the Luv Sense Digital project. The story "
+"planning and detailed scripts will be presented here. The worldview and "
+"settings in Game 0 have been appropriately adjusted and adapted."

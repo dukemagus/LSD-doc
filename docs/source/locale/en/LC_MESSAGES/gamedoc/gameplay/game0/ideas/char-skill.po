@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,151 +20,152 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:1
 msgid "⻆色和技能"
-msgstr ""
+msgstr "Characters and Skills"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:3
 msgid "作者"
-msgstr ""
+msgstr "Author"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:4
 msgid "&emsp;&emsp;建建、瑾"
-msgstr ""
+msgstr "&emsp;&emsp;Jianjian, Jin"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:7
 msgid "目标"
-msgstr ""
+msgstr "Goals"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:9
 msgid "存在克制关系"
-msgstr ""
+msgstr "Existence of counter relationships"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:10
 msgid "搭配自由度比较高"
-msgstr ""
+msgstr "High degree of freedom in combinations"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:11
 msgid "能体现出AI的优势"
-msgstr ""
+msgstr "Can showcase AI advantages"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:12
 msgid "比如连招快、时间点准"
-msgstr ""
+msgstr "For example, fast combo chains and precise timing"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:14
 msgid "技能设定"
-msgstr ""
+msgstr "Skill Design"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:16
 msgid "**克制关系**   攻击、防御/闪避、投技三类技能形成循环克制"
-msgstr ""
+msgstr "**Counter Relationships**   Attack, Defense/Dodge, and Throw skills form a circular counter system"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:18
 msgid "**攻击技能**     先出手克制后出手，距离⻓克制距离短。能打到的前提下，出手越快越好。"
-msgstr ""
+msgstr "**Attack Skills**     Attacking first counters attacking later; long range counters short range. As long as you can reach the target, the faster the attack, the better."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:20
 msgid "短手技能：准备时间中，伤害低，距离近"
-msgstr ""
+msgstr "Short-range skills: Medium preparation time, low damage, close range"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:21
 msgid "⻓手技能：准备时间⻓，伤害高，距离远"
-msgstr ""
+msgstr "Long-range skills: Long preparation time, high damage, far range"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:22
 msgid "反击技能：准备时间短，一小段时间内可以抵挡攻击，但是有CD"
-msgstr ""
+msgstr "Counter skills: Short preparation time, can block attacks for a brief period, but has a cooldown"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:23
 msgid "距离近时：短手克制⻓手"
-msgstr ""
+msgstr "At close range: Short range counters long range"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:24
 msgid "距离远时：⻓手克制短手"
-msgstr ""
+msgstr "At long range: Long range counters short range"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:25
 msgid "**防御技能**   停止移动，进入霸体状态，减少受到的伤害，用于承受或阻挡攻击技能。"
-msgstr ""
+msgstr "**Defense Skills**   Stop moving, enter super armor state, reduce damage taken. Used to absorb or block attack skills."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:27
 msgid "**闪避技能**   产生位移，进入无敌状态，短时不受伤害，用于躲避攻击技能或产生位移快速拉近或远离对手。"
-msgstr ""
+msgstr "**Dodge Skills**   Creates displacement, enters invincibility state, briefly immune to damage. Used to dodge attack skills or quickly close or create distance from opponents."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:29
 msgid ""
 "**投技**   "
 "用于打断对手的防御技能和霸体状态，或用于中断对手的闪避位移并造成伤害。在对手发动攻击技能时使用投技则不产生效果。在投技发动成功后发动者会在动画播放过程中持续处于霸体状态，而受到投技的对手暂时只受投技的伤害，对于其它⻆色的攻击技能暂时处于无敌状态。"
 msgstr ""
+"**Throw Skills**   "
+"Used to interrupt opponents' defense skills and super armor state, or to interrupt opponents' dodge displacement and deal damage. Using throw skills while the opponent is activating an attack skill has no effect. After a successful throw, the initiator remains in super armor state throughout the animation, while the thrown opponent only takes damage from the throw and is temporarily invincible to other characters' attack skills."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:32
 msgid "⻆色相关"
-msgstr ""
+msgstr "Character Details"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:34
 msgid "技能列表"
-msgstr ""
+msgstr "Skill List"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:35
 msgid "血量"
-msgstr ""
+msgstr "Health Points"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:36
 msgid "buff"
-msgstr ""
+msgstr "buff"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:37
 msgid "招式"
-msgstr ""
+msgstr "Moves"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:38
 msgid "⻆色必备移动和跳跃等基本位移能力"
-msgstr ""
+msgstr "Characters must have basic movement abilities such as walking and jumping"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:39
 msgid "⻆色必备一个特有技能"
-msgstr ""
+msgstr "Characters must have one unique skill"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:40
 msgid "⻆色还可以配置3个技能"
-msgstr ""
+msgstr "Characters can also be equipped with 3 additional skills"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:41
 msgid "操作：纯键盘（PC），虚拟按键（移动端）"
-msgstr ""
+msgstr "Controls: Keyboard only (PC), virtual buttons (Mobile)"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:42
 msgid "左右移动：AD"
-msgstr ""
+msgstr "Move left/right: AD"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:43
 msgid "跳：W"
-msgstr ""
+msgstr "Jump: W"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:44
 msgid "技能：EJKL"
-msgstr ""
+msgstr "Skills: EJKL"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:45
 msgid "状态"
-msgstr ""
+msgstr "States"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:46
 msgid "正常"
-msgstr ""
+msgstr "Normal"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:47
 msgid "无敌：任何技能和攻击动作不会命中和附加效果"
-msgstr ""
+msgstr "Invincible: No skills or attack actions can hit or apply effects"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:48
 msgid "霸体：人物不会被击⻜，正在执行的动作不会被打断"
-msgstr ""
+msgstr "Super Armor: Characters cannot be knocked back, and actions in progress cannot be interrupted"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:49
 msgid "击退/击⻜：非无敌或霸体状态下，中断正在进行的动作并播放对应的受击动作"
-msgstr ""
+msgstr "Knockback/Launch: When not in invincible or super armor state, interrupts the current action and plays the corresponding hit animation"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/char-skill.md:50
 msgid "倒地：进入无敌状态，在播放完起身动作后结束无敌状态"
-msgstr ""
-
+msgstr "Downed: Enters invincible state; invincibility ends after the get-up animation finishes playing"

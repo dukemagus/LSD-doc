@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,13 +20,12 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/index.md:8
 msgid "人设目录"
-msgstr ""
+msgstr "Character Design Index"
 
 #: ../../source/gamedoc/characters/index.md:1
 msgid "人物"
-msgstr ""
+msgstr "Characters"
 
 #: ../../source/gamedoc/characters/index.md:4
 msgid "&emsp;&emsp;在这里列出的人设是《灵数奇缘》游戏角色的基础人设文案，主要是服务于美术形象的创作。实际会随着游戏项目的策划与故事编剧再进行修改和使用。"
-msgstr ""
-
+msgstr "&emsp;&emsp;The character designs listed here are the basic character profile texts for the game characters of \"Luv Sense Digital\", primarily serving the creation of artistic visuals. They will be modified and used as the game project's planning and story writing progresses."

@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,59 +20,59 @@ msgstr ""
 
 #: ../../source/community/contributors.md:1
 msgid "贡献者"
-msgstr ""
+msgstr "Contributors"
 
 #: ../../source/community/contributors.md:4
 msgid "&emsp;&emsp;参与《灵数奇缘》项目贡献力量的伙伴都会出现在这里。排名不分先后。"
-msgstr ""
+msgstr "&emsp;&emsp;All partners who have contributed to the Luv Sense Digital project are listed here. In no particular order."
 
 #: ../../source/community/contributors.md:161
 msgid "制作人"
-msgstr ""
+msgstr "Producer"
 
 #: ../../source/community/contributors.md:163
 msgid "于灵"
-msgstr ""
+msgstr "Yuling"
 
 #: ../../source/community/contributors.md:165
 msgid "文案"
-msgstr ""
+msgstr "Writing"
 
 #: ../../source/community/contributors.md:167
 msgid "小白"
-msgstr ""
+msgstr "Xiaobai"
 
 #: ../../source/community/contributors.md:168
 msgid "嗲"
-msgstr ""
+msgstr "Dia"
 
 #: ../../source/community/contributors.md:169
 #: ../../source/community/contributors.md:184
 msgid "BackSlzeep"
-msgstr ""
+msgstr "BackSlzeep"
 
 #: ../../source/community/contributors.md:170
 #: ../../source/community/contributors.md:233
 #: ../../source/community/contributors.md:242
 msgid "包包子"
-msgstr ""
+msgstr "Baobaozi"
 
 #: ../../source/community/contributors.md:171
 msgid "Jilliana🐚"
-msgstr ""
+msgstr "Jilliana🐚"
 
 #: ../../source/community/contributors.md:172
 msgid "天琴座恒星"
-msgstr ""
+msgstr "Lyra Star"
 
 #: ../../source/community/contributors.md:173
 msgid "程清"
-msgstr ""
+msgstr "Cheng Qing"
 
 #: ../../source/community/contributors.md:174
 #: ../../source/community/contributors.md:205
 msgid "玉徽"
-msgstr ""
+msgstr "Yuhui"
 
 #: ../../source/community/contributors.md:175
 #: ../../source/community/contributors.md:183
@@ -81,156 +80,155 @@ msgstr ""
 #: ../../source/community/contributors.md:232
 #: ../../source/community/contributors.md:243
 msgid "瑾"
-msgstr ""
+msgstr "Jin"
 
 #: ../../source/community/contributors.md:177
 msgid "策划"
-msgstr ""
+msgstr "Planning"
 
 #: ../../source/community/contributors.md:179
 msgid "玩法设计"
-msgstr ""
+msgstr "Gameplay Design"
 
 #: ../../source/community/contributors.md:181
 msgid "建建"
-msgstr ""
+msgstr "Jianjian"
 
 #: ../../source/community/contributors.md:182
 msgid "早起侠"
-msgstr ""
+msgstr "Zaoqixia"
 
 #: ../../source/community/contributors.md:186
 msgid "项目策划"
-msgstr ""
+msgstr "Project Planning"
 
 #: ../../source/community/contributors.md:190
 msgid "美术"
-msgstr ""
+msgstr "Art"
 
 #: ../../source/community/contributors.md:192
 msgid "概念设计"
-msgstr ""
+msgstr "Concept Design"
 
 #: ../../source/community/contributors.md:194
 msgid "周大西"
-msgstr ""
+msgstr "Zhou Daxi"
 
 #: ../../source/community/contributors.md:195
 msgid "Arthas.W"
-msgstr ""
+msgstr "Arthas.W"
 
 #: ../../source/community/contributors.md:197
 msgid "画师"
-msgstr ""
+msgstr "Illustrators"
 
 #: ../../source/community/contributors.md:199
 msgid "双程"
-msgstr ""
+msgstr "Shuangcheng"
 
 #: ../../source/community/contributors.md:200
 msgid "杏杏"
-msgstr ""
+msgstr "Xingxing"
 
 #: ../../source/community/contributors.md:201
 msgid "玉不修"
-msgstr ""
+msgstr "Yubuxiu"
 
 #: ../../source/community/contributors.md:202
 msgid "蓂"
-msgstr ""
+msgstr "Ming"
 
 #: ../../source/community/contributors.md:203
 msgid "丁丁"
-msgstr ""
+msgstr "Dingding"
 
 #: ../../source/community/contributors.md:204
 msgid "桀"
-msgstr ""
+msgstr "Jie"
 
 #: ../../source/community/contributors.md:206
 msgid "酚酞遇茶变红色"
-msgstr ""
+msgstr "Phenolphthalein Turns Red in Tea"
 
 #: ../../source/community/contributors.md:207
 msgid "战国Donuts"
-msgstr ""
+msgstr "Sengoku Donuts"
 
 #: ../../source/community/contributors.md:208
 #: ../../source/community/contributors.md:219
 msgid "软糖工作室"
-msgstr ""
+msgstr "Gummy Studio"
 
 #: ../../source/community/contributors.md:210
 msgid "美术管理"
-msgstr ""
+msgstr "Art Management"
 
 #: ../../source/community/contributors.md:212
 #: ../../source/community/contributors.md:223
 msgid "凯杰"
-msgstr ""
+msgstr "Kaijie"
 
 #: ../../source/community/contributors.md:213
 msgid "豆豆"
-msgstr ""
+msgstr "Doudou"
 
 #: ../../source/community/contributors.md:215
 msgid "Spine动画"
-msgstr ""
+msgstr "Spine Animation"
 
 #: ../../source/community/contributors.md:217
 msgid "Verjil"
-msgstr ""
+msgstr "Verjil"
 
 #: ../../source/community/contributors.md:218
 msgid "影瞳"
-msgstr ""
+msgstr "Yingtong"
 
 #: ../../source/community/contributors.md:221
 msgid "UI设计"
-msgstr ""
+msgstr "UI Design"
 
 #: ../../source/community/contributors.md:225
 msgid "配乐"
-msgstr ""
+msgstr "Music"
 
 #: ../../source/community/contributors.md:227
 msgid "Ceezy"
-msgstr ""
+msgstr "Ceezy"
 
 #: ../../source/community/contributors.md:228
 msgid "AnSue"
-msgstr ""
+msgstr "AnSue"
 
 #: ../../source/community/contributors.md:230
 msgid "程序"
-msgstr ""
+msgstr "Programming"
 
 #: ../../source/community/contributors.md:235
 msgid "商务"
-msgstr ""
+msgstr "Business"
 
 #: ../../source/community/contributors.md:237
 #: ../../source/community/contributors.md:241
 msgid "宗辉"
-msgstr ""
+msgstr "Zonghui"
 
 #: ../../source/community/contributors.md:239
 msgid "项目管理"
-msgstr ""
+msgstr "Project Management"
 
 #: ../../source/community/contributors.md:245
 msgid "联系方式"
-msgstr ""
+msgstr "Contact Information"
 
 #: ../../source/community/contributors.md:247
 msgid "软糖工作室（微信：SSruantang）"
-msgstr ""
+msgstr "Gummy Studio (WeChat: SSruantang)"
 
 #: ../../source/community/contributors.md:248
 msgid "宗辉（微信：qingkongbilan）"
-msgstr ""
+msgstr "Zonghui (WeChat: qingkongbilan)"
 
 #: ../../source/community/contributors.md:249
 msgid "Verjil（微信：Verjil0）"
-msgstr ""
-
+msgstr "Verjil (WeChat: Verjil0)"

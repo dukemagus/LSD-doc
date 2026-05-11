@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,19 +20,19 @@ msgstr ""
 
 #: ../../source/community/activity.md:1
 msgid "活动"
-msgstr ""
+msgstr "Activities"
 
 #: ../../source/community/activity.md:3
 msgid "一、欢迎加入《灵数奇缘》社区"
-msgstr ""
+msgstr "1. Welcome to the Luv Sense Digital Community"
 
 #: ../../source/community/activity.md:5
 msgid "![L·S·D People](/img/intro/l-s-d-people.jpg)"
-msgstr ""
+msgstr "![L·S·D People](/img/intro/l-s-d-people.jpg)"
 
 #: ../../source/community/activity.md:5
 msgid "L·S·D People"
-msgstr ""
+msgstr "L·S·D People"
 
 #: ../../source/community/activity.md:7
 msgid ""
@@ -41,28 +40,38 @@ msgid ""
 "[![discord](https://img.shields.io/discord/980651218395349013?logo=discord)](https://discord.gg/TDD9jDaP)"
 "   &emsp;&emsp;加入社区初期共创团队：请联系微信pigpigyyy"
 msgstr ""
+"&emsp;&emsp;QQ Group: 645348178   &emsp;&emsp;Luv Sense Digital DAO Discussion: "
+"[![discord](https://img.shields.io/discord/980651218395349013?logo=discord)](https://discord.gg/TDD9jDaP)"
+"   &emsp;&emsp;To join the community co-creation team: contact WeChat pigpigyyy"
 
 #: ../../source/community/activity.md:7
 msgid "discord"
-msgstr ""
+msgstr "discord"
 
 #: ../../source/community/activity.md:13
 msgid "二、参与社区贡献"
-msgstr ""
+msgstr "2. Contributing to the Community"
 
 #: ../../source/community/activity.md:16
 msgid "&emsp;&emsp;参与社区贡献，共有社区资产！"
-msgstr ""
+msgstr "&emsp;&emsp;Contribute to the community and share community assets!"
 
 #: ../../source/community/activity.md:19
 msgid ""
 "&emsp;&emsp;只要为《灵数奇缘》社区的项目创作任意数量的内容，包括程序、美术、配乐和文案等形式，并获得社区团队的接纳。就可以获得社区已有所有美术、配乐、文案等资产的[版权授权](/community/licencing)。"
 "   &emsp;&emsp;建议通过以下流程参加社区贡献：   "
-"&emsp;&emsp;1、阅读本网站下“创作《灵数奇缘》”部分的内容，了解社区已有的创作内容。   "
+"&emsp;&emsp;1、阅读本网站下"创作《灵数奇缘》"部分的内容，了解社区已有的创作内容。   "
 "&emsp;&emsp;2、下载社区作品源文件到本地进行查看和研究。或是克隆开源项目，配置开发环境，测试已有成果。已开放的社区资产在[这里](/community"
 "/open-assets)。   &emsp;&emsp;3、与社区初期创作团队沟通创作内容的想法，确定适合参与创作的内容部分。   "
 "&emsp;&emsp;4、进行相关内容的创作，并提交成果（为开源项目提交PR，或是发送成果预览文件至初期创作团队）。   "
 "&emsp;&emsp;5、沟通确认创作成果是否获得采纳，如为初次贡献则在贡献者名单中记录名字（鼓励记录名字时附带可以联系作者的社交号链接）。"
 "   &emsp;&emsp;6、已采纳的创作成果将会纳入社区资产中进行公开。"
 msgstr ""
-
+"&emsp;&emsp;As long as you create any amount of content for the Luv Sense Digital community projects, including programming, art, music, and writing, and it is accepted by the community team, you can obtain [copyright licensing](/community/licencing) for all existing community art, music, writing, and other assets."
+"   &emsp;&emsp;We recommend following these steps to contribute to the community:   "
+"&emsp;&emsp;1. Read the \"Creating Luv Sense Digital\" section on this website to understand the community's existing creative content.   "
+"&emsp;&emsp;2. Download the community's source files locally for review and study, or clone the open-source project, set up the development environment, and test existing results. Open community assets are available [here](/community"
+"/open-assets).   &emsp;&emsp;3. Communicate with the community's initial creative team about your ideas and determine which content areas are suitable for contribution.   "
+"&emsp;&emsp;4. Create the relevant content and submit your results (submit a PR to the open-source project, or send preview files to the initial creative team).   "
+"&emsp;&emsp;5. Confirm whether your creative work has been accepted. For first-time contributors, your name will be recorded on the contributor list (social media links for contacting the author are encouraged)."
+"   &emsp;&emsp;6. Accepted creative works will be incorporated into the community assets and made public."

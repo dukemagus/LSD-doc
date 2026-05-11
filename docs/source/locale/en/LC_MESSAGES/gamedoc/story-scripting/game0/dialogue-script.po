@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 12:00+0000\n"
+"Last-Translator: Community Translator <community@translator.org>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,19 +20,19 @@ msgstr ""
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:1
 msgid "对话剧本"
-msgstr ""
+msgstr "Dialogue Script"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "说明"
-msgstr ""
+msgstr "Description"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:4
 msgid "目前的剧本完成到第二章的故事内容，其中出现的除四位主要人物以外的角色与原版的人物信息略有改动。其中，词条表示每隔一个阶段玩家解锁的关键词，用于解释一些概念；"
-msgstr ""
+msgstr "The current script covers the story through Chapter 2. Characters appearing beyond the four main characters have some differences from the original character information. Glossary terms represent keywords unlocked by the player at each stage, used to explain certain concepts."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:8
 msgid "第一章"
-msgstr ""
+msgstr "Chapter 1"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -45,7 +44,7 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "编号"
-msgstr ""
+msgstr "ID"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -57,7 +56,7 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "场景"
-msgstr ""
+msgstr "Scene"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -69,18 +68,18 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "类型"
-msgstr ""
+msgstr "Type"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "1-1"
-msgstr ""
+msgstr "1-1"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "电梯间"
-msgstr ""
+msgstr "Elevator Hall"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
@@ -91,7 +90,7 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "普通对话"
-msgstr ""
+msgstr "Normal Dialogue"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -103,7 +102,7 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "角色"
-msgstr ""
+msgstr "Character"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -115,7 +114,7 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "对话"
-msgstr ""
+msgstr "Dialogue"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -126,7 +125,7 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "备注"
-msgstr ""
+msgstr "Notes"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -137,31 +136,31 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "妮妮莉特"
-msgstr ""
+msgstr "Ninilite"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "别动..（伴随火焰响声，我被火焰包围）"
-msgstr ""
+msgstr "Don't move... (accompanied by the sound of flames, I am surrounded by fire)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "出现文字：（玩家名）已上线79.03.27.09.24"
-msgstr ""
+msgstr "Text appears: (Player Name) has come online 79.03.27.09.24"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "你是谁？"
-msgstr ""
+msgstr "Who are you?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "出现文字：代理日志更新，代理第1天；"
-msgstr ""
+msgstr "Text appears: Agent log updated, Agent Day 1;"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "你为什么在这里？"
-msgstr ""
+msgstr "Why are you here?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "出现文字：接受任务，保护你第一个见到的人"
-msgstr ""
+msgstr "Text appears: Mission accepted — protect the first person you meet"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
@@ -173,1832 +172,1834 @@ msgstr ""
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我"
-msgstr ""
+msgstr "Me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "别紧张，我没有伤害你的意思，或许是“友方”，是这么说吗？"
-msgstr ""
+msgstr "Don't be nervous, I mean you no harm. Perhaps I'm a friendly — is that the right word?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "友方？"
-msgstr ""
+msgstr "Friendly?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "我叫「」，一名接受内测的侦探，来接替羽凌灵保护你的数据"
-msgstr ""
+msgstr "My name is [], a beta-testing detective. I'm here to take over from Yulingling and protect your data"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "我凭什么相信你？"
-msgstr ""
+msgstr "Why should I trust you?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "这是她传输给我的，名字叫幽兰草印章"
-msgstr ""
+msgstr "She transmitted this to me. It's called the Orchid Seal"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "提示点击悬浮的印章轮廓UI，出现印章特写"
-msgstr ""
+msgstr "Prompt: click the floating seal outline UI to reveal a close-up of the seal"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "她说你认得这个，这是GPG密钥之类的东西吗？"
-msgstr ""
+msgstr "She said you'd recognize this. Is it something like a GPG key?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "背包中的初始物品里有这个印章NFT认证的独一无二的"
-msgstr ""
+msgstr "The initial items in your backpack include this unique NFT-certified seal"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "印章？"
-msgstr ""
+msgstr "A seal?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "你是上面那个世界来的？"
-msgstr ""
+msgstr "Are you from the world above?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "按照你们这的说法，是的。"
-msgstr ""
+msgstr "In your terms, yes."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "所以可以停下火焰吗？虽然这里只是拟真的数据，但是羽凌灵出了那样的事情，很难不让我害怕"
-msgstr ""
+msgstr "So can you put out the flames? Even though this is only simulated data, after what happened to Yulingling, it's hard not to be afraid"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "她现在怎么样了？她让你来的，那她一定没事吧？"
-msgstr ""
+msgstr "How is she now? She sent you here, so she must be okay, right?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "火焰消失"
-msgstr ""
+msgstr "The flames disappear"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "她没有生命危险，有间断的清醒时间，她清醒的时候我会收到她的消息，但大多数时候还是昏迷状态"
-msgstr ""
+msgstr "She's not in life-threatening danger. She has brief periods of consciousness — when she's awake I receive messages from her — but most of the time she remains in a coma"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "那好吧"
-msgstr ""
+msgstr "Alright then"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "究竟发生了什么，听说最好的医生都解释不清楚，她身上发生了什么"
-msgstr ""
+msgstr "What exactly happened? I heard even the best doctors can't explain what happened to her"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "自从接触事件，人们开始了解到自己只是一个游戏NPC，一种绝望的情绪就在地下成里蔓延，而羽凌灵是来自那个创造我们的世界，也理所当然地变成了人们发泄自己情绪的标靶……"
-msgstr ""
+msgstr "Ever since the Contact Incident, people began to realize they were just game NPCs. A wave of despair spread through the underground city, and since Yulingling came from the world that created us, she naturally became the target for people to vent their frustrations..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "被攻击了？接触事件又……"
-msgstr ""
+msgstr "She was attacked? And the Contact Incident..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "到我这边来！快！我们有麻烦了！"
-msgstr ""
+msgstr "Get over here! Quick! We're in trouble!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:3
 msgid "说完后「怪物」突然出现"
-msgstr ""
+msgstr "After she speaks, a \"Monster\" suddenly appears"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:39
 msgid "词条：游戏世界(1)"
-msgstr ""
+msgstr "Glossary: Game World (1)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:40
 msgid "&emsp;&emsp;名为数灵幻境的拟真现实游戏，游戏剧情发生在人们为躲避逐渐恶化的地面环境而转移至地下的架空世界观中，以地面探索、经营模拟为主要玩法。游戏体量史无前例，其相关信息都为政治绝密级别，传闻游戏已经进入内测阶段。"
-msgstr ""
+msgstr "&emsp;&emsp;A hyper-realistic simulation game called the Digital Spirit Realm. The game's story is set in a fictional world where people have relocated underground to escape the deteriorating surface environment, featuring surface exploration and management simulation as its core gameplay. The game's scope is unprecedented, and all related information is classified at the highest political level. Rumor has it the game has entered beta testing."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "词条：游戏世界(2)"
-msgstr ""
+msgstr "Glossary: Game World (2)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:44
 msgid "&emsp;&emsp;游戏内测期间，唯一的内测玩家羽凌灵脑部受到离奇的伤害，我被派进入游戏完成羽凌灵的嘱托、接替内测。"
-msgstr ""
+msgstr "&emsp;&emsp;During the game's beta test, the sole beta tester Yulingling suffered a bizarre brain injury. I was dispatched into the game to fulfill Yulingling's request and take over the beta testing."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "1-2"
-msgstr ""
+msgstr "1-2"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "战斗对话"
-msgstr ""
+msgstr "Battle Dialogue"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "怪物怎么会到这里？"
-msgstr ""
+msgstr "How did a Monster get here?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "很不寻常吗？"
-msgstr ""
+msgstr "Is that unusual?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "我们居住的地下城从来没有进来过地面怪物"
-msgstr ""
+msgstr "No surface Monster has ever entered the underground city where we live"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "你有武器吗？"
-msgstr ""
+msgstr "Do you have a weapon?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "UI+文字提示基本操作"
-msgstr ""
+msgstr "UI + text prompt for basic controls"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "别愣着，快躲开"
-msgstr ""
+msgstr "Don't just stand there, dodge!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "移动，闪避"
-msgstr ""
+msgstr "Move, dodge"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "现在是它的硬直，一起攻击"
-msgstr ""
+msgstr "It's staggered now, let's attack together"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "攻击"
-msgstr ""
+msgstr "Attack"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "成功了，这里不安全，我们赶紧去安全的地方"
-msgstr ""
+msgstr "We did it. This place isn't safe — let's get somewhere secure"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:43
 msgid "跟随妮进入军事学院"
-msgstr ""
+msgstr "Follow Ninilite into the Military Academy"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "词条：怪物"
-msgstr ""
+msgstr "Glossary: Monster"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:66
 msgid "&emsp;&emsp;能够适应地面环境的强大生物，传说它们信奉太阳"
-msgstr ""
+msgstr "&emsp;&emsp;Powerful creatures adapted to the surface environment. Legend has it they worship the sun"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "1-3"
-msgstr ""
+msgstr "1-3"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "这里是哪里？"
-msgstr ""
+msgstr "Where are we?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "军事学院内部，【羽凌灵】之前和我们活动的根据地，很安全"
-msgstr ""
+msgstr "Inside the Military Academy. This was our base of operations with [Yulingling]. It's very safe"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "安全？"
-msgstr ""
+msgstr "Safe?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "对于没有智力的怪物来说是的，但防不了像洪水一样的暴民"
-msgstr ""
+msgstr "Safe from mindless Monsters, yes — but not against floods of rioters"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "抱歉"
-msgstr ""
+msgstr "Sorry"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "没事"
-msgstr ""
+msgstr "It's fine"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "是所谓的接触事件让这里变成这样的？究竟什么是接触事件？"
-msgstr ""
+msgstr "Is this so-called Contact Incident what turned this place into what it is? What exactly is the Contact Incident?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "我也说不清那天到底发生了什么。所有的电子屏都显示同一个logo，当我看到那个logo，我就知道了自己只是一个游戏NPC。"
-msgstr ""
+msgstr "I can't really explain what happened that day either. All the electronic screens displayed the same logo. When I saw that logo, I realized I was just a game NPC."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "有人修改了代码？"
-msgstr ""
+msgstr "Someone modified the code?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "我们果然是可以被你们随意修改的吗"
-msgstr ""
+msgstr "So we really can just be modified by you however you please"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "具体我也不清楚，但是应该不是那么容易的事情，不然也不会让我来这里调查问题了。"
-msgstr ""
+msgstr "I don't know the specifics, but it shouldn't be that easy — otherwise they wouldn't have sent me here to investigate."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "……【羽凌灵】她还会回来的是么？"
-msgstr ""
+msgstr "...Will [Yulingling] come back?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "这个我不能肯定。"
-msgstr ""
+msgstr "I can't be sure of that."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "……"
-msgstr ""
+msgstr "..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "你和她是朋友？"
-msgstr ""
+msgstr "Are you and she friends?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "这里本来是训练地面部队的基地，她是长官，我是学员之一，但是她一直把我留在身边，让我远离可怕的战斗一线，这么说可能很奇怪，但有时候我总感觉她像母亲一样照顾我……"
-msgstr ""
+msgstr "This place was originally a base for training surface forces. She was the commanding officer and I was one of the cadets, but she always kept me by her side, away from the terrifying front lines. It might sound strange, but sometimes I felt like she cared for me like a mother..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "军事学院：特种机构，培养的士兵能够应对地面危险环境，进行勘察、采集作业以及对抗地面怪物。"
-msgstr ""
+msgstr "Military Academy: A special agency whose trained soldiers can handle dangerous surface environments, conducting reconnaissance, resource gathering, and combat against surface Monsters."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "那地面的怪物出现在不该出现的地方你有什么头绪吗？我得调查这件事"
-msgstr ""
+msgstr "Any idea why a surface Monster appeared where it shouldn't? I need to investigate this"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "嗯？"
-msgstr ""
+msgstr "Hmm?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "关于怪物的事我不清楚，我只知道，现在你还没有调查的能力"
-msgstr ""
+msgstr "I don't know much about the Monsters. All I know is that you don't have the capability to investigate yet"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "你可以帮我？"
-msgstr ""
+msgstr "Can you help me?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "我只能帮你，我们去研发室，那边设施有些还能用"
-msgstr ""
+msgstr "I'm the only one who can help you. Let's go to the R&D Lab — some of the equipment there is still functional"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:65
 msgid "收到羽凌灵邮件"
-msgstr ""
+msgstr "Received email from Yulingling"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:103
 msgid "羽凌灵邮件(1)"
-msgstr ""
+msgstr "Yulingling's Email (1)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:104
 msgid "&emsp;&emsp;很遗憾只能用这样的方式联系你，我目前的能力只能这样传输我想说的话。我的状况已经好转很多了，至少思维逻辑清晰，能输入这封邮件。想来你应该已经用幽兰草印章赢得了妮妮莉特的信任，她是否安好？麻烦你在我离开的时候多多照看她一些。如你所见，你现在所在的世界如此真实的原因是由于它基于大量投入的资源，而且在这个世界中不存在读取存档这样的东西。但现在这个世界由于“接触事件”陷入了混乱，对于事件的起因，我暂时也只有一些不成熟的猜测。你可以让妮妮莉特带你前往资料室，那儿最里侧的第二层书柜后是一个暗格，有一些我这几年收集的资料，希望对你有价值。请代我安抚一下妮妮莉特，十分感谢。问你与妮妮莉特安。\""
-msgstr ""
+msgstr "&emsp;&emsp;I regret that this is the only way I can reach you — my current abilities only allow me to transmit my words like this. My condition has improved significantly; at least my mind is clear enough to type this email. I imagine you have already earned Ninilite's trust with the Orchid Seal. Is she well? Please look after her more while I'm away. As you can see, the reason this world feels so real is because it is built on a massive investment of resources, and there is no such thing as loading a save in this world. But now this world has fallen into chaos due to the “Contact Incident,” and for now I only have some rough guesses about its cause. You can have Ninilite take you to the archive room — behind the second bookshelf on the innermost wall is a hidden compartment containing materials I have gathered over the years. I hope they prove valuable. Please reassure Ninilite for me. Thank you very much. Wishing you and Ninilite well.\""
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:107
 msgid "词条：接触事件"
-msgstr ""
+msgstr "Glossary: Contact Incident"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:108
 msgid "&emsp;&emsp;发生于3.15日清晨四点，所有的电子屏被修改替换成了一个logo。游戏世界内角色了解到自己只是游戏NPC角色的事件"
-msgstr ""
+msgstr "&emsp;&emsp;Occurred at 4:00 AM on March 15th. All electronic screens were modified and replaced with a single logo. The event in which characters in the game world discovered they were merely game NPCs"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "词条：军事学院"
-msgstr ""
+msgstr "Glossary: Military Academy"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:112
 msgid "&emsp;&emsp;特种机构，培养的士兵能够应对地面危险环境，进行勘察、采集作业以及对抗地面怪物。"
-msgstr ""
+msgstr "&emsp;&emsp;A special agency whose trained soldiers can handle dangerous surface environments, conducting reconnaissance, resource gathering, and combat against surface Monsters."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "1-4"
-msgstr ""
+msgstr "1-4"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "研发室"
-msgstr ""
+msgstr "R&D Lab"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "备注<sup></sup>"
-msgstr ""
+msgstr "Notes<sup></sup>"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "之前招募了一批人在这里研发武器，其实他们是信任「羽凌灵」的，但他们还是离开了"
-msgstr ""
+msgstr "Previously a group was recruited here to develop weapons. They actually trusted [Yulingling], but they still left"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "可能是来自各方面的压力吧..."
-msgstr ""
+msgstr "Probably pressure from all sides..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "这里还是有不少可以用上的，她走了之后，我就自己一个人学习这些装备怎么使用"
-msgstr ""
+msgstr "There's still quite a bit here we can use. After she left, I taught myself how to operate this equipment"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "噢对，这是一部手机，主要用来互相联系"
-msgstr ""
+msgstr "Oh right, this is a phone — mainly used to keep in touch with each other"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "界面中出现手机的UI；手机里有一些地下城的新闻推送"
-msgstr ""
+msgstr "Phone UI appears in the interface; the phone has some underground city news feeds"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "原来你们这里也用这个"
-msgstr ""
+msgstr "So you use these here too"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "...你们的世界也有？"
-msgstr ""
+msgstr "...Your world has them too?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "有了这个以后你就可以在战场上下达团队指令了"
-msgstr ""
+msgstr "With this, you'll be able to issue team commands on the battlefield"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "出现团队指令UI;"
-msgstr ""
+msgstr "Team command UI appears;"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "这是我的专精【手枪】的外骨骼系统，后背上是对应的预设芯片，这套系统可以让一个普通人也拥有非凡的反应和力量，甚至能改变战斗欲望和计算最佳决策"
-msgstr ""
+msgstr "This is my specialized [Pistol] exoskeleton system. The preset chips correspond to the one on my back. This system can give an ordinary person extraordinary reflexes and strength — it can even alter combat drive and calculate optimal decisions"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "引导玩家进入妮妮莉特的数据界面"
-msgstr ""
+msgstr "Guide the player to Ninilite's data interface"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "那岂不是制造外骨骼就是制造军队"
-msgstr ""
+msgstr "Wouldn't that mean manufacturing exoskeletons is like manufacturing an army?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "不全是，外骨骼的预设关联了人们情绪和人格相关的部分，人格的多样性使得预设不可能做到完全兼容，外骨骼能发挥的作用也因人而异，对于意志不够坚定的人可能都无法启动外骨骼"
-msgstr ""
+msgstr "Not entirely. Exoskeleton presets are linked to a person's emotions and personality. The diversity of personalities makes it impossible for presets to be fully compatible with everyone, so the effectiveness of an exoskeleton varies from person to person. Someone without strong enough willpower might not even be able to activate one"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "那你已经能充分发挥它的全部能力了？"
-msgstr ""
+msgstr "So can you already bring out its full potential?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "【羽凌灵】说我性格怯懦，使用外骨骼耗电会极快，而且目前的骨骼芯片中的预设仍有很大的优化空间，这间训练室就有开发优化预设功能的计划"
-msgstr ""
+msgstr "[Yulingling] said my timid personality causes the exoskeleton to drain power extremely fast. Plus, the current presets in the skeleton chips still have a lot of room for optimization. This training room was actually planned for developing and optimizing preset functions"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "我感觉这将会对我们有很大帮助"
-msgstr ""
+msgstr "I feel like this will be a great help to us"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "这是给你的外骨骼系统，虽然刚才看你身手不错，但地面的情况很复杂，也会有比刚才遇到的更可怕的怪物，你需要这个"
-msgstr ""
+msgstr "This exoskeleton system is for you. You handled yourself well earlier, but the surface is unpredictable, and there will be far more terrifying Monsters than what we just encountered. You need this"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "谢谢你"
-msgstr ""
+msgstr "Thank you"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "显示外骨骼穿戴动画；引导玩家进入我的信息界面"
-msgstr ""
+msgstr "Show exoskeleton equipping animation; guide the player to My Info interface"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "以我们现在的配置，有一定的战斗能力了，下一步我们该怎么办？"
-msgstr ""
+msgstr "With our current setup, we have some combat capability. What should our next step be?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "我来决定吗？"
-msgstr ""
+msgstr "It's up to me to decide?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "我能帮你的也就只有这些了，你说你是侦探，也应该更加得心应手吧，这是地图"
-msgstr ""
+msgstr "This is all I can do to help. You said you're a detective, so this should be right up your alley. Here's the map"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "A:那从怪物掉下来的地方开始调查吧<br>B:我想先在研发室多找找资料<br>C:军事基地还有别的地方可以看看吗？"
-msgstr ""
+msgstr "A: Let's start investigating where the Monster fell from<br>B: I want to look for more information in the R&D Lab first<br>C: Are there other places to check in the military base?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "A:好，现在就出发！<br>B:听起来是个明智冷静的主意。<br>C:我乐意带路，当一个优秀向导"
-msgstr ""
+msgstr "A: Alright, let's head out now!<br>B: Sounds like a wise and level-headed idea.<br>C: I'd be happy to lead the way and be an excellent guide"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:111
 msgid "手机收到新闻推送：疑似怪物入侵地下城，前地下城城主之子召集小队展开调查"
-msgstr ""
+msgstr "Phone receives news alert: Suspected Monster invasion of the underground city. The former city lord's son assembles a squad to investigate"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:145
 msgid "词条：缺陷"
-msgstr ""
+msgstr "Glossary: Defect"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:146
 msgid "在人格上，一切使得“预设”无法完美运转的特性，都被称为缺陷。"
-msgstr ""
+msgstr "In terms of personality, any trait that prevents a \u201cpreset\u201d from operating perfectly is called a defect."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "词条：AI预设优化"
-msgstr ""
+msgstr "Glossary: AI Preset Optimization"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:150
 msgid "“预设”目前没有完成，缺少实战数据为其优化迭代"
-msgstr ""
+msgstr "The “preset” is currently unfinished — it lacks combat data for optimization and iteration"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "1-5"
-msgstr ""
+msgstr "1-5"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "我们现在在电梯的顶端，前往地铁站台。电梯和地铁也是地面战力转移部署的主要方式"
-msgstr ""
+msgstr "We are now at the top of the elevator, heading to the subway platform. Elevators and subways are also the primary means of deploying surface forces"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "为什么选择地铁而不是地面轨道，地铁总会给我空间狭小拥挤的印象"
-msgstr ""
+msgstr "Why choose subways over surface rail? Subways always feel cramped and claustrophobic to me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "地面的状况是很严峻的，需要有辅助机协同才能在地面安全行进"
-msgstr ""
+msgstr "The surface conditions are extremely harsh. You need auxiliary machines working in coordination to move safely on the surface"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "辅助机？"
-msgstr ""
+msgstr "Auxiliary machines?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "妮走到地铁站台再回答我"
-msgstr ""
+msgstr "Ninilite walks to the subway platform before answering me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "地铁站台"
-msgstr ""
+msgstr "Subway Platform"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "就是她们那边正在调试的三种机器，体积庞大的是“护盾机”，也是最主要的采集机器，方正的是“枪火库”，还有纤细的“载人机”"
-msgstr ""
+msgstr "They are three types of machines being tested over there. The massive one is the “Shield Machine,” which is also the primary harvesting unit. The boxy one is the “Arsenal,” and the slender one is the “Transport.”"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "她们是什么人，好像在看我们这边。"
-msgstr ""
+msgstr "Who are those people? They seem to be looking our way."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "是来自地下城官方势力林睿哲的小队，领队是李叶娜，【羽凌灵】以前的学员"
-msgstr ""
+msgstr "They are a squad from the underground city's official faction led by Lin Ruizhe. The team leader is Li Yena, [Yulingling]'s former cadet"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "那要上去打招呼啥的吗？是你熟人吧？"
-msgstr ""
+msgstr "Should we go say hello? They're acquaintances of yours, right?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "我想不必了，他们已经来了，多半是挑事的"
-msgstr ""
+msgstr "I don't think so. They're already heading this way — probably looking for trouble"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "1-6"
-msgstr ""
+msgstr "1-6"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "地铁车厢"
-msgstr ""
+msgstr "Subway Car"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "李队队员1"
-msgstr ""
+msgstr "Li's Squad Member 1"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "这谁？生面孔嘛。知道上一个站在这晦气女人边上的是谁吗？哈哈哈"
-msgstr ""
+msgstr "Who's this? New face. You know who the last person standing next to this jinxed woman was? Hahaha"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "李队队员2"
-msgstr ""
+msgstr "Li's Squad Member 2"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "说起来，这家伙不少时间没见到，这会已经能用上外骨骼了，能了嘛！不需要有人陪她过家家了哈！"
-msgstr ""
+msgstr "Come to think of it, haven't seen this one in a while. Now she's using an exoskeleton — look at her! Doesn't need anyone playing house with her anymore, ha!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "比起自我介绍，我更想知道你们阴阳怪气的台本谁写的？"
-msgstr ""
+msgstr "Rather than introducing myself, I'd like to know who wrote your snarky little script?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "哪找的人？保镖？"
-msgstr ""
+msgstr "Where'd you find this one? A bodyguard?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "羽凌灵没有把这里当作游戏，她……"
-msgstr ""
+msgstr "Yulingling didn't treat this place as a game. She..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "哦，那我们都得感谢那个人？感谢她想和你玩过家家才有的我们？"
-msgstr ""
+msgstr "Oh, so we should all thank that person? Thank her for playing house with you and thereby creating us?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "A:闭嘴<br>B:你们未免太过分了吧，至少你们现在能活下来站在这里说话、而不是被怪兽杀掉，需要感谢羽凌灵"
-msgstr ""
+msgstr "A: Shut up<br>B: You're going way too far. At least you're alive and standing here talking instead of being killed by Monsters — you have Yulingling to thank for that"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "想怎样？"
-msgstr ""
+msgstr "What are you gonna do about it?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "李叶娜"
-msgstr ""
+msgstr "Li Yena"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "够了，你们两个惹事的家伙！"
-msgstr ""
+msgstr "Enough, you two troublemakers!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "李队队员1、2"
-msgstr ""
+msgstr "Li's Squad Members 1 & 2"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "妮妮莉特，你还打算继续委屈下去吗？现在羽凌灵不在这，要么挥拳，要么躲着。"
-msgstr ""
+msgstr "Ninilite, are you going to keep taking this? Yulingling isn't here now. Either fight back or keep hiding."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:149
 msgid "说完便离开了；我收到羽凌灵邮件"
-msgstr ""
+msgstr "They leave after speaking; I receive an email from Yulingling"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "羽凌灵邮件(2)"
-msgstr ""
+msgstr "Yulingling's Email (2)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:201
 msgid "你好，很抱歉回信有些缓慢，现在的身体状况需要我长时间地休息，也请让妮妮莉特安心，会有再见面的时候。我首先需要肯定你在这个世界的价值，所以再次拜托你多了解它一些再做出一些决断，千万不要因暂时的迷茫和不解而放弃它。其次关于你想了解的“接触事件”，我作为当局者，只能向你介绍它是一个由于了解到游戏世界性质与我的特殊身份后，部分游戏角色产生的排斥和愤怒情绪带来的一些暴动行为，至于世界性质的透露原因和背后的利益相关，可能还是需要你再多加调查。问你与妮妮莉特安。"
-msgstr ""
+msgstr "&emsp;&emsp;Hello. I apologize for the slow reply \u2014 my current condition requires long periods of rest. Please reassure Ninilite as well; there will be a time when we meet again. First, I want to affirm your value in this world, so I once again ask you to learn more about it before making any decisions. Please don\u2019t abandon it over temporary confusion and misunderstanding. Regarding the \u201cContact Incident\u201d you want to understand \u2014 as someone involved, I can only explain that it was a series of riots triggered by some game characters\u2019 rejection and anger after learning about the game world\u2019s nature and my special identity. As for why the world\u2019s nature was revealed and the interests behind it, you may need to investigate further. Wishing you and Ninilite well."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "1-7"
-msgstr ""
+msgstr "1-7"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "遗弃城市"
-msgstr ""
+msgstr "Abandoned City"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这家伙看起来和其他怪物不太一样啊"
-msgstr ""
+msgstr "This one looks different from the other Monsters"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "可能是BOSS吧"
-msgstr ""
+msgstr "It's probably a Boss"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "你也不清楚？"
-msgstr ""
+msgstr "You don't know either?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "学院里只有普通怪物的数据和记录，boss一类的可不常见"
-msgstr ""
+msgstr "The Academy only has data and records on regular Monsters. Boss-type ones are not common"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这家伙每次攻击都会切削20"
-msgstr ""
+msgstr "This thing chips away 20 with every attack"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "那我们只能再承受两次了，但是它的血条还没有掉一半"
-msgstr ""
+msgstr "Then we can only take two more hits, and its health bar hasn't even dropped halfway"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "特殊技能"
-msgstr ""
+msgstr "Special Skill"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "还是不够，最后一次了，没有办法了"
-msgstr ""
+msgstr "Still not enough. This is the last one — there's no other way"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我应该不会出什么事情，你快逃"
-msgstr ""
+msgstr "I should be fine. Run, quickly!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我驱动不了外骨骼了"
-msgstr ""
+msgstr "I can't activate the exoskeleton anymore"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "乌云"
-msgstr ""
+msgstr "Wuyun"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "小扎西们快上"
-msgstr ""
+msgstr "Little Zhaxis, get in there quick!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "画面：银色刀光一闪 音效：金属撞击声和怪物的呻吟"
-msgstr ""
+msgstr "Visual: A flash of silver blade. Sound effect: Metal clashing and the Monster's groan"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "解决了"
-msgstr ""
+msgstr "It's done"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "1-8"
-msgstr ""
+msgstr "1-8"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "感谢出手相助，请问我们该怎么称呼"
-msgstr ""
+msgstr "Thank you for the help. How should we address you?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "乌云,不必客套，你们看上去有很重要的事情，如果我没猜错的话，关系这个世界的安危"
-msgstr ""
+msgstr "Wuyun. No need for formalities. You look like you have important business — if I had to guess, it concerns the safety of this world"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我还知道，你的名字是【】，那个说话软乎乎、现在闭眼休眠一声不吭的小扎西叫妮妮莉特，是羽凌灵创造出来的"
-msgstr ""
+msgstr "I also know your name is [], and that soft-spoken little Zhaxis currently resting with her eyes closed is Ninilite, created by Yulingling"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "A:...你还知道多少<br>B:你为什么要帮我们<br>C:扎西是什么？"
-msgstr ""
+msgstr "A: ...How much more do you know?<br>B: Why are you helping us?<br>C: What's a Zhaxis?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "A:很多，我们回去再仔细商谈<br>B:放心，我和你们的目的是一致的，只是想让这里回到原来的样子<br>C:扎西在我的记忆中是小孩子、小家伙的意思（笑）"
-msgstr ""
+msgstr "A:A lot. Let's go back and discuss in detail<br>B:Rest assured, my goal is the same as yours — I just want to restore this place to how it was<br>C:In my memory, Zhaxi means a little kid, a little fellow (laughs)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "希望我可以相信你"
-msgstr ""
+msgstr "I hope I can trust you"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "动作：我扶着妮妮莉特，帮她充电补充外骨骼能量"
-msgstr ""
+msgstr "Action: I support Ninilite and help recharge her exoskeleton energy"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我向冈仁波齐发誓，我只追求一片安宁。"
-msgstr ""
+msgstr "I swear upon Mount Kailash, I seek only peace."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "可以回去再聊，这边并不安全。"
-msgstr ""
+msgstr "We can talk more back inside. It's not safe here."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "转场"
-msgstr ""
+msgstr "Scene transition"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "休息室"
-msgstr ""
+msgstr "Rest Room"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我想先去休息啦，我想待在凌灵气息比较重的地方，很温暖，你们不可以来打扰我哦"
-msgstr ""
+msgstr "I want to go rest first. I want to stay somewhere with a strong trace of Yulingling's presence — it's warm there. You're not allowed to disturb me!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "好，妮妮莉特你安心休息，我不会允许别人打扰你的"
-msgstr ""
+msgstr "Alright, Ninilite, rest easy. I won't let anyone disturb you."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "小扎西应该需要休息了"
-msgstr ""
+msgstr "Little Zhaxi probably needs to rest now"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "你是怎么知道我的身份的？你说话的方式感觉像个异族人"
-msgstr ""
+msgstr "How did you know my identity? The way you speak feels like you're from another clan."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我有我的法子，但说出来你可能不信，我也不知晓自己来自何方，但是上天在帮助我"
-msgstr ""
+msgstr "I have my ways, but you might not believe me even if I told you. I don't even know where I come from myself, but heaven is helping me."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "对于上面世界的存在，或者说，你不会觉得我可恨吗"
-msgstr ""
+msgstr "As for the existence of the world above... or rather, don't you find me hateful?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "并不，我相信有我自己的意志，不受外物影响的意志，像是冰雪下面的青石一样。"
-msgstr ""
+msgstr "Not at all. I believe I have my own will — a will untouched by outside forces, like bluestone beneath ice and snow."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "或许像你这样的人不管身处何处都是强大的。"
-msgstr ""
+msgstr "Perhaps someone like you would be strong no matter where you are."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "其实强不强大不重要，我只希望能够在这里安静活下去，如果你们不嫌弃的话……"
-msgstr ""
+msgstr "Honestly, being strong or not doesn't matter. I just want to live quietly here. If you don't mind..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "A:想在这个残酷的世界活下去，强大恐怕才是最重要的吧？<br>B:在这里活下去？这里有什么需要留恋吗？<br>C:在这里活下去？这里有什么需要留恋吗？"
-msgstr ""
+msgstr "A:To survive in this cruel world, being strong is probably what matters most, right?<br>B:Survive here? Is there anything worth staying for?<br>C:Survive here? Is there anything worth staying for?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "也许对每个人来说，这些意义不一样吧"
-msgstr ""
+msgstr "Perhaps these things mean something different to everyone."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:266
 msgid "第二章"
-msgstr ""
+msgstr "Chapter 2"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "2-1"
-msgstr ""
+msgstr "2-1"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "通讯器传来林睿哲发的消息：请问可以开门吗——基地 林睿哲"
-msgstr ""
+msgstr "A message comes through the communicator from Lin Ruizhe: May I come in? — Base, Lin Ruizhe"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "点击遥控按钮，金属木板门旋转落地的声音"
-msgstr ""
+msgstr "Click the remote button — the sound of a metal-plated door swinging open"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "使用火焰技能，一团火焰形成圆圈，大约膝盖的高度，包围了来访者"
-msgstr ""
+msgstr "Use fire skill — a ring of flame forms at about knee height, surrounding the visitor"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "林睿哲"
-msgstr ""
+msgstr "Lin Ruizhe"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "妮妮莉特，几天未见，就这么戒备了吗"
-msgstr ""
+msgstr "Ninilite, we haven't seen each other in days and you're already this guarded?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "妮妮莉特，先别急着攻击，退下火焰"
-msgstr ""
+msgstr "Ninilite, don't attack just yet. Dismiss the flames."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这句话结束后火焰消失"
-msgstr ""
+msgstr "The flames disappear after this line"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "嗯，自我介绍一下，我是地下城少主林睿哲，希望我的突然造访没有对阁下造成困扰"
-msgstr ""
+msgstr "Well then, allow me to introduce myself. I am Lin Ruizhe, the young lord of the underground city. I hope my sudden visit hasn't caused you any trouble."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "之前我们学院李叶娜分队的两位成员对阁下言行不当，是我管理失职，已经处分过他们了，抱歉"
-msgstr ""
+msgstr "Two members of Li Yena's squad from our academy behaved inappropriately toward you earlier. That was my failure in management. They have already been disciplined. I apologize."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "所以你是专程来道歉吗？一点小事，我没什么，但是希望你们的成员可以善待妮妮莉特"
-msgstr ""
+msgstr "So you came all this way just to apologize? It's nothing much to me, but I hope your members will treat Ninilite well."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "合作？"
-msgstr ""
+msgstr "Cooperation?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "不要相信他！这个世界除了主人和主人说可以相信的人，其他人都不可以随便信任"
-msgstr ""
+msgstr "Don't trust him! In this world, you can only trust Master and the people Master says you can trust. No one else!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "妮妮莉特，你先安静一下"
-msgstr ""
+msgstr "Ninilite, calm down for a moment."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "（对林睿哲）这些辛苦找到的情报这么快就展现给我这个外来人了，不怕消息走漏吗"
-msgstr ""
+msgstr "(To Lin Ruizhe) You're showing all this hard-earned intelligence to an outsider so quickly? Aren't you worried about information leaks?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "而且你凭什么这么笃定我会加入呢"
-msgstr ""
+msgstr "Besides, what makes you so sure I'll join?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "（笑）我想我们目标都是一致的，都是帮助为了这个世界恢复安定，这也是羽凌灵的愿望"
-msgstr ""
+msgstr "(Laughs) I believe our goals are aligned — we both want to help restore stability to this world. That is also Yulingling's wish."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "同时，我会帮你和妮妮莉特恢复在这个世界的名誉，用我们学院成员的身份，方便行动"
-msgstr ""
+msgstr "At the same time, I'll help restore your and Ninilite's reputation in this world. Using our academy members' status will make it easier for you to operate."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阁下总不能一直在这个小角落画地为牢吧"
-msgstr ""
+msgstr "Surely you can't keep yourself locked away in this little corner forever."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "所以你希望我做什么"
-msgstr ""
+msgstr "So what do you want me to do?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阁下既然是羽凌灵选定的人，想必一定有过人之处"
-msgstr ""
+msgstr "Since you are the one chosen by Yulingling, you must surely have extraordinary abilities."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "昨天的那场战斗我欣赏过，真是精彩，阁下似乎不受这个世界的规则限制"
-msgstr ""
+msgstr "I watched yesterday's battle — truly magnificent. It seems you are not bound by this world's rules."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "所以你昨天一直躲在暗处袖手旁观看戏？"
-msgstr ""
+msgstr "So you were hiding in the shadows yesterday, just watching from the sidelines?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "既然昨天已经有人出手相助了，我又何必多此一举？"
-msgstr ""
+msgstr "Since someone had already stepped in to help yesterday, why would I meddle unnecessarily?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "何况以阁下的战斗力，这些怪物问题不大（笑）"
-msgstr ""
+msgstr "Besides, with your combat strength, those monsters were hardly a problem (laughs)."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "对了，昨天那位出手相助的先生呢，怎么不见他出来，可以的话希望他也能加入基地"
-msgstr ""
+msgstr "By the way, where's the gentleman who helped out yesterday? Why hasn't he shown himself? I was hoping he could join the base too, if possible."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "他昨天因为饮食问题，现在还在休息"
-msgstr ""
+msgstr "He had some dietary issues yesterday and is still resting."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "真是遗憾呢，不过我想我们很快会见面的"
-msgstr ""
+msgstr "What a pity. But I'm sure we'll meet soon enough."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "你们可以用一个体面的身份，在地下城招募人员，扩充战力，将军事学院建成地面与地下的中转站"
-msgstr ""
+msgstr "You can use a proper identity to recruit people in the underground city, build up combat strength, and turn the military academy into a relay station between the surface and the underground."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "地下城的能源太匮乏了，庇护不了这里的人超过两个月的，地面集中了主要的能源，学院人员不足，地面又过于危险"
-msgstr ""
+msgstr "The underground city's energy supply is far too scarce — it can't sustain the people here for more than two months. The surface has most of the energy, but the academy is understaffed and the surface is too dangerous."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我还需要有人协助我继续收集断网组织的情报，找到真相，击溃这个组织"
-msgstr ""
+msgstr "I also need someone to help me continue gathering intelligence on the Disconnect Organization, find the truth, and take them down."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "能帮到这个世界，我很乐意，希望你能遵守约定"
-msgstr ""
+msgstr "I'd be glad to help this world. I trust you'll keep your word."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这是夜光镜，可以捕捉光源进行信息定位，直接接收、读取和收集资料"
-msgstr ""
+msgstr "This is a Night-Vision Lens. It can capture light sources for information positioning, and directly receive, read, and collect data."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "赠送给你，算是我们学院的一点诚意"
-msgstr ""
+msgstr "Consider it a gift — a token of our academy's sincerity."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "弹出提示字“获取装备 夜光镜”"
-msgstr ""
+msgstr "Prompt appears: “Acquired Equipment: Night-Vision Lens”"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "多谢，一言为定"
-msgstr ""
+msgstr "Thank you. It's a deal."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "（笑）背信弃义非君子所为，不过我也不会做亏本的买卖，阁下也要尽心尽力"
-msgstr ""
+msgstr "(Laughs) A true gentleman does not break his word. But I wouldn't make a losing deal either — I expect you to give it your all."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "希望今后与阁下合作愉快，时常保持联系，先行告辞"
-msgstr ""
+msgstr "I look forward to a pleasant partnership. Let's stay in touch. I shall take my leave now."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "你怎么可以这么轻易就答应他呢？这家伙我以前认识，城府太深了，谁知道他每天在想什么"
-msgstr ""
+msgstr "How could you agree so easily? I knew this guy before — he's way too scheming. Who knows what he's plotting every day."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我们现在在这个世界也没什么强有力的支援和引导，羽凌灵联系时断时续"
-msgstr ""
+msgstr "We don't really have strong support or guidance in this world right now. Our contact with Yulingling has been on and off."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "林睿哲毕竟是羽凌灵选拔出来的，只要我们目标一致，其他方面我们平时多留心就好"
-msgstr ""
+msgstr "Lin Ruizhe was selected by Yulingling, after all. As long as our goals are aligned, we just need to stay vigilant about everything else."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "那也不可以，主人才是最可靠的"
-msgstr ""
+msgstr "That's still not okay. Master is the only one who's truly reliable."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "可是你主人现在不在啊，而且你平时和学院的人相处不多，现在可以好好了解一下"
-msgstr ""
+msgstr "But your master isn't here right now. Besides, you haven't spent much time with the academy members — now's a good chance to get to know them."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "大清早的，俩扎西吵什么？我刚刚正梦见在牧场骑马，被你俩打断了"
-msgstr ""
+msgstr "Early in the morning, what are you two Zhaxis arguing about? I was just dreaming about riding horses on the pasture and you interrupted me."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这都快中午了算早吗"
-msgstr ""
+msgstr "It's almost noon — does that still count as early?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "一个水滴形气泡出现在我脑袋上"
-msgstr ""
+msgstr "A teardrop-shaped speech bubble appears above my head"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "刚刚地下城的林睿哲来访，希望与我们合作，增强学院战斗力，找到更多情报"
-msgstr ""
+msgstr "Lin Ruizhe from the underground city just visited. He wants to cooperate with us — strengthen the academy's combat force and gather more intelligence."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "那你俩怎么不叫醒我"
-msgstr ""
+msgstr "Then why didn't you two wake me up?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "算了算了，大人不记小孩过"
-msgstr ""
+msgstr "Never mind, never mind. A grown-up doesn't hold grudges against kids."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "听起来是个了解这世界的不错方式，反正我也挺闲的，到处转悠看看"
-msgstr ""
+msgstr "Sounds like a good way to learn about this world. I'm pretty free anyway — might as well look around."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "现在的合作要求是在地面进行调查，收集地面能源，地点：遗弃城市"
-msgstr ""
+msgstr "The current cooperation task is to investigate the surface and collect surface energy. Location: Ruins City."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid ""
 "林睿哲发来地面地图，玩家需点击夜光镜装备，一张遗迹城市的地图自动弹出            "
 "林睿哲：这是遗迹城市的地图，紫色光点是能源所在位置，相信阁下会守信保密，静候佳音"
 msgstr ""
+"Lin Ruizhe sends a surface map. The player clicks the Night-Vision Lens equipment, and a map of the Ruins City automatically pops up.            "
+"Lin Ruizhe: This is the map of the Ruins City. The purple dots indicate energy locations. I trust you'll keep this confidential. I await good news."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "事不宜迟，现在就出发吧"
-msgstr ""
+msgstr "No time to waste. Let's head out now."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "等等啊喂，我不要一个人留在这里"
-msgstr ""
+msgstr "Wait, hey! Don't leave me here alone!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "升降台切换，周围景象快速飞闪掠过"
-msgstr ""
+msgstr "The lift platform switches — the surroundings flash by rapidly"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "2-2"
-msgstr ""
+msgstr "2-2"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "遗迹城市"
-msgstr ""
+msgstr "Ruins City"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这就是遗迹城市吗？看上去荒无人烟寸草不生的，连一只鸟儿的影子的都没有，一点也不好玩"
-msgstr ""
+msgstr "Is this the Ruins City? It looks completely desolate — not a blade of grass, not even a bird's shadow. No fun at all."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "注意周围情况，我们不是来度假的"
-msgstr ""
+msgstr "Stay alert. We're not here on vacation."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "三只怪兽出现，乌云用藏银刀挡下第一波突袭"
-msgstr ""
+msgstr "Three monsters appear. Wuyun blocks the first wave of attacks with a Tibetan silver blade."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "当心！"
-msgstr ""
+msgstr "Watch out!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "立刻躲到旁边的石柱去！妮妮莉特，十点钟方向，对付左边那只，乌云，三点钟方向，对付右边那只，注意安全"
-msgstr ""
+msgstr "Get behind the stone pillars, now! Ninilite, ten o'clock, take the one on the left. Wuyun, three o'clock, handle the one on the right. Be careful!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "玩家使用夜光镜定位功能"
-msgstr ""
+msgstr "The player uses the Night-Vision Lens positioning function"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "乌云、妮妮莉特"
-msgstr ""
+msgstr "Wuyun, Ninilite"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "好"
-msgstr ""
+msgstr "Okay"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "战斗场面，妮妮莉特技能：鸿鹄焰火，白色羽毛化为红橙色火雨利箭特效 乌云技能：藏银寒风，银色刀光闪耀，浅绿色风呼啸"
-msgstr ""
+msgstr "Battle scene — Ninilite's skill: Swan Fireworks, white feathers transform into red-orange fire rain arrow effects. Wuyun's skill: Tibetan Silver Gale, silver blade light flashes, pale green wind howls."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "玩家需要控制人物闪躲到石柱，同时在废墟之间的各个石柱不停移动，控制风向和火势，控制角度得当收获双倍奖励，战斗通关"
-msgstr ""
+msgstr "The player must dodge behind stone pillars while constantly moving between pillars in the ruins, controlling wind direction and fire intensity. Proper angle control earns double rewards. Battle cleared."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "总算解决了"
-msgstr ""
+msgstr "Finally done."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "没想到地面这么刺激的吗，有废墟有怪物，就是找不到能源，适合晚上讲草原的灵异故事"
-msgstr ""
+msgstr "Didn't expect the surface to be this exciting. Ruins, monsters... just can't find any energy. Perfect for telling ghost stories about the grasslands at night."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "按照地图信息，林睿哲说能源在废墟中央"
-msgstr ""
+msgstr "According to the map, Lin Ruizhe said the energy is in the center of the ruins."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "三个人移动前行"
-msgstr ""
+msgstr "The three of them move forward"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "应该就是这个"
-msgstr ""
+msgstr "This should be it."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "点击箱子，打开，能源化作一串数据流，进入并储存在我的手环中"
-msgstr ""
+msgstr "Click the box to open it. The energy transforms into a stream of data and flows into my wristband for storage."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我想回基地了，这个城市连人影都没有，也没什么好探索的"
-msgstr ""
+msgstr "I want to go back to base. There's not a soul in this city — nothing worth exploring."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这里以前也是这么荒凉吗"
-msgstr ""
+msgstr "Was it always this desolate here?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "主人以前说，地面曾经出现过许多伟大而悠久的文明，这座城市以前应该也是文明之一"
-msgstr ""
+msgstr "Master once said that many great and ancient civilizations once existed on the surface. This city must have been one of them."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "但是地面后来被战火烧伤，徘徊着很多意识的痛苦和怨念"
-msgstr ""
+msgstr "But the surface was later scarred by war, and the pain and resentment of many consciousnesses still linger here."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这些怪物，据说是怨念和废弃数据的异化"
-msgstr ""
+msgstr "These monsters are said to be the corruption of resentment and discarded data."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "若有所思）文明？"
-msgstr ""
+msgstr "Pensive) Civilization?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "总之，我们快回去吧，这里真让人害怕"
-msgstr ""
+msgstr "Anyway, let's hurry back. This place is really scary."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "A:好，现在先回去补充体力;B:别着急，再看看，说不准能发现什么有用的信息"
-msgstr ""
+msgstr "A:Alright, let's head back and recover our strength first;B:Don't rush, let's look around more — we might find something useful"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "选项A直接收到林睿哲消息，场景切换进入2~3，选项B玩家可自行探索城市"
-msgstr ""
+msgstr "Option A: immediately receive a message from Lin Ruizhe, scene transitions to 2-3. Option B: the player can freely explore the city."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "确实毫无线索，还是先回去吧"
-msgstr ""
+msgstr "There really are no clues. Let's head back first."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "玩家根据地图引导进入幽兰草学院训练场"
-msgstr ""
+msgstr "The player follows the map guidance to the Youlancao Academy training ground"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "夜光镜收到林睿哲消息：进展如何？ 玩家点击“能源已收集，但未找到有效资料，正准备回地下” 林睿哲：那么，诚挚邀请阁下前来幽兰草学院训练场"
-msgstr ""
+msgstr "The Night-Vision Lens receives a message from Lin Ruizhe: How’s the progress? The player clicks “Energy collected, but no useful data found. Preparing to return underground.” Lin Ruizhe: Then, I sincerely invite you to the Youlancao Academy training ground."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "2-3"
-msgstr ""
+msgstr "2-3"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "训练室"
-msgstr ""
+msgstr "Training Room"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩"
-msgstr ""
+msgstr "A Yan"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "低头沉思和我一头撞上"
-msgstr ""
+msgstr "Walking with head down in thought and bumps right into me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "嘶"
-msgstr ""
+msgstr "Ow..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "对不起对不起，您没事吧"
-msgstr ""
+msgstr "Sorry, sorry! Are you alright?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "没什么，请问这里是幽兰草学院训练室吗，按照地图的指示好像是这里"
-msgstr ""
+msgstr "I'm fine. Is this the Youlancao Academy Training Room? According to the map, it should be here."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "没错，请问您是"
-msgstr ""
+msgstr "That's right. May I ask who you are?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "【玩家名字】，是林睿哲邀请我来这里的"
-msgstr ""
+msgstr "[Player Name]. Lin Ruizhe invited me here."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "原来就是您啊，林睿哲嘱咐过我让我来接您，失敬失敬"
-msgstr ""
+msgstr "Oh, it's you! Lin Ruizhe told me to come receive you. My apologies for not recognizing you."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "热情握手"
-msgstr ""
+msgstr "Enthusiastic handshake"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "你可以不用这么客气的，请问你是"
-msgstr ""
+msgstr "You don't need to be so formal. May I ask who you are?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "玩家尴尬地笑"
-msgstr ""
+msgstr "The player laughs awkwardly"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "幽兰草学院的新任建筑师，今天轮到我值班，所以林睿哲就派我来接应你了"
-msgstr ""
+msgstr "I'm the new architect of the Youlancao Academy. It's my shift today, so Lin Ruizhe sent me to meet you."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "看，这是我的员工证件，有林睿哲的亲笔签名，林睿哲他比较忙，过一会才会过来"
-msgstr ""
+msgstr "Look, this is my staff ID — it has Lin Ruizhe's personal signature. He's quite busy right now, so he'll be over a bit later."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "好，那就麻烦你带我参观一下训练场了"
-msgstr ""
+msgstr "Alright, then please show me around the training ground."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "玩家跟着阿岩参观训练场"
-msgstr ""
+msgstr "The player follows A Yan on a tour of the training ground"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "听说你刚刚从地面下来"
-msgstr ""
+msgstr "I heard you just came down from the surface."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "对"
-msgstr ""
+msgstr "Yeah"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "那你能介绍一下地面的情况吗？比如有什么城市？长什么样？有没有遇见什么人？比如我这样的建筑师？"
-msgstr ""
+msgstr "Could you tell me about the surface? Like, are there any cities? What do they look like? Did you meet anyone? Like an architect like me?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "啊，地面也没什么情况，就是一堆怪物罢了"
-msgstr ""
+msgstr "Oh, there's not much to tell about the surface. Just a bunch of monsters."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩露出失望的表情"
-msgstr ""
+msgstr "A Yan looks disappointed"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "那个，提醒一下，您是不是走错路了，按照地图不是这么走的"
-msgstr ""
+msgstr "Um, just a reminder — I think you're going the wrong way. The map says we should go a different direction."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "啊哈哈，不好意思，我们换个方向，请问一下地面真的没有别的东西吗"
-msgstr ""
+msgstr "Ahaha, sorry about that. Let's go the other way. By the way, is there really nothing else on the surface?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "暂时没有发现"
-msgstr ""
+msgstr "Nothing found so far."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "等等，也不是走这里啊（内心吐槽：这家伙真的靠谱吗）"
-msgstr ""
+msgstr "Wait, this isn't the right way either! (Inner monologue: Is this guy really reliable?)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "刚刚被一些事情耽误了，抱歉让阁下久等"
-msgstr ""
+msgstr "I was held up by some matters. Sorry to keep you waiting."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "骑着白虎出现"
-msgstr ""
+msgstr "Appears riding a white tiger"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这是军事学院的训练场，那边的是阿岩完成的AI训练室"
-msgstr ""
+msgstr "This is the military academy's training ground. Over there is the AI training room that A Yan completed."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "之前AI训练室设计到一半没有思路，是阿岩帮助完成的，非常厉害，想必你们已经互相认识了"
-msgstr ""
+msgstr "The AI training room design was stuck halfway through — A Yan helped finish it. Very impressive. I trust you two have already met."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "啊哈哈，是啊是啊（内心吐槽：在自己设计的场地，把客人带了那么多弯路是挺厉害的）"
-msgstr ""
+msgstr "Ahaha, yep, sure did! (Inner monologue: Getting the guest lost in a building you designed yourself — now that's impressive.)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩，这是【】，是一位战斗奇才，以后就是我们的成员了，希望你们好好相处"
-msgstr ""
+msgstr "A Yan, this is [], a combat prodigy. They'll be one of us from now on. I hope you two get along well."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩，你有在听吗？"
-msgstr ""
+msgstr "A Yan, are you even listening?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "啊？在的在的"
-msgstr ""
+msgstr "Huh? Yeah, I'm here."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩反应迟钝，似乎一直在低头思考什么"
-msgstr ""
+msgstr "A Yan reacts slowly, seemingly lost in thought with head bowed"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "训练场用于我们学院成员平时提升格斗技巧、对付地面的怪物"
-msgstr ""
+msgstr "The training ground is for our academy members to hone their combat skills and prepare for surface monsters."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "训练场传来格斗声音"
-msgstr ""
+msgstr "The sound of combat echoes from the training ground"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "现在，请你和李叶娜合作完成一场训练吧"
-msgstr ""
+msgstr "Now, please complete a training session with Li Yena."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "你是借此让我获得学院成员的认可吧？毕竟这个世界只有强者才能好好活下去"
-msgstr ""
+msgstr "You're using this to earn me recognition from the academy members, right? After all, only the strong can truly survive in this world."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "聪明人"
-msgstr ""
+msgstr "Smart one."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩，你带【】进入场地"
-msgstr ""
+msgstr "A Yan, take [] into the arena."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩，你带我进去吧（内心吐槽：这样的员工真的不会被上司开除吗，林睿哲真是宅心仁厚）"
-msgstr ""
+msgstr "A Yan, take me in. (Inner monologue: Can an employee like this really not get fired? Lin Ruizhe is truly generous.)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "用手戳一下低头沉思的阿岩"
-msgstr ""
+msgstr "Poke the deep-in-thought A Yan"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "嗯？不好意思，没反应过来"
-msgstr ""
+msgstr "Hmm? Sorry, I didn't react in time."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "带领玩家进入训练"
-msgstr ""
+msgstr "Leads the player into training"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "2-4"
-msgstr ""
+msgstr "2-4"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "虚拟训练场"
-msgstr ""
+msgstr "Virtual Training Ground"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "两场战斗，第一场和李叶娜合作消灭虚拟怪物，第二场和我对打，我战斗胜利"
-msgstr ""
+msgstr "Two battles: first, cooperate with Li Yena to eliminate virtual monsters; second, spar with me. I win the fight."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "好好打，我可不会手下留情，猎鹰不会和仓鼠为伍，绵羊只会是豺狼的食物"
-msgstr ""
+msgstr "Give it your all. I won't go easy on you. Falcons don't flock with hamsters, and sheep are nothing but prey for wolves."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "第一场战斗结束第二场战斗开始前，语气高傲"
-msgstr ""
+msgstr "First battle ends, before the second battle begins, in an arrogant tone"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "第二场战斗结束"
-msgstr ""
+msgstr "Second battle ends"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "好吧，你确实还算有两把刷子，至少不会拖我们学院后腿"
-msgstr ""
+msgstr "Alright, you do have some skills. At least you won't hold our academy back."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "之前的事，是我们的人不对"
-msgstr ""
+msgstr "About what happened before — our people were in the wrong."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "不过记住，好好和首领合作，要是敢违背信义，我李叶娜第一个饶不了你"
-msgstr ""
+msgstr "But remember — cooperate with our leader properly. If you dare betray our trust, I, Li Yena, will be the first to make you pay."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "2-5"
-msgstr ""
+msgstr "2-5"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "收到羽凌灵消息，点击查看，并转发给妮妮莉特"
-msgstr ""
+msgstr "Receive a message from Yulingling. Click to view, then forward to Ninilite."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这是食物，你先用来补充体力吧"
-msgstr ""
+msgstr "Here's some food. Use it to recover your strength first."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "林睿哲和李队长还有任务，先离开了"
-msgstr ""
+msgstr "Lin Ruizhe and Captain Li still have tasks to do. They've left first."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩，你要不要一起吃"
-msgstr ""
+msgstr "A Yan, do you want to eat with us?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "不用，谢谢"
-msgstr ""
+msgstr "No thanks."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "阿岩，感觉你好像一直心不在焉呢，是有什么心事吗"
-msgstr ""
+msgstr "A Yan, you seem like your mind has been wandering. Is something weighing on you?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "你刚刚的表现，不怕会被开除吗"
-msgstr ""
+msgstr "With how you were just now, aren't you worried about getting fired?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "唉，说起来也要感谢林睿哲了"
-msgstr ""
+msgstr "Sigh, come to think of it, I have Lin Ruizhe to thank for that."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "（身世讲述）"
-msgstr ""
+msgstr "(Backstory narration)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "玩家点击解锁人物故事碎片"
-msgstr ""
+msgstr "The player clicks to unlock a character story fragment"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "原来是这样，大家都挺不容易呢，我原本以为这里是一个乌托邦世界，没想到也一样是丛林法则啊"
-msgstr ""
+msgstr "I see. Everyone has it tough. I originally thought this was some kind of utopia, but it turns out it's the law of the jungle here too."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "这不是众所周知吗，真奇怪，看起来你好像对这里不了解"
-msgstr ""
+msgstr "Isn't that common knowledge? That's strange — it seems like you don't know much about this place."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "呃，在基地待久了，好久没出来走动了，不好意思"
-msgstr ""
+msgstr "Uh, I've been at the base for too long. Haven't been out in a while. Sorry about that."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "目前我已知的是，如果能在地面集齐散落的能源，AI训练场可以实现战斗记录和数据j共享，说不准可以帮你找回以前的记忆呢"
-msgstr ""
+msgstr "What I know so far is that if we can collect all the scattered energy on the surface, the AI training ground can share combat records and data. Who knows — it might even help you recover your old memories."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "谢谢你，你真是个好人"
-msgstr ""
+msgstr "Thank you. You're really kind."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "对了，林睿哲说你还要到休息室见一下他招募的其他两位新人"
-msgstr ""
+msgstr "By the way, Lin Ruizhe said you need to go to the Rest Room to meet two other newcomers he recruited."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "我现在还不太想和太多人说话，就不陪你过去了"
-msgstr ""
+msgstr "I don't really feel like talking to too many people right now. I won't go with you."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:200
 msgid "好，那我先过去了，你注意照顾好自己"
-msgstr ""
+msgstr "Alright, I'll head over first. Take care of yourself."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "羽凌灵邮件(3)"
-msgstr ""
+msgstr "Yulingling's Mail (3)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:443
 msgid "你好，很高兴再一次与你通信。我不久前恢复了通过眼动编辑邮件的能力，刚刚也和妮妮莉特传递了我安好的消息，一切都在慢慢变好。了解到你和妮妮莉特已经接触了林睿哲和他掌控的地下城势力，以及阿岩等等新朋友，我对你们的努力表示感激，也对你们的经历十分急切地希望了解细节，发掘更多信息。我的身体在慢慢恢复，有了更多清醒和思考的时间，之后通信的速度可以稍微加快一些了，望能更多地了解你们的情况，你有任何想了解的事情也请尽情询问，我将不吝解答，与你们始终同在。问你与妮妮莉特安。"
-msgstr ""
+msgstr "Hello, I'm glad to correspond with you again. I recently regained the ability to compose emails through eye movement, and I've just sent word to Ninilite that I'm doing well. Everything is gradually improving. I understand that you and Ninilite have already made contact with Lin Ruizhe and the underground city forces under his control, as well as new friends like A Yan. I am grateful for your efforts, and I am eager to learn the details of your experiences and uncover more information. My body is slowly recovering, and I have more time to stay awake and think. I should be able to correspond more frequently from now on. I hope to learn more about your situation, and please feel free to ask anything you wish to know — I will answer without reservation. I am always with you. Wishing you and Ninilite well."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "2-6"
-msgstr ""
+msgstr "2-6"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "请问有人在吗"
-msgstr ""
+msgstr "Excuse me, is anyone here?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "敲门声，特制i玻璃门旋转打开"
-msgstr ""
+msgstr "Knock on the door — the custom glass door swings open"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "半夏"
-msgstr ""
+msgstr "Banxia"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "请问这位双瞳剪水的千金"
-msgstr ""
+msgstr "May I ask, this fair lady with eyes like autumn waters —"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "温润如玉的公子，有什么可以帮忙的吗？"
-msgstr ""
+msgstr "This gentle jade-like sir, is there anything I can help with?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "无论是身体不适、大病小痛还是心理抑郁、情感咨询，神医半夏24小时为您提供热线服务，包准药到病除、妙手回春"
-msgstr ""
+msgstr "Whether it's physical discomfort, serious illness or minor aches, or even psychological depression and emotional counseling — the divine physician Banxia provides 24-hour hotline service. Guaranteed cure, miraculous recovery!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "看起来您好像气色不太好，经过我多年望闻问切的经验，您一定是刚刚经历过一场恶战"
-msgstr ""
+msgstr "You don't look well. Based on my years of experience in the four diagnostic methods, you must have just been through a fierce battle."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "托着下巴若有所思地围着我转两个圈又十分认真地打量"
-msgstr ""
+msgstr "Holding chin thoughtfully, circles around me twice, then scrutinizes me very carefully"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "唉呀，这可不行，您需要一剂静养散安心定神、恢复元气"
-msgstr ""
+msgstr "Oh my, this won't do. You need a dose of Calming Powder to settle your mind and restore your vitality."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "不必，我只是来这里拜访林睿哲招募的新人，我也是林睿哲刚刚招募的成员之一（内心吐槽：救命，这人真的不需要看精神科医生吗）"
-msgstr ""
+msgstr "No need. I'm just here to visit the newcomers Lin Ruizhe recruited. I'm also one of the new members he just brought in. (Inner monologue: Help — does this person seriously not need a psychiatrist?)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "原来是这样，咳咳，自我介绍一下，我是林睿哲刚刚招募的成员医师半夏，半夏的默，半夏的羽，专攻中医方向"
-msgstr ""
+msgstr "I see. Ahem. Allow me to introduce myself properly. I'm Banxia, a physician and newly recruited member by Lin Ruizhe. The silence of Banxia, the feathers of Banxia — specializing in traditional Chinese medicine."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "请问您佳名？"
-msgstr ""
+msgstr "May I ask your esteemed name?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "【玩家名字】，负责军事训练和战斗"
-msgstr ""
+msgstr "[Player Name], in charge of military training and combat."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "真是有缘千里来相见，看来我这个医师以后可以经常帮到你呢"
-msgstr ""
+msgstr "What a destined meeting from a thousand miles away. It seems this physician will be able to help you often in the future."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "。。。。。。（内心吐槽：我现在辞职还来得及吗）"
-msgstr ""
+msgstr "...... (Inner monologue: Is it too late to resign?)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "以后的战斗受伤在所难免，你一定要信任我的医术，在这个世界，如果我是第二，那么无人敢说第。。。。。"
-msgstr ""
+msgstr "Injuries in future battles will be unavoidable. You must trust my medical skills. In this world, if I’m second, no one dares claim to be first....."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "忍冬"
-msgstr ""
+msgstr "Rendong"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "半夏，你又在发什么疯？"
-msgstr ""
+msgstr "Banxia, what are you crazy about now?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "啊哈哈，这是我姐姐忍冬，这个世界第一医师，主攻西医方向"
-msgstr ""
+msgstr "Ahaha, this is my sister Rendong, the world's greatest physician, specializing in Western medicine"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "对不起，姐姐，忘了和你介绍了"
-msgstr ""
+msgstr "Sorry, sister, I forgot to introduce them to you"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "这是一位新来的负责军事训练和战斗的伙伴【玩家名字】"
-msgstr ""
+msgstr "This is a new partner responsible for military training and combat, [Player Name]"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "知道了"
-msgstr ""
+msgstr "Got it"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "冷冷地丢来一句话"
-msgstr ""
+msgstr "Throws out a cold remark"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "【玩家名字】，这是我姐姐忍冬，这边是我们的手术台和医药器具，这是姐姐平时实验用的药水"
-msgstr ""
+msgstr "[Player Name], this is my sister Rendong. Over here is our operating table and medical instruments, and these are the potions my sister uses for experiments"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "您好，幸会，忍冬医生，请问一下林睿哲是怎么找到如此。。。非同凡响的成员"
-msgstr ""
+msgstr "Hello, nice to meet you, Dr. Rendong. May I ask how Lin Ruizhe managed to find such... extraordinary members"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "（这位医生似乎比李叶娜还难说话呢）"
-msgstr ""
+msgstr "(This doctor seems even harder to talk to than Li Yena)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "问我弟"
-msgstr ""
+msgstr "Ask my brother"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "自行走开，翘着腿高傲优雅地坐在沙发上，端详摆弄着药水和手术刀，犹如猫科动物"
-msgstr ""
+msgstr "Walks away on her own, sits on the sofa with crossed legs, elegantly and haughtily examining potions and scalpels, like a feline"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "其实姐姐本来不太想管外界的事情，有一天林睿哲来访说希望我们能加入学院帮助这个世界"
-msgstr ""
+msgstr "Actually, my sister didn't really want to get involved in outside matters. One day Lin Ruizhe visited and said he hoped we could join the academy to help this world"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "我当然很好说话，但是我姐姐是被我软磨硬泡、林睿哲三顾茅庐才勉强同意的"
-msgstr ""
+msgstr "I'm certainly easy to talk to, but my sister only reluctantly agreed after I persistently persuaded her and Lin Ruizhe visited three times to recruit her"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "茅庐？"
-msgstr ""
+msgstr "Three visits?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "忍冬向弟弟抛来一记眼刀🔪"
-msgstr ""
+msgstr "Rendong shoots a dagger glare at her brother 🔪"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "对不起，姐姐，我们住的地方是仙境，我只是用个典故，嘻嘻"
-msgstr ""
+msgstr "Sorry, sister, we live in a fairyland. I was just using a literary reference, hehe"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "说明你俩在这个世界很杰出很有名"
-msgstr ""
+msgstr "It means you two are very outstanding and famous in this world"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "我姐姐是，至于我嘛，过奖了过奖了，但我姐姐讨厌出名这种东西"
-msgstr ""
+msgstr "My sister is, but as for me, you flatter me. My sister hates things like fame"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "为什么"
-msgstr ""
+msgstr "Why"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "这个嘛，以后再说，我们不如聊点别的，比如。。。。。。"
-msgstr ""
+msgstr "Well, let's talk about that later. How about we chat about something else, like..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "半夏挠挠头"
-msgstr ""
+msgstr "Banxia scratches his head"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "不早了，送客"
-msgstr ""
+msgstr "It's getting late. Show the guest out"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "忍冬熟练地配制药水，丝毫不向我看一眼"
-msgstr ""
+msgstr "Rendong skillfully mixes potions without glancing at me once"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "姐姐，这多没意思啊，你看我好不容易找到一个能聊天的伙伴"
-msgstr ""
+msgstr "Sister, that's no fun. I finally found someone I can chat with"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "人家【玩家名字】还没来多久呢，你就要下逐客令"
-msgstr ""
+msgstr "[Player Name] hasn't been here long, and you're already kicking them out"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "我确实该回去了，还有人等着我"
-msgstr ""
+msgstr "I really should head back. Someone is waiting for me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "真可惜，来日方长，你以后一定要经常来找我聊天啊，有什么困难我都乐意帮忙的"
-msgstr ""
+msgstr "What a pity. We have plenty of time though. You must come chat with me often. I'm happy to help with any difficulties"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "好，再见（吐槽：看来以后这里一定很精彩）"
-msgstr ""
+msgstr "Okay, goodbye. (Inner thought: Looks like this place will be quite exciting in the future)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:442
 msgid "林睿哲的消息：又有新任务需要劳烦阁下到地面行动。为了提升作战效率和作战安全度，需要在地面搜集一种名为砗磲贝的材料，制作转译器，实现战斗经验和地理位置共享，地下城敬候佳音；提示玩家去备战室找妮"
-msgstr ""
+msgstr "Message from Lin Ruizhe: Another mission requires your assistance on the surface. To improve combat efficiency and safety, we need to collect a material called Giant Clam Shell on the surface to build a translator for sharing combat experience and geographic locations. The underground city awaits your good news; prompt the player to find Ninilite in the preparation room"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "Tip"
-msgstr ""
+msgstr "Tip"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:490
 msgid "这里的忍冬和半夏对应默翎和默羽"
-msgstr ""
+msgstr "Rendong and Banxia here correspond to Moling and Moyu"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "备战室"
-msgstr ""
+msgstr "Preparation Room"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "【】，你终于回来啦"
-msgstr ""
+msgstr "[], you're finally back"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "我看到了主人的消息，我好想哭，又好开心好开心"
-msgstr ""
+msgstr "I saw Master's message. I want to cry, but I'm also so so happy"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "总之，主人没事真是太好了"
-msgstr ""
+msgstr "Anyway, it's such a relief that Master is okay"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "你开心就好"
-msgstr ""
+msgstr "As long as you're happy"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "但现在还不是高兴和放松的时候。林睿哲刚刚发来消息说，我们明天凌晨需要去地面搜集材料制作转译器"
-msgstr ""
+msgstr "But now is not the time to be happy and relax. Lin Ruizhe just sent a message saying we need to go to the surface early tomorrow morning to collect materials to build a translator"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "转译器是什么？"
-msgstr ""
+msgstr "What's a translator?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "实现战斗数据共享和记录的东西，并且可以根据数据实现记忆追溯"
-msgstr ""
+msgstr "A device that enables sharing and recording of combat data, and can trace back memories based on the data"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "用于提升作战经验，成员之间实现异地战斗指导协助、降低伤害之类"
-msgstr ""
+msgstr "Used to improve combat experience, enable remote combat guidance and assistance between members, reduce injuries, and so on"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "根据地图显示，材料在这个废弃工厂"
-msgstr ""
+msgstr "According to the map, the materials are at this abandoned factory"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "但是途中需要经过一片沼泽，需要我们小心行事"
-msgstr ""
+msgstr "But we need to pass through a swamp on the way, so we must proceed carefully"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "你就这么相信林睿哲？"
-msgstr ""
+msgstr "Do you just trust Lin Ruizhe that much?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "说不上相信吧，只是想出手相助一下这个世界而已，玩够了就回去"
-msgstr ""
+msgstr "I wouldn't say trust. I just want to lend a hand to this world. Once I've had enough, I'll go back"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "既然羽凌灵是能让你真正信任的，那希望你能在她守护过的地方快乐生活"
-msgstr ""
+msgstr "Since Yulingling is someone you can truly trust, I hope you can live happily in the place she once protected"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "果然人有了牵挂都难以自由呢"
-msgstr ""
+msgstr "As expected, once people have attachments, it's hard to be free"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "愿雪山的神鹰庇佑我们行动成功"
-msgstr ""
+msgstr "May the divine eagles of the snow mountains bless our mission with success"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "2-7"
-msgstr ""
+msgstr "2-7"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "废弃工厂"
-msgstr ""
+msgstr "Abandoned Factory"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "根据夜光镜定位的方向，往这边"
-msgstr ""
+msgstr "According to the Night Vision Lens direction, this way"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "（神秘而古怪的歌声）"
-msgstr ""
+msgstr "(A mysterious and eerie singing voice)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "擅入此地之人，擅入此地之人，将与逝去之亡灵对话，将入悲惨之孤城，将走向永恒之痛苦，将步入万劫之深渊，将断绝生还之念想，汝等踏入此地之人，舍弃所有希望吧！这是塞壬的国度"
-msgstr ""
+msgstr "Those who trespass here, those who trespass here, shall converse with the departed spirits, shall enter the city of misery, shall walk into eternal pain, shall descend into the abyss of no return, shall abandon all hope of survival. Those who set foot here, abandon all hope! This is the realm of the Siren"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "呜呜，好恐怖"
-msgstr ""
+msgstr "Wuwu, so scary"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "不要被这声音影响，提高警惕，准备战斗"
-msgstr ""
+msgstr "Don't be affected by this voice. Stay alert and prepare for combat"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "嘻嘻，穿过悲苦之城，我落荒而逃；嘻嘻，穿过永世凄苦，我远走高飞"
-msgstr ""
+msgstr "Hehe, through the city of sorrow, I flee in panic; hehe, through eternal suffering, I soar far away"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "万千花束和藤蔓从沼泽中疯狂冒出，袭击而来"
-msgstr ""
+msgstr "Countless flower bouquets and vines burst wildly from the swamp, attacking"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "战斗！"
-msgstr ""
+msgstr "Battle!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "技能使用"
-msgstr ""
+msgstr "Skill usage"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "救命"
-msgstr ""
+msgstr "Help"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "脚踝被藤蔓缠住并被花刺到"
-msgstr ""
+msgstr "Ankle caught by vines and pricked by flower thorns"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "嘻嘻，隔河而笑，相去三步，如阻沧海"
-msgstr ""
+msgstr "Hehe, smiling across the river, three steps apart, yet separated as if by a vast ocean"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "天地间最纯净的精灵哟，天地间最旷远的风声哟，太阳与群星之间的光芒哟，也比不上她赠予的哈达,并非圣洁湖水，暂居蓝色石房，我想念着远方的人儿，安多阿尼玛卿"
-msgstr ""
+msgstr "Oh purest spirits between heaven and earth, oh most distant wind between heaven and earth, oh light between the sun and stars, none can compare to the khata she gifts. Not the sacred lake waters, temporarily dwelling in the blue stone house, I miss the one far away, Amdo Anyemaqen"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "歌谣吟唱"
-msgstr ""
+msgstr "Singing a ballad"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "神秘而古怪的歌声消退"
-msgstr ""
+msgstr "The mysterious and eerie singing fades away"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "趁现在"
-msgstr ""
+msgstr "Now's our chance"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "发动技能"
-msgstr ""
+msgstr "Activate skill"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "战斗结束，我拿到材料"
-msgstr ""
+msgstr "Battle over, I got the materials"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "快送妮妮莉特回去治疗"
-msgstr ""
+msgstr "Quickly get Ninilite back for treatment"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "点击给医师姐弟发消息"
-msgstr ""
+msgstr "Click to send a message to the doctor siblings"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "2-8"
-msgstr ""
+msgstr "2-8"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "看吧，我就说你肯定有需要我帮助的一天，而且还这么快"
-msgstr ""
+msgstr "See, I told you you'd need my help someday, and so soon too"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "乌鸦嘴，净给我添麻烦"
-msgstr ""
+msgstr "Jinx, nothing but trouble for me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "乌鸦？这名字听起来好熟悉"
-msgstr ""
+msgstr "Crow? That name sounds so familiar"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "别发呆，快过来帮忙"
-msgstr ""
+msgstr "Stop daydreaming, come help quickly"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "她中的是沼泽花妖的毒素，这是一种能用声音蛊惑并袭击人的怪物"
-msgstr ""
+msgstr "She's been poisoned by the swamp flower demon. It's a monster that can bewitch and attack people with sound"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "还好受伤不严重，稍微治疗一下就可以痊愈"
-msgstr ""
+msgstr "Fortunately the injury isn't severe. A little treatment and she'll fully recover"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "只是好奇你们怎么全身而退的，虽然花妖攻击力不强，但是一般被蛊惑心智后就难以脱身了"
-msgstr ""
+msgstr "I'm just curious how you made it out unscathed. Though the flower demon's attack power isn't strong, once your mind is bewitched, it's usually hard to escape"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "乌云用歌谣让我们清醒的"
-msgstr ""
+msgstr "Wuyun used a ballad to snap us out of it"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "哦？（向乌云投去怀疑的一瞥）"
-msgstr ""
+msgstr "Oh? (Casts a suspicious glance at Wuyun)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "以前看过一些卷轴，有些了解怎么对付"
-msgstr ""
+msgstr "I've read some scrolls before, so I know a bit about how to deal with them"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "乌云讲完后姐弟二人离开休息室"
-msgstr ""
+msgstr "After Wuyun finishes speaking, the siblings leave the lounge"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "卷轴？"
-msgstr ""
+msgstr "Scrolls?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "嗯，以前在草原看的一些民族奇闻志异，不过现在估计都没什么人看了，没想到居然有一天派上了用场"
-msgstr ""
+msgstr "Yeah, some folk tales and strange legends I read on the grasslands. Probably nobody reads them anymore. Didn't expect they'd come in handy someday"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "我也要看"
-msgstr ""
+msgstr "I want to read them too"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "呃，呵呵，这个先不急，先治好妮妮莉特才是最重要的"
-msgstr ""
+msgstr "Uh, hehe, no rush on that. Healing Ninilite is the most important thing right now"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "把药水上在伤口处就可以了，然后服用一些颗粒，刚刚姐姐已经做了毒素处理，估计明天就可以痊愈了"
-msgstr ""
+msgstr "Just apply the potion to the wound, then take some granules. My sister already treated the toxin. She should be fully recovered by tomorrow"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "完事，走了"
-msgstr ""
+msgstr "Done, let's go"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "啊？这么快，那我们先告辞了，下次见，拜拜"
-msgstr ""
+msgstr "Huh? So fast? Well, we'll take our leave then. See you next time, bye-bye"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "真让人头大啊"
-msgstr ""
+msgstr "What a headache"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "电子屏"
-msgstr ""
+msgstr "Electronic Screen"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "（显示：过了一天）"
-msgstr ""
+msgstr "(Display: A day has passed)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "（林睿哲发来了消息，关于断网组织，点击）"
-msgstr ""
+msgstr "(Lin Ruizhe sent a message about the Disconnect Organization, click)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "今天中午我们要去地面的遗迹城市搜集一些名为断网组织的情报"
-msgstr ""
+msgstr "This afternoon we need to go to the surface's ruins city to gather intelligence on something called the Disconnect Organization"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "还有，阿岩不见了"
-msgstr ""
+msgstr "Also, A Yan has gone missing"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "什么？！"
-msgstr ""
+msgstr "What?!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "我怀疑，是断网组织的人干的"
-msgstr ""
+msgstr "I suspect the Disconnect Organization is behind this"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "断网组织是什么"
-msgstr ""
+msgstr "What is the Disconnect Organization"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "目前已知是扰乱这个世界秩序的一个组织，具体情报还需要进一步搜集"
-msgstr ""
+msgstr "Currently known as an organization that disrupts the order of this world. Further intelligence needs to be gathered"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:489
 msgid "那我们尽快出发吧"
-msgstr ""
+msgstr "Let's set out as soon as possible"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "林睿哲消息"
-msgstr ""
+msgstr "Message from Lin Ruizhe"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:578
 msgid ""
@@ -2008,1196 +2009,1201 @@ msgid ""
 " "
 "另：阿岩失踪了，根据地下数据监测显示，阿岩去了地面。断网组织非常喜欢绑架一些能人巧士、科研学者，我怀疑，阿岩的失踪和这个组织有关。万分嘱托帮忙找到阿岩。"
 msgstr ""
+"Lin Ruizhe: Sorry to hear about Ninilite's injury, fortunately it's nothing serious. I've asked the doctor siblings to distribute emergency healing potions and bandages to every member. Please check your supplies. I hope we can minimize injuries going forward. "
+"I'm very sorry you need to go to the surface again. We need to investigate information about an organization called the Disconnect Organization. "
+"Based on the intelligence I've gathered, this organization may be closely related to the contact events and the chaos in this world. I need to carry out some tasks in the underground city and cannot continue the investigation. I hope you can assist. I haven't found the exact location yet. Below are some possible locations I've collected. Please be careful when heading there and keep in touch at all times. "
+" "
+"P.S.: A Yan has gone missing. According to underground data monitoring, A Yan went to the surface. The Disconnect Organization likes to kidnap skilled individuals and researchers. I suspect A Yan's disappearance is related to this organization. I earnestly request your help in finding A Yan."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-9"
-msgstr ""
+msgstr "2-9"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "确定是在遗迹城市吗，我记得上次我们去找的时候什么也没有"
-msgstr ""
+msgstr "Are you sure it's in the ruins city? Last time we went looking, there was nothing"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "等一等，这个断网组织，我以前好像看过一些资料"
-msgstr ""
+msgstr "Wait, this Disconnect Organization, I think I've seen some information about it before"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "乌云和我"
-msgstr ""
+msgstr "Wuyun and me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你怎么不早说"
-msgstr ""
+msgstr "Why didn't you say so earlier"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我的数据不稳定嘛！很多东西只能时断时续地想起来"
-msgstr ""
+msgstr "My data is unstable! I can only remember things intermittently"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你能回忆起来有哪些关于这个组织的资料"
-msgstr ""
+msgstr "Can you recall any information about this organization"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我想想，主人说，这个组织经常进行各种实验，会操纵各种怪物，好像是刻意要扰乱这个世界的安定"
-msgstr ""
+msgstr "Let me think... Master said this organization conducts all kinds of experiments and manipulates various monsters, as if deliberately trying to destabilize this world"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "他们的实验也很奇怪，总是在从人们身上提取各种各样的数据"
-msgstr ""
+msgstr "Their experiments are strange too. They're always extracting all kinds of data from people"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "还有吗"
-msgstr ""
+msgstr "Anything else"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "想不起来了"
-msgstr ""
+msgstr "I can't remember anything more"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "还是先到地面看看情况吧，去找找阿岩"
-msgstr ""
+msgstr "Let's head to the surface first to check things out and look for A Yan"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-10"
-msgstr ""
+msgstr "2-10"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家根据求救信号的箭头指示前行，遵循游戏指示引导，抵达目的地"
-msgstr ""
+msgstr "The player follows the SOS signal's arrow directions, guided by the game's instructions, and arrives at the destination"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "根据夜光镜收到的信号定位，应该就是这里"
-msgstr ""
+msgstr "According to the Night Vision Lens signal location, this should be the place"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "烛参"
-msgstr ""
+msgstr "Zhu Can"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "什么人，敢靠近这里"
-msgstr ""
+msgstr "Who goes there, daring to approach this place"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "对我发动攻击"
-msgstr ""
+msgstr "Attacks me"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "火焰防护！"
-msgstr ""
+msgstr "Flame Shield!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "请等一下，我们并没有恶意，是接收到一个求救信号过来的，指示的地点是在这里"
-msgstr ""
+msgstr "Please wait, we mean no harm. We received an SOS signal that led us here"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "请问一下你们是否看到有人遇到危险"
-msgstr ""
+msgstr "May I ask if you've seen anyone in danger"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "烛商"
-msgstr ""
+msgstr "Zhu Shang"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "求救信号？你指的是这个奇怪的东西发出的红色光线吗"
-msgstr ""
+msgstr "SOS signal? Do you mean the red light coming from this strange thing"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我刚刚正在研究它，正打算把它拆了看看里面有什么东西"
-msgstr ""
+msgstr "I was just studying it, about to take it apart to see what's inside"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谁让你擅自出来的，我不是让你先呆在后面别冒冒失失出来吗"
-msgstr ""
+msgstr "Who told you to come out on your own? Didn't I tell you to stay back and not rush out recklessly"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我为什么要听你的"
-msgstr ""
+msgstr "Why should I listen to you"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "额，你们先别吵架，我想问一下你们手上的求救器是从哪里来的？你们又是从哪里来的"
-msgstr ""
+msgstr "Uh, please don't fight. I'd like to ask where you got that SOS device? And where are you from"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我们。。。。。。"
-msgstr ""
+msgstr "We......"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你倒是先说说你们是从哪来的"
-msgstr ""
+msgstr "How about you tell us where you're from first"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我是林睿哲领导的地下城成员之一，名叫【玩家名字】，这两位也是成员之一，妮妮莉特和乌云"
-msgstr ""
+msgstr "I'm one of the underground city members led by Lin Ruizhe, named [Player Name]. These two are also members, Ninilite and Wuyun"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我们日常负责和怪物战斗、救助有需要的人，保护地下城的安全"
-msgstr ""
+msgstr "We're responsible for fighting monsters, rescuing those in need, and protecting the underground city's safety"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看，这是我们的工作证件"
-msgstr ""
+msgstr "Look, here are our work IDs"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "听起来是有模有样的，林睿哲这个人我倒是听说过，不过，我怎么能确定你不是在编造一套陈词、别有用心呢"
-msgstr ""
+msgstr "Sounds quite official. I've heard of this Lin Ruizhe person, but how can I be sure you're not spinning a tale with ulterior motives"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "这小不点怎么说起话来一副官腔似的"
-msgstr ""
+msgstr "Why does this little one talk like some kind of bureaucrat"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（抱住妮妮莉特）姐姐真漂亮"
-msgstr ""
+msgstr "(Hugs Ninilite) Big sister is so pretty"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "抱住妮妮莉特"
-msgstr ""
+msgstr "Hugs Ninilite"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "喂，谁才是你姐姐"
-msgstr ""
+msgstr "Hey, who's your sister"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谢谢小可爱，你叫什么名字啊，今年多大了，为什么要跑到这么危险的地方啊，你的爸爸妈妈呢？"
-msgstr ""
+msgstr "Thank you, little cutie. What's your name? How old are you? Why did you come to such a dangerous place? Where are your parents?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "妮妮莉特蹲下来平视烛商"
-msgstr ""
+msgstr "Ninilite squats down to meet Zhu Shang at eye level"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你和旁边那个小妹妹长得好像，是双胞胎吗"
-msgstr ""
+msgstr "You look just like the little girl next to you. Are you twins?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "嗯，我们是双胞胎姐妹，我叫烛商，那个坏脾气的家伙是我姐姐烛参，我们都是12岁"
-msgstr ""
+msgstr "Yeah, we're twin sisters. I'm Zhu Shang, and that bad-tempered one is my sister Zhu Can. We're both 12"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我们的爸爸妈妈是很厉害的科研工作者，但是不久前他们被一个叫做断网组织的坏蛋抓走了"
-msgstr ""
+msgstr "Our parents are amazing researchers, but not long ago they were kidnapped by bad guys called the Disconnect Organization"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我们从学校逃出来，打算找到他们、救他们出来"
-msgstr ""
+msgstr "We escaped from school and plan to find them and rescue them"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "就你们两个小不点，去救父母？你们不怕被怪物吃掉吗"
-msgstr ""
+msgstr "Just you two little ones, going to rescue your parents? Aren't you afraid of being eaten by monsters"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "小孩子怎么可以逃学呢"
-msgstr ""
+msgstr "How can children skip school"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "怪物？你指的是那一堆尸体吗？刚刚被我和这个胳膊肘往外拐的妹妹拿来练手，我正打算拿来生火呢"
-msgstr ""
+msgstr "Monsters? You mean that pile of corpses? My traitor-of-a-sister and I just used them for practice. I was about to use them for firewood"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "就学校那点填鸭东西，我们几天就掌握了，还不够我们塞牙缝呢"
-msgstr ""
+msgstr "That spoon-fed stuff at school? We mastered it in a few days. Barely enough to satisfy us"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "学校的人坏得很，看我们爸爸妈妈没消息了，一个劲儿地虐待我们，要不是爸爸妈妈说要尊重长辈，我恨不得将他们扒皮抽筋"
-msgstr ""
+msgstr "The people at school were awful. When they found out our parents had no news, they kept abusing us. If our parents hadn't told us to respect our elders, I'd have torn them limb from limb"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "那你手上这个的求救器又从哪里拿的呀"
-msgstr ""
+msgstr "So where did you get that SOS device in your hand"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "是我们遇到的一位哥哥给的，他说，要是我们遇到危险了可以用，不过烛商很好奇，就拿来拆着玩，不小心碰到了启动按键"
-msgstr ""
+msgstr "A big brother we met gave it to us. He said we could use it if we were in danger. But Zhu Shang was curious and took it apart to play with, and accidentally pressed the activation button"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（扶额头）以后可不要随便乱碰按钮了哦，"
-msgstr ""
+msgstr "(Forehead in hand) Please don't go pressing buttons randomly anymore,"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "可以告诉妮妮莉特姐姐，那个哥哥长什么样子，还能记得起来吗"
-msgstr ""
+msgstr "Can you tell Big Sister Ninilite what that brother looked like? Do you still remember"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我想想，他有着棕色头发，手背上有一些伤疤和茧子，还带着两个背包，好像装着锤子和地图什么的"
-msgstr ""
+msgstr "Let me think... He had brown hair, some scars and calluses on the back of his hands, and was carrying two backpacks that seemed to have a hammer and maps inside"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（我、妮妮莉特、乌云三人互相对视）"
-msgstr ""
+msgstr "(Me, Ninilite, and Wuyun exchange glances)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "那你能不能告诉我们，他离开多久了，大概往哪个方向去了"
-msgstr ""
+msgstr "Can you tell us how long ago he left and which direction he went"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "大概离开一两天左右，往那边去了"
-msgstr ""
+msgstr "About one or two days ago, he went that way"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "烛商用手指着一个方向"
-msgstr ""
+msgstr "Zhu Shang points in a direction"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（对妮妮莉特和乌云）事不宜迟，我们快跟过去"
-msgstr ""
+msgstr "(To Ninilite and Wuyun) No time to lose, let's follow quickly"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你们两个呢，还不快过来，这里太危险了"
-msgstr ""
+msgstr "What about you two? Come along now, it's too dangerous here"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "真是奇怪，非亲非故，我为什么要听你们的"
-msgstr ""
+msgstr "How strange. We're not related, why should I listen to you"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（妮妮莉特和乌云一人拉一个向目标方向跑去）"
-msgstr ""
+msgstr "(Ninilite and Wuyun each grab one of them and run toward the target direction)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "诶，太过分了"
-msgstr ""
+msgstr "Hey, that's too much"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "是阿岩！"
-msgstr ""
+msgstr "It's A Yan!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（蹲下身）阿岩你醒醒"
-msgstr ""
+msgstr "(Crouches down) A Yan, wake up"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（检查）没有呼吸和心跳了"
-msgstr ""
+msgstr "(Checks) No breathing or heartbeat"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "呜呜呜，好人哥哥"
-msgstr ""
+msgstr "Wuwuwu, the kind brother"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "他手上是不是拿着什么东西"
-msgstr ""
+msgstr "Is he holding something in his hand"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（打开看）是一本日记"
-msgstr ""
+msgstr "(Opens and looks) It's a diary"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "解锁阿岩人物故事2"
-msgstr ""
+msgstr "Unlock A Yan's character story 2"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "是关于他和他女友的"
-msgstr ""
+msgstr "It's about him and his girlfriend"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你真是。。。。。。。为什么连梦境和现实都分不清了呢"
-msgstr ""
+msgstr "You really... Why couldn't you even tell dreams from reality"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "同时打开阿岩和我的手环，阿岩化为一串数据进入·我的手环中"
-msgstr ""
+msgstr "Simultaneously opens A Yan's and my bracelets. A Yan transforms into a stream of data and enters my bracelet"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（感慨的语气）梦里相逢人未识，若知是梦何须醒"
-msgstr ""
+msgstr "(With a sigh) Meeting in dreams yet unrecognized, if I knew it was a dream, why bother waking"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（对着正在收集玩家）你在做什么"
-msgstr ""
+msgstr "(To the player who is collecting data) What are you doing"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "回收阿岩的数据，不然让他的身体在这里腐朽、意识化为怨念吗"
-msgstr ""
+msgstr "Recovering A Yan's data. Otherwise, should we let his body rot here and his consciousness turn into resentment"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "回收？听起来不像是什么好词语，你快说，你到底对阿岩哥哥做了什么"
-msgstr ""
+msgstr "Recover? That doesn't sound like a nice word. Tell me, what did you do to Brother A Yan"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "好了好了，先冷静一下，阿岩哥哥不会希望我们吵架的，现在怎么办"
-msgstr ""
+msgstr "Okay okay, let's calm down first. Brother A Yan wouldn't want us fighting. What do we do now"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "回基地，地面很不安全，逝者的数据很容易引来坏东西，这两个小家伙也带上"
-msgstr ""
+msgstr "Back to base. The surface is very dangerous. A deceased person's data can easily attract bad things. Bring these two little ones along too"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "乌云和妮妮莉特"
-msgstr ""
+msgstr "Wuyun and Ninilite"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-11"
-msgstr ""
+msgstr "2-11"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家点击返回路线"
-msgstr ""
+msgstr "Player clicks return route"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "遭遇怪物"
-msgstr ""
+msgstr "Encounter monsters"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "有袭击！"
-msgstr ""
+msgstr "Under attack!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "这是什么恶心的丑八怪，我还没遇见过这么难打的"
-msgstr ""
+msgstr "What is this disgusting freak? I've never fought anything this tough"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家点击进入战斗，显示未知怪物，己方战斗力不足"
-msgstr ""
+msgstr "Player clicks to enter battle. Unknown monsters shown. Our combat power is insufficient"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "乌云、妮妮莉特，你们先带着小家伙们回基地，我负责引开他们"
-msgstr ""
+msgstr "Wuyun, Ninilite, take the little ones back to base first. I'll lure them away"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "那怎么行"
-msgstr ""
+msgstr "How can we do that"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "快走，别浪费时间"
-msgstr ""
+msgstr "Go now, don't waste time"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "根据提示释放烟雾和火光，按照线路一边和怪物作战一边逃跑"
-msgstr ""
+msgstr "Follow the prompts to release smoke and flares, fighting monsters while fleeing along the route"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-12"
-msgstr ""
+msgstr "2-12"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "世外桃源"
-msgstr ""
+msgstr "Earthly Paradise"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "显示屏"
-msgstr ""
+msgstr "Display Screen"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "桃源访仙宫，薜服祠山鬼（伴动态桃花花瓣、流水、音乐、鸟啼）"
-msgstr ""
+msgstr "Visiting the fairy palace in Peach Blossom Valley, wearing coir garments to worship the mountain spirits (accompanied by animated peach blossom petals, flowing water, music, and birdsong)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "万薇莉"
-msgstr ""
+msgstr "Wan Weili"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "喂，醒醒，醒醒"
-msgstr ""
+msgstr "Hey, wake up, wake up"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "额，这是哪里"
-msgstr ""
+msgstr "Uh, where is this?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家在一张藤蔓编制的吊床上醒来"
-msgstr ""
+msgstr "The player wakes up on a hammock woven from vines."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "哈哈，你总算醒了，我都担心你是不是快没心跳了，我先给你接点水来"
-msgstr ""
+msgstr "Haha, you're finally awake! I was worried you might not have a pulse anymore. Let me get you some water."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（用竹筒倒水在一个紫砂茶杯中）先喝点水吧"
-msgstr ""
+msgstr "(Pours water from a bamboo tube into a clay teacup) Have some water."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谢谢"
-msgstr ""
+msgstr "Thank you."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "请问一下这里是什么地方"
-msgstr ""
+msgstr "Excuse me, what place is this?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "这里是桃源谷，如你所见，处处流水桃林、落英缤纷，这里的村民世代以种植为生，诚实善良，懂礼知仪"
-msgstr ""
+msgstr "This is Taoyuan Valley. As you can see, it's filled with flowing streams and peach forests, with petals dancing in the breeze. The villagers here have lived by farming for generations — honest, kind, and courteous."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我呢，叫万薇莉，是从小在这里长大的小天才，因为我的能力很强，干活念书抓野鸡摸鱼啥都行，所以父老乡亲们又叫我威力万"
-msgstr ""
+msgstr "As for me, my name is Wan Weili. I grew up here as a little genius. I'm great at everything — working, studying, catching wild chickens, you name it. So the folks here also call me Power Wan."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "刚刚划船的时候，看到一只大狐狸守着你，你躺在岸边，一动不动，我就发发善心，把你带回我家来咯"
-msgstr ""
+msgstr "While I was rowing just now, I saw a big fox watching over you. You were lying on the shore, not moving at all, so out of the kindness of my heart, I brought you back to my place."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谢谢，那只大狐狸呢"
-msgstr ""
+msgstr "Thank you. Where's that big fox?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "离开了，不知道什么时候回来，这里的人和动物都是自由自在的，何日来何月走，也没人想管"
-msgstr ""
+msgstr "It left. Who knows when it'll come back. People and animals here are all free-spirited. Nobody cares when they come or go."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看服饰，你不太像是这里的人嘛，难不成是从外面掉下来的？你叫什么名字？"
-msgstr ""
+msgstr "From your clothes, you don't look like you're from around here. Did you fall in from the outside? What's your name?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "恐怕是的，我叫【玩家名字】，是幽兰草军事学院的人"
-msgstr ""
+msgstr "I'm afraid so. My name is [Player Name], and I'm from the Orchid Military Academy."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "哇，桃源谷外真的还有地方诶，学院是什么？我老早就想出去玩了，可是阿爹一直不让，快给我讲讲吧"
-msgstr ""
+msgstr "Wow, so there really are places beyond Taoyuan Valley! What's an academy? I've wanted to go out and explore for ages, but my dad won't let me. Tell me all about it!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "额，外面的世界可能并没有你想象中的那么有意思，外面很危险，我是被怪物追赶，不小心掉到这里的"
-msgstr ""
+msgstr "Um, the outside world might not be as fun as you imagine. It's dangerous out there. I was being chased by monsters and accidentally fell in here."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "什么怪物"
-msgstr ""
+msgstr "What monsters?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "具体我也形容不上来，总之你还是离远一点比较好"
-msgstr ""
+msgstr "I can't really describe them specifically, but you should stay far away from them."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你指的是这样的吗（万薇莉离开一会，接着骑着一只怪物出现）"
-msgstr ""
+msgstr "You mean like this? (Wan Weili leaves for a moment, then returns riding a monster)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "哈哈，它超可爱的"
-msgstr ""
+msgstr "Haha, it's super cute!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（救命）（动作：一只手掩护头部）"
-msgstr ""
+msgstr "(Help!)(Action: shielding head with one hand)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "这是经常来我家玩的一只小怪，这些生灵和我们桃源谷的人相处得可好了"
-msgstr ""
+msgstr "This little monster comes to my house to play all the time. These creatures get along great with us Taoyuan Valley folks."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（对怪物）来，听话，先自己坐一会，别吓着这位新来的客人，好啦好啦，别舔我手，好痒，这里有松仁果，自己先吃吧"
-msgstr ""
+msgstr "(To the monster) Come on, be good. Sit by yourself for a bit, don't scare our new guest. Alright, alright, stop licking my hand, it tickles! Here are some pine nuts, go eat by yourself."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你平时居然这么跟它讲话吗"
-msgstr ""
+msgstr "You actually talk to it like this normally?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "对啊，我们大家都是这么和怪物相处的，有什么奇怪的吗？"
-msgstr ""
+msgstr "Yeah, that's how all of us interact with monsters. What's so strange about it?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "可是这些怪物一见到我们就会自动攻击"
-msgstr ""
+msgstr "But these monsters attack us automatically the moment they see us."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我们桃源谷的人几千年以前就为了躲避战乱来到这里隐居，保留了许多种类的上古语言，怪物语言也是其中之一·"
-msgstr ""
+msgstr "Our Taoyuan Valley ancestors came here to hide from war thousands of years ago and preserved many ancient languages, including the monster language."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "每次和怪物相处，我们都是用它们的语言交流"
-msgstr ""
+msgstr "Every time we interact with monsters, we communicate in their language."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "加上桃源谷不染战祸，未沾怨念，人们心境平和，怪物也温顺很多"
-msgstr ""
+msgstr "Plus, Taoyuan Valley has never seen war or been touched by malice. People here are peaceful at heart, so the monsters are much gentler too."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你要是有兴趣，我可以教你怪物语，不过在和怪物交流的时候，注意保持心境平和哦"
-msgstr ""
+msgstr "If you're interested, I can teach you monster language. But when communicating with monsters, make sure to keep a calm state of mind!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "好啊"
-msgstr ""
+msgstr "Sure!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "也别光顾着学语言了，要不要出来在我们桃源谷玩玩？长久躺着对身体可不好，出来摸一下鱼、活动活动筋骨吧"
-msgstr ""
+msgstr "Don't just focus on learning languages. Want to come out and explore Taoyuan Valley? Staying in bed all day isn't good for you. Come catch some fish and stretch your legs!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我、万薇莉"
-msgstr ""
+msgstr "Me, Wan Weili"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家跟随万薇莉探索桃源谷，可以选择在鱼塘摸鱼、田间劳作、桃林赏花、追逐野鸡、语言学习，任务达成可获得相关奖励"
-msgstr ""
+msgstr "The player follows Wan Weili to explore Taoyuan Valley. Activities include catching fish at the pond, working in the fields, enjoying flowers in the peach grove, chasing wild chickens, and learning languages. Completing tasks earns related rewards."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "屏幕显示几天之后"
-msgstr ""
+msgstr "Screen displays: A few days later"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "感觉好像已经掌握了"
-msgstr ""
+msgstr "I feel like I've got the hang of it."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "快去试试成果吧，怪兽语言其实还蛮简单的"
-msgstr ""
+msgstr "Go test it out! Monster language is actually pretty simple."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（顺利和怪物完成一场交流）"
-msgstr ""
+msgstr "(Successfully completes a conversation with a monster)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "怪物：叽里咕噜安布拉斯。。。。。。"
-msgstr ""
+msgstr "Monster: Gibberish Ambras......"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（努力翻译中）你是在说，我这个外乡人是从哪来的，好像没见过，对吧？"
-msgstr ""
+msgstr "(Trying hard to translate) Are you saying that I'm an outsider and you haven't seen anyone like me before, right?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我是外面的世界误打误撞进来的，对这里没有恶意，现在已经和万薇莉交成了好朋友，希望我们也能友好交流"
-msgstr ""
+msgstr "I stumbled in here from the outside world by accident. I mean no harm. I've already become good friends with Wan Weili, and I hope we can communicate peacefully too."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "怪物"
-msgstr ""
+msgstr "Monster"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "布卡布鲁 斯卡斯卡。。。。。"
-msgstr ""
+msgstr "Buka-Bulu Skas-ka......"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "嗯嗯，看来你也很高兴。那我们交个朋友吧。不过，问一下，为什么你们的同类要在地面袭击我们的同伴呢？"
-msgstr ""
+msgstr "Yeah, looks like you're happy too. Let's be friends then. But can I ask — why do your kind attack our companions on the surface?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "斯密卡斯，乌路利亚。。。。。"
-msgstr ""
+msgstr "Si-mi-kas, Wu-lu-li-ya......"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你是说：那些怪物也是因为被一个组织的实验情绪污染了？因为你没怎么去外面，大部分时候呆在桃源谷，所以还是友善的"
-msgstr ""
+msgstr "Are you saying those monsters were also corrupted by an organization's experiments? Because you haven't been outside much and mostly stay in Taoyuan Valley, you're still friendly."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "密卡斯密卡斯。。。。。。"
-msgstr ""
+msgstr "Mi-kas Mi-kas......"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "呃，好吧，你说饿了，那先去干饭吧"
-msgstr ""
+msgstr "Uh, okay, you're saying you're hungry. Go eat then."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看，我就说嘛"
-msgstr ""
+msgstr "See? I told you!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谢谢你，万薇莉"
-msgstr ""
+msgstr "Thank you, Wan Weili."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "大狐狸"
-msgstr ""
+msgstr "Big Fox"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看来你在这里玩得挺开心的，可是你的伙伴们现在还面临着各种麻烦呢"
-msgstr ""
+msgstr "Looks like you're having a great time here, but your companions are still facing all sorts of trouble."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "快看，是那只救过你的狐狸"
-msgstr ""
+msgstr "Look! It's the fox that saved you!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谢谢你，请问你为什么救我呢"
-msgstr ""
+msgstr "Thank you. May I ask why you saved me?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我是从断网组织逃出来的，是狐族族长的孩子"
-msgstr ""
+msgstr "I escaped from the Disconnect Organization. I am the child of the fox clan's leader."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "以前我们狐狸一族被他们拿去当实验品，我被母亲喂了一种药草，药草只剩一片，我假死逃走了，母亲和族人却被他们做成了样本"
-msgstr ""
+msgstr "Our fox clan was used as test subjects by them. My mother fed me a special herb — it was the last leaf. I faked my death and escaped, but my mother and the rest of the clan were turned into specimens."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "在逃亡过程中，阴差阳错掉进了桃源谷"
-msgstr ""
+msgstr "During my escape, I accidentally stumbled into Taoyuan Valley."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "有时候我会出去看看，寻找复仇的办法，但我的力量太有限了，桃源谷又过于和平，我不想扰乱这里的幸福·，然后我发现你们在找断网组织"
-msgstr ""
+msgstr "Sometimes I go out to look for a way to take revenge, but my strength is too limited. Taoyuan Valley is too peaceful, and I don't want to disrupt the happiness here. Then I discovered that you were looking for the Disconnect Organization."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你要是愿意，我可以为你们带路，断网组织的地点和内部构造，我闭着眼都能想起来（语气：咬牙切齿）"
-msgstr ""
+msgstr "If you're willing, I can guide you. I know the Disconnect Organization's location and internal layout by heart, even with my eyes closed. (Tone: through gritted teeth)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "真是悲伤的过往，你要是愿意帮忙，真是太好了"
-msgstr ""
+msgstr "What a tragic past. If you're willing to help, that would be wonderful."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我也要出去玩玩，探索新大陆"
-msgstr ""
+msgstr "I want to go out and play too! Explore new lands!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "不可以，你要乖乖待在桃源谷，外面的血雨腥风你不应该随便掺和"
-msgstr ""
+msgstr "No. You need to stay in Taoyuan Valley like a good girl. You shouldn't get involved in the bloodshed out there."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-13"
-msgstr ""
+msgstr "2-13"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "跟我过来"
-msgstr ""
+msgstr "Follow me."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家跟随狐狸的路线进行移动"
-msgstr ""
+msgstr "The player follows the fox's route to move forward."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "感觉你挺累了，要不要补充体力休息一下"
-msgstr ""
+msgstr "You look pretty tired. Want to rest and replenish your stamina?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家用随身食物补充体力"
-msgstr ""
+msgstr "The player uses carried food to replenish stamina."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "滴一只威力万已上线"
-msgstr ""
+msgstr "Ding — A Power Wan has come online."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "吓死我了，你从哪冒出来的"
-msgstr ""
+msgstr "You scared me to death! Where did you pop out from?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（无辜的语气）我一直跟着你们啊，你们居然没发现吗？是你警惕心太低还是我太聪明了呢？说明你们非常需要我哦"
-msgstr ""
+msgstr "(Innocent tone) I've been following you this whole time. You didn't even notice? Is your alertness too low, or am I just too smart? Clearly, you need me."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你是桃源谷的人，我不希望你的行动会给桃源谷带来灾祸"
-msgstr ""
+msgstr "You're from Taoyuan Valley. I don't want your actions to bring disaster to your home."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你不说，它不说，我不说，没人知道桃源谷的存在"
-msgstr ""
+msgstr "If you don't tell, it doesn't tell, I don't tell — nobody will know about Taoyuan Valley."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我好不容易溜出来玩，你就别赶我走了"
-msgstr ""
+msgstr "I finally snuck out to have some fun. Don't send me back!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "这么说，你阿爹阿娘还有族里的人都不知道你溜出来了？"
-msgstr ""
+msgstr "So your parents and the rest of the village don't even know you snuck out?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我留了一封信，说玩几天就回去"
-msgstr ""
+msgstr "I left a letter saying I'll be back in a few days."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "简直是胡闹"
-msgstr ""
+msgstr "This is ridiculous."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "好了好了，你不是要找什么网断了的组织吗，我们快走吧，别在这浪费时间，你总不忍心把一个小女孩丢在荒郊野外吧"
-msgstr ""
+msgstr "Alright, alright. Aren't you looking for some broken-net organization or whatever? Let's hurry up and go. Don't waste time here. You can't possibly abandon a little girl in the wilderness."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "算了，一起过来吧"
-msgstr ""
+msgstr "Fine, come along."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家跟随狐狸的线路前行约5到10秒"
-msgstr ""
+msgstr "The player follows the fox's route for about 5 to 10 seconds."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "嘘，已到达，别发出声音"
-msgstr ""
+msgstr "Shh. We've arrived. Don't make a sound."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "使用夜光镜进行位置资料收集，完成后屏幕显示”收集完毕“"
-msgstr ""
+msgstr "Use the Night Vision Lens to gather location data. Upon completion, the screen displays \"Collection complete\"."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "走"
-msgstr ""
+msgstr "Let's go."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家、狐狸、万薇莉移动到开阔场地"
-msgstr ""
+msgstr "The player, the fox, and Wan Weili move to an open area."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我现在要回自己的基地，你们各自回去吧"
-msgstr ""
+msgstr "I'm heading back to my base now. You all should go back too."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我已经没有亲族了，我想加入基地，亲自捣毁这个断网组织，我可以帮你们侦察，帮你们找草药，或者别的什么都可以，只要让我加入"
-msgstr ""
+msgstr "I have no clan left. I want to join the base and personally destroy the Disconnect Organization. I can help with reconnaissance, find herbs, or anything else. Just let me join."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "只要你乐意，当然可以"
-msgstr ""
+msgstr "If you're willing, of course you can."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我也要来"
-msgstr ""
+msgstr "I want to join too!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "不行，你不能让桃源谷卷入纷争，我以前读过一个类似的故事"
-msgstr ""
+msgstr "No. You can't drag Taoyuan Valley into conflict. I once read a similar story."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "只要你们帮我保密就好，拜托拜托，我就是想看看外面的世界"
-msgstr ""
+msgstr "Just keep my secret, please! I just want to see the outside world."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-14"
-msgstr ""
+msgstr "2-14"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "指挥室"
-msgstr ""
+msgstr "Command Room"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我回来了"
-msgstr ""
+msgstr "I'm back."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "太好了，你知道这几天外面我们有多担心你吗，基地找了你好久都没有线索"
-msgstr ""
+msgstr "Thank goodness! Do you know how worried we've been about you these past few days? The base searched for you but couldn't find any clues."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你总算回来了，你再不回来，我就要被妮妮莉特的眼泪淹死了"
-msgstr ""
+msgstr "You're finally back. If you hadn't returned, I would've drowned in Ninilite's tears."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "哈哈，我没事，抱歉让大家担心了"
-msgstr ""
+msgstr "Haha, I'm fine. Sorry for making everyone worry."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "林睿哲，这是自愿加入的两位新成员，这只狐狸的亲族被断网组织杀害了，希望加入我们帮助行动："
-msgstr ""
+msgstr "Lin Ruizhe, these are two new voluntary members. This fox's clan was killed by the Disconnect Organization and wishes to join us for the mission:"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "欢迎狐狸，邀请你加入基地侦察队伍，以后就把这里当成自己的家吧"
-msgstr ""
+msgstr "Welcome, Fox. I invite you to join the base reconnaissance team. From now on, treat this place as your home."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "狐狸"
-msgstr ""
+msgstr "Fox"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "至于这位，万薇莉小朋友，是我路上捡来的"
-msgstr ""
+msgstr "As for this one — little Wan Weili — I picked her up on the way here."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你。。。。。。哼，我才不是什么小朋友，是威力万小能手，你们基地的计算机代码，刚刚路过的时候我扫一眼就记住了，不信我背给你听"
-msgstr ""
+msgstr "You...... Hmph! I'm not some little kid. I'm Genius Power Wan! Your base's computer code — I memorized it with one glance when we passed by. Don't believe me? I'll recite it for you."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "捡得不错，威力万小朋友就来我们计算机操作室吧"
-msgstr ""
+msgstr "Nice find. Little Power Wan can join our computer operations room."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "。。。。。。（不过很快万薇莉就在编程和代码中找到了快乐）"
-msgstr ""
+msgstr "......(But soon enough, Wan Weili found joy in programming and code.)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "烛参烛商二位，加入能源护送和研发吧，相信你们作为科研工作者后代的能力，也祝愿你们能早日解救你们的父母"
-msgstr ""
+msgstr "You two, Zhu Can and Zhu Shang, join the energy escort and R&D team. I trust in your abilities as descendants of researchers, and I hope you can rescue your parents soon."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我希望进行战斗，我要早点见到父母"
-msgstr ""
+msgstr "I want to fight. I need to see my parents as soon as possible."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "能源和战斗一样重要，能源运输中不可避免会遇上怪物，同样需要有人战斗和保护，我只是希望你们能真正发挥所长，提高整个基地的效率，断网组织早日攻破，你们的父母也可以早日解救，这也是你们的父母希望看到的，对吗"
-msgstr ""
+msgstr "Energy is just as important as combat. You'll inevitably encounter monsters during transport, which also requires fighting and protection. I just hope you can truly put your strengths to use and improve the base's overall efficiency. The sooner the Disconnect Organization is taken down, the sooner your parents can be rescued. That's what your parents would want to see too, right?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "还算公正合理的人员安排"
-msgstr ""
+msgstr "A fairly reasonable personnel arrangement."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我听姐姐的"
-msgstr ""
+msgstr "I'll follow my sister."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "医者仁心，二位医者我自不必多言，德艺双馨，你们比我更明白医者的使命"
-msgstr ""
+msgstr "Healers have kind hearts. I don't need to say much to you two medics. Your skill and virtue speak for themselves, and you understand a healer's mission better than I do."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（难得严肃）定将尽心尽力"
-msgstr ""
+msgstr "(Rarely serious) We shall do our utmost."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（秒变笑脸，没心没肺）当然林睿哲要是有什么不舒服可以随时来找我啊，我很欢迎的"
-msgstr ""
+msgstr "(Instantly grinning, carefree) Of course, if Lin Ruizhe ever feels unwell, he can come see me anytime. You're very welcome."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "李叶娜，侧翼攻击和防守就交给你们了，相处多年，相信你们"
-msgstr ""
+msgstr "Li Yena, flank attack and defense are in your hands. After all these years together, I trust you."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "是，首领"
-msgstr ""
+msgstr "Yes, Leader."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "三位主攻队成员，接下来的战斗就辛苦你们率领了"
-msgstr ""
+msgstr "Three main assault team members, I'm counting on you to lead the upcoming battles."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "真希望一切都快点好起来，早点见到主人"
-msgstr ""
+msgstr "I really hope everything gets better soon. I want to see Master again."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "愿蓝色圣湖赐予我们祝福"
-msgstr ""
+msgstr "May the Blue Sacred Lake bless us."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "不要忘记你的特殊使命"
-msgstr ""
+msgstr "Don't forget your special mission."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "不必多费心提醒"
-msgstr ""
+msgstr "No need to remind me."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "各位，希望大家各司其职，齐心对抗断网组织，守护我们的家园安定，我希望后世的人能够幸福生活，是因为曾经有守护者不曾出卖过家园"
-msgstr ""
+msgstr "Everyone, I hope you each fulfill your duties and work together against the Disconnect Organization to protect our homeland. I want future generations to live happily because there were once guardians who never betrayed their home."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "众人"
-msgstr ""
+msgstr "Everyone"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "定档竭尽全力"
-msgstr ""
+msgstr "We shall do our utmost!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-15"
-msgstr ""
+msgstr "2-15"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "大家注意隐蔽，小心行动"
-msgstr ""
+msgstr "Everyone, stay hidden and move carefully."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "夜光定位，前面有一波守卫，我们去制服他们吧"
-msgstr ""
+msgstr "Night vision positioned. There's a group of guards ahead. Let's take them down."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家点击攻击技能，同时操控妮妮莉特的火焰、乌云的旋风"
-msgstr ""
+msgstr "The player clicks attack skills, simultaneously controlling Ninilite's flames and Wuyun's whirlwind."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "巡逻的守卫"
-msgstr ""
+msgstr "Patrolling Guard"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "什么人？！"
-msgstr ""
+msgstr "Who goes there?!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "制服了"
-msgstr ""
+msgstr "Subdued."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "快，跟我进来"
-msgstr ""
+msgstr "Quick, follow me in."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家跟随大狐狸的路线，一边躲避一边前行"
-msgstr ""
+msgstr "The player follows the Big Fox's route, dodging while moving forward."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "要不要抓个人问情况"
-msgstr ""
+msgstr "Should we grab someone and interrogate them?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "路过的研发人员"
-msgstr ""
+msgstr "Passing Researcher"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谁在那里"
-msgstr ""
+msgstr "Who's there?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "就是现在！"
-msgstr ""
+msgstr "Now!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "战斗成功"
-msgstr ""
+msgstr "Battle successful."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "快说，你们组织的指挥中心在哪里，你们组织有什么目的"
-msgstr ""
+msgstr "Speak! Where's your organization's command center? What's your organization's goal?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "救······"
-msgstr ""
+msgstr "Hel..."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（动手堵住研发人员的嘴）"
-msgstr ""
+msgstr "(Moves to cover the researcher's mouth)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "警告你，别发出太大声响，不然直接丢你喂狐狸"
-msgstr ""
+msgstr "I'm warning you, don't make a sound, or I'll feed you to the fox."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "快说"
-msgstr ""
+msgstr "Talk!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "组织的目的是高层的事，我们这些负责听从命令的也不知道"
-msgstr ""
+msgstr "The organization's goals are the higher-ups' business. Us grunts who follow orders don't know anything."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（呲牙咧嘴，露出尖牙）"
-msgstr ""
+msgstr "(Bares fangs menacingly)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我说的是真的"
-msgstr ""
+msgstr "I'm telling the truth!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "指挥中心在那边的控制舱，乘阶梯旋转而上到达第七层"
-msgstr ""
+msgstr "The command center is in the control cabin over there. Take the spiral stairs up to the seventh floor."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（扇晕研发人员然后丢一边）我们走"
-msgstr ""
+msgstr "(Knocks the researcher out and tosses them aside) Let's go."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我留在这里盯着这个人，然后看看其他情况，你们快去控制舱"
-msgstr ""
+msgstr "I'll stay here and keep an eye on this one. I'll also check the surroundings. You head to the control cabin."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "好，你多加小心，有问题随时和我们联系"
-msgstr ""
+msgstr "Alright, be careful. Contact us anytime if there's trouble."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "途中遇见了一波守卫，战斗，制服"
-msgstr ""
+msgstr "Encountered a group of guards along the way. Battle and subdue them."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "（打开控制舱的大门）"
-msgstr ""
+msgstr "(Opens the control cabin door)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "一群正在争吵的研发人员"
-msgstr ""
+msgstr "A group of arguing researchers"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "研发人员1"
-msgstr ""
+msgstr "Researcher 1"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我说过了，这种方法是行不通的"
-msgstr ""
+msgstr "I told you, this method won't work."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "研发人员2"
-msgstr ""
+msgstr "Researcher 2"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "怎么可能，一定是你没按照我的方法实验"
-msgstr ""
+msgstr "Impossible! You must not have followed my experimental method."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "研发人员3"
-msgstr ""
+msgstr "Researcher 3"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "还不快点，要是没有信标，我们谁也交差不了任务"
-msgstr ""
+msgstr "Hurry up! Without the Beacon, none of us can complete our mission."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "说得轻巧，我们上哪找去，派出去的废物到现在都没找到"
-msgstr ""
+msgstr "Easy for you to say. Where are we supposed to find it? The useless scouts we sent out still haven't found anything."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你行你去找啊，我说了直接用楼顶的发射炮，你们不听，非要找什么信标材料"
-msgstr ""
+msgstr "If you're so capable, go find it yourself! I said we should just use the Launch Cannon on the roof, but no — you insisted on finding some Beacon material."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "发射炮启动不稳定，要是出现了什么差错，谁也交代不了"
-msgstr ""
+msgstr "The Launch Cannon's startup is unstable. If anything goes wrong, nobody can take responsibility."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "不许动"
-msgstr ""
+msgstr "Don't move!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我、妮妮莉特持枪出现，大狐狸呲牙咧嘴"
-msgstr ""
+msgstr "Me and Ninilite appear with guns drawn, and the Big Fox bares its fangs."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "谁要是敢动，子弹立刻射穿你们的脑袋"
-msgstr ""
+msgstr "Anyone dares to move, and bullets will go straight through your heads."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "三个研发人员"
-msgstr ""
+msgstr "Three Researchers"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你们怎么进来的"
-msgstr ""
+msgstr "How did you get in here?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你们的防守太薄弱了，我原以为有多强呢"
-msgstr ""
+msgstr "Your defenses are too weak. I thought you'd be stronger."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "真奇怪，按道理说，指挥中心的防守应该很强才对，怎么火力才这么点"
-msgstr ""
+msgstr "That's strange. The command center's defenses should be much stronger. Why is the firepower so weak?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你们组织就你们这些人了吗？没有其他人了？"
-msgstr ""
+msgstr "Is this everyone in your organization? Is there no one else?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "以前是有的，但是不久前大部分人接到通知离开了，只有一部分人驻留在这，原因我们也不知道"
-msgstr ""
+msgstr "There used to be more, but recently most people received orders to leave. Only a portion stayed behind. We don't know the reason either."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你们说的信标和发射炮是什么"
-msgstr ""
+msgstr "What are this Beacon and Launch Cannon you're talking about?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "发射炮是很久以前就开始启动的实验项目，是集合了很多怪物的数据做成的"
-msgstr ""
+msgstr "The Launch Cannon is an experimental project that was started a long time ago. It was built using data collected from many monsters."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "嗷"
-msgstr ""
+msgstr "Roar"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "等一下，听他们讲完再咬死他们也不迟"
-msgstr ""
+msgstr "Wait. It's not too late to bite them to death after they finish talking."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "你要是让这只狐狸咬我们，就别指望我们讲出来了"
-msgstr ""
+msgstr "If you let this fox bite us, don't expect us to talk."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看来直接用枪吧"
-msgstr ""
+msgstr "Looks like we'll just use the guns then."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "别别别，我说，发射炮是上面吩咐做的，我们也不知道用来干嘛，据说是去往另一个世界，不过谁信呢，不被发射炮打死就不错了"
-msgstr ""
+msgstr "No, no, no! I'll talk! The Launch Cannon was ordered by those above us. We don't know what it's for either. They say it's supposed to go to another world, but who believes that? You'd be lucky not to get killed by the cannon itself."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "要制作发射炮，需要大量材料，按照给出的指示，目前就缺一种叫信标的材料，但是我们一直找不到，研究也陷入了停滞"
-msgstr ""
+msgstr "Building the Launch Cannon requires massive amounts of materials. According to the instructions given, we're only missing one material called the Beacon, but we've never been able to find it. The research has stalled."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "就算找到了，是死是活，发射炮启动成功对这个世界会产生什么影响，我们也不清楚"
-msgstr ""
+msgstr "Even if we found it, who knows whether we'd live or die, or what impact a successful Launch Cannon activation would have on this world. We have no idea."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "发射炮在哪，怎么过去"
-msgstr ""
+msgstr "Where's the Launch Cannon? How do we get there?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "最顶楼，乘阶梯然后爬墙翻过去，有个玻璃罩，里面就是"
-msgstr ""
+msgstr "Top floor. Take the stairs, then climb over the wall. There's a glass dome — it's inside."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我现在可以咬死他们了吗"
-msgstr ""
+msgstr "Can I bite them to death now?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "随便你"
-msgstr ""
+msgstr "Suit yourself."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "妮妮莉特，我们现在去顶楼"
-msgstr ""
+msgstr "Ninilite, let's head to the top floor now."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我、妮妮莉特"
-msgstr ""
+msgstr "Me, Ninilite"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "玩家点击阶梯按钮，使用攀爬技能"
-msgstr ""
+msgstr "The player clicks the stair button and uses the climbing skill."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-16"
-msgstr ""
+msgstr "2-16"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "乌云！你怎么在这"
-msgstr ""
+msgstr "Wuyun! What are you doing here?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我从那个研发人员口中得知，这台发射炮可以去另一个世界（手臂上的纹记亮起，一束光柱从发射炮中出现）"
-msgstr ""
+msgstr "I learned from that researcher that this Launch Cannon can go to another world. (The mark on the arm glows, and a beam of light emerges from the Launch Cannon)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看来，他们说的信标，就是我手臂上的纹记了"
-msgstr ""
+msgstr "It seems the Beacon they mentioned is the mark on my arm."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看吧看吧，我就说他有问题"
-msgstr ""
+msgstr "See? See? I told you he was suspicious!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "停下，乌云，要是现在贸然启动，谁也不知道这个世界会变成什么样子"
-msgstr ""
+msgstr "Stop, Wuyun! If we activate it rashly now, who knows what will happen to this world."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "这个世界会怎么样我不关心，我只想找到我的家人"
-msgstr ""
+msgstr "I don't care what happens to this world. I just want to find my family."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "按理说，你又不是这个世界的人，对这里这么上心干什么"
-msgstr ""
+msgstr "Logically, you're not even from this world. Why do you care so much about it?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "怎么，玩久了，舍不得了？"
-msgstr ""
+msgstr "What, been here so long you can't bear to leave?"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "至少，在真相尚未弄清之前，我们先不要贸然动手"
-msgstr ""
+msgstr "At least, before the truth is clear, we shouldn't act rashly."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "真相是什么，我不在乎，我只知道那个世界有我的家人，谁也别想阻拦我"
-msgstr ""
+msgstr "I don't care what the truth is. All I know is that my family is in that other world, and nobody's going to stop me."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "看来战斗在所难免了，妮妮莉特，我们上"
-msgstr ""
+msgstr "Looks like a fight is unavoidable. Ninilite, let's go!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "战斗"
-msgstr ""
+msgstr "Battle"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "2-17"
-msgstr ""
+msgstr "2-17"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "哈哈哈，刚才的战斗真是精彩，你确实很强，不过，这也不能改变什么"
-msgstr ""
+msgstr "Hahaha! That battle was truly spectacular. You are indeed strong, but it won't change anything."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "因为，我发现，有了纹记，发射炮可以自行启动（乌云抬起手臂，光束更为强烈，变成一个漩涡）"
-msgstr ""
+msgstr "Because I discovered that with the mark, the Launch Cannon can activate on its own. (Wuyun raises his arm, the beam intensifies and becomes a vortex)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "糟糕"
-msgstr ""
+msgstr "Oh no."
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "再见了，小扎西们（跳入光束漩涡之中）"
-msgstr ""
+msgstr "Goodbye, little Zhaxis. (Jumps into the beam vortex)"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:577
 msgid "我们快走"
-msgstr ""
+msgstr "Let's go!"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:918
 msgid "第三章"
-msgstr ""
+msgstr "Chapter 3"
 
 #: ../../source/gamedoc/story-scripting/game0/dialogue-script.md:919
 msgid "待补充"
-msgstr ""
+msgstr "To be continued"
 

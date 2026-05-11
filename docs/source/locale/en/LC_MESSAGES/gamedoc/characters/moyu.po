@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,139 +20,139 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/moyu.md:1
 msgid "默羽"
-msgstr ""
+msgstr "Mo Yu"
 
 #: ../../source/gamedoc/characters/moyu.md:2
 msgid "阳光开朗的双生子弟弟"
-msgstr ""
+msgstr "The Sunny and Cheerful Twin Brother"
 
 #: ../../source/gamedoc/characters/moyu.md
 msgid "设定项"
-msgstr ""
+msgstr "Setting"
 
 #: ../../source/gamedoc/characters/moyu.md
 msgid "内容"
-msgstr ""
+msgstr "Content"
 
 #: ../../source/gamedoc/characters/moyu.md
 msgid "Q版"
-msgstr ""
+msgstr "Chibi"
 
 #: ../../source/gamedoc/characters/moyu.md
 msgid "<img src=\"/img/Q/Q-moyu.png\" alt=\"默羽（Q版）\" height=\"196px\"><br>*画师：双程*"
-msgstr ""
+msgstr "<img src=\"/img/Q/Q-moyu.png\" alt=\"Mo Yu (Chibi)\" height=\"196px\"><br>*Artist: Shuangcheng*"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "默羽（Q版）"
-msgstr ""
+msgstr "Mo Yu (Chibi)"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "名字"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "默羽（英文名：Vincent 文森特）"
-msgstr ""
+msgstr "Mo Yu (English name: Vincent)"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "年龄"
-msgstr ""
+msgstr "Age"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "24岁"
-msgstr ""
+msgstr "24 years old"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "性别"
-msgstr ""
+msgstr "Gender"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "男"
-msgstr ""
+msgstr "Male"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "生日"
-msgstr ""
+msgstr "Birthday"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "12月25日 00:00（比姐姐晚1分钟）"
-msgstr ""
+msgstr "December 25th 00:00 (1 minute later than his sister)"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "职业"
-msgstr ""
+msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/moyu.md:6
-msgid "缘和中医馆的馆长兼医师，被周围人称“文森特小神医”（中医馆原是父母生前经营的产业，白天表面是救死扶伤的医院，午夜过后进行特殊药物和武器的售卖，并成为了反抗军学园物资补给的后勤基地。在医馆里，默羽白天要负责治疗在战场上受伤的战士和各种病患的疑难杂症，同时也要保护和自己作息相反的姐姐）"
-msgstr ""
+msgid "缘和中医馆的馆长兼医师，被周围人称"文森特小神医"（中医馆原是父母生前经营的产业，白天表面是救死扶伤的医院，午夜过后进行特殊药物和武器的售卖，并成为了反抗军学园物资补给的后勤基地。在医馆里，默羽白天要负责治疗在战场上受伤的战士和各种病患的疑难杂症，同时也要保护和自己作息相反的姐姐）"
+msgstr "Director and physician of the Yuanhe Traditional Chinese Medicine Clinic, known by locals as \"Little Miracle Doctor Vincent\" (the clinic was originally run by their late parents. On the surface it's a life-saving hospital during the day, while after midnight it sells special drugs and weapons, and has become a logistics base for the resistance academy's supply. At the clinic, Mo Yu treats wounded soldiers from the battlefield and various patients with difficult conditions during the day, while also protecting his sister whose schedule is the opposite of his)"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "外貌"
-msgstr ""
+msgstr "Appearance"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "唇红齿白，白净的脸庞有一对笑起来弯弯的眼睛，眼瞳呈蓝灰色"
-msgstr ""
+msgstr "Red lips and white teeth, a clean fair face with a pair of eyes that curve into crescents when smiling, blue-gray irises"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "头发"
-msgstr ""
+msgstr "Hair"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "深灰色，发尾银白色，利落短发"
-msgstr ""
+msgstr "Dark gray with silver-white tips, neat short hair"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "体格"
-msgstr ""
+msgstr "Build"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "身高 177cm，体重 55kg"
-msgstr ""
+msgstr "Height 177cm, Weight 55kg"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "服装"
-msgstr ""
+msgstr "Clothing"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "中式刺绣唐装长款外套，深棕色皮鞋。配饰：黑金色手串+智能手环显示屏"
-msgstr ""
+msgstr "Chinese-style embroidered Tang suit long coat, dark brown leather shoes. Accessories: black-gold bracelet + smart wristband display"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "性格"
-msgstr ""
+msgstr "Personality"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "开朗乐观，和善有礼，擅长倾听别人讲话，对人很有亲和力，因为善心也经常不收患者医药费，这让姐姐很头疼，但是做事很有韧性，无论如何都会坚持负责将患者救治到底。与姐姐性格反差极大"
-msgstr ""
+msgstr "Cheerful and optimistic, kind and polite, skilled at listening to others, very approachable. Out of kindness, he often doesn't charge patients for medical fees, which gives his sister headaches. But he is very resilient, always persevering to treat patients to the end no matter what. His personality is in stark contrast to his sister's"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "特技"
-msgstr ""
+msgstr "Special Skill"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "在家庭的熏陶下，自小仅开始学习中医学，尤其是熟识中医关于养生的知识，因为小时候也经常在中医馆帮忙，对针灸、拔罐、足疗等多种中医医技的操作也特别熟练。同时也擅长进行结合中医理论的医学心理治疗"
-msgstr ""
+msgstr "Under the family's influence, he began studying traditional Chinese medicine from a young age, particularly knowledgeable about TCM health preservation. Having frequently helped at the clinic since childhood, he is highly skilled in acupuncture, cupping, foot reflexology, and other TCM techniques. Also skilled at medical psychological therapy combining TCM theory"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "弱点"
-msgstr ""
+msgstr "Weakness"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "因为对人特别有善意，所以常常会有心很大的时候。哪怕是面对恶人也不会停止自己的善心和信任，在外人看来会吃很多亏，为此也总挨姐姐骂和让姐姐操更多的心"
-msgstr ""
+msgstr "Because he is particularly kind to others, he can be overly carefree at times. Even when facing bad people, he never stops showing kindness and trust, which makes others think he gets taken advantage of a lot. This always gets him scolded by his sister and causes her more worry"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "口吻"
-msgstr ""
+msgstr "Speech Style"
 
 #: ../../source/gamedoc/characters/moyu.md:6
-msgid "“对不起！姐姐！”；“姐姐我也可以保护你了！”；“真希望这场无止尽的灾难快点结束，我想要永远没有患者的和平世界。”"
-msgstr ""
+msgid ""对不起！姐姐！"；"姐姐我也可以保护你了！"；"真希望这场无止尽的灾难快点结束，我想要永远没有患者的和平世界。""
+msgstr "\"I'm sorry, Sister!\"; \"Sister, I can protect you now too!\"; \"I really hope this endless disaster ends soon. I want a peaceful world with no patients forever.\""
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "故事设定"
-msgstr ""
+msgstr "Story Setting"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid ""
@@ -162,32 +161,32 @@ msgid ""
 "模拟的角色，设定源于灵数幻境游戏设计师的一个关于善于恶的实验，那就是一个拥有纯粹的善心和开朗性格的游戏角色到底能在这个末世设定的游戏环境中发生什么样的故事，游戏"
 " NPC 和玩家角色会不会保护他，他在这个世界里最终能走多远。"
 msgstr ""
+"The parents who ran the clinic sacrificed themselves to protect the patients sheltered inside. The younger brother who witnessed everything first-hand quickly pulled himself together after a brief period of grief, because seeing the surviving patients in the clinic still waiting for his care, he felt he must endure the sorrow, carry on his parents' wishes, and immediately take up the responsibility of continuing to heal and save lives. Mo Yu thought his parents' sacrifice would not be meaningless, especially since they showed no fear in their final moments, making him understand that bearing this responsibility was simply a natural part of his life, and there was nothing to be afraid of. After his sister returned home, Mo Yu became even more cheerful, and under the siblings' joint management, the family clinic gradually became a beacon of hope in this post-apocalyptic world, earning people's respect. Until once again more terrifying mutated creatures attacked the clinic, and a combat squad from the resistance academy rescued Mo Yu and his sister from the besieged clinic. Hidden Setting: Mo Yu is an AI-simulated character, originating from the Luv Sense game designer's experiment about good and evil — what kind of story would unfold for a game character possessing pure kindness and a cheerful personality in this post-apocalyptic game environment, would game NPCs and player characters protect him, and how far could he ultimately go in this world."
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "学员专业"
-msgstr ""
+msgstr "Cadet Specialty"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "后勤（Logistic）"
-msgstr ""
+msgstr "Logistics (Logistic)"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "立绘"
-msgstr ""
+msgstr "Portrait"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "![默羽（立绘）](/img/figure/moyu.png)<br>*画师：杏杏*"
-msgstr ""
+msgstr "![Mo Yu (Portrait)](/img/figure/moyu.png)<br>*Artist: Xingxing*"
 
 #: ../../source/gamedoc/characters/moyu.md:22
 msgid "默羽（立绘）"
-msgstr ""
+msgstr "Mo Yu (Portrait)"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "文案"
-msgstr ""
+msgstr "Writer"
 
 #: ../../source/gamedoc/characters/moyu.md:6
 msgid "玉徽"
-msgstr ""
-
+msgstr "Yuhui"

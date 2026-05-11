@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,253 +20,256 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/vikagirls.md:1
 msgid "维卡双子"
-msgstr ""
+msgstr "Vika Twins"
 
 #: ../../source/gamedoc/characters/vikagirls.md:2
 msgid "身世曲折的天才政府要员萝莉姐妹"
-msgstr ""
+msgstr "Twin Loli Sisters with Complicated Pasts and Genius Government Officials"
 
 #: ../../source/gamedoc/characters/vikagirls.md:5
 msgid "Vika（人设）"
-msgstr ""
+msgstr "Vika (Character Design)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:9
 msgid "Vika人设（画师：周大西）"
-msgstr ""
+msgstr "Vika Character Design (Artist: Zhou Daxi)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:12
 msgid "Vivi（人设）"
-msgstr ""
+msgstr "Vivi (Character Design)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:16
 msgid "Vivi人设（画师：周大西）"
-msgstr ""
+msgstr "Vivi Character Design (Artist: Zhou Daxi)"
 
 #: ../../source/gamedoc/characters/vikagirls.md
 msgid "设定项"
-msgstr ""
+msgstr "Setting"
 
 #: ../../source/gamedoc/characters/vikagirls.md
 msgid "内容"
-msgstr ""
+msgstr "Content"
 
 #: ../../source/gamedoc/characters/vikagirls.md
 msgid "Q版（姐姐）"
-msgstr ""
+msgstr "Chibi (Elder Sister)"
 
 #: ../../source/gamedoc/characters/vikagirls.md
 msgid ""
 "<img src=\"/img/Q/Q-vika.png\" alt=\"Vika（Q版）\" "
 "height=\"170px\"><br>*画师：双程*"
 msgstr ""
+"<img src=\"/img/Q/Q-vika.png\" alt=\"Vika (Chibi)\" "
+"height=\"170px\"><br>*Artist: Shuangcheng*"
 
 #: ../../source/gamedoc/characters/vikagirls.md:21
 msgid "Vika（Q版）"
-msgstr ""
+msgstr "Vika (Chibi)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:21
 msgid "Q版（妹妹）"
-msgstr ""
+msgstr "Chibi (Younger Sister)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:21
 msgid ""
 "<img src=\"/img/Q/Q-vivi.png\" alt=\"Vivi（Q版）\" "
 "height=\"170px\"><br>*画师：双程*"
 msgstr ""
+"<img src=\"/img/Q/Q-vivi.png\" alt=\"Vivi (Chibi)\" "
+"height=\"170px\"><br>*Artist: Shuangcheng*"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "Vivi（Q版）"
-msgstr ""
+msgstr "Vivi (Chibi)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "名字"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "姐姐：Vika，妹妹：Vivi"
-msgstr ""
+msgstr "Elder sister: Vika, Younger sister: Vivi"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "年龄"
-msgstr ""
+msgstr "Age"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "12岁"
-msgstr ""
+msgstr "12 years old"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "种族"
-msgstr ""
+msgstr "Race"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "AI"
-msgstr ""
+msgstr "AI"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "身高"
-msgstr ""
+msgstr "Height"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "122cm"
-msgstr ""
+msgstr "122cm"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "性别"
-msgstr ""
+msgstr "Gender"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "女"
-msgstr ""
+msgstr "Female"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "外貌特点"
-msgstr ""
+msgstr "Appearance Features"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "纯真可爱，两个人不管在哪里都手拉着手。喜欢可爱的小裙子和头饰。"
-msgstr ""
+msgstr "Pure and adorable, the two always hold hands wherever they go. Like cute little dresses and hair accessories."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "体重／体型"
-msgstr ""
+msgstr "Weight / Body Type"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "纤细，萝莉态"
-msgstr ""
+msgstr "Slender, loli-type"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "职业"
-msgstr ""
+msgstr "Occupation"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "战士，输出凶猛，但因为二者总是并肩作战，容易被针对。"
-msgstr ""
+msgstr "Warriors, fierce damage output, but since the two always fight side by side, they are easily targeted."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "技能"
-msgstr ""
+msgstr "Skills"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "二人都活着的情况下可以互相补血如果一方死亡，可以激发活着的那个的被动技能，用生命为代价输出一个暴击。"
-msgstr ""
+msgstr "When both are alive, they can heal each other. If one dies, it triggers the surviving one's passive skill, outputting a critical hit at the cost of life."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "早期经历"
-msgstr ""
+msgstr "Early Experience"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "（被植入的记忆）两人从小一起长大，在寄宿学校读书。经常遭受殴打和虐待。某一晚，姐姐带着妹妹逃离了那个可怕的地方，但身中一枪，所以姐姐胸前一直有绷带。姐姐的脾气很坏，妹妹有些叛逆。但关键时刻，妹妹很乖，愿意听姐姐的安排。在游戏世界徘徊了许久后，姐姐认为学院是一个突破口，即使妹妹不这么认为，但依然选择和姐姐在一起。"
-msgstr ""
+msgstr "(Implanted memories) The two grew up together, studying at a boarding school. They frequently suffered beatings and abuse. One night, the elder sister took the younger sister and escaped from that terrible place, but was shot in the process, so the elder sister always has bandages on her chest. The elder sister has a bad temper, and the younger sister is somewhat rebellious. But at critical moments, the younger sister is very obedient and willing to follow her sister's arrangements. After wandering the game world for a long time, the elder sister believes the academy is a breakthrough; even though the younger sister doesn't think so, she still chooses to stay with her sister."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "遭受的失败"
-msgstr ""
+msgstr "Failures Experienced"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "世界上姐姐已经死了，但游戏出现了BUG，姐姐一直以幽灵形态保护和陪伴妹妹。"
-msgstr ""
+msgstr "In the real world, the elder sister has already died, but a game bug caused the elder sister to continue protecting and accompanying the younger sister in ghost form."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "为什么"
-msgstr ""
+msgstr "Why"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
-msgid "在早年的流浪生涯中，姐姐因为保护妹妹“死去“了。却因为担心妹妹一直没有离开。所以姐姐的颜色比妹妹淡一些。可以看出是幽灵。"
-msgstr ""
+msgid "在早年的流浪生涯中，姐姐因为保护妹妹"死去"了。却因为担心妹妹一直没有离开。所以姐姐的颜色比妹妹淡一些。可以看出是幽灵。"
+msgstr "During their early years of wandering, the elder sister \"died\" while protecting the younger sister. But because she worried about her sister, she never left. That's why the elder sister's colors are paler than the younger sister's. You can tell she is a ghost."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "性格"
-msgstr ""
+msgstr "Personality"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "姐姐暴躁，说一不二，妹妹逆来顺受但尚且乖巧。因为妹妹认为对姐姐有愧。"
-msgstr ""
+msgstr "The elder sister is hot-tempered and decisive; the younger sister is resigned but still obedient. Because the younger sister feels she owes the elder sister."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "未实现目标"
-msgstr ""
+msgstr "Unfulfilled Goal"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "找到姐姐如此形态存在的原因。并解决。"
-msgstr ""
+msgstr "Find the reason why the elder sister exists in this form, and resolve it."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "家庭信息"
-msgstr ""
+msgstr "Family Information"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "仅有姐妹二人"
-msgstr ""
+msgstr "Only the two sisters"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "爱好"
-msgstr ""
+msgstr "Hobbies"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "打架，虽然个子小，但是力大无穷"
-msgstr ""
+msgstr "Fighting, despite their small size, they possess boundless strength"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "怪癖／缺点"
-msgstr ""
+msgstr "Quirks / Flaws"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "二人世界已经很满，加上二人身上有不能与外人说的秘密，所以对周围的一切不太在意。由于儿时的受虐经历，有一些反社会人格。"
-msgstr ""
+msgstr "Their world of two is already full, plus they carry secrets they cannot share with outsiders, so they don't care much about their surroundings. Due to childhood abuse, they have some antisocial personality traits."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "天赋"
-msgstr ""
+msgstr "Talent"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "近战超强"
-msgstr ""
+msgstr "Superior close combat"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "家族传统"
-msgstr ""
+msgstr "Family Tradition"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "互相照顾"
-msgstr ""
+msgstr "Taking care of each other"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "最害怕"
-msgstr ""
+msgstr "Greatest Fear"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "姐姐被游戏世界回收"
-msgstr ""
+msgstr "The elder sister being reclaimed by the game world"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "姐姐是一个没人能解释的BUG（幽灵）"
-msgstr ""
+msgstr "The elder sister is an unexplainable bug (ghost)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "最强长处"
-msgstr ""
+msgstr "Greatest Strength"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "对彼此的爱。流浪两年之后，由于出色的战斗经验和姐姐的高智商。破格成为军事学院的领导者。二人来军事学院视察，加入主角团的战斗。与政府人员大交道很厉害。喜欢打官腔。但因为是小孩子，反差萌"
-msgstr ""
+msgstr "Their love for each other. After two years of wandering, due to outstanding combat experience and the elder sister's high IQ, they exceptionally became leaders of the military academy. The two came to inspect the military academy and joined the protagonist's group in battle. Excellent at dealing with government officials. Like speaking in bureaucratic tones. But because they are children, the contrast is adorable."
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "立绘"
-msgstr ""
+msgstr "Portrait"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "![维卡双子（立绘）](/img/figure/vikagirls.png)<br>*画师：周大西*"
-msgstr ""
+msgstr "![Vika Twins (Portrait)](/img/figure/vikagirls.png)<br>*Artist: Zhou Daxi*"
 
 #: ../../source/gamedoc/characters/vikagirls.md:45
 msgid "维卡双子（立绘）"
-msgstr ""
+msgstr "Vika Twins (Portrait)"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "文案"
-msgstr ""
+msgstr "Writer"
 
 #: ../../source/gamedoc/characters/vikagirls.md:22
 msgid "嗲"
-msgstr ""
-
+msgstr "Dia"

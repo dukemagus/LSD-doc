@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,45 +20,44 @@ msgstr ""
 
 #: ../../source/gamedoc/characters/v-producer.md:1
 msgid "制作人于灵的介绍"
-msgstr ""
+msgstr "Introduction to Producer Yu Ling"
 
 #: ../../source/gamedoc/characters/v-producer.md:4
 msgid "于灵"
-msgstr ""
+msgstr "Yu Ling"
 
 #: ../../source/gamedoc/characters/v-producer.md:12
 msgid "&emsp;&emsp;28岁，云南临沧傣族，⼥性，居住在江西新余市，从事⾦融⾏业转游戏⾏业，喜欢做⼀个以电⼦游戏为载体的故事讲述者。"
-msgstr ""
+msgstr "&emsp;&emsp;28 years old, Dai ethnicity from Lincang, Yunnan, female, residing in Xinyu City, Jiangxi Province. Transitioned from the finance industry to the game industry, enjoys being a storyteller using video games as a medium."
 
 #: ../../source/gamedoc/characters/v-producer.md:14
 msgid "&emsp;&emsp;计算机专业毕业。"
-msgstr ""
+msgstr "&emsp;&emsp;Graduated with a Computer Science degree."
 
 #: ../../source/gamedoc/characters/v-producer.md:16
 msgid "&emsp;&emsp;喜欢玩魔方，有点拖延症，喜欢玩动作和FPS类游戏（人菜瘾大）。"
-msgstr ""
+msgstr "&emsp;&emsp;Enjoys solving Rubik's cubes, has a bit of procrastination habit, likes playing action and FPS games (not very skilled but highly addicted)."
 
 #: ../../source/gamedoc/characters/v-producer.md:18
 msgid "&emsp;&emsp;日常偶尔会中二病，虽然是一个成熟职场女性（曾经），但在闲暇时喜欢发散自己的想象力。"
-msgstr ""
+msgstr "&emsp;&emsp;Occasionally has chuunibyou (eighth-grader syndrome) tendencies in daily life. Though a mature professional woman (formerly), she enjoys letting her imagination run wild in her free time."
 
 #: ../../source/gamedoc/characters/v-producer.md:20
 msgid "&emsp;&emsp;在生活中的一些节日和生日中很有仪式感，理性又浪漫主义。"
-msgstr ""
+msgstr "&emsp;&emsp;Has a strong sense of ceremony for holidays and birthdays in life, both rational and romantic."
 
 #: ../../source/gamedoc/characters/v-producer.md:22
 msgid "&emsp;&emsp;养了一只暹罗猫叫大狮，对塔罗牌有灵性。"
-msgstr ""
+msgstr "&emsp;&emsp;Has a Siamese cat named Dash (Big Lion), has an intuitive connection with tarot cards."
 
 #: ../../source/gamedoc/characters/v-producer.md:24
 msgid "&emsp;&emsp;有神秘身份，对《灵数奇缘》有特别的情感。"
-msgstr ""
+msgstr "&emsp;&emsp;Has a mysterious identity, holds special feelings toward \"Luv Sense Digital\"."
 
 #: ../../source/gamedoc/characters/v-producer.md:26
 msgid "&emsp;&emsp;通常形象是微卷中短发，穿有民族元素（刺绣）的简洁的日常服装。"
-msgstr ""
+msgstr "&emsp;&emsp;Typical appearance features slightly wavy medium-short hair, wearing simple daily clothing with ethnic elements (embroidery)."
 
 #: ../../source/gamedoc/characters/v-producer.md:28
 msgid "&emsp;&emsp;眼神比较温柔坚定又有童真（仍然有光）。"
-msgstr ""
-
+msgstr "&emsp;&emsp;Eyes are gentle yet determined with childlike innocence (still shining with light)."

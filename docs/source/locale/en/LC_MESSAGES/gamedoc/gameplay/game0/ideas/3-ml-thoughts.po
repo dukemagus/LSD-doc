@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,33 +20,35 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:1
 msgid "有关 AI 训练的三个想法"
-msgstr ""
+msgstr "Three Thoughts on AI Training"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:3
 msgid "作者"
-msgstr ""
+msgstr "Author"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:4
 msgid "&emsp;&emsp;早起侠"
-msgstr ""
+msgstr "&emsp;&emsp;Early Riser Hero"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:7
 msgid "&emsp;&emsp;这些想法还⽐较初步。   &emsp;&emsp;想多交流、看⼀下反馈，再看之后怎么⾛。"
-msgstr ""
+msgstr "&emsp;&emsp;These ideas are still quite preliminary.   &emsp;&emsp;I want to discuss more and see feedback before deciding how to proceed."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:10
 msgid "1. 加⼊更多连续的⾏为，代替⼀些离散的⾏为"
-msgstr ""
+msgstr "1. Add More Continuous Behaviors to Replace Some Discrete Behaviors"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:12
 msgid ""
 "&emsp;&emsp;连续的⾏为，就像现在游戏中的移动，可以移动0.1，0.3，1.2等等。   "
 "&emsp;&emsp;离散的⾏为，就像现在游戏中的攻击、闪避、跳跃，按⼀下执⾏⼀次。"
 msgstr ""
+"&emsp;&emsp;Continuous behaviors, like movement in the current game, can be 0.1, 0.3, 1.2, etc.   "
+"&emsp;&emsp;Discrete behaviors, like the current attack, dodge, and jump, execute once per button press."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:15
 msgid "可⾏的⽅案："
-msgstr ""
+msgstr "Feasible approaches:"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:17
 msgid ""
@@ -57,10 +58,14 @@ msgid ""
 "   "
 "&emsp;&emsp;跳跃，我没太好的想法。⼀个是，两段跳，由于第⼆次跳可以有不同的时间点，也许能带来些东西。第⼆个是，蓄⼒后跳得⾼、跳的久，我也觉得有些奇怪。"
 msgstr ""
+"&emsp;&emsp;Replace attack and jump with a charge-like mode.   &emsp;&emsp;For attacks, archery is easier to design. For example, arrow distance & damage relate to charge time, with a max charge of 2s.   "
+"&emsp;&emsp;Melee attacks are harder to design. One idea is that charge time relates to damage; taking it further, it may require unconventional design that might not be good, such as button timing determining how far a long spear swings, or what percentage of a combo sequence is completed."
+"   "
+"&emsp;&emsp;For jumping, I don't have great ideas. One is double jump — since the second jump can happen at different timing, it might add something. The second is charging to jump higher and longer, which I also find somewhat odd."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:22
 msgid "这样想的原因："
-msgstr ""
+msgstr "Reasons for this thinking:"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:24
 msgid ""
@@ -69,20 +74,25 @@ msgid ""
 "&emsp;&emsp;第⼆个原因，和第⼀个类似。我和建建沟通时，他的⼀个想法是增加策略性。我觉得把⾏为连续化，也许可以增加策略性，⽐如射箭的时候，我站位的距离和射箭的蓄⼒时间，就"
 " 可以成为⼀个策略因素。"
 msgstr ""
+"&emsp;&emsp;My first reason is that in our game, the little characters imitate or learn from the player's behavior. If my behaviors are discrete, what they can learn and what I can teach seems quite limited. In this case, the game's shortcomings may be more apparent — for example, because its learning method differs from what I expect, it might never learn my intentions. If behaviors become continuous, players might have more room to adjust, so if one approach doesn't work, there might be another."
+"   "
+"&emsp;&emsp;The second reason is similar. When communicating with Jianjian, one of his ideas was to increase strategic depth. I think making behaviors continuous could add strategy — for example, when shooting arrows, the distance of my positioning and the charge time of the bow could become strategic factors."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:27
 msgid "其他："
-msgstr ""
+msgstr "Other notes:"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:29
 msgid ""
 "&emsp;&emsp;我看的那篇⽂章（https://zhuanlanzhihu.com/p/89607509）⾥有说道，决策树有两种，(1)分类树，输出为离散值、(2)回归树，输出为连续值。"
 "   &emsp;&emsp;看起来连续的⾏为是有可能的。但我也不太懂这个，不确定具体时间中的困难。"
 msgstr ""
+"&emsp;&emsp;The article I read (https://zhuanlanzhihu.com/p/89607509) mentioned that there are two types of decision trees: (1) classification trees, which output discrete values, and (2) regression trees, which output continuous values."
+"   &emsp;&emsp;It seems continuous behaviors are possible. But I don't fully understand this area, so I'm not sure about the specific practical difficulties."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:32
 msgid "2. 不同的性格"
-msgstr ""
+msgstr "2. Different Personalities"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:34
 msgid ""
@@ -90,12 +100,17 @@ msgid ""
 "&emsp;&emsp;我的认识主要来⾃于AlphaGo的新闻。我想象的，机器学习这个东西有模仿，但还有反馈，它根据反馈去调整⾃⼰的⾏为，像是AlphaGo⾃⼰和⾃⼰下棋什么的，还可以超越他所模仿的⼈类。"
 "   &emsp;&emsp;我们的游戏，它通过决策树来模仿我的⾏为，没有反馈的部分。"
 msgstr ""
+"&emsp;&emsp;The machine learning in our game is quite different from what I originally understood. (Of course, this is largely because I know very little about machine learning.)   "
+"&emsp;&emsp;My understanding mainly comes from AlphaGo news. I imagined that machine learning involves imitation, but also feedback — it adjusts its behavior based on feedback, like AlphaGo playing against itself, and can even surpass the humans it imitates."
+"   &emsp;&emsp;In our game, it imitates my behavior through decision trees, without the feedback component."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:38
 msgid ""
 "&emsp;&emsp;从这⾥出发，我产⽣的⼀个想象是：我是⼀个幼⼉园⽼师，我带着3个⼩朋友，带他们学习、练习，让他们⾃⼰去打败敌⼈。   "
 "&emsp;&emsp;⼀个意思是，我觉得这个游戏⾥的⼩⼈，可以有⼀些笨笨的、可爱的⻛格。（这可能并⾮我⾃⼰的想法，游戏现在有些这样的⻛格，促使我去这么想。）我觉得，它既然是模仿我的⾏为，那就不可能模仿得完全⼀样，会有些出⼊——玩家也许会觉得，我做的挺好的，为什么他学习出来却不够好呢。通过把游戏⾥的⼩⼈塑造得笨笨的、可爱的，产⽣⼀种预期，让玩家更容易接受它们最后模仿出来的效果。"
 msgstr ""
+"&emsp;&emsp;From this starting point, I developed a metaphor: I am a kindergarten teacher, leading 3 little children, guiding them to learn and practice, and letting them defeat enemies on their own.   "
+"&emsp;&emsp;One meaning is that I think the little characters in this game can have a somewhat clumsy, cute style. (This may not be entirely my own idea — the game already has some of this style, which prompted me to think this way.) Since they imitate my behavior, they can't imitate it perfectly — there will be some discrepancies. Players might think, \"I'm doing great, why did it learn so poorly?\" By making the little characters clumsy and cute, it sets an expectation that makes players more accepting of the final imitation results."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:41
 msgid ""
@@ -103,37 +118,48 @@ msgid ""
 " 做⼀个⾏为，⽼师会相应的做什么⾏为，我要学习这个。⼩⻩觉得，⽼师有很多招式，所谓招式，就是动作的序列 - "
 "⼀个动作之后，下⼀个动作是什么，⼩⻩要学会⽼师的招式。"
 msgstr ""
+"&emsp;&emsp;The second point is that if we're building machine learning algorithms, accuracy might be an endless pursuit that's hard to achieve. So trying to create stylization might be more fun. Our algorithm has characteristics that are easy to understand, and players can predict and master them to some degree. Going further, we can set behavioral traits for the 3 game characters — that is, the characteristics of the machine learning algorithms. For example, Little Red sees the teacher's actions as dancing — she tends to follow the teacher's exact chronological sequence, doing whatever the teacher does at each step. Little Green thinks the teacher is fighting monsters — when a monster does something, the teacher responds with a corresponding action, and she wants to learn that. Little Yellow thinks the teacher has many combos — a combo is a sequence of actions where one action follows another, and Little Yellow wants to learn the teacher's combos."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:43
-msgid "&emsp;&emsp;总的来说，“我是⼀个幼⼉园⽼师，我带着3个⼩朋友，带他们学习、练习，让他们⾃⼰去打败敌⼈”这个想象是主要意思和出发点；具体实现时，不过多追求算法的准确，把机器学习算法的特点和性格、学习⽅式联系起来，去尝试设计。"
-msgstr ""
+msgid "&emsp;&emsp;总的来说，"我是⼀个幼⼉园⽼师，我带着3个⼩朋友，带他们学习、练习，让他们⾃⼰去打败敌⼈"这个想象是主要意思和出发点；具体实现时，不过多追求算法的准确，把机器学习算法的特点和性格、学习⽅式联系起来，去尝试设计。"
+msgstr "&emsp;&emsp;Overall, the metaphor of \"I am a kindergarten teacher, leading 3 little children, guiding them to learn and practice, and letting them defeat enemies on their own\" is the main idea and starting point. In terms of implementation, rather than overly pursuing algorithm accuracy, we should link the characteristics of machine learning algorithms with personality and learning styles, and try to design around that."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:45
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:71
 msgid "问题"
-msgstr ""
+msgstr "Issues"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:47
 msgid ""
 "&emsp;&emsp;这个想法有些不落地。   "
-"&emsp;&emsp;在⼩红、⼩绿、⼩⻩举例时，我尝试尽量去落地，但其实例⼦不怎么好，⽐如“⼩红倾向于完全按照⽼师的时间顺序去完成动作”，不太机器学习，像是录像。"
+"&emsp;&emsp;在⼩红、⼩绿、⼩⻩举例时，我尝试尽量去落地，但其实例⼦不怎么好，⽐如"⼩红倾向于完全按照⽼师的时间顺序去完成动作"，不太机器学习，像是录像。"
 "   &emsp;&emsp;把性格和算法⽐较好的结合，可能很难。我也需要更多地了解机器学习算法。   "
 "&emsp;&emsp;不过，也许你们看完这段，能有些什么好的想法呢？"
 msgstr ""
+"&emsp;&emsp;This idea is somewhat impractical.   "
+"&emsp;&emsp;When giving examples with Little Red, Little Green, and Little Yellow, I tried to be as concrete as possible, but the examples aren't that good. For instance, \"Little Red tends to follow the teacher's exact chronological sequence\" isn't really machine learning — it's more like recording."
+"   &emsp;&emsp;Combining personality with algorithms well may be very difficult. I also need to understand machine learning algorithms better.   "
+"&emsp;&emsp;But perhaps after reading this, you might have some good ideas?"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:52
 msgid "3. ⼈物间的配合"
-msgstr ""
+msgstr "3. Character Cooperation"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:54
 msgid ""
-"&emsp;&emsp;没有看到demo的时候，我觉得“配合”是编程游戏⾥⼀个很有搞头的事情。   "
+"&emsp;&emsp;没有看到demo的时候，我觉得"配合"是编程游戏⾥⼀个很有搞头的事情。   "
 "&emsp;&emsp;看了demo后，我看他们是在模仿，同时还没有互相之间的交互，我觉得搞配合可能不靠谱，成本太⾼。   "
 "&emsp;&emsp;了解了⼀点机器学习的算法之后，我⼜觉得，好像做配合的成本不⾼，把⼀些条件加到training⾥就可以了。   "
 "&emsp;&emsp;我的⼀个想法是，配合可以搞出⼀种迭代学习的感觉。   &emsp;&emsp;我先训练A。   "
 "&emsp;&emsp;然后训练B，在训练B的时候，A按照之前的训练成果去⾏动；训练B的过程中，B既有⾃⼰的特点，也会去配合A。   "
 "&emsp;&emsp;训练完B之后，我可以再回来训练A，A再尝试去配合B。再训练B。   &emsp;&emsp;如此反复，直到满意或过关。"
 msgstr ""
+"&emsp;&emsp;Before seeing the demo, I thought \"cooperation\" was a very promising aspect for a programming game.   "
+"&emsp;&emsp;After seeing the demo, I noticed they were imitating without any interaction between them, so I thought cooperation might not be feasible — the cost would be too high.   "
+"&emsp;&emsp;After learning a bit about machine learning algorithms, I felt that the cost of implementing cooperation might not be that high — just add some conditions to the training.   "
+"&emsp;&emsp;One idea I have is that cooperation can create an iterative learning feel.   &emsp;&emsp;First, I train A.   "
+"&emsp;&emsp;Then I train B. While training B, A acts according to its previous training results. During B's training, B develops its own characteristics while also learning to cooperate with A.   "
+"&emsp;&emsp;After training B, I can go back to train A again, and A tries to cooperate with B. Then train B again.   &emsp;&emsp;Repeat until satisfied or the level is cleared."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:63
 msgid ""
@@ -145,18 +171,25 @@ msgid ""
 "&emsp;&emsp;再训练⼸⼿（之前的⾏为还不够完善），有了盾⼿的保护，⼸⼿的射箭&emsp;&emsp;和移动⾏为也发⽣相应的变化，⽐如盾⼿有时没有保护好，⼸⼿就主动寻找盾⼿，或是在举起盾的时候，就不射箭了了。"
 "   ……"
 msgstr ""
+"&emsp;&emsp;A somewhat flawed example (possibly high cost, low feasibility; but it illustrates my point):   "
+"&emsp;&emsp;An archer and a shield bearer. The archer deals damage, while the shield bearer raises their shield to protect both.   "
+"&emsp;&emsp;However, when the archer shoots, the shield bearer cannot raise the shield, otherwise the arrow can't get through and bounces back.   "
+"&emsp;&emsp;Train the archer first — the archer coordinates movement and shooting based on enemy movement.   "
+"&emsp;&emsp;Then train the shield bearer, who needs to protect the archer, so they must coordinate movement and shield-raising with the archer.   "
+"&emsp;&emsp;Then retrain the archer (previous behavior isn't refined enough). With the shield bearer's protection, the archer's shooting&emsp;&emsp;and movement behavior changes accordingly — for example, when the shield bearer fails to protect well, the archer actively seeks out the shield bearer, or stops shooting when the shield is raised."
+"   ……"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:73
 msgid "&emsp;&emsp;这个想法也有落地的问题。   &emsp;&emsp;不过我⾃⼰说起来，感觉好像挺有搞头的。"
-msgstr ""
+msgstr "&emsp;&emsp;This idea also has feasibility issues.   &emsp;&emsp;But as I talk about it, it feels quite promising."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:76
 msgid "4.后续"
-msgstr ""
+msgstr "4. Follow-up"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:78
 msgid "反馈"
-msgstr ""
+msgstr "Feedback"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:80
 msgid ""
@@ -164,6 +197,9 @@ msgid ""
 "数值）的计算逻辑，但是最终应⽤效果要我们做出 demo 来才判断得了，是可以考虑的。我们可以同时学习⽣成两个模型⼀个是（条件 → "
 "⾏动），⼀个是特定动作下的（条件 → 数值）。"
 msgstr ""
+"**1. Add more continuous behaviors to replace some discrete behaviors**   &emsp;&emsp;Learning continuous behaviors can be achieved through regression prediction algorithms, which can learn (condition → "
+"value) computation logic. But the final application effect needs to be judged by making a demo — it's worth considering. We can simultaneously learn and generate two models: one is (condition → "
+"action), and the other is (condition → value) for specific actions."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:82
 msgid ""
@@ -171,6 +207,9 @@ msgid ""
 "学出来的⼀定是显得很⽐真⼈笨的。要不我们就纯把 AI 学习这块玩法拿出来做⼀个纯 AI 格⽃的⼩游戏，内容体量再做⼩⼀点出⼀个⼩型的游戏附加 AI"
 " ⽹络分享功能。"
 msgstr ""
+"**2. Different personalities**   &emsp;&emsp;Making the game in a clumsy, cute style — I've thought about this idea, because the AI's learned behavior will definitely appear much less capable than a real person."
+" Alternatively, we could extract just the AI learning gameplay and make a pure AI fighting mini-game, with smaller content scope, as a small game with AI "
+"network sharing functionality."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:84
 msgid ""
@@ -178,14 +217,17 @@ msgid ""
 "我现在也没法判断是否能⾏。不过增加学习的变量会带来的问题是需要更多的训练数据记录才能通过算法总结出 AI "
 "逻辑规则。更多的训练数据就需要玩家进⾏更多的重复游戏次数。"
 msgstr ""
+"**3. Character cooperation**   &emsp;&emsp;This idea is also fine, but it requires algorithm debugging and observing performance. Without a playable demo, "
+"I can't judge whether it will work. However, adding more learning variables means more training data records are needed for the algorithm to summarize AI "
+"logic rules. More training data requires players to repeat gameplay more times."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:87
 msgid "&emsp;&emsp;第2点再补充⼀点就是做成萌系的⻛格，游戏设定就可以做得更轻松随意⼀些，背景故事什么的就可以不⽤那么操⼼。只要游戏⻛格做得很可爱就没问题了。"
-msgstr ""
+msgstr "&emsp;&emsp;To add to point 2: if we go with a cute style, the game setting can be more lighthearted and casual, and we won't need to worry as much about the backstory. As long as the game style is very cute, it'll be fine."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:89
 msgid "训练时的数据采集"
-msgstr ""
+msgstr "Data Collection During Training"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/3-ml-thoughts.md:91
 msgid ""
@@ -193,4 +235,6 @@ msgid ""
 "动作)的⼀组数据。每次动作发⽣都需要采集。   "
 "&emsp;&emsp;但是玩家停⽌操作进⼊idle动作的数据不做采集。还有demo⾥没有采集⾏⾛动作的数据。因为在⾃动战⽃阶段，向敌⼈移动被做成了⼀个默认AI。"
 msgstr ""
-
+"&emsp;&emsp;Data is collected each time the player successfully executes an action by pressing a button.   &emsp;&emsp;Because what's collected is (condition → "
+"action) data pairs. Every action occurrence requires collection.   "
+"&emsp;&emsp;However, data when the player stops operating and enters idle is not collected. Also, walking action data wasn't collected in the demo, because during auto-battle, moving toward enemies is handled by a default AI."

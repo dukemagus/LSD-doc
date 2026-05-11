@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,13 +20,16 @@ msgstr ""
 
 #: ../../source/gamedoc/story-scripting/other.md:1
 msgid "其它剧本"
-msgstr ""
+msgstr "Other Scripts"
 
 #: ../../source/gamedoc/story-scripting/other.md:3
 msgid "注意⚠️"
-msgstr ""
+msgstr "Note ⚠️"
 
 #: ../../source/gamedoc/story-scripting/other.md:4
 msgid "&emsp;&emsp;《灵数奇缘》社区伙伴可以复用已创作的游戏资产（文案、美术、配乐、代码、etc），修改设定文案设计新的故事和玩法，创作出不同的游戏作品。更多的项目等待发起中。"
 msgstr ""
-
+"&emsp;&emsp;Luv Sense Digital community members can reuse existing game "
+"assets (scripts, art, music, code, etc.), modify settings and scripts to "
+"design new stories and gameplay, and create different game works. More "
+"projects are waiting to be initiated."

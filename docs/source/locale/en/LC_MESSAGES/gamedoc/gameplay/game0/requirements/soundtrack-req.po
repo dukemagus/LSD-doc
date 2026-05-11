@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,225 +20,224 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:1
 msgid "配乐制作需求"
-msgstr ""
+msgstr "Soundtrack Production Requirements"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:3
 msgid "一、与场景相关的配乐需求"
-msgstr ""
+msgstr "I. Scene-Related Soundtrack Requirements"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:5
 msgid "1、幽兰草军事学园（游戏世界）"
-msgstr ""
+msgstr "1. Orchid Grass Military Academy (Game World)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "序号"
-msgstr ""
+msgstr "No."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "场景名称"
-msgstr ""
+msgstr "Scene Name"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "说明"
-msgstr ""
+msgstr "Description"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "军事学园场景（玩家自由行动）"
-msgstr ""
+msgstr "Military Academy Scene (Player Free Movement)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "军事学园的场景是进入游戏的首屏，也是玩家停留时间会比较长的场景，配乐可以考虑用偏舒缓或略昂扬且作为主题曲定位的乐曲。"
-msgstr ""
+msgstr "The Military Academy scene is the first screen when entering the game and a scene where players spend a relatively long time. The soundtrack could be a soothing or slightly uplifting piece positioned as the main theme."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "虚拟训练场（进行战斗训练）"
-msgstr ""
+msgstr "Virtual Training Ground (Combat Training)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "虚拟训练场在游戏机制里也是玩家花时间比较多场景，因为是模拟训练，只需要做一些需要做好思考但没有太多紧张感的战斗操作。在虚拟训练场中也会发生一些玩家与教导的学员的故事对话的情节。"
-msgstr ""
+msgstr "The Virtual Training Ground is also a scene where players spend considerable time in the game mechanics. Since it's simulation training, it requires thoughtful but not overly tense combat operations. Story dialogue scenes between the player and student instructors also take place here."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:12
 msgid "2、人类遗迹（游戏世界）"
-msgstr ""
+msgstr "2. Human Ruins (Game World)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "遗弃城市、遗弃工厂（探索）"
-msgstr ""
+msgstr "Abandoned City, Abandoned Factory (Exploration)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "遗弃城市和遗弃工厂的场景在游戏故事中主要是作为前期展示游戏世界设定和变异生物互动的场景，更多的执行一些对世界的探索活动，游戏情节也比较轻松，并没有很强的紧迫感。"
-msgstr ""
+msgstr "The abandoned city and factory scenes primarily serve as early-game areas showcasing the game world setting and interactions with mutant creatures. Players mainly engage in world exploration activities, and the game narrative is relatively lighthearted without strong urgency."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "遗弃城市、遗弃工厂（战斗）"
-msgstr ""
+msgstr "Abandoned City, Abandoned Factory (Battle)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "作为游戏前期发生战斗的场景，进行游戏战斗的难度也不会设置得特别困难。"
-msgstr ""
+msgstr "As the scenes where early-game battles occur, the combat difficulty is not set to be particularly challenging."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "极夜冰封之城（探索）"
-msgstr ""
+msgstr "Polar Night Frozen City (Exploration)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "是游戏后期执行困难任务的场景，场景的自然环境也很严峻，发生的剧情事件也很复杂，需要完成的游戏目标也会很困难。"
-msgstr ""
+msgstr "This is a late-game scene for difficult missions. The natural environment is harsh, the story events are complex, and the game objectives to complete are very challenging."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "极夜冰封之城（战斗）"
-msgstr ""
+msgstr "Polar Night Frozen City (Battle)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "会发生持续比较激烈与困难的战斗，是游戏中有较大挑战的战斗章节。"
-msgstr ""
+msgstr "Sustained, intense and difficult battles occur here. This is one of the more challenging battle chapters in the game."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:21
 msgid "3、世界地铁（游戏世界）"
-msgstr ""
+msgstr "3. World Subway (Game World)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "废弃地铁（探索）"
-msgstr ""
+msgstr "Abandoned Subway (Exploration)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "废弃的世界地铁是一个光线昏暗寂静的场景，玩家会在其中执行一些搜寻救援的任务，并遇到潜藏其中未知危险生物。"
-msgstr ""
+msgstr "The abandoned World Subway is a dimly lit and silent scene where players carry out search and rescue missions and encounter unknown dangerous creatures lurking within."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "废弃地铁（战斗）"
-msgstr ""
+msgstr "Abandoned Subway (Battle)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "废弃地铁中会发生出人意料的与体型巨大或是外表危险的BOSS型敌人的战斗。"
-msgstr ""
+msgstr "Unexpected battles with massive or dangerous-looking BOSS-type enemies occur in the abandoned subway."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:28
 msgid "4、主角的居所（现实世界）"
-msgstr ""
+msgstr "4. Protagonist's Residence (Real World)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "主角的居所（日常）"
-msgstr ""
+msgstr "Protagonist's Residence (Daily Life)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
-msgid "主角实际身处的未来的世界里，科技高度发达的后果就是人类生存的意义成为了巨大系统体系运转下数据量化的结果，人的出生也是在系统的安排下生产抚育的。为了更好地掌控人类个体，系统甚至创造出“低熵生活”的社会概念，在数据银行和游戏公司等社会组织的配合下，对人类个体的生活行动进行控制和运用。最可悲的是身处其中的人类难以认知和改变这一切，只能沉浸在虚拟世界中通过消费娱乐产品辛福地度过自己的一生，并发挥出系统运行所要求的价值。为响应“低熵生活”的要求，人们都不会离开自己居所的房间，因为进入不宜居的室外环境需要耗费过多的资源与能源，又因为一切生活娱乐生产活动都可以在虚拟世界中模拟和体验。所以主角也是过着和常人无异的“低熵生活”，并以游玩时下的流行游戏，通过进行游戏过程中挖掘贡献出自己的智能数据作为全部的生活。主角的居所只在特定的游戏剧情环节中短暂出现，作为冷峻的现实世界，和热闹欢快又肩负着明确使命的游戏世界形成比较大的反差。"
-msgstr ""
+msgid "主角实际身处的未来的世界里，科技高度发达的后果就是人类生存的意义成为了巨大系统体系运转下数据量化的结果，人的出生也是在系统的安排下生产抚育的。为了更好地掌控人类个体，系统甚至创造出"低熵生活"的社会概念，在数据银行和游戏公司等社会组织的配合下，对人类个体的生活行动进行控制和运用。最可悲的是身处其中的人类难以认知和改变这一切，只能沉浸在虚拟世界中通过消费娱乐产品辛福地度过自己的一生，并发挥出系统运行所要求的价值。为响应"低熵生活"的要求，人们都不会离开自己居所的房间，因为进入不宜居的室外环境需要耗费过多的资源与能源，又因为一切生活娱乐生产活动都可以在虚拟世界中模拟和体验。所以主角也是过着和常人无异的"低熵生活"，并以游玩时下的流行游戏，通过进行游戏过程中挖掘贡献出自己的智能数据作为全部的生活。主角的居所只在特定的游戏剧情环节中短暂出现，作为冷峻的现实世界，和热闹欢快又肩负着明确使命的游戏世界形成比较大的反差。"
+msgstr "The protagonist actually lives in a future world where the consequence of highly advanced technology is that the meaning of human existence has become quantified data under the operation of a massive system. Human birth is also arranged and raised by the system. To better control individuals, the system even created the social concept of \"Low-Entropy Living.\" With the cooperation of data banks and game companies, human individuals' daily actions are controlled and utilized. The most tragic part is that humans within this system can hardly perceive or change any of it — they can only immerse themselves in virtual worlds, happily spending their lives consuming entertainment products while fulfilling the value demanded by the system's operation. In compliance with \"Low-Entropy Living\" requirements, people never leave their rooms, because entering the inhospitable outdoor environment requires excessive resources and energy, and all life, entertainment, and production activities can be simulated and experienced in the virtual world. So the protagonist also lives an ordinary \"Low-Entropy Life,\" spending all their time playing popular games, contributing their intelligent data mined during gameplay as their entire existence. The protagonist's residence only appears briefly during specific story segments, serving as the stark real world that contrasts sharply with the lively, cheerful game world with its clear mission."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "主角的居所（危险）"
-msgstr ""
+msgstr "Protagonist's Residence (Danger)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "在发现游戏公司的恶意后，主角意图揭发事实和对抗游戏公司的行为几次险些被发现，这时在居所中的行动也会变得有些危险。"
-msgstr ""
+msgstr "After discovering the game company's malicious intent, the protagonist's attempts to expose the truth and resist the company nearly got caught several times. Actions within the residence also become somewhat dangerous at this point."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:35
 msgid "5、脆弱的世外桃源（游戏世界）"
-msgstr ""
+msgstr "5. Fragile Paradise (Game World)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "世外桃源（探索）"
-msgstr ""
+msgstr "Paradise (Exploration)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "世外桃源是游戏世界传闻中人人向往的地方，可以让人在地表自由的空间中忘却一切灾难自由地生活。但是就像一切幻想一般，这个美好空间的存在也被安排了注定毁灭的结局。在探索世外桃源时，带着意外之喜的人们是感到十分的轻松与快乐的，似乎所看到的一切都在洋溢着幸福的气氛。"
-msgstr ""
+msgstr "Paradise is a legendary place in the game world that everyone longs for, where people can live freely in open surface spaces, forgetting all disasters. But like all fantasies, the existence of this beautiful space is destined for destruction. When exploring Paradise, people filled with unexpected joy feel extremely relaxed and happy, as if everything they see is brimming with happiness."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "世外桃源（战斗）"
-msgstr ""
+msgstr "Paradise (Battle)"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
-msgid "主角团们到达世外桃源后，遇上了在情理之外又在意料之中的游戏决战。游戏公司的创始人亲自接入玩家的游戏中向玩家发起了游戏的挑战，并在战斗过程中讲述自己为什么背离初心，以及这个组织为什么会作恶的真相（所谓的“恶”也是过度回应玩家愿望的结果）。"
-msgstr ""
+msgid "主角团们到达世外桃源后，遇上了在情理之外又在意料之中的游戏决战。游戏公司的创始人亲自接入玩家的游戏中向玩家发起了游戏的挑战，并在战斗过程中讲述自己为什么背离初心，以及这个组织为什么会作恶的真相（所谓的"恶"也是过度回应玩家愿望的结果）。"
+msgstr "After the protagonist's party arrives at Paradise, they encounter the game's final battle — unexpected yet inevitable. The game company's founder personally connects to the player's game and challenges the player, explaining during the battle why they strayed from their original intentions and the truth behind why this organization turned evil (the so-called \"evil\" is also the result of over-responding to players' wishes)."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md:42
 msgid "二、与情绪氛围相关的配乐需求"
-msgstr ""
+msgstr "II. Emotion and Atmosphere-Related Soundtrack Requirements"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "叙事-日常"
-msgstr ""
+msgstr "Narrative - Daily Life"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "让人很有一种日常与安心感，是适合安静地讲述剧情故事的配乐。比如用于类似Galgame中主角表白的故事情节。"
-msgstr ""
+msgstr "Creates a strong sense of daily life and peace. Suitable for quietly telling story narratives. For example, used in scenes like a confession scene in a Galgame."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "叙事-欢快"
-msgstr ""
+msgstr "Narrative - Cheerful"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "用于一些比较搞笑、沙雕的故事情节。出现时总会预示一些比较逗的游戏角色准备搞事。"
-msgstr ""
+msgstr "Used for comedic, goofy story scenes. Its appearance always signals that some funny game characters are about to cause mischief."
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "叙事-悲伤"
-msgstr ""
+msgstr "Narrative - Sadness"
 
 #: ../../source/gamedoc/gameplay/game0/requirements/soundtrack-req.md
 msgid "用于发生令人难过、或是比较压抑的故事情节中。例如发现真实的人类在环境的圈养下认为自己是游戏AI角色而无法认知真实的世界。"
-msgstr ""
-
+msgstr "Used in sad or depressing story scenes. For example, discovering that real humans, raised in controlled environments, believe they are game AI characters and cannot perceive the real world."

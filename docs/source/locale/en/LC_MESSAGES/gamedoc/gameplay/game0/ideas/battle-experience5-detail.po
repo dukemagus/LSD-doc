@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the 灵数奇缘 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 灵数奇缘 \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 20:23-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-05-11 00:00+0000\n"
+"Last-Translator: Community Translator\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,42 +20,49 @@ msgstr ""
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:1
 msgid "战⽃体验-方案5细化"
-msgstr ""
+msgstr "Battle Experience - Plan 5 Details"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:3
 msgid "作者"
-msgstr ""
+msgstr "Author"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:4
 msgid "&emsp;&emsp;早起侠"
-msgstr ""
+msgstr "&emsp;&emsp;Early Riser Hero"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:7
 msgid "1 - 认识"
-msgstr ""
+msgstr "1 - Understanding"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:9
 msgid "&emsp;&emsp;我对\"战⽃体验-方案5\"的理解是：AI + 战场上的临时调度。其中："
-msgstr ""
+msgstr "&emsp;&emsp;My understanding of \"Battle Experience - Plan 5\" is: AI + real-time battlefield dispatch. Specifically:"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:10
 msgid "AI部分，具体到每个⼩兵的⾏为，类似于微操。"
-msgstr ""
+msgstr "The AI part — specific to each individual unit's behavior, similar to micro-management."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:11
 msgid "战场上的临时调度，类似于宏观运营之类。"
-msgstr ""
+msgstr "Real-time battlefield dispatch, similar to macro-management."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:13
 msgid ""
-"&emsp;&emsp;之前的⽅案中，也有“AI + 战场上的临时调度”的意思。这次，在方案5中，提到“玩点类似Clash "
-"Royale”和“选择出战的⻆⾊和位置”，这两让“战场上临时调度”的概念对我来说更清晰、形象了。   "
-"&emsp;&emsp;方案5中有2个设计，我很喜欢：“AOE能⼒强”和 “⽬标优先级”。   "
+"&emsp;&emsp;之前的⽅案中，也有"AI + 战场上的临时调度"的意思。这次，在方案5中，提到"玩点类似Clash "
+"Royale"和"选择出战的⻆⾊和位置"，这两让"战场上临时调度"的概念对我来说更清晰、形象了。   "
+"&emsp;&emsp;方案5中有2个设计，我很喜欢："AOE能⼒强"和 "⽬标优先级"。   "
 "&emsp;&emsp;之前，当想要具体到可执⾏的下⼀步⼯作时，我的想法⽐较局限在现有的的模式⾥（横版战⽃ - "
 "伤害+防御/躲避）。我也倾向于增加⼀些策略元素，弱化⼀些动作元素，但在这种模式下，没有想到好的⽅法，⼤概这种模式本⾝就⽐较倾向于动作，所以想要突出策略"
-" 会有些怪怪的。 &emsp;&emsp;“AOE能⼒强”和“⽬标优先级”这两点，我觉得为策略的具体实现提供了⼀些⽅向。也和“AI + "
-"战场上的临时调度”⽐较搭调。"
+" 会有些怪怪的。 &emsp;&emsp;"AOE能⼒强"和"⽬标优先级"这两点，我觉得为策略的具体实现提供了⼀些⽅向。也和"AI + "
+"战场上的临时调度"⽐较搭调。"
 msgstr ""
+"&emsp;&emsp;Previous plans also had the concept of \"AI + real-time battlefield dispatch.\" This time, in Plan 5, mentioning \"gameplay similar to Clash "
+"Royale\" and \"selecting characters and positions for battle\" made the concept of \"real-time battlefield dispatch\" clearer and more vivid to me.   "
+"&emsp;&emsp;There are 2 designs in Plan 5 that I really like: \"Strong AOE capabilities\" and \"Target Priority.\"   "
+"&emsp;&emsp;Previously, when trying to get to an executable next step, my thinking was limited to the existing mode (side-scrolling combat - "
+"damage + defense/dodge). I also tended to add strategic elements and weaken action elements, but in this mode, I couldn't find a good approach. Perhaps this mode inherently leans toward action, so trying to emphasize strategy "
+"felt somewhat awkward. &emsp;&emsp;\"Strong AOE capabilities\" and \"Target Priority\" — I think these two points provide some direction for concrete strategy implementation. They also fit well with \"AI + "
+"real-time battlefield dispatch.\""
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:18
 msgid ""
@@ -64,25 +70,31 @@ msgid ""
 "&emsp;&emsp;我倾向于有⼀个更具体的、下⼀步好执⾏的⽅案。（也许这个想法不对，不⼀定适合现状，可以有⼀些讨论或者磨合。我基于我⾃⼰现在的认识中，还是⽐较倾向于这种做法）"
 "   因此就有了这里的想法。也还没具体到那个程度，不过想法有⼀定形状了，写下来，再讨论⼀下。"
 msgstr ""
+"&emsp;&emsp;Plan 5 is quite macro-level and somewhat divergent.   "
+"&emsp;&emsp;I prefer having a more concrete plan that's easy to execute as a next step. (Perhaps this thinking isn't correct and may not suit the current situation — there can be some discussion and refinement. Based on my current understanding, I still lean toward this approach.)"
+"   Hence these ideas. They're not yet fully concrete, but the ideas have taken some shape, so I'm writing them down for further discussion."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:22
 msgid "2 - 细化⽅案"
-msgstr ""
+msgstr "2 - Detailed Plan"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:24
 msgid "概述"
-msgstr ""
+msgstr "Overview"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:26
 msgid ""
 "&emsp;&emsp;横向的视⻆。双⽅对阵，有前排、后排感觉的那种战场。⽐如，⼸⽮只能打到最前⾯的⼈，所以后排的⼈就会受到保护；再⽐如，友⽅可以从友⽅⾝边⾃由的前后⾛动，⽽碰到敌⽅就⾛不过去了。（想法的来源：⼑塔传奇）"
 "   玩家在战场的临时调度有2个：1.上场，2.控制AI的⽬标 - "
-"可能是1个单位或1个范围。（“控制AI的⽬标”想法的来源：方案5的“⽬标优先级”，RTS游戏的微操）"
+"可能是1个单位或1个范围。（"控制AI的⽬标"想法的来源：方案5的"⽬标优先级"，RTS游戏的微操）"
 msgstr ""
+"&emsp;&emsp;Side-scrolling perspective. Two sides face off in a battlefield with a front-line and back-line feel. For example, arrows can only hit the frontmost units, so back-line units are protected; friendly units can freely walk past each other, but can't pass through enemy units. (Source of inspiration: Dota Legend/DotA)"
+"   Players have 2 real-time battlefield dispatch options: 1. Deploy units, 2. Control AI targets — "
+"which can be a single unit or an area. (Source of the \"Control AI targets\" idea: Plan 5's \"Target Priority\" and RTS game micro-management.)"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:29
 msgid "**玩家有3种单位：⼸⼿、盾⼭、狂战⼠**"
-msgstr ""
+msgstr "**Players have 3 types of units: Archer, Shield Mountain, Berserker**"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:30
 msgid ""
@@ -93,14 +105,20 @@ msgid ""
 "align=\"center\"> <img src=\"/img/design/gameplay/battle2.png\" "
 "alt=\"弓手示意2\" width=\"400px\" align=\"center\">"
 msgstr ""
+"1. Archer   &emsp;&emsp;The archer shoots 3 arrows at once. Has some AOE capability.   "
+"&emsp;&emsp;When operating, the player can choose different arrow trajectories, resulting in either straight-line arrows or high parabolic arcs. This enables effects like hitting the back line or dealing AOE damage.   "
+"&emsp;&emsp;The archer can only move left/right and attack. <img "
+"src=\"/img/design/gameplay/battle1.png\" alt=\"Archer Illustration 1\" width=\"400px\" "
+"align=\"center\"> <img src=\"/img/design/gameplay/battle2.png\" "
+"alt=\"Archer Illustration 2\" width=\"400px\" align=\"center\">"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:30
 msgid "弓手示意1"
-msgstr ""
+msgstr "Archer Illustration 1"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:30
 msgid "弓手示意2"
-msgstr ""
+msgstr "Archer Illustration 2"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:36
 msgid ""
@@ -113,14 +131,22 @@ msgid ""
 "src=\"/img/design/gameplay/battle4.png\" alt=\"盾⼭示意2\" width=\"200px\" "
 "align=\"center\">"
 msgstr ""
+"2. Shield Mountain   &emsp;&emsp;The Shield Mountain serves as the front line for defense.   "
+"&emsp;&emsp;By default, it continuously holds up its shield for defense. Ranged projectile skills stop when they hit the shield and deal 50% reduced damage (since ranged projectile skills only hit 1 unit, hitting the Shield Mountain naturally stops them — no additional rules seem needed). If a melee skill's damage range overlaps with the shield's range, damage is reduced by 50%."
+"   "
+"&emsp;&emsp;The Shield Mountain also has an added skill — Shield Bash, which knocks back enemies. There's no defense while bashing. This can create an army push effect. (This skill was added mainly because just holding up a shield for defense is too boring.)"
+"   The Shield Mountain can do 3 things: move left/right, shield defense, and shield bash. <img src=\"/img/design/gameplay/battle3.png\" "
+"alt=\"Shield Mountain Illustration 1\" width=\"130px\" align=\"center\"> <img "
+"src=\"/img/design/gameplay/battle4.png\" alt=\"Shield Mountain Illustration 2\" width=\"200px\" "
+"align=\"center\">"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:36
 msgid "盾⼭示意1"
-msgstr ""
+msgstr "Shield Mountain Illustration 1"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:36
 msgid "盾⼭示意2"
-msgstr ""
+msgstr "Shield Mountain Illustration 2"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:43
 msgid ""
@@ -128,10 +154,13 @@ msgid ""
 "狂战⼠能做3件事，左右移动，跳跃、攻击。 <img src=\"/img/design/gameplay/battle5.png\" "
 "alt=\"狂战⼠示意\" width=\"350px\" align=\"center\">"
 msgstr ""
+"3. Berserker   &emsp;&emsp;The Berserker's role is to break enemy formations.   &emsp;&emsp;The Berserker has a jump skill, allowing it to leap over the front line and hit the back line. "
+"The Berserker can do 3 things: move left/right, jump, and attack. <img src=\"/img/design/gameplay/battle5.png\" "
+"alt=\"Berserker Illustration\" width=\"350px\" align=\"center\">"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:43
 msgid "狂战⼠示意"
-msgstr ""
+msgstr "Berserker Illustration"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:48
 msgid ""
@@ -141,22 +170,35 @@ msgid ""
 "src=\"/img/design/gameplay/battle6.png\" alt=\"敌⼈示意1\" width=\"200px\" "
 "align=\"center\">"
 msgstr ""
+"Enemies   &emsp;&emsp;Enemies haven't been fully designed yet. The current battle mode seems to need some small enemies, so 2 types were designed first.   "
+"&emsp;&emsp;The first is the Trash Archer, which can only shoot 1 arrow, always forward.   "
+"&emsp;&emsp;The second is the Trash Warrior, which keeps running forward until it contacts an enemy, then unleashes an attack skill. <img "
+"src=\"/img/design/gameplay/battle6.png\" alt=\"Enemy Illustration 1\" width=\"200px\" "
+"align=\"center\">"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:48
 msgid "敌⼈示意1"
-msgstr ""
+msgstr "Enemy Illustration 1"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:54
 msgid ""
 "战场调度   &emsp;&emsp;战场调度，第⼀个是上场，选择位置。这个是方案5中已经设计的。   "
 "&emsp;&emsp;具体的，应该还有什么时候上场等问题。我也没想好。   "
-"&emsp;&emsp;第⼆个是，为每个⻆⾊选择他关注的“⼀个敌⼈”或“⼀块区域”。   "
-"&emsp;&emsp;这是方案5中“⽬标优先级”的具体化。并且能和训练结合起来。   "
+"&emsp;&emsp;第⼆个是，为每个⻆⾊选择他关注的"⼀个敌⼈"或"⼀块区域"。   "
+"&emsp;&emsp;这是方案5中"⽬标优先级"的具体化。并且能和训练结合起来。   "
 "&emsp;&emsp;训练与实际战⽃不同。训练时，采⽤的是局部的战⽃场景。⽐如，训练时，打3个⼩怪，实际战⽃时，先打3个⼩怪，过会⼉⼜来3个。"
-"   &emsp;&emsp;通过为⻆⾊选择他关注的“⼀个敌⼈”或“⼀块区域”，能把训练和实际战⽃的差异连接起来。   "
-"&emsp;&emsp;现在为了简化，所以就先只关注“⼀个敌⼈”。但是只关注⼀个敌⼈，好像有些单位的训练没法做，所以就加⼊“⼀块区域”。这种区分，好像对训练的⽅式也能有启迪。"
-" （实际战⽃是，可以设置⻆⾊关注“离我最近的那个敌⼈”）"
+"   &emsp;&emsp;通过为⻆⾊选择他关注的"⼀个敌⼈"或"⼀块区域"，能把训练和实际战⽃的差异连接起来。   "
+"&emsp;&emsp;现在为了简化，所以就先只关注"⼀个敌⼈"。但是只关注⼀个敌⼈，好像有些单位的训练没法做，所以就加⼊"⼀块区域"。这种区分，好像对训练的⽅式也能有启迪。"
+" （实际战⽃是，可以设置⻆⾊关注"离我最近的那个敌⼈"）"
 msgstr ""
+"Battlefield Dispatch   &emsp;&emsp;Battlefield dispatch: the first is deployment, choosing a position. This was already designed in Plan 5.   "
+"&emsp;&emsp;Specifically, there should also be questions about when to deploy. I haven't figured this out yet.   "
+"&emsp;&emsp;The second is selecting a focus target for each character — \"one enemy\" or \"one area.\"   "
+"&emsp;&emsp;This is a concretization of \"Target Priority\" from Plan 5. And it can be combined with training.   "
+"&emsp;&emsp;Training differs from actual combat. Training uses localized battle scenarios. For example, during training you fight 3 small enemies, while in actual combat you fight 3 first, then another 3 come later."
+"   &emsp;&emsp;By selecting each character's focus on \"one enemy\" or \"one area,\" the gap between training and actual combat can be bridged.   "
+"&emsp;&emsp;For simplification now, we'll start with just focusing on \"one enemy.\" But only focusing on one enemy seems to make training some units impossible, so \"one area\" is also included. This distinction might also inspire training methods."
+" (In actual combat, you can set characters to focus on \"the nearest enemy.\")"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:63
 msgid ""
@@ -164,16 +206,18 @@ msgid ""
 "&emsp;&emsp;这个⽅案还有很多没有具体到；⽽且，相⽐方案5，没太明显地起到减少⼯作的作⽤，反⽽增加了不少⼯作；有些设计可能有些飘、没着落。"
 "   这些都可以再想办法啦。主要还是拿出来讨论⼀下。   相⽐方案5，应该还是具体了⼀些，就算没跑偏。"
 msgstr ""
+"Supplement   "
+"&emsp;&emsp;This plan still has many aspects that aren't concrete yet; moreover, compared to Plan 5, it doesn't obviously reduce work — in fact it adds quite a bit of work; some designs might be a bit airy and ungrounded."
+"   These can all be figured out later. The main purpose is to put this out for discussion.   Compared to Plan 5, it should be more concrete, even if not entirely on the right track."
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:68
 msgid "关卡1示例"
-msgstr ""
+msgstr "Level 1 Example"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:69
 msgid "玩家：狂战⼠"
-msgstr ""
+msgstr "Player: Berserker"
 
 #: ../../source/gamedoc/gameplay/game0/ideas/battle-experience5-detail.md:70
 msgid "敌⼈：垃圾战⼠"
-msgstr ""
-
+msgstr "Enemy: Trash Warrior"
